@@ -1,0 +1,75 @@
+{
+  "id": "qwen3.8-flash-next",
+  "name": "qwen3.8-flash-next",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "This experimental preview of the architecture that will underpin Qwen4.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/qwen3.8-flash-next",
+  "tags_page_url": "https://ollama.com/library/qwen3.8-flash-next/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 15,
+  "tags_count": 3,
+  "updated_at": "Aug 26, 2026 2:55 PM UTC",
+  "updated_full_date": "Aug 26, 2026 2:55 PM UTC",
+  "updated_date_key": 202608261455,
+  "is_cloud": false,
+  "default_tag": "qwen3.8-flash-next:125b-a6b-mlx-bf16",
+  "variants": [
+    {
+      "tag": "qwen3.8-flash-next:125b-a6b-mlx-bf16",
+      "name": "125b-a6b-mlx-bf16",
+      "parameter_size": "125B",
+      "quantization": "F16",
+      "size_bytes": 386547056640,
+      "size_formatted": "360GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "ae2130e55774",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3.8-flash-next:125b-a6b-nvfp4",
+      "name": "125b-a6b-nvfp4",
+      "parameter_size": "125B",
+      "quantization": "Default",
+      "size_bytes": 110595407872,
+      "size_formatted": "103GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "4d3f167b5bb1",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3.8-flash-next:125b-mlx",
+      "name": "125b-mlx",
+      "parameter_size": "125B",
+      "quantization": "Default",
+      "size_bytes": 110595407872,
+      "size_formatted": "103GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "4d3f167b5bb1",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "glm-5.3-flash",
+  "name": "glm-5.3-flash",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Z.ai's first natively multimodal model, approaching Claude Opus 4.8 on coding and agentic benchmarks with just 18B active parameters.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/glm-5.3-flash",
+  "tags_page_url": "https://ollama.com/library/glm-5.3-flash/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 0,
+  "tags_count": 1,
+  "updated_at": "Aug 26, 2026 2:00 PM UTC",
+  "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
+  "updated_date_key": 202608261400,
+  "is_cloud": true,
+  "default_tag": "glm-5.3-flash:cloud",
+  "variants": [
+    {
+      "tag": "glm-5.3-flash:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Medium Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Image",
+      "digest": "ee13009634e3",
+      "updated_at": "6 hours ago",
+      "is_cloud": true
+    }
+  ]
+}
