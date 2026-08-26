@@ -1,0 +1,102 @@
+{
+  "id": "embeddinggemma",
+  "name": "embeddinggemma",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "EmbeddingGemma is a 300M parameter embedding model from Google.",
+  "category": "Embeddings & Search",
+  "page_url": "https://ollama.com/library/embeddinggemma",
+  "tags_page_url": "https://ollama.com/library/embeddinggemma/tags",
+  "badges": [
+    "embedding",
+    "300m"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": true
+  },
+  "pulls_count": 1900000,
+  "tags_count": 5,
+  "updated_at": "Sep 9, 2025 12:17 AM UTC",
+  "updated_full_date": "Sep 9, 2025 12:17 AM UTC",
+  "updated_date_key": 202509090017,
+  "is_cloud": false,
+  "default_tag": "embeddinggemma:latest",
+  "variants": [
+    {
+      "tag": "embeddinggemma:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 652214272,
+      "size_formatted": "622MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "85462619ee72",
+      "updated_at": "11 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "embeddinggemma:300m",
+      "name": "300m",
+      "parameter_size": "300M",
+      "quantization": "Default",
+      "size_bytes": 652214272,
+      "size_formatted": "622MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "85462619ee72",
+      "updated_at": "11 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "embeddinggemma:300m-qat-q4_0",
+      "name": "300m-qat-q4_0",
+      "parameter_size": "300M",
+      "quantization": "Q4_0",
+      "size_bytes": 250609664,
+      "size_formatted": "239MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "101341d65c2c",
+      "updated_at": "11 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "embeddinggemma:300m-qat-q8_0",
+      "name": "300m-qat-q8_0",
+      "parameter_size": "300M",
+      "quantization": "Q8_0",
+      "size_bytes": 354418688,
+      "size_formatted": "338MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "e84a7acc2394",
+      "updated_at": "11 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "embeddinggemma:300m-bf16",
+      "name": "300m-bf16",
+      "parameter_size": "300M",
+      "quantization": "F16",
+      "size_bytes": 652214272,
+      "size_formatted": "622MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "85462619ee72",
+      "updated_at": "11 months ago",
+      "is_cloud": false
+    }
+  ]
+}

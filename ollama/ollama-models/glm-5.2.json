@@ -1,0 +1,47 @@
+{
+  "id": "glm-5.2",
+  "name": "glm-5.2",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "GLM-5.2 is Z.ai’s flagship model for the era of long-horizon tasks.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/glm-5.2",
+  "tags_page_url": "https://ollama.com/library/glm-5.2/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 330900,
+  "tags_count": 1,
+  "updated_at": "Jun 16, 2026 5:39 PM UTC",
+  "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
+  "updated_date_key": 202606161739,
+  "is_cloud": true,
+  "default_tag": "glm-5.2:cloud",
+  "variants": [
+    {
+      "tag": "glm-5.2:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 999424,
+      "context_formatted": "976K",
+      "input_type": "Text",
+      "digest": "ce8fd6f94793",
+      "updated_at": "2 months ago",
+      "is_cloud": true
+    }
+  ]
+}

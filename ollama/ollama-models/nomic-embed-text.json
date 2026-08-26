@@ -1,0 +1,73 @@
+{
+  "id": "nomic-embed-text",
+  "name": "nomic-embed-text",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "A high-performing open embedding model with a large token context window.",
+  "category": "Embeddings & Search",
+  "page_url": "https://ollama.com/library/nomic-embed-text",
+  "tags_page_url": "https://ollama.com/library/nomic-embed-text/tags",
+  "badges": [
+    "embedding"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": true
+  },
+  "pulls_count": 83500000,
+  "tags_count": 3,
+  "updated_at": "Feb 21, 2024 5:26 PM UTC",
+  "updated_full_date": "Feb 21, 2024 5:26 PM UTC",
+  "updated_date_key": 202402211726,
+  "is_cloud": false,
+  "default_tag": "nomic-embed-text:latest",
+  "variants": [
+    {
+      "tag": "nomic-embed-text:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 287309824,
+      "size_formatted": "274MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "0a109f422b47",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nomic-embed-text:v1.5",
+      "name": "v1.5",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 287309824,
+      "size_formatted": "274MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "0a109f422b47",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nomic-embed-text:137m-v1.5-fp16",
+      "name": "137m-v1.5-fp16",
+      "parameter_size": "137M",
+      "quantization": "FP16",
+      "size_bytes": 287309824,
+      "size_formatted": "274MB",
+      "context_length": 2048,
+      "context_formatted": "2K",
+      "input_type": "Text",
+      "digest": "0a109f422b47",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    }
+  ]
+}

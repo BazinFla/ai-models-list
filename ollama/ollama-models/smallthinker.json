@@ -1,0 +1,101 @@
+{
+  "id": "smallthinker",
+  "name": "smallthinker",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/smallthinker",
+  "tags_page_url": "https://ollama.com/library/smallthinker/tags",
+  "badges": [
+    "3b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 256700,
+  "tags_count": 5,
+  "updated_at": "Dec 30, 2024 9:33 PM UTC",
+  "updated_full_date": "Dec 30, 2024 9:33 PM UTC",
+  "updated_date_key": 202412302133,
+  "is_cloud": false,
+  "default_tag": "smallthinker:latest",
+  "variants": [
+    {
+      "tag": "smallthinker:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Text",
+      "digest": "945eb1864589",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "smallthinker:3b",
+      "name": "3b",
+      "parameter_size": "3B",
+      "quantization": "Default",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Text",
+      "digest": "945eb1864589",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "smallthinker:3b-preview-q4_K_M",
+      "name": "3b-preview-q4_K_M",
+      "parameter_size": "3B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 2254857830,
+      "size_formatted": "2.1GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Text",
+      "digest": "b136f0e0ef96",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "smallthinker:3b-preview-q8_0",
+      "name": "3b-preview-q8_0",
+      "parameter_size": "3B",
+      "quantization": "Q8_0",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Text",
+      "digest": "945eb1864589",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "smallthinker:3b-preview-fp16",
+      "name": "3b-preview-fp16",
+      "parameter_size": "3B",
+      "quantization": "FP16",
+      "size_bytes": 7301444403,
+      "size_formatted": "6.8GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Text",
+      "digest": "71cf19d4f87a",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "lfm2.5",
+  "name": "lfm2.5",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "LFM2.5-8B-A1B, an edge model built for fast, reliable tool calling on consumer hardware.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/lfm2.5",
+  "tags_page_url": "https://ollama.com/library/lfm2.5/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "8b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 127200,
+  "tags_count": 5,
+  "updated_at": "May 31, 2026 4:16 AM UTC",
+  "updated_full_date": "May 31, 2026 4:16 AM UTC",
+  "updated_date_key": 202605310416,
+  "is_cloud": false,
+  "default_tag": "lfm2.5:latest",
+  "variants": [
+    {
+      "tag": "lfm2.5:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 5583457484,
+      "size_formatted": "5.2GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "9cf756159fc2",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5:8b",
+      "name": "8b",
+      "parameter_size": "8B",
+      "quantization": "Default",
+      "size_bytes": 5583457484,
+      "size_formatted": "5.2GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "9cf756159fc2",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5:8b-a1b-q4_K_M",
+      "name": "8b-a1b-q4_K_M",
+      "parameter_size": "8B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 5583457484,
+      "size_formatted": "5.2GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "9cf756159fc2",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5:8b-a1b-q8_0",
+      "name": "8b-a1b-q8_0",
+      "parameter_size": "8B",
+      "quantization": "Q8_0",
+      "size_bytes": 9663676416,
+      "size_formatted": "9.0GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "4fa3787050ca",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5:8b-a1b-bf16",
+      "name": "8b-a1b-bf16",
+      "parameter_size": "8B",
+      "quantization": "F16",
+      "size_bytes": 18253611008,
+      "size_formatted": "17GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "c6d60dd0c9c3",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    }
+  ]
+}

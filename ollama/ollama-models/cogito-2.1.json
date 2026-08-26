@@ -1,0 +1,101 @@
+{
+  "id": "cogito-2.1",
+  "name": "cogito-2.1",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/cogito-2.1",
+  "tags_page_url": "https://ollama.com/library/cogito-2.1/tags",
+  "badges": [
+    "671b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 221300,
+  "tags_count": 5,
+  "updated_at": "Nov 19, 2025 6:22 PM UTC",
+  "updated_full_date": "Nov 19, 2025 6:22 PM UTC",
+  "updated_date_key": 202511191822,
+  "is_cloud": false,
+  "default_tag": "cogito-2.1:latest",
+  "variants": [
+    {
+      "tag": "cogito-2.1:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 1429365116108,
+      "size_formatted": "1.3TB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "743a587e4577",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "cogito-2.1:671b",
+      "name": "671b",
+      "parameter_size": "671B",
+      "quantization": "Default",
+      "size_bytes": 1429365116108,
+      "size_formatted": "1.3TB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "743a587e4577",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "cogito-2.1:671b-q4_K_M",
+      "name": "671b-q4_K_M",
+      "parameter_size": "671B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 433791696896,
+      "size_formatted": "404GB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "13e83c49b705",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "cogito-2.1:671b-q8_0",
+      "name": "671b-q8_0",
+      "parameter_size": "671B",
+      "quantization": "Q8_0",
+      "size_bytes": 765577920512,
+      "size_formatted": "713GB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "958631d5989d",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "cogito-2.1:671b-fp16",
+      "name": "671b-fp16",
+      "parameter_size": "671B",
+      "quantization": "FP16",
+      "size_bytes": 1429365116108,
+      "size_formatted": "1.3TB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "743a587e4577",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    }
+  ]
+}

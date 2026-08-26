@@ -1,0 +1,38 @@
+name: Sync Models Catalog
+
+on:
+  schedule:
+    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  sync-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Scraper
+        run: |
+          python3 scraper.py --deep --workers 16 --output-dir ollama
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "BazinFla"
+          git config user.email "96689254+BazinFla@users.noreply.github.com"
+          git add ollama/
+          if git diff --staged --quiet; then
+            echo "No changes detected. Catalog is up to date."
+          else
+            git commit -m "chore: sync models catalog [skip ci]"
+            git push
+          fi

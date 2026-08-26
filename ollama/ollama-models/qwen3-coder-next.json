@@ -1,0 +1,73 @@
+{
+  "id": "qwen3-coder-next",
+  "name": "qwen3-coder-next",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Qwen3-Coder-Next is a coding-focused language model from Alibaba's Qwen team, optimized for agentic coding workflows and local development.",
+  "category": "Code & Programming",
+  "page_url": "https://ollama.com/library/qwen3-coder-next",
+  "tags_page_url": "https://ollama.com/library/qwen3-coder-next/tags",
+  "badges": [
+    "tools"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": true,
+    "embedding": false
+  },
+  "pulls_count": 2000000,
+  "tags_count": 3,
+  "updated_at": "Feb 4, 2026 7:46 AM UTC",
+  "updated_full_date": "Feb 4, 2026 7:46 AM UTC",
+  "updated_date_key": 202602040746,
+  "is_cloud": false,
+  "default_tag": "qwen3-coder-next:latest",
+  "variants": [
+    {
+      "tag": "qwen3-coder-next:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 55834574848,
+      "size_formatted": "52GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "ca06e9e4087c",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3-coder-next:q4_K_M",
+      "name": "q4_K_M",
+      "parameter_size": "",
+      "quantization": "Q4_K_M",
+      "size_bytes": 55834574848,
+      "size_formatted": "52GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "ca06e9e4087c",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3-coder-next:q8_0",
+      "name": "q8_0",
+      "parameter_size": "",
+      "quantization": "Q8_0",
+      "size_bytes": 91268055040,
+      "size_formatted": "85GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "3f68e12b44ee",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "nomic-embed-text-v2-moe",
+  "name": "nomic-embed-text-v2-moe",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.",
+  "category": "Embeddings & Search",
+  "page_url": "https://ollama.com/library/nomic-embed-text-v2-moe",
+  "tags_page_url": "https://ollama.com/library/nomic-embed-text-v2-moe/tags",
+  "badges": [
+    "embedding"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": true
+  },
+  "pulls_count": 794900,
+  "tags_count": 1,
+  "updated_at": "Dec 10, 2025 10:09 PM UTC",
+  "updated_full_date": "Dec 10, 2025 10:09 PM UTC",
+  "updated_date_key": 202512102209,
+  "is_cloud": false,
+  "default_tag": "nomic-embed-text-v2-moe:latest",
+  "variants": [
+    {
+      "tag": "nomic-embed-text-v2-moe:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 1004535808,
+      "size_formatted": "958MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "ff9c2f10ef5e",
+      "updated_at": "8 months ago",
+      "is_cloud": false
+    }
+  ]
+}

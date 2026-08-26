@@ -1,0 +1,103 @@
+{
+  "id": "granite3.2-vision",
+  "name": "granite3.2-vision",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "A compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more.",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/granite3.2-vision",
+  "tags_page_url": "https://ollama.com/library/granite3.2-vision/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "2b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 980700,
+  "tags_count": 5,
+  "updated_at": "Feb 27, 2025 7:26 PM UTC",
+  "updated_full_date": "Feb 27, 2025 7:26 PM UTC",
+  "updated_date_key": 202502271926,
+  "is_cloud": false,
+  "default_tag": "granite3.2-vision:latest",
+  "variants": [
+    {
+      "tag": "granite3.2-vision:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 2576980377,
+      "size_formatted": "2.4GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Image",
+      "digest": "3be41a661804",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "granite3.2-vision:2b",
+      "name": "2b",
+      "parameter_size": "2B",
+      "quantization": "Default",
+      "size_bytes": 2576980377,
+      "size_formatted": "2.4GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Image",
+      "digest": "3be41a661804",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "granite3.2-vision:2b-q4_K_M",
+      "name": "2b-q4_K_M",
+      "parameter_size": "2B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 2576980377,
+      "size_formatted": "2.4GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Image",
+      "digest": "3be41a661804",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "granite3.2-vision:2b-q8_0",
+      "name": "2b-q8_0",
+      "parameter_size": "2B",
+      "quantization": "Q8_0",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Image",
+      "digest": "9b6204ce60f6",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "granite3.2-vision:2b-fp16",
+      "name": "2b-fp16",
+      "parameter_size": "2B",
+      "quantization": "FP16",
+      "size_bytes": 6442450944,
+      "size_formatted": "6.0GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Image",
+      "digest": "17ca6aa97bd9",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

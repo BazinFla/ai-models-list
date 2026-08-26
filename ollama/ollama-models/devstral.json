@@ -1,0 +1,102 @@
+{
+  "id": "devstral",
+  "name": "devstral",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Devstral: the best open source model for coding agents",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/devstral",
+  "tags_page_url": "https://ollama.com/library/devstral/tags",
+  "badges": [
+    "tools",
+    "24b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 1000000,
+  "tags_count": 5,
+  "updated_at": "Jul 4, 2025 6:29 PM UTC",
+  "updated_full_date": "Jul 4, 2025 6:29 PM UTC",
+  "updated_date_key": 202507041829,
+  "is_cloud": false,
+  "default_tag": "devstral:latest",
+  "variants": [
+    {
+      "tag": "devstral:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 15032385536,
+      "size_formatted": "14GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "9bd74193e939",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral:24b",
+      "name": "24b",
+      "parameter_size": "24B",
+      "quantization": "Default",
+      "size_bytes": 15032385536,
+      "size_formatted": "14GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "9bd74193e939",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral:24b-small-2505-q4_K_M",
+      "name": "24b-small-2505-q4_K_M",
+      "parameter_size": "24B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 15032385536,
+      "size_formatted": "14GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "9bd74193e939",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral:24b-small-2505-q8_0",
+      "name": "24b-small-2505-q8_0",
+      "parameter_size": "24B",
+      "quantization": "Q8_0",
+      "size_bytes": 26843545600,
+      "size_formatted": "25GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "25a16f448fb3",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral:24b-small-2505-fp16",
+      "name": "24b-small-2505-fp16",
+      "parameter_size": "24B",
+      "quantization": "FP16",
+      "size_bytes": 50465865728,
+      "size_formatted": "47GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "d1e6469472dc",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

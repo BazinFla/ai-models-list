@@ -1,0 +1,103 @@
+{
+  "id": "lfm2.5-thinking",
+  "name": "lfm2.5-thinking",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "LFM2.5 is a new family of hybrid models designed for on-device deployment.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/lfm2.5-thinking",
+  "tags_page_url": "https://ollama.com/library/lfm2.5-thinking/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "1.2b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 1300000,
+  "tags_count": 5,
+  "updated_at": "Jan 20, 2026 12:41 PM UTC",
+  "updated_full_date": "Jan 20, 2026 12:41 PM UTC",
+  "updated_date_key": 202601201241,
+  "is_cloud": false,
+  "default_tag": "lfm2.5-thinking:latest",
+  "variants": [
+    {
+      "tag": "lfm2.5-thinking:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 766509056,
+      "size_formatted": "731MB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "95bd9d45385f",
+      "updated_at": "7 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5-thinking:1.2b",
+      "name": "1.2b",
+      "parameter_size": "1.2B",
+      "quantization": "Default",
+      "size_bytes": 766509056,
+      "size_formatted": "731MB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "95bd9d45385f",
+      "updated_at": "7 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5-thinking:1.2b-q4_K_M",
+      "name": "1.2b-q4_K_M",
+      "parameter_size": "1.2B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 766509056,
+      "size_formatted": "731MB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "95bd9d45385f",
+      "updated_at": "7 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5-thinking:1.2b-q8_0",
+      "name": "1.2b-q8_0",
+      "parameter_size": "1.2B",
+      "quantization": "Q8_0",
+      "size_bytes": 1288490188,
+      "size_formatted": "1.2GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "10cad872d371",
+      "updated_at": "7 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "lfm2.5-thinking:1.2b-bf16",
+      "name": "1.2b-bf16",
+      "parameter_size": "1.2B",
+      "quantization": "F16",
+      "size_bytes": 2469606195,
+      "size_formatted": "2.3GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Text",
+      "digest": "7a6bd9bb72a7",
+      "updated_at": "7 months ago",
+      "is_cloud": false
+    }
+  ]
+}

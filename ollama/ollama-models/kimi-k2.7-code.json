@@ -1,0 +1,48 @@
+{
+  "id": "kimi-k2.7-code",
+  "name": "kimi-k2.7-code",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Kimi K2.7 Code is Moonshot AI's coding-focused agentic model built upon Kimi K2.6, with substantial improvements on real-world long-horizon coding tasks and roughly 30% lower thinking-token usage.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/kimi-k2.7-code",
+  "tags_page_url": "https://ollama.com/library/kimi-k2.7-code/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 224800,
+  "tags_count": 1,
+  "updated_at": "Jun 13, 2026 12:26 AM UTC",
+  "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
+  "updated_date_key": 202606130026,
+  "is_cloud": true,
+  "default_tag": "kimi-k2.7-code:cloud",
+  "variants": [
+    {
+      "tag": "kimi-k2.7-code:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "eda07a659237",
+      "updated_at": "2 months ago",
+      "is_cloud": true
+    }
+  ]
+}

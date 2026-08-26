@@ -1,0 +1,76 @@
+{
+  "id": "ornith-1.5",
+  "name": "ornith-1.5",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement.",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/ornith-1.5",
+  "tags_page_url": "https://ollama.com/library/ornith-1.5/tags",
+  "badges": [
+    "vision",
+    "9b",
+    "35b",
+    "397b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 41900,
+  "tags_count": 3,
+  "updated_at": "Aug 19, 2026 6:06 PM UTC",
+  "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
+  "updated_date_key": 202608191806,
+  "is_cloud": false,
+  "default_tag": "ornith-1.5:9b",
+  "variants": [
+    {
+      "tag": "ornith-1.5:9b",
+      "name": "9b",
+      "parameter_size": "9B",
+      "quantization": "Default",
+      "size_bytes": 7086696038,
+      "size_formatted": "6.6GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "e5df7dcdd8a2",
+      "updated_at": "6 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "ornith-1.5:35b",
+      "name": "35b",
+      "parameter_size": "35B",
+      "quantization": "Default",
+      "size_bytes": 24696061952,
+      "size_formatted": "23GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "9f3b89b25219",
+      "updated_at": "6 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "ornith-1.5:397b",
+      "name": "397b",
+      "parameter_size": "397B",
+      "quantization": "Default",
+      "size_bytes": 259845521408,
+      "size_formatted": "242GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "337c6db6be12",
+      "updated_at": "6 days ago",
+      "is_cloud": false
+    }
+  ]
+}

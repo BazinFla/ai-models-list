@@ -1,0 +1,74 @@
+{
+  "id": "paraphrase-multilingual",
+  "name": "paraphrase-multilingual",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Sentence-transformers model that can be used for tasks like clustering or semantic search.",
+  "category": "Embeddings & Search",
+  "page_url": "https://ollama.com/library/paraphrase-multilingual",
+  "tags_page_url": "https://ollama.com/library/paraphrase-multilingual/tags",
+  "badges": [
+    "embedding",
+    "278m"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": true
+  },
+  "pulls_count": 937200,
+  "tags_count": 3,
+  "updated_at": "Aug 7, 2024 12:05 AM UTC",
+  "updated_full_date": "Aug 7, 2024 12:05 AM UTC",
+  "updated_date_key": 202408070005,
+  "is_cloud": false,
+  "default_tag": "paraphrase-multilingual:latest",
+  "variants": [
+    {
+      "tag": "paraphrase-multilingual:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 590348288,
+      "size_formatted": "563MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "ba13c2e06707",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "paraphrase-multilingual:278m",
+      "name": "278m",
+      "parameter_size": "278M",
+      "quantization": "Default",
+      "size_bytes": 590348288,
+      "size_formatted": "563MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "ba13c2e06707",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "paraphrase-multilingual:278m-mpnet-base-v2-fp16",
+      "name": "278m-mpnet-base-v2-fp16",
+      "parameter_size": "278M",
+      "quantization": "FP16",
+      "size_bytes": 590348288,
+      "size_formatted": "563MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "ba13c2e06707",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    }
+  ]
+}

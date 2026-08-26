@@ -1,0 +1,76 @@
+{
+  "id": "gpt-oss-safeguard",
+  "name": "gpt-oss-safeguard",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "gpt-oss-safeguard-20b and gpt-oss-safeguard-120b are safety reasoning models built-upon gpt-oss",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/gpt-oss-safeguard",
+  "tags_page_url": "https://ollama.com/library/gpt-oss-safeguard/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "20b",
+    "120b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 152900,
+  "tags_count": 3,
+  "updated_at": "Oct 29, 2025 2:04 AM UTC",
+  "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
+  "updated_date_key": 202510290204,
+  "is_cloud": false,
+  "default_tag": "gpt-oss-safeguard:latest",
+  "variants": [
+    {
+      "tag": "gpt-oss-safeguard:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 15032385536,
+      "size_formatted": "14GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "f2e795d0099c",
+      "updated_at": "10 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "gpt-oss-safeguard:20b",
+      "name": "20b",
+      "parameter_size": "20B",
+      "quantization": "Default",
+      "size_bytes": 15032385536,
+      "size_formatted": "14GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "f2e795d0099c",
+      "updated_at": "10 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "gpt-oss-safeguard:120b",
+      "name": "120b",
+      "parameter_size": "120B",
+      "quantization": "Default",
+      "size_bytes": 69793218560,
+      "size_formatted": "65GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "45be44f7918a",
+      "updated_at": "10 months ago",
+      "is_cloud": false
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "llava-phi3",
+  "name": "llava-phi3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/llava-phi3",
+  "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
+  "badges": [
+    "vision",
+    "3.8b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 308700,
+  "tags_count": 4,
+  "updated_at": "May 7, 2024 9:20 PM UTC",
+  "updated_full_date": "May 7, 2024 9:20 PM UTC",
+  "updated_date_key": 202405072120,
+  "is_cloud": false,
+  "default_tag": "llava-phi3:latest",
+  "variants": [
+    {
+      "tag": "llava-phi3:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 3113851289,
+      "size_formatted": "2.9GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Image",
+      "digest": "c7edd7b87593",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "llava-phi3:3.8b",
+      "name": "3.8b",
+      "parameter_size": "3.8B",
+      "quantization": "Default",
+      "size_bytes": 3113851289,
+      "size_formatted": "2.9GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Image",
+      "digest": "c7edd7b87593",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "llava-phi3:3.8b-mini-q4_0",
+      "name": "3.8b-mini-q4_0",
+      "parameter_size": "3.8B",
+      "quantization": "Q4_0",
+      "size_bytes": 3113851289,
+      "size_formatted": "2.9GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Image",
+      "digest": "c7edd7b87593",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "llava-phi3:3.8b-mini-fp16",
+      "name": "3.8b-mini-fp16",
+      "parameter_size": "3.8B",
+      "quantization": "FP16",
+      "size_bytes": 8912057139,
+      "size_formatted": "8.3GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Image",
+      "digest": "39ed50ad5b22",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    }
+  ]
+}

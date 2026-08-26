@@ -1,0 +1,75 @@
+{
+  "id": "nemotron-cascade-2",
+  "name": "nemotron-cascade-2",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "An open 30B MoE model from NVIDIA with 3B activated parameters that delivers strong reasoning and agentic capabilities.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/nemotron-cascade-2",
+  "tags_page_url": "https://ollama.com/library/nemotron-cascade-2/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "30b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 143800,
+  "tags_count": 3,
+  "updated_at": "Mar 20, 2026 8:10 PM UTC",
+  "updated_full_date": "Mar 20, 2026 8:10 PM UTC",
+  "updated_date_key": 202603202010,
+  "is_cloud": false,
+  "default_tag": "nemotron-cascade-2:latest",
+  "variants": [
+    {
+      "tag": "nemotron-cascade-2:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 25769803776,
+      "size_formatted": "24GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "e0705e3fe8f7",
+      "updated_at": "5 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron-cascade-2:30b",
+      "name": "30b",
+      "parameter_size": "30B",
+      "quantization": "Default",
+      "size_bytes": 25769803776,
+      "size_formatted": "24GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "e0705e3fe8f7",
+      "updated_at": "5 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron-cascade-2:30b-a3b-q4_K_M",
+      "name": "30b-a3b-q4_K_M",
+      "parameter_size": "30B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 25769803776,
+      "size_formatted": "24GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "e0705e3fe8f7",
+      "updated_at": "5 months ago",
+      "is_cloud": false
+    }
+  ]
+}

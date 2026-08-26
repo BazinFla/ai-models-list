@@ -1,0 +1,101 @@
+{
+  "id": "phi4-mini-reasoning",
+  "name": "phi4-mini-reasoning",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/phi4-mini-reasoning",
+  "tags_page_url": "https://ollama.com/library/phi4-mini-reasoning/tags",
+  "badges": [
+    "3.8b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 306100,
+  "tags_count": 5,
+  "updated_at": "May 1, 2025 3:53 AM UTC",
+  "updated_full_date": "May 1, 2025 3:53 AM UTC",
+  "updated_date_key": 202505010353,
+  "is_cloud": false,
+  "default_tag": "phi4-mini-reasoning:latest",
+  "variants": [
+    {
+      "tag": "phi4-mini-reasoning:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 3435973836,
+      "size_formatted": "3.2GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "3ca8c2865ce9",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4-mini-reasoning:3.8b",
+      "name": "3.8b",
+      "parameter_size": "3.8B",
+      "quantization": "Default",
+      "size_bytes": 3435973836,
+      "size_formatted": "3.2GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "3ca8c2865ce9",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4-mini-reasoning:3.8b-q4_K_M",
+      "name": "3.8b-q4_K_M",
+      "parameter_size": "3.8B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 3435973836,
+      "size_formatted": "3.2GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "3ca8c2865ce9",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4-mini-reasoning:3.8b-q8_0",
+      "name": "3.8b-q8_0",
+      "parameter_size": "3.8B",
+      "quantization": "Q8_0",
+      "size_bytes": 4939212390,
+      "size_formatted": "4.6GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Text",
+      "digest": "e3fffa9f7d91",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4-mini-reasoning:3.8b-fp16",
+      "name": "3.8b-fp16",
+      "parameter_size": "3.8B",
+      "quantization": "FP16",
+      "size_bytes": 8267812044,
+      "size_formatted": "7.7GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Text",
+      "digest": "591788476176",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

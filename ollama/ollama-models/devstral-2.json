@@ -1,0 +1,102 @@
+{
+  "id": "devstral-2",
+  "name": "devstral-2",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "123B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/devstral-2",
+  "tags_page_url": "https://ollama.com/library/devstral-2/tags",
+  "badges": [
+    "tools",
+    "123b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 352900,
+  "tags_count": 5,
+  "updated_at": "Dec 12, 2025 1:21 AM UTC",
+  "updated_full_date": "Dec 12, 2025 1:21 AM UTC",
+  "updated_date_key": 202512120121,
+  "is_cloud": false,
+  "default_tag": "devstral-2:latest",
+  "variants": [
+    {
+      "tag": "devstral-2:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 80530636800,
+      "size_formatted": "75GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "524a6607f0f5",
+      "updated_at": "8 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral-2:123b",
+      "name": "123b",
+      "parameter_size": "123B",
+      "quantization": "Default",
+      "size_bytes": 80530636800,
+      "size_formatted": "75GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "524a6607f0f5",
+      "updated_at": "8 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral-2:123b-instruct-2512-q4_K_M",
+      "name": "123b-instruct-2512-q4_K_M",
+      "parameter_size": "123B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 80530636800,
+      "size_formatted": "75GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "524a6607f0f5",
+      "updated_at": "8 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral-2:123b-instruct-2512-q8_0",
+      "name": "123b-instruct-2512-q8_0",
+      "parameter_size": "123B",
+      "quantization": "Q8_0",
+      "size_bytes": 142807662592,
+      "size_formatted": "133GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "c96ca457e286",
+      "updated_at": "8 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "devstral-2:123b-instruct-2512-fp16",
+      "name": "123b-instruct-2512-fp16",
+      "parameter_size": "123B",
+      "quantization": "FP16",
+      "size_bytes": 268435456000,
+      "size_formatted": "250GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "cf00a0f4d980",
+      "updated_at": "8 months ago",
+      "is_cloud": false
+    }
+  ]
+}

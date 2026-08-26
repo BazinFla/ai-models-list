@@ -1,0 +1,48 @@
+{
+  "id": "kimi-k3",
+  "name": "kimi-k3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/kimi-k3",
+  "tags_page_url": "https://ollama.com/library/kimi-k3/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 56700,
+  "tags_count": 1,
+  "updated_at": "Jul 27, 2026 3:53 PM UTC",
+  "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
+  "updated_date_key": 202607271553,
+  "is_cloud": true,
+  "default_tag": "kimi-k3:cloud",
+  "variants": [
+    {
+      "tag": "kimi-k3:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Image",
+      "digest": "a399e41d21c0",
+      "updated_at": "4 weeks ago",
+      "is_cloud": true
+    }
+  ]
+}

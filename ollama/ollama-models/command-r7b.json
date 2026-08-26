@@ -1,0 +1,102 @@
+{
+  "id": "command-r7b",
+  "name": "command-r7b",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "The smallest model in Cohere's R series delivers top-tier speed, efficiency, and quality to build powerful AI applications on commodity GPUs and edge devices.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/command-r7b",
+  "tags_page_url": "https://ollama.com/library/command-r7b/tags",
+  "badges": [
+    "tools",
+    "7b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 313400,
+  "tags_count": 5,
+  "updated_at": "Jan 16, 2025 10:27 PM UTC",
+  "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
+  "updated_date_key": 202501162227,
+  "is_cloud": false,
+  "default_tag": "command-r7b:latest",
+  "variants": [
+    {
+      "tag": "command-r7b:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 5476083302,
+      "size_formatted": "5.1GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "ff4e9696ef9f",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "command-r7b:7b",
+      "name": "7b",
+      "parameter_size": "7B",
+      "quantization": "Default",
+      "size_bytes": 5476083302,
+      "size_formatted": "5.1GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "ff4e9696ef9f",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "command-r7b:7b-12-2024-q4_K_M",
+      "name": "7b-12-2024-q4_K_M",
+      "parameter_size": "7B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 5476083302,
+      "size_formatted": "5.1GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "ff4e9696ef9f",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "command-r7b:7b-12-2024-q8_0",
+      "name": "7b-12-2024-q8_0",
+      "parameter_size": "7B",
+      "quantization": "Q8_0",
+      "size_bytes": 9126805504,
+      "size_formatted": "8.5GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "aa0fb3e0b28b",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "command-r7b:7b-12-2024-fp16",
+      "name": "7b-12-2024-fp16",
+      "parameter_size": "7B",
+      "quantization": "FP16",
+      "size_bytes": 17179869184,
+      "size_formatted": "16GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "3a3e860e0901",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

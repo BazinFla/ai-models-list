@@ -1,0 +1,47 @@
+{
+  "id": "nemotron-3-ultra",
+  "name": "nemotron-3-ultra",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/nemotron-3-ultra",
+  "tags_page_url": "https://ollama.com/library/nemotron-3-ultra/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 59200,
+  "tags_count": 1,
+  "updated_at": "Jun 4, 2026 12:00 AM UTC",
+  "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
+  "updated_date_key": 202606040000,
+  "is_cloud": true,
+  "default_tag": "nemotron-3-ultra:cloud",
+  "variants": [
+    {
+      "tag": "nemotron-3-ultra:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "802a2bec181a",
+      "updated_at": "2 months ago",
+      "is_cloud": true
+    }
+  ]
+}

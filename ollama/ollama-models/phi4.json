@@ -1,0 +1,101 @@
+{
+  "id": "phi4",
+  "name": "phi4",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/phi4",
+  "tags_page_url": "https://ollama.com/library/phi4/tags",
+  "badges": [
+    "14b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 7700000,
+  "tags_count": 5,
+  "updated_at": "Jan 8, 2025 6:08 PM UTC",
+  "updated_full_date": "Jan 8, 2025 6:08 PM UTC",
+  "updated_date_key": 202501081808,
+  "is_cloud": false,
+  "default_tag": "phi4:latest",
+  "variants": [
+    {
+      "tag": "phi4:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 9771050598,
+      "size_formatted": "9.1GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Text",
+      "digest": "ac896e5b8b34",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4:14b",
+      "name": "14b",
+      "parameter_size": "14B",
+      "quantization": "Default",
+      "size_bytes": 9771050598,
+      "size_formatted": "9.1GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Text",
+      "digest": "ac896e5b8b34",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4:14b-q4_K_M",
+      "name": "14b-q4_K_M",
+      "parameter_size": "14B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 9771050598,
+      "size_formatted": "9.1GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Text",
+      "digest": "ac896e5b8b34",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4:14b-q8_0",
+      "name": "14b-q8_0",
+      "parameter_size": "14B",
+      "quantization": "Q8_0",
+      "size_bytes": 17179869184,
+      "size_formatted": "16GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Text",
+      "digest": "310d366232f4",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "phi4:14b-fp16",
+      "name": "14b-fp16",
+      "parameter_size": "14B",
+      "quantization": "FP16",
+      "size_bytes": 31138512896,
+      "size_formatted": "29GB",
+      "context_length": 16384,
+      "context_formatted": "16K",
+      "input_type": "Text",
+      "digest": "227695f919b5",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

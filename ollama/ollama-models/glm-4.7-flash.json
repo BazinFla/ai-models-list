@@ -1,0 +1,88 @@
+{
+  "id": "glm-4.7-flash",
+  "name": "glm-4.7-flash",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/glm-4.7-flash",
+  "tags_page_url": "https://ollama.com/library/glm-4.7-flash/tags",
+  "badges": [
+    "tools",
+    "thinking"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 1500000,
+  "tags_count": 4,
+  "updated_at": "Jun 5, 2026 4:16 PM UTC",
+  "updated_full_date": "Jun 5, 2026 4:16 PM UTC",
+  "updated_date_key": 202606051616,
+  "is_cloud": false,
+  "default_tag": "glm-4.7-flash:latest",
+  "variants": [
+    {
+      "tag": "glm-4.7-flash:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 20401094656,
+      "size_formatted": "19GB",
+      "context_length": 202752,
+      "context_formatted": "198K",
+      "input_type": "Text",
+      "digest": "4475827791a2",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "glm-4.7-flash:q4_K_M",
+      "name": "q4_K_M",
+      "parameter_size": "",
+      "quantization": "Q4_K_M",
+      "size_bytes": 20401094656,
+      "size_formatted": "19GB",
+      "context_length": 202752,
+      "context_formatted": "198K",
+      "input_type": "Text",
+      "digest": "4475827791a2",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "glm-4.7-flash:q8_0",
+      "name": "q8_0",
+      "parameter_size": "",
+      "quantization": "Q8_0",
+      "size_bytes": 34359738368,
+      "size_formatted": "32GB",
+      "context_length": 202752,
+      "context_formatted": "198K",
+      "input_type": "Text",
+      "digest": "4420340fd319",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "glm-4.7-flash:bf16",
+      "name": "bf16",
+      "parameter_size": "",
+      "quantization": "F16",
+      "size_bytes": 64424509440,
+      "size_formatted": "60GB",
+      "context_length": 202752,
+      "context_formatted": "198K",
+      "input_type": "Text",
+      "digest": "b0f42cc1a612",
+      "updated_at": "2 months ago",
+      "is_cloud": false
+    }
+  ]
+}

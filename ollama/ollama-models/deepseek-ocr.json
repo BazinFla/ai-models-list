@@ -1,0 +1,74 @@
+{
+  "id": "deepseek-ocr",
+  "name": "deepseek-ocr",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/deepseek-ocr",
+  "tags_page_url": "https://ollama.com/library/deepseek-ocr/tags",
+  "badges": [
+    "vision",
+    "3b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 520400,
+  "tags_count": 3,
+  "updated_at": "Nov 19, 2025 8:26 PM UTC",
+  "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
+  "updated_date_key": 202511192026,
+  "is_cloud": false,
+  "default_tag": "deepseek-ocr:latest",
+  "variants": [
+    {
+      "tag": "deepseek-ocr:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 7194070220,
+      "size_formatted": "6.7GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Image",
+      "digest": "0e7b018b8a22",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepseek-ocr:3b",
+      "name": "3b",
+      "parameter_size": "3B",
+      "quantization": "Default",
+      "size_bytes": 7194070220,
+      "size_formatted": "6.7GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Image",
+      "digest": "0e7b018b8a22",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepseek-ocr:3b-bf16",
+      "name": "3b-bf16",
+      "parameter_size": "3B",
+      "quantization": "F16",
+      "size_bytes": 7194070220,
+      "size_formatted": "6.7GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Image",
+      "digest": "0e7b018b8a22",
+      "updated_at": "9 months ago",
+      "is_cloud": false
+    }
+  ]
+}

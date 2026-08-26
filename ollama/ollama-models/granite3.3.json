@@ -1,0 +1,75 @@
+{
+  "id": "granite3.3",
+  "name": "granite3.3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/granite3.3",
+  "tags_page_url": "https://ollama.com/library/granite3.3/tags",
+  "badges": [
+    "tools",
+    "2b",
+    "8b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 1100000,
+  "tags_count": 3,
+  "updated_at": "Apr 16, 2025 2:49 PM UTC",
+  "updated_full_date": "Apr 16, 2025 2:49 PM UTC",
+  "updated_date_key": 202504161449,
+  "is_cloud": false,
+  "default_tag": "granite3.3:latest",
+  "variants": [
+    {
+      "tag": "granite3.3:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 5261334937,
+      "size_formatted": "4.9GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "fd429f23b909",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "granite3.3:2b",
+      "name": "2b",
+      "parameter_size": "2B",
+      "quantization": "Default",
+      "size_bytes": 1610612736,
+      "size_formatted": "1.5GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "07bd1f170855",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "granite3.3:8b",
+      "name": "8b",
+      "parameter_size": "8B",
+      "quantization": "Default",
+      "size_bytes": 5261334937,
+      "size_formatted": "4.9GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "fd429f23b909",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

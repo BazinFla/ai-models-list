@@ -1,0 +1,74 @@
+{
+  "id": "bge-large",
+  "name": "bge-large",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Embedding model from BAAI mapping texts to vectors.",
+  "category": "Embeddings & Search",
+  "page_url": "https://ollama.com/library/bge-large",
+  "tags_page_url": "https://ollama.com/library/bge-large/tags",
+  "badges": [
+    "embedding",
+    "335m"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": true
+  },
+  "pulls_count": 281700,
+  "tags_count": 3,
+  "updated_at": "Aug 7, 2024 12:04 AM UTC",
+  "updated_full_date": "Aug 7, 2024 12:04 AM UTC",
+  "updated_date_key": 202408070004,
+  "is_cloud": false,
+  "default_tag": "bge-large:latest",
+  "variants": [
+    {
+      "tag": "bge-large:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 703594496,
+      "size_formatted": "671MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "b3d71c928059",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "bge-large:335m",
+      "name": "335m",
+      "parameter_size": "335M",
+      "quantization": "Default",
+      "size_bytes": 703594496,
+      "size_formatted": "671MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "b3d71c928059",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "bge-large:335m-en-v1.5-fp16",
+      "name": "335m-en-v1.5-fp16",
+      "parameter_size": "335M",
+      "quantization": "FP16",
+      "size_bytes": 703594496,
+      "size_formatted": "671MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "b3d71c928059",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "mxbai-embed-large",
+  "name": "mxbai-embed-large",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "State-of-the-art large embedding model from mixedbread.ai",
+  "category": "Embeddings & Search",
+  "page_url": "https://ollama.com/library/mxbai-embed-large",
+  "tags_page_url": "https://ollama.com/library/mxbai-embed-large/tags",
+  "badges": [
+    "embedding",
+    "335m"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": true
+  },
+  "pulls_count": 14000000,
+  "tags_count": 4,
+  "updated_at": "May 6, 2024 11:36 PM UTC",
+  "updated_full_date": "May 6, 2024 11:36 PM UTC",
+  "updated_date_key": 202405062336,
+  "is_cloud": false,
+  "default_tag": "mxbai-embed-large:latest",
+  "variants": [
+    {
+      "tag": "mxbai-embed-large:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 702545920,
+      "size_formatted": "670MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "468836162de7",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mxbai-embed-large:v1",
+      "name": "v1",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 702545920,
+      "size_formatted": "670MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "468836162de7",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mxbai-embed-large:335m",
+      "name": "335m",
+      "parameter_size": "335M",
+      "quantization": "Default",
+      "size_bytes": 702545920,
+      "size_formatted": "670MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "468836162de7",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mxbai-embed-large:335m-v1-fp16",
+      "name": "335m-v1-fp16",
+      "parameter_size": "335M",
+      "quantization": "FP16",
+      "size_bytes": 702545920,
+      "size_formatted": "670MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "468836162de7",
+      "updated_at": "2 years ago",
+      "is_cloud": false
+    }
+  ]
+}

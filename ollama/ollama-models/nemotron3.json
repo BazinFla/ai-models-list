@@ -1,0 +1,90 @@
+{
+  "id": "nemotron3",
+  "name": "nemotron3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&A, summarization, transcription, and document intelligence workflows.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/nemotron3",
+  "tags_page_url": "https://ollama.com/library/nemotron3/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "33b"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": true,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 650200,
+  "tags_count": 4,
+  "updated_at": "Apr 27, 2026 8:26 PM UTC",
+  "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
+  "updated_date_key": 202604272026,
+  "is_cloud": false,
+  "default_tag": "nemotron3:33b",
+  "variants": [
+    {
+      "tag": "nemotron3:33b",
+      "name": "33b",
+      "parameter_size": "33B",
+      "quantization": "Default",
+      "size_bytes": 30064771072,
+      "size_formatted": "28GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "f6d8b7ff496c",
+      "updated_at": "4 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron3:33b-q8",
+      "name": "33b-q8",
+      "parameter_size": "33B",
+      "quantization": "Default",
+      "size_bytes": 38654705664,
+      "size_formatted": "36GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "74d89c84a443",
+      "updated_at": "4 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron3:33b-q4_K_M",
+      "name": "33b-q4_K_M",
+      "parameter_size": "33B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 30064771072,
+      "size_formatted": "28GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "baa676a14e13",
+      "updated_at": "4 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron3:33b-bf16",
+      "name": "33b-bf16",
+      "parameter_size": "33B",
+      "quantization": "F16",
+      "size_bytes": 70866960384,
+      "size_formatted": "66GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "b318f0929784",
+      "updated_at": "4 months ago",
+      "is_cloud": false
+    }
+  ]
+}

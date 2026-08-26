@@ -1,0 +1,103 @@
+{
+  "id": "mistral-small3.2",
+  "name": "mistral-small3.2",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/mistral-small3.2",
+  "tags_page_url": "https://ollama.com/library/mistral-small3.2/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "24b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 2400000,
+  "tags_count": 5,
+  "updated_at": "Jun 20, 2025 10:59 PM UTC",
+  "updated_full_date": "Jun 20, 2025 10:59 PM UTC",
+  "updated_date_key": 202506202259,
+  "is_cloud": false,
+  "default_tag": "mistral-small3.2:latest",
+  "variants": [
+    {
+      "tag": "mistral-small3.2:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 16106127360,
+      "size_formatted": "15GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "5a408ab55df5",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mistral-small3.2:24b",
+      "name": "24b",
+      "parameter_size": "24B",
+      "quantization": "Default",
+      "size_bytes": 16106127360,
+      "size_formatted": "15GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "5a408ab55df5",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mistral-small3.2:24b-instruct-2506-q4_K_M",
+      "name": "24b-instruct-2506-q4_K_M",
+      "parameter_size": "24B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 16106127360,
+      "size_formatted": "15GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "5a408ab55df5",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mistral-small3.2:24b-instruct-2506-q8_0",
+      "name": "24b-instruct-2506-q8_0",
+      "parameter_size": "24B",
+      "quantization": "Q8_0",
+      "size_bytes": 27917287424,
+      "size_formatted": "26GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "9b58e7bb625c",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "mistral-small3.2:24b-instruct-2506-fp16",
+      "name": "24b-instruct-2506-fp16",
+      "parameter_size": "24B",
+      "quantization": "FP16",
+      "size_bytes": 51539607552,
+      "size_formatted": "48GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "f904f36f6f02",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

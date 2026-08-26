@@ -1,0 +1,101 @@
+{
+  "id": "deepscaler",
+  "name": "deepscaler",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/deepscaler",
+  "tags_page_url": "https://ollama.com/library/deepscaler/tags",
+  "badges": [
+    "1.5b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 1300000,
+  "tags_count": 5,
+  "updated_at": "Feb 12, 2025 1:53 AM UTC",
+  "updated_full_date": "Feb 12, 2025 1:53 AM UTC",
+  "updated_date_key": 202502120153,
+  "is_cloud": false,
+  "default_tag": "deepscaler:latest",
+  "variants": [
+    {
+      "tag": "deepscaler:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "0031bcf7459f",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepscaler:1.5b",
+      "name": "1.5b",
+      "parameter_size": "1.5B",
+      "quantization": "Default",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "0031bcf7459f",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepscaler:1.5b-preview-q4_K_M",
+      "name": "1.5b-preview-q4_K_M",
+      "parameter_size": "1.5B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 1181116006,
+      "size_formatted": "1.1GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "305c4a53269d",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepscaler:1.5b-preview-q8_0",
+      "name": "1.5b-preview-q8_0",
+      "parameter_size": "1.5B",
+      "quantization": "Q8_0",
+      "size_bytes": 2040109465,
+      "size_formatted": "1.9GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "37b8148c7f55",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepscaler:1.5b-preview-fp16",
+      "name": "1.5b-preview-fp16",
+      "parameter_size": "1.5B",
+      "quantization": "FP16",
+      "size_bytes": 3865470566,
+      "size_formatted": "3.6GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Text",
+      "digest": "0031bcf7459f",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

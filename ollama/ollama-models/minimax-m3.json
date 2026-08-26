@@ -1,0 +1,48 @@
+{
+  "id": "minimax-m3",
+  "name": "minimax-m3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "MiniMax M3: Coding & Agentic Frontier. 1M context window. Native Multimodality.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/minimax-m3",
+  "tags_page_url": "https://ollama.com/library/minimax-m3/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 480000,
+  "tags_count": 1,
+  "updated_at": "Jun 1, 2026 1:34 AM UTC",
+  "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
+  "updated_date_key": 202606010134,
+  "is_cloud": true,
+  "default_tag": "minimax-m3:cloud",
+  "variants": [
+    {
+      "tag": "minimax-m3:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 524288,
+      "context_formatted": "512K",
+      "input_type": "Image",
+      "digest": "d03a959f45c0",
+      "updated_at": "2 months ago",
+      "is_cloud": true
+    }
+  ]
+}

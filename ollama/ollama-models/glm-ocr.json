@@ -1,0 +1,74 @@
+{
+  "id": "glm-ocr",
+  "name": "glm-ocr",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "GLM-OCR is a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/glm-ocr",
+  "tags_page_url": "https://ollama.com/library/glm-ocr/tags",
+  "badges": [
+    "vision",
+    "tools"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 7000000,
+  "tags_count": 3,
+  "updated_at": "Feb 2, 2026 11:29 PM UTC",
+  "updated_full_date": "Feb 2, 2026 11:29 PM UTC",
+  "updated_date_key": 202602022329,
+  "is_cloud": false,
+  "default_tag": "glm-ocr:latest",
+  "variants": [
+    {
+      "tag": "glm-ocr:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 2362232012,
+      "size_formatted": "2.2GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "6effedd0dc8a",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "glm-ocr:q8_0",
+      "name": "q8_0",
+      "parameter_size": "",
+      "quantization": "Q8_0",
+      "size_bytes": 1717986918,
+      "size_formatted": "1.6GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "2a5a0f1a9301",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "glm-ocr:bf16",
+      "name": "bf16",
+      "parameter_size": "",
+      "quantization": "F16",
+      "size_bytes": 2362232012,
+      "size_formatted": "2.2GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "6effedd0dc8a",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    }
+  ]
+}

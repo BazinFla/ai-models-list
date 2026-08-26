@@ -1,0 +1,101 @@
+{
+  "id": "deepseek-v3",
+  "name": "deepseek-v3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/deepseek-v3",
+  "tags_page_url": "https://ollama.com/library/deepseek-v3/tags",
+  "badges": [
+    "671b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 3800000,
+  "tags_count": 5,
+  "updated_at": "Jan 13, 2025 5:16 PM UTC",
+  "updated_full_date": "Jan 13, 2025 5:16 PM UTC",
+  "updated_date_key": 202501131716,
+  "is_cloud": false,
+  "default_tag": "deepseek-v3:latest",
+  "variants": [
+    {
+      "tag": "deepseek-v3:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 433791696896,
+      "size_formatted": "404GB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "5da0e2d4a9e0",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepseek-v3:671b",
+      "name": "671b",
+      "parameter_size": "671B",
+      "quantization": "Default",
+      "size_bytes": 433791696896,
+      "size_formatted": "404GB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "5da0e2d4a9e0",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepseek-v3:671b-q4_K_M",
+      "name": "671b-q4_K_M",
+      "parameter_size": "671B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 433791696896,
+      "size_formatted": "404GB",
+      "context_length": 163840,
+      "context_formatted": "160K",
+      "input_type": "Text",
+      "digest": "5da0e2d4a9e0",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepseek-v3:671b-q8_0",
+      "name": "671b-q8_0",
+      "parameter_size": "671B",
+      "quantization": "Q8_0",
+      "size_bytes": 765577920512,
+      "size_formatted": "713GB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Text",
+      "digest": "96061c74c1a5",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "deepseek-v3:671b-fp16",
+      "name": "671b-fp16",
+      "parameter_size": "671B",
+      "quantization": "FP16",
+      "size_bytes": 1429365116108,
+      "size_formatted": "1.3TB",
+      "context_length": 4096,
+      "context_formatted": "4K",
+      "input_type": "Text",
+      "digest": "7770bf5a5ed8",
+      "updated_at": "1 year ago",
+      "is_cloud": false
+    }
+  ]
+}

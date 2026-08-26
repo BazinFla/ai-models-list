@@ -1,0 +1,75 @@
+{
+  "id": "deepseek-v4-pro",
+  "name": "deepseek-v4-pro",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "DeepSeek-V4-Pro is a frontier Mixture-of-Experts model with a large context window and three reasoning modes.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/deepseek-v4-pro",
+  "tags_page_url": "https://ollama.com/library/deepseek-v4-pro/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 357600,
+  "tags_count": 3,
+  "updated_at": "Aug 13, 2026 3:00 PM UTC",
+  "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
+  "updated_date_key": 202608131500,
+  "is_cloud": true,
+  "default_tag": "deepseek-v4-pro:cloud",
+  "variants": [
+    {
+      "tag": "deepseek-v4-pro:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Text",
+      "digest": "6ed7420bc3a4",
+      "updated_at": "1 week ago",
+      "is_cloud": true
+    },
+    {
+      "tag": "deepseek-v4-pro:0813-cloud",
+      "name": "0813-cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Text",
+      "digest": "6ed7420bc3a4",
+      "updated_at": "1 week ago",
+      "is_cloud": true
+    },
+    {
+      "tag": "deepseek-v4-pro:preview-cloud",
+      "name": "preview-cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Text",
+      "digest": "22bfd5026abd",
+      "updated_at": "4 months ago",
+      "is_cloud": true
+    }
+  ]
+}
