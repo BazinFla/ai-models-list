@@ -28,11 +28,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 23500000,
+  "pulls_count": 23600000,
   "tags_count": 50,
-  "updated_at": "Aug 26, 2026 6:30 PM UTC",
-  "updated_full_date": "Aug 26, 2026 6:30 PM UTC",
-  "updated_date_key": 202608261830,
+  "updated_at": "Aug 27, 2026 6:25 PM UTC",
+  "updated_full_date": "Aug 27, 2026 6:25 PM UTC",
+  "updated_date_key": 202608271825,
   "is_cloud": true,
   "default_tag": "gemma4:latest",
   "variants": [
@@ -195,13 +195,13 @@
       "name": "e2b-mlx",
       "parameter_size": "2B",
       "quantization": "Default",
-      "size_bytes": 6979321856,
-      "size_formatted": "6.5GB",
+      "size_bytes": 8053063680,
+      "size_formatted": "7.5GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "e98b54fe1913",
-      "updated_at": "1 month ago",
+      "digest": "f4a8449d1781",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -223,13 +223,13 @@
       "name": "e2b-mxfp8",
       "parameter_size": "2B",
       "quantization": "Default",
-      "size_bytes": 8697308774,
-      "size_formatted": "8.1GB",
+      "size_bytes": 8804682956,
+      "size_formatted": "8.2GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "c423521436c1",
-      "updated_at": "1 month ago",
+      "digest": "889dce3b4703",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -237,13 +237,13 @@
       "name": "e2b-nvfp4",
       "parameter_size": "2B",
       "quantization": "Default",
-      "size_bytes": 7838315315,
-      "size_formatted": "7.3GB",
+      "size_bytes": 8053063680,
+      "size_formatted": "7.5GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "f035d4275331",
-      "updated_at": "",
+      "digest": "f4a8449d1781",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -307,13 +307,13 @@
       "name": "e4b-mlx",
       "parameter_size": "4B",
       "quantization": "Default",
-      "size_bytes": 9448928051,
-      "size_formatted": "8.8GB",
+      "size_bytes": 10200547328,
+      "size_formatted": "9.5GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "aa6f2058d5dc",
-      "updated_at": "1 month ago",
+      "digest": "5a08735df03c",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -340,8 +340,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "2ac3229467f4",
-      "updated_at": "1 month ago",
+      "digest": "64cb8bd24de2",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -355,7 +355,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "5a08735df03c",
-      "updated_at": "13 hours ago",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -424,8 +424,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "117d0d84cf2a",
-      "updated_at": "1 month ago",
+      "digest": "ded7a2735003",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -453,7 +453,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "de780b6b3434",
-      "updated_at": "5 days ago",
+      "updated_at": "6 days ago",
       "is_cloud": false
     },
     {
@@ -467,7 +467,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "ded7a2735003",
-      "updated_at": "",
+      "updated_at": "2 days ago",
       "is_cloud": false
     },
     {
@@ -550,8 +550,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "c8656f50f0a6",
-      "updated_at": "1 month ago",
+      "digest": "f0fc7e0ae494",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -593,7 +593,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "f0fc7e0ae494",
-      "updated_at": "13 hours ago",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -690,8 +690,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "637cc0ff1570",
-      "updated_at": "1 month ago",
+      "digest": "a22a363052da",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -719,7 +719,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "9740f018f0d6",
-      "updated_at": "2 days ago",
+      "updated_at": "3 days ago",
       "is_cloud": false
     },
     {
@@ -733,7 +733,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "a22a363052da",
-      "updated_at": "13 hours ago",
+      "updated_at": "",
       "is_cloud": false
     }
   ]

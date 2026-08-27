@@ -23,9 +23,9 @@
   },
   "pulls_count": 0,
   "tags_count": 3,
-  "updated_at": "Aug 26, 2026 11:07 PM UTC",
-  "updated_full_date": "Aug 26, 2026 11:07 PM UTC",
-  "updated_date_key": 202608262307,
+  "updated_at": "Aug 27, 2026 8:28 PM UTC",
+  "updated_full_date": "Aug 27, 2026 8:28 PM UTC",
+  "updated_date_key": 202608272028,
   "is_cloud": false,
   "default_tag": "qwen3.8-flash-next:125b-a6b-mlx-bf16",
   "variants": [
@@ -40,7 +40,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "ae2130e55774",
-      "updated_at": "17 hours ago",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -48,13 +48,13 @@
       "name": "125b-a6b-nvfp4",
       "parameter_size": "125B",
       "quantization": "Default",
-      "size_bytes": 121332826112,
-      "size_formatted": "113GB",
+      "size_bytes": 112742891520,
+      "size_formatted": "105GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "7d1a29603bb2",
-      "updated_at": "9 hours ago",
+      "digest": "c7b96ffe21af",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -62,13 +62,13 @@
       "name": "125b-mlx",
       "parameter_size": "125B",
       "quantization": "Default",
-      "size_bytes": 121332826112,
-      "size_formatted": "113GB",
+      "size_bytes": 112742891520,
+      "size_formatted": "105GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "7d1a29603bb2",
-      "updated_at": "9 hours ago",
+      "digest": "c7b96ffe21af",
+      "updated_at": "",
       "is_cloud": false
     }
   ]
