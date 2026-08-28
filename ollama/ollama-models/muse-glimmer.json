@@ -22,11 +22,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 172100,
+  "pulls_count": 173300,
   "tags_count": 15,
-  "updated_at": "Aug 14, 2026 2:39 PM UTC",
-  "updated_full_date": "Aug 14, 2026 2:39 PM UTC",
-  "updated_date_key": 202608141439,
+  "updated_at": "Aug 28, 2026 7:09 PM UTC",
+  "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
+  "updated_date_key": 202608281909,
   "is_cloud": false,
   "default_tag": "muse-glimmer:latest",
   "variants": [
@@ -77,13 +77,13 @@
       "name": "30b-mlx",
       "parameter_size": "30B",
       "quantization": "Default",
-      "size_bytes": 22548578304,
-      "size_formatted": "21GB",
+      "size_bytes": 20401094656,
+      "size_formatted": "19GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "ef32a55b4976",
-      "updated_at": "2 weeks ago",
+      "digest": "015fa21845be",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -153,7 +153,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "6a78d632287f",
-      "updated_at": "1 week ago",
+      "updated_at": "2 weeks ago",
       "is_cloud": false
     },
     {
@@ -161,13 +161,13 @@
       "name": "30b-nvfp4-dflash",
       "parameter_size": "30B",
       "quantization": "Default",
-      "size_bytes": 22548578304,
-      "size_formatted": "21GB",
+      "size_bytes": 20401094656,
+      "size_formatted": "19GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "ef32a55b4976",
-      "updated_at": "2 weeks ago",
+      "digest": "015fa21845be",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {

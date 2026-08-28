@@ -1,0 +1,47 @@
+{
+  "id": "glm-5.3",
+  "name": "glm-5.3",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Z.ai's flagship model and the most capable open-weights model for coding, with major gains on long-horizon agentic tasks.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/glm-5.3",
+  "tags_page_url": "https://ollama.com/library/glm-5.3/tags",
+  "badges": [
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": false,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 0,
+  "tags_count": 1,
+  "updated_at": "Aug 28, 2026 3:00 PM UTC",
+  "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
+  "updated_date_key": 202608281500,
+  "is_cloud": true,
+  "default_tag": "glm-5.3:cloud",
+  "variants": [
+    {
+      "tag": "glm-5.3:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Text",
+      "digest": "13055f1621ef",
+      "updated_at": "7 hours ago",
+      "is_cloud": true
+    }
+  ]
+}
