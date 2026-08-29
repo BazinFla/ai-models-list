@@ -1,6 +1,6 @@
 # AI Models Catalog (`ai-models-list`)
 
-Automated, structured JSON catalog for open-source AI models, built for desktop and server LLM managers like [OllDex](https://github.com/BazinFla/OllDex).
+Automated, structured JSON catalog for open-source AI models, built for desktop and server LLM managers.
 
 The catalog is automatically synchronized every 6 hours via GitHub Actions.
 
