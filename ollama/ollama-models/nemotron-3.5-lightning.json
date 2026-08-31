@@ -21,11 +21,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 142900,
+  "pulls_count": 143600,
   "tags_count": 11,
-  "updated_at": "Aug 11, 2026 1:18 PM UTC",
-  "updated_full_date": "Aug 11, 2026 1:18 PM UTC",
-  "updated_date_key": 202608111318,
+  "updated_at": "Aug 31, 2026 9:05 PM UTC",
+  "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
+  "updated_date_key": 202608312105,
   "is_cloud": false,
   "default_tag": "nemotron-3.5-lightning:latest",
   "variants": [
@@ -109,8 +109,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "906068bad076",
-      "updated_at": "2 weeks ago",
+      "digest": "9dad1618f1ac",
+      "updated_at": "",
       "is_cloud": false
     },
     {

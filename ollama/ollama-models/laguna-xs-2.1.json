@@ -20,11 +20,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 102400,
+  "pulls_count": 102600,
   "tags_count": 7,
-  "updated_at": "Aug 20, 2026 4:39 PM UTC",
-  "updated_full_date": "Aug 20, 2026 4:39 PM UTC",
-  "updated_date_key": 202608201639,
+  "updated_at": "Aug 31, 2026 8:58 PM UTC",
+  "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
+  "updated_date_key": 202608312058,
   "is_cloud": false,
   "default_tag": "laguna-xs-2.1:latest",
   "variants": [
@@ -52,8 +52,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "5a09682a78a6",
-      "updated_at": "1 week ago",
+      "digest": "44251b31234b",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
