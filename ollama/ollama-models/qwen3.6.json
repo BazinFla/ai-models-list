@@ -25,9 +25,9 @@
   },
   "pulls_count": 6300000,
   "tags_count": 35,
-  "updated_at": "Aug 27, 2026 6:41 PM UTC",
-  "updated_full_date": "Aug 27, 2026 6:41 PM UTC",
-  "updated_date_key": 202608271841,
+  "updated_at": "Sep 1, 2026 5:04 PM UTC",
+  "updated_full_date": "Sep 1, 2026 5:04 PM UTC",
+  "updated_date_key": 202609011704,
   "is_cloud": false,
   "default_tag": "qwen3.6:latest",
   "variants": [
@@ -106,13 +106,13 @@
       "name": "27b-coding-mxfp8",
       "parameter_size": "27B",
       "quantization": "Default",
-      "size_bytes": 33285996544,
-      "size_formatted": "31GB",
+      "size_bytes": 32212254720,
+      "size_formatted": "30GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "a7185d39ff35",
-      "updated_at": "4 months ago",
+      "digest": "55e00ff2ac60",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -154,7 +154,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "d49fd9e0da45",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
       "is_cloud": false
     },
     {
@@ -168,7 +168,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "a5a683796d20",
-      "updated_at": "6 days ago",
+      "updated_at": "1 week ago",
       "is_cloud": false
     },
     {
@@ -224,7 +224,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "4ef566e80abd",
-      "updated_at": "6 days ago",
+      "updated_at": "1 week ago",
       "is_cloud": false
     },
     {
@@ -238,7 +238,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "d49fd9e0da45",
-      "updated_at": "6 days ago",
+      "updated_at": "1 week ago",
       "is_cloud": false
     },
     {
@@ -335,8 +335,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "ccbab0f4045b",
-      "updated_at": "4 months ago",
+      "digest": "47f49b2845d7",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -518,7 +518,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "e92a3e94bbca",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
       "is_cloud": false
     }
   ]

@@ -31,9 +31,9 @@
   },
   "pulls_count": 19000000,
   "tags_count": 64,
-  "updated_at": "Sep 1, 2026 4:00 PM UTC",
-  "updated_full_date": "Sep 1, 2026 4:00 PM UTC",
-  "updated_date_key": 202609011600,
+  "updated_at": "Sep 1, 2026 4:30 PM UTC",
+  "updated_full_date": "Sep 1, 2026 4:30 PM UTC",
+  "updated_date_key": 202609011630,
   "is_cloud": true,
   "default_tag": "qwen3.5:latest",
   "variants": [
@@ -173,8 +173,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "6a48dd9c06e3",
-      "updated_at": "3 months ago",
+      "digest": "12f40a7f8473",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -201,8 +201,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "6a48dd9c06e3",
-      "updated_at": "5 months ago",
+      "digest": "12f40a7f8473",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -257,8 +257,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "3a4a00dbfb1d",
-      "updated_at": "3 months ago",
+      "digest": "9dd89c688f18",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -285,8 +285,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "3a4a00dbfb1d",
-      "updated_at": "5 months ago",
+      "digest": "9dd89c688f18",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -383,8 +383,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "9f0b053985be",
-      "updated_at": "5 months ago",
+      "digest": "77653d4d1b88",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -482,7 +482,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "19c108424cec",
-      "updated_at": "28 minutes ago",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -552,7 +552,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "cbcaee837654",
-      "updated_at": "11 minutes ago",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -650,7 +650,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "3ce4a5647be1",
-      "updated_at": "24 minutes ago",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -734,7 +734,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "058a0c9f18b2",
-      "updated_at": "7 minutes ago",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -748,6 +748,20 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "6e73b30f8f1c",
+      "updated_at": "5 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3.5:35b-a3b-coding-bf16",
+      "name": "35b-a3b-coding-bf16",
+      "parameter_size": "35B",
+      "quantization": "F16",
+      "size_bytes": 75161927680,
+      "size_formatted": "70GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "37b8d012f58e",
       "updated_at": "5 months ago",
       "is_cloud": false
     },
@@ -780,6 +794,20 @@
       "is_cloud": false
     },
     {
+      "tag": "qwen3.5:35b-a3b-mlx-bf16",
+      "name": "35b-a3b-mlx-bf16",
+      "parameter_size": "35B",
+      "quantization": "F16",
+      "size_bytes": 75161927680,
+      "size_formatted": "70GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "f6555d933b86",
+      "updated_at": "5 months ago",
+      "is_cloud": false
+    },
+    {
       "tag": "qwen3.5:35b-a3b-mxfp8",
       "name": "35b-a3b-mxfp8",
       "parameter_size": "35B",
@@ -790,7 +818,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "16b03b99d8bb",
-      "updated_at": "16 minutes ago",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -846,34 +874,6 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "85eaedff99c3",
-      "updated_at": "5 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "qwen3.5:35b-a3b-coding-bf16",
-      "name": "35b-a3b-coding-bf16",
-      "parameter_size": "35B",
-      "quantization": "F16",
-      "size_bytes": 75161927680,
-      "size_formatted": "70GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Image",
-      "digest": "37b8d012f58e",
-      "updated_at": "5 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "qwen3.5:35b-a3b-mlx-bf16",
-      "name": "35b-a3b-mlx-bf16",
-      "parameter_size": "35B",
-      "quantization": "F16",
-      "size_bytes": 75161927680,
-      "size_formatted": "70GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Image",
-      "digest": "f6555d933b86",
       "updated_at": "5 months ago",
       "is_cloud": false
     },
