@@ -29,46 +29,20 @@
   "default_tag": "snowflake-arctic-embed2:latest",
   "variants": [
     {
-      "tag": "snowflake-arctic-embed2:latest",
-      "name": "latest",
-      "parameter_size": "",
-      "quantization": "Default",
-      "size_bytes": 1288490188,
-      "size_formatted": "1.2GB",
-      "context_length": 8192,
-      "context_formatted": "8K",
-      "input_type": "Text",
-      "digest": "5de93a84837d",
-      "updated_at": "1 year ago",
-      "is_cloud": false
-    },
-    {
       "tag": "snowflake-arctic-embed2:568m",
       "name": "568m",
       "parameter_size": "568M",
-      "quantization": "Default",
-      "size_bytes": 1288490188,
-      "size_formatted": "1.2GB",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
       "context_length": 8192,
       "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "5de93a84837d",
-      "updated_at": "1 year ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "snowflake-arctic-embed2:568m-l-fp16",
-      "name": "568m-l-fp16",
-      "parameter_size": "568M",
-      "quantization": "FP16",
-      "size_bytes": 1288490188,
-      "size_formatted": "1.2GB",
-      "context_length": 8192,
-      "context_formatted": "8K",
-      "input_type": "Text",
-      "digest": "5de93a84837d",
-      "updated_at": "1 year ago",
+      "digest": "",
+      "updated_at": "",
       "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

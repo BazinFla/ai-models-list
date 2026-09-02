@@ -22,26 +22,28 @@
     "embedding": false
   },
   "pulls_count": 338300,
-  "tags_count": 1,
+  "tags_count": 0,
   "updated_at": "Jun 16, 2026 5:39 PM UTC",
   "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
   "updated_date_key": 202606161739,
   "is_cloud": true,
-  "default_tag": "glm-5.2:cloud",
+  "default_tag": "glm-5.2:latest",
   "variants": [
     {
-      "tag": "glm-5.2:cloud",
-      "name": "cloud",
+      "tag": "glm-5.2:latest",
+      "name": "latest",
       "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "High Usage",
-      "context_length": 999424,
-      "context_formatted": "976K",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "ce8fd6f94793",
-      "updated_at": "2 months ago",
-      "is_cloud": true
+      "digest": "",
+      "updated_at": "",
+      "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

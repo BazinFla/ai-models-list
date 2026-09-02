@@ -1,6 +1,6 @@
 # AI Models Catalog (`ai-models-list`)
 
-Automated, structured JSON catalog for open-source AI models, built for desktop and server LLM managers.
+Automated, structured JSON catalog for open-source AI models, built for desktop and server LLM managers like [NeuraDex](https://github.com/BazinFla/NeuraDex).
 
 The catalog is automatically synchronized every 6 hours via GitHub Actions.
 
@@ -12,9 +12,12 @@ The catalog is automatically synchronized every 6 hours via GitHub Actions.
 ai-models-list/
 ├── .github/workflows/
 │   └── sync-catalog.yml        # Automated sync workflow (runs every 6 hours)
+├── curation.json               # Manual metadata overrides (creators, icons, licenses)
+├── check_uncurated.py          # Lists active models missing from curation.json
+├── check_missing_icons.py      # Lists curated models missing SVG icons in NeuraDex
 ├── ollama/
 │   ├── ollama-list.json        # Consolidated Ollama catalog index
-│   └── ollama-models/          # 236+ individual model JSON specifications
+│   └── ollama-models/          # 239+ individual model JSON specifications
 ├── scraper.py                  # Python 3 catalog scraper
 ├── requirements.txt            # Zero-dependency specification
 ├── LICENSE                     # MIT License
@@ -104,6 +107,20 @@ python3 scraper.py --deep --workers 16 --output-dir ollama
 
 # Single model update
 python3 scraper.py --model deepseek-r1 --deep --output-dir ollama
+```
+
+---
+
+## 🔍 Audit & Curation Tools
+
+```bash
+# 1. List active Ollama models not yet present in curation.json
+python3 check_uncurated.py
+python3 check_uncurated.py --sort pulls --limit 20
+
+# 2. Audit models in curation.json missing SVG icons in NeuraDex
+python3 check_missing_icons.py
+python3 check_missing_icons.py --missing-only
 ```
 
 ---

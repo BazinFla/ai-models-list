@@ -6,16 +6,18 @@ Scrapes the complete model catalog from https://ollama.com/library
 and generates individual JSON files under ollama/ollama-models/
 as well as a consolidated catalog index in ollama/ollama-list.json.
 
-Each model entry includes:
-- id, name, source, is_official, namespace, description, category, page_url
-- capabilities (think, vision, audio, tools, code, embedding)
-- stats (pulls_count, tags_count, updated_at, is_cloud)
-- exhaustive variants list (tag, name, size_bytes, context_length, quant, digest, etc.)
+Key Features:
+- Preserves removed/deprecated models with `is_deprecated: true`, `status: 'deprecated'`, and `deprecated_at`.
+- Supports manual curation overrides via `curation.json` (creator, publisher, icon_name, license, homepage, etc.).
+- Performs intelligent in-place merge so manual edits in individual model JSON files are never overwritten.
+- Multi-threaded deep scraping for exact variants, context lengths, and digests.
 
 Usage:
     python3 scraper.py                 # Fast catalog scrape
     python3 scraper.py --deep          # Deep scrape (fetches /tags page for each model)
     python3 scraper.py --model llama3.3 # Scrapes a single model
+    python3 scraper.py --curation custom_curation.json # Use custom curation file
+    python3 scraper.py --include-deprecated # Include deprecated models in ollama-list.json
 """
 
 import argparse
@@ -449,6 +451,118 @@ def scrape_model_variants(model: Dict[str, Any]) -> Dict[str, Any]:
     return model
 
 
+# ==============================================================================
+# Curation and Deprecation Management
+# ==============================================================================
+
+def load_curation_file(curation_path: Optional[str] = None) -> Dict[str, Dict[str, Any]]:
+    """Loads curated metadata overrides from JSON file."""
+    search_paths = []
+    if curation_path:
+        search_paths.append(curation_path)
+
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    search_paths.append(os.path.join(script_dir, "curation.json"))
+    search_paths.append(os.path.join(script_dir, "ollama", "curation.json"))
+
+    for p in search_paths:
+        if os.path.isfile(p):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    if isinstance(data, dict):
+                        print(f"📖 Loaded curation file: {p} ({len(data)} entries)")
+                        return {k.lower().strip(): v for k, v in data.items() if isinstance(v, dict)}
+            except Exception as e:
+                print(f"⚠️ Warning: Could not parse curation file {p}: {e}")
+
+    print("ℹ️ No curation file found. Proceeding without manual overrides.")
+    return {}
+
+
+def load_existing_models(models_dir: str) -> Dict[str, Dict[str, Any]]:
+    """Loads all previously saved model JSON files from disk."""
+    existing = {}
+    if not os.path.isdir(models_dir):
+        return existing
+
+    for filename in os.listdir(models_dir):
+        if filename.endswith(".json"):
+            filepath = os.path.join(models_dir, filename)
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    m_id = data.get("id") or filename[:-5]
+                    existing[m_id.lower()] = data
+            except Exception as e:
+                print(f"⚠️ Warning: Could not read existing model file {filepath}: {e}")
+
+    return existing
+
+
+def merge_model_metadata(
+    scraped: Dict[str, Any],
+    existing: Optional[Dict[str, Any]],
+    curation: Dict[str, Dict[str, Any]],
+) -> Dict[str, Any]:
+    """
+    Merges newly scraped data with existing model JSON (preserving manual fields)
+    and applies manual overrides from curation.json.
+    """
+    model_id = scraped["id"].lower()
+    merged = dict(scraped)
+
+    # Freshly scraped model is active and available
+    merged["is_deprecated"] = False
+    merged["status"] = "active"
+    if "deprecated_at" in merged:
+        del merged["deprecated_at"]
+
+    # 1. Preserve custom/manual fields from previously saved file
+    if existing:
+        fresh_scraper_keys = {
+            "id", "name", "source", "is_official", "namespace", "description",
+            "category", "page_url", "tags_page_url", "badges", "capabilities",
+            "pulls_count", "tags_count", "updated_at", "updated_full_date",
+            "updated_date_key", "is_cloud", "default_tag", "variants",
+            "is_deprecated", "status", "deprecated_at"
+        }
+        for k, v in existing.items():
+            if k not in fresh_scraper_keys:
+                merged[k] = v
+
+    # 2. Apply curation overrides if present (explicit curation takes highest precedence)
+    if model_id in curation:
+        for k, v in curation[model_id].items():
+            merged[k] = v
+
+    return merged
+
+
+def mark_deprecated_model(
+    existing: Dict[str, Any],
+    curation: Dict[str, Dict[str, Any]],
+) -> Dict[str, Any]:
+    """Marks an existing model as deprecated (removed from Ollama library)."""
+    model = dict(existing)
+    model["is_deprecated"] = True
+    model["status"] = "deprecated"
+    if not model.get("deprecated_at"):
+        model["deprecated_at"] = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+
+    # Apply curation overrides if any
+    model_id = model.get("id", "").lower()
+    if model_id in curation:
+        for k, v in curation[model_id].items():
+            model[k] = v
+
+    return model
+
+
+# ==============================================================================
+# Main Orchestrator
+# ==============================================================================
+
 def main():
     parser = argparse.ArgumentParser(
         description="AI Models Catalog Scraper - Ollama Module"
@@ -458,6 +572,13 @@ def main():
         "-o",
         default=os.path.join(os.path.dirname(__file__), "ollama"),
         help="Output directory for JSON files (default: ollama)",
+    )
+    parser.add_argument(
+        "--curation",
+        "-c",
+        type=str,
+        default=None,
+        help="Path to curation.json overrides file (default: curation.json in script dir)",
     )
     parser.add_argument(
         "--deep",
@@ -478,11 +599,22 @@ def main():
         type=str,
         help="Scrape a single model by identifier (e.g. llama3.3, deepseek-r1)",
     )
+    parser.add_argument(
+        "--include-deprecated",
+        action="store_true",
+        help="Include deprecated/removed models in ollama-list.json",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Simulate scrape without writing files to disk",
+    )
     args = parser.parse_args()
 
     output_dir = os.path.abspath(args.output_dir)
     models_dir = os.path.join(output_dir, "ollama-models")
-    os.makedirs(models_dir, exist_ok=True)
+    if not args.dry_run:
+        os.makedirs(models_dir, exist_ok=True)
 
     start_time = time.time()
     print("=" * 70)
@@ -491,27 +623,52 @@ def main():
     print(f"📂 Model files: {models_dir}")
     print(f"📋 Global index: {os.path.join(output_dir, 'ollama-list.json')}")
     print(f"🔍 Mode: {'Deep Scraping (--deep)' if args.deep else 'Fast Index'}")
+    if args.dry_run:
+        print("⚠️ DRY RUN MODE: No files will be modified on disk.")
     print("=" * 70)
 
-    # 1. Scrape main library index
-    models = scrape_library_index()
+    # 1. Load existing models from disk
+    existing_models = load_existing_models(models_dir)
+    print(f"📦 Found {len(existing_models)} existing model JSON files on disk.")
 
-    # Single model filter
+    # 2. Load curation overrides
+    curation_data = load_curation_file(args.curation)
+
+    # 3. Scrape main library index
+    scraped_models = scrape_library_index()
+
+    # Handle single model filter
     if args.model:
         m_id = args.model.lower().strip()
-        models = [m for m in models if m["id"].lower() == m_id]
-        if not models:
+        scraped_models = [m for m in scraped_models if m["id"].lower() == m_id]
+        if not scraped_models:
             print(f"❌ No model found matching '{args.model}'.")
             sys.exit(1)
-        print(f"🎯 Target model: {models[0]['id']}")
+        print(f"🎯 Target model: {scraped_models[0]['id']}")
+        deprecated_models = []
+    else:
+        # Full scrape: detect models that were previously saved but are no longer in Ollama library
+        scraped_ids = {m["id"].lower() for m in scraped_models}
+        deprecated_ids = [m_id for m_id in existing_models if m_id not in scraped_ids]
+        deprecated_models = []
+        for m_id in deprecated_ids:
+            dep_m = mark_deprecated_model(existing_models[m_id], curation_data)
+            deprecated_models.append(dep_m)
 
-    # 2. Fetch variants
+        if deprecated_models:
+            print(f"\n⚠️ Detected {len(deprecated_models)} deprecated/removed model(s) (preserved with 'deprecated_at'):")
+            for dep_m in deprecated_models[:10]:
+                print(f"   • {dep_m['id']} (deprecated_at: {dep_m.get('deprecated_at')})")
+            if len(deprecated_models) > 10:
+                print(f"   ... and {len(deprecated_models) - 10} more.")
+
+    # 4. Fetch variants for scraped models
     if args.deep:
-        total = len(models)
+        total = len(scraped_models)
         print(f"\n🔄 Deep scraping tag variants for {total} models ({args.workers} workers)...")
         completed = 0
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
-            future_to_model = {executor.submit(scrape_model_variants, m): m for m in models}
+            future_to_model = {executor.submit(scrape_model_variants, m): m for m in scraped_models}
             for future in concurrent.futures.as_completed(future_to_model):
                 completed += 1
                 m = future_to_model[future]
@@ -523,36 +680,65 @@ def main():
                 except Exception as e:
                     print(f"  ⚠️ Error fetching {m['id']}: {e}")
     else:
-        for m in models:
+        for m in scraped_models:
             m["variants"] = build_fallback_variants(m["id"], m["badges"])
 
-    # 3. Write individual JSON files
-    print(f"\n💾 Writing {len(models)} individual model files to {models_dir}...")
-    for m in models:
-        model_file = os.path.join(models_dir, f"{m['id']}.json")
-        with open(model_file, "w", encoding="utf-8") as f:
-            json.dump(m, f, indent=2, ensure_ascii=False)
+    # 5. Merge metadata (in-place preservation + curation overrides)
+    active_models = []
+    curated_count = 0
+    for m in scraped_models:
+        m_id = m["id"].lower()
+        existing_m = existing_models.get(m_id)
+        m_merged = merge_model_metadata(m, existing_m, curation_data)
+        if m_id in curation_data:
+            curated_count += 1
+        active_models.append(m_merged)
 
-    # 4. Write consolidated catalog index
+    # 6. Write individual JSON files
+    if not args.dry_run:
+        print(f"\n💾 Writing {len(active_models)} active model files to {models_dir}...")
+        for m in active_models:
+            model_file = os.path.join(models_dir, f"{m['id']}.json")
+            with open(model_file, "w", encoding="utf-8") as f:
+                json.dump(m, f, indent=2, ensure_ascii=False)
+
+        if deprecated_models:
+            print(f"💾 Updating {len(deprecated_models)} deprecated model files in {models_dir}...")
+            for m in deprecated_models:
+                model_file = os.path.join(models_dir, f"{m['id']}.json")
+                with open(model_file, "w", encoding="utf-8") as f:
+                    json.dump(m, f, indent=2, ensure_ascii=False)
+
+    # 7. Write consolidated catalog index
     catalog_path = os.path.join(output_dir, "ollama-list.json")
-    with open(catalog_path, "w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "version": "1.0",
-                "scraped_at": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
-                "total_models": len(models),
-                "models": models,
-            },
-            f,
-            indent=2,
-            ensure_ascii=False,
-        )
+    catalog_models = active_models + (deprecated_models if args.include_deprecated else [])
+
+    if not args.dry_run and not args.model:
+        with open(catalog_path, "w", encoding="utf-8") as f:
+            json.dump(
+                {
+                    "version": "1.1",
+                    "scraped_at": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
+                    "total_models": len(catalog_models),
+                    "total_active_models": len(active_models),
+                    "total_deprecated_models": len(deprecated_models),
+                    "models": catalog_models,
+                },
+                f,
+                indent=2,
+                ensure_ascii=False,
+            )
 
     elapsed = time.time() - start_time
     print("=" * 70)
     print(f"✨ SCRAPING COMPLETED IN {elapsed:.2f}s!")
-    print(f"📄 {len(models)} JSON files generated in: {models_dir}")
-    print(f"📦 Catalog index: {catalog_path}")
+    print(f"🟢 Active models: {len(active_models)}")
+    print(f"🔴 Deprecated models preserved: {len(deprecated_models)}")
+    print(f"🎨 Curated models enriched: {curated_count}")
+    if not args.dry_run:
+        print(f"📄 Model files: {models_dir}")
+        if not args.model:
+            print(f"📦 Catalog index: {catalog_path}")
     print("=" * 70)
 
 

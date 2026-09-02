@@ -22,27 +22,29 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 69900,
-  "tags_count": 1,
+  "pulls_count": 70000,
+  "tags_count": 0,
   "updated_at": "Jul 27, 2026 3:53 PM UTC",
   "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
   "updated_date_key": 202607271553,
   "is_cloud": true,
-  "default_tag": "kimi-k3:cloud",
+  "default_tag": "kimi-k3:latest",
   "variants": [
     {
-      "tag": "kimi-k3:cloud",
-      "name": "cloud",
+      "tag": "kimi-k3:latest",
+      "name": "latest",
       "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "High Usage",
-      "context_length": 1048576,
-      "context_formatted": "1M",
-      "input_type": "Image",
-      "digest": "a399e41d21c0",
-      "updated_at": "1 month ago",
-      "is_cloud": true
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "",
+      "updated_at": "",
+      "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

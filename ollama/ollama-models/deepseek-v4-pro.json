@@ -21,41 +21,29 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 374900,
+  "pulls_count": 375200,
   "tags_count": 2,
   "updated_at": "Aug 13, 2026 3:00 PM UTC",
   "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
   "updated_date_key": 202608131500,
   "is_cloud": true,
-  "default_tag": "deepseek-v4-pro:cloud",
+  "default_tag": "deepseek-v4-pro:latest",
   "variants": [
     {
-      "tag": "deepseek-v4-pro:cloud",
-      "name": "cloud",
+      "tag": "deepseek-v4-pro:latest",
+      "name": "latest",
       "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "High Usage",
-      "context_length": 1048576,
-      "context_formatted": "1M",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "6ed7420bc3a4",
-      "updated_at": "2 weeks ago",
-      "is_cloud": true
-    },
-    {
-      "tag": "deepseek-v4-pro:0813-cloud",
-      "name": "0813-cloud",
-      "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "High Usage",
-      "context_length": 1048576,
-      "context_formatted": "1M",
-      "input_type": "Text",
-      "digest": "6ed7420bc3a4",
-      "updated_at": "2 weeks ago",
-      "is_cloud": true
+      "digest": "",
+      "updated_at": "",
+      "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

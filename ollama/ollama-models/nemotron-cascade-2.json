@@ -30,46 +30,20 @@
   "default_tag": "nemotron-cascade-2:latest",
   "variants": [
     {
-      "tag": "nemotron-cascade-2:latest",
-      "name": "latest",
-      "parameter_size": "",
-      "quantization": "Default",
-      "size_bytes": 25769803776,
-      "size_formatted": "24GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Text",
-      "digest": "e0705e3fe8f7",
-      "updated_at": "5 months ago",
-      "is_cloud": false
-    },
-    {
       "tag": "nemotron-cascade-2:30b",
       "name": "30b",
       "parameter_size": "30B",
-      "quantization": "Default",
-      "size_bytes": 25769803776,
-      "size_formatted": "24GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 19327352832,
+      "size_formatted": "~18 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "e0705e3fe8f7",
-      "updated_at": "5 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "nemotron-cascade-2:30b-a3b-q4_K_M",
-      "name": "30b-a3b-q4_K_M",
-      "parameter_size": "30B",
-      "quantization": "Q4_K_M",
-      "size_bytes": 25769803776,
-      "size_formatted": "24GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Text",
-      "digest": "e0705e3fe8f7",
-      "updated_at": "5 months ago",
+      "digest": "",
+      "updated_at": "",
       "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

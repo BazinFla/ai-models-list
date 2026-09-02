@@ -31,43 +31,17 @@
       "tag": "nomic-embed-text:latest",
       "name": "latest",
       "parameter_size": "",
-      "quantization": "Default",
-      "size_bytes": 287309824,
-      "size_formatted": "274MB",
-      "context_length": 2048,
-      "context_formatted": "2K",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "0a109f422b47",
-      "updated_at": "2 years ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "nomic-embed-text:v1.5",
-      "name": "v1.5",
-      "parameter_size": "",
-      "quantization": "Default",
-      "size_bytes": 287309824,
-      "size_formatted": "274MB",
-      "context_length": 2048,
-      "context_formatted": "2K",
-      "input_type": "Text",
-      "digest": "0a109f422b47",
-      "updated_at": "2 years ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "nomic-embed-text:137m-v1.5-fp16",
-      "name": "137m-v1.5-fp16",
-      "parameter_size": "137M",
-      "quantization": "FP16",
-      "size_bytes": 287309824,
-      "size_formatted": "274MB",
-      "context_length": 2048,
-      "context_formatted": "2K",
-      "input_type": "Text",
-      "digest": "0a109f422b47",
-      "updated_at": "2 years ago",
+      "digest": "",
+      "updated_at": "",
       "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

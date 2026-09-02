@@ -23,26 +23,28 @@
     "embedding": false
   },
   "pulls_count": 501500,
-  "tags_count": 1,
+  "tags_count": 0,
   "updated_at": "Jun 1, 2026 1:34 AM UTC",
   "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
   "updated_date_key": 202606010134,
   "is_cloud": true,
-  "default_tag": "minimax-m3:cloud",
+  "default_tag": "minimax-m3:latest",
   "variants": [
     {
-      "tag": "minimax-m3:cloud",
-      "name": "cloud",
+      "tag": "minimax-m3:latest",
+      "name": "latest",
       "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "High Usage",
-      "context_length": 524288,
-      "context_formatted": "512K",
-      "input_type": "Image",
-      "digest": "d03a959f45c0",
-      "updated_at": "3 months ago",
-      "is_cloud": true
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
+      "input_type": "Text",
+      "digest": "",
+      "updated_at": "",
+      "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

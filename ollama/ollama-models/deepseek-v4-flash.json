@@ -21,41 +21,29 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 417500,
+  "pulls_count": 417700,
   "tags_count": 2,
   "updated_at": "Aug 1, 2026 5:21 AM UTC",
   "updated_full_date": "Aug 1, 2026 5:21 AM UTC",
   "updated_date_key": 202608010521,
   "is_cloud": true,
-  "default_tag": "deepseek-v4-flash:cloud",
+  "default_tag": "deepseek-v4-flash:latest",
   "variants": [
     {
-      "tag": "deepseek-v4-flash:cloud",
-      "name": "cloud",
+      "tag": "deepseek-v4-flash:latest",
+      "name": "latest",
       "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "Medium Usage",
-      "context_length": 1048576,
-      "context_formatted": "1M",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "031ce2a95446",
-      "updated_at": "1 month ago",
-      "is_cloud": true
-    },
-    {
-      "tag": "deepseek-v4-flash:0731-cloud",
-      "name": "0731-cloud",
-      "parameter_size": "",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "Medium Usage",
-      "context_length": 1048576,
-      "context_formatted": "1M",
-      "input_type": "Text",
-      "digest": "031ce2a95446",
-      "updated_at": "1 month ago",
-      "is_cloud": true
+      "digest": "",
+      "updated_at": "",
+      "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }

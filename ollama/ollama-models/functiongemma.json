@@ -20,7 +20,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 186300,
+  "pulls_count": 186400,
   "tags_count": 4,
   "updated_at": "Dec 18, 2025 7:03 AM UTC",
   "updated_full_date": "Dec 18, 2025 7:03 AM UTC",
@@ -29,60 +29,20 @@
   "default_tag": "functiongemma:latest",
   "variants": [
     {
-      "tag": "functiongemma:latest",
-      "name": "latest",
-      "parameter_size": "",
-      "quantization": "Default",
-      "size_bytes": 315621376,
-      "size_formatted": "301MB",
-      "context_length": 32768,
-      "context_formatted": "32K",
-      "input_type": "Text",
-      "digest": "7c19b650567a",
-      "updated_at": "8 months ago",
-      "is_cloud": false
-    },
-    {
       "tag": "functiongemma:270m",
       "name": "270m",
       "parameter_size": "270M",
-      "quantization": "Default",
-      "size_bytes": 315621376,
-      "size_formatted": "301MB",
-      "context_length": 32768,
-      "context_formatted": "32K",
+      "quantization": "Q4_0 (Estimated)",
+      "size_bytes": 4294967296,
+      "size_formatted": "~4 GB",
+      "context_length": 8192,
+      "context_formatted": "8K",
       "input_type": "Text",
-      "digest": "7c19b650567a",
-      "updated_at": "8 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "functiongemma:270m-it-q8_0",
-      "name": "270m-it-q8_0",
-      "parameter_size": "270M",
-      "quantization": "Q8_0",
-      "size_bytes": 315621376,
-      "size_formatted": "301MB",
-      "context_length": 32768,
-      "context_formatted": "32K",
-      "input_type": "Text",
-      "digest": "7c19b650567a",
-      "updated_at": "8 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "functiongemma:270m-it-fp16",
-      "name": "270m-it-fp16",
-      "parameter_size": "270M",
-      "quantization": "FP16",
-      "size_bytes": 578813952,
-      "size_formatted": "552MB",
-      "context_length": 32768,
-      "context_formatted": "32K",
-      "input_type": "Text",
-      "digest": "ce6e8a1097cd",
-      "updated_at": "8 months ago",
+      "digest": "",
+      "updated_at": "",
       "is_cloud": false
     }
-  ]
+  ],
+  "is_deprecated": false,
+  "status": "active"
 }
