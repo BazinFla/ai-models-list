@@ -39,6 +39,11 @@ def get_available_icons(icons_dir: str) -> Set[str]:
     return {f for f in os.listdir(icons_dir) if f.endswith(".svg")}
 
 
+def slugify(text: str) -> str:
+    """Standardizes text to lowercase hyphenated slug."""
+    return text.strip().lower().replace(" ", "-")
+
+
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     default_icons_dir = os.path.abspath(
@@ -86,8 +91,32 @@ def main():
     unique_icons = set()
 
     for model_id, meta in sorted(curation.items()):
-        icon_name = meta.get("icon_name", "").strip()
-        creator = meta.get("creator", "Unknown")
+        creator = meta.get("creator", "").strip()
+        family = meta.get("family", "").strip()
+
+        # Construct icon name from $CREATOR-$FAMILY (supports clean, compact, and first-word slug variants)
+        if creator and family:
+            clean_c = slugify(creator)
+            compact_c = clean_c.replace("-", "")
+            first_c = clean_c.split("-")[0]
+            f_slug = slugify(family)
+
+            candidates = [f"{clean_c}-{f_slug}"]
+            if compact_c != clean_c:
+                candidates.append(f"{compact_c}-{f_slug}")
+            if first_c != clean_c:
+                candidates.append(f"{first_c}-{f_slug}")
+
+            # Select the matching candidate if already existing in available icons, otherwise prefer first_c-f_slug
+            matched = next(
+                (c for c in candidates if f"{c}.svg" in available_icons or f"{c}-color.svg" in available_icons),
+                None,
+            )
+            icon_name = matched if matched else f"{first_c}-{f_slug}"
+        elif meta.get("icon_name"):
+            icon_name = meta.get("icon_name", "").strip()
+        else:
+            icon_name = ""
 
         if not icon_name:
             mono_file = "default.svg"
@@ -104,7 +133,8 @@ def main():
 
         entry = {
             "model_id": model_id,
-            "creator": creator,
+            "creator": creator or "Unknown",
+            "family": family or "-",
             "icon_name": icon_name,
             "mono_file": mono_file,
             "has_mono": has_mono,
@@ -137,28 +167,28 @@ def main():
         print(json.dumps(output_data, indent=2, ensure_ascii=False))
         return
 
-    print("=" * 85)
+    print("=" * 88)
     print("🎨 AUDIT : DISPONIBILITÉ DES LOGOS DANS NEURADEX")
-    print("=" * 85)
+    print("=" * 88)
     print(f"📁 Répertoire des icônes : {args.icons_dir}")
     print(f"📦 Fichiers SVG trouvés  : {len(available_icons)}")
     print(f"📋 Modèles curatés       : {len(curation)} (représentant {len(unique_icons)} familles de logos uniques)")
-    print("-" * 85)
+    print("-" * 88)
     print(f"🟢 Logos complets (Mono + Couleur) : {len(complete)} / {len(curation)}")
     print(f"🟡 Logos couleur manquants          : {len(missing_color)} / {len(curation)}")
     print(f"🟡 Logos monochrome manquants       : {len(missing_mono)} / {len(curation)}")
     print(f"🔴 Aucun logo trouvé (Manque 2/2)   : {len(missing_both)} / {len(curation)}")
-    print("=" * 85)
+    print("=" * 88)
 
     displayed_entries = [r for r in results if not r["is_complete"]] if args.missing_only else results
 
-    print(f"{'ID MODÈLE':<22} {'CRÉATEUR':<16} {'NOM ICÔNE':<22} {'MONO (.svg)':<13} {'COULEUR (-color)':<13}")
-    print("-" * 85)
+    print(f"{'ID MODÈLE':<20} {'CRÉATEUR':<15} {'FAMILLE':<14} {'NOM FICHIER':<22} {'MONO':<10} {'COULEUR':<10}")
+    print("-" * 88)
 
     for r in displayed_entries:
-        mono_status = "✅ Présent" if r["has_mono"] else "❌ Manquant"
-        color_status = "✅ Présent" if r["has_color"] else "❌ Manquant"
-        print(f"{r['model_id']:<22} {r['creator']:<16} {r['icon_name']:<22} {mono_status:<13} {color_status:<13}")
+        mono_status = "✅ Présent" if r["has_mono"] else "❌ Manque"
+        color_status = "✅ Présent" if r["has_color"] else "❌ Manque"
+        print(f"{r['model_id']:<20} {r['creator']:<15} {r['family']:<14} {r['icon_name']:<22} {mono_status:<10} {color_status:<10}")
 
     print("=" * 85)
 

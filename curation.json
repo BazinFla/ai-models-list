@@ -2,301 +2,301 @@
   "llama3.3": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-llama",
+    "family": "llama",
     "license": "Llama 3.3 Community License",
     "homepage": "https://llama.meta.com"
   },
   "llama3.2": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-llama",
+    "family": "llama",
     "license": "Llama 3.2 Community License",
     "homepage": "https://llama.meta.com"
   },
   "llama3.2-vision": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-llama",
+    "family": "llama",
     "license": "Llama 3.2 Community License",
     "homepage": "https://llama.meta.com"
   },
   "llama3.1": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-llama",
+    "family": "llama",
     "license": "Llama 3.1 Community License",
     "homepage": "https://llama.meta.com"
   },
   "llama3": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-llama",
+    "family": "llama",
     "license": "Meta Llama 3 Community License",
     "homepage": "https://llama.meta.com"
   },
   "llama2": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-llama",
+    "family": "llama",
     "license": "Llama 2 Community License",
     "homepage": "https://llama.meta.com"
   },
   "codellama": {
     "creator": "Meta",
     "publisher": "Meta AI",
-    "icon_name": "meta-codellama",
+    "family": "codellama",
     "license": "Llama 2 Community License",
     "homepage": "https://llama.meta.com"
   },
   "deepseek-r1": {
     "creator": "DeepSeek",
     "publisher": "DeepSeek AI",
-    "icon_name": "deepseek-r1",
+    "family": "r1",
     "license": "MIT",
     "homepage": "https://www.deepseek.com"
   },
   "deepseek-v3": {
     "creator": "DeepSeek",
     "publisher": "DeepSeek AI",
-    "icon_name": "deepseek-v3",
+    "family": "v3",
     "license": "MIT",
     "homepage": "https://www.deepseek.com"
   },
   "deepseek-coder-v2": {
     "creator": "DeepSeek",
     "publisher": "DeepSeek AI",
-    "icon_name": "deepseek-coder",
+    "family": "coder",
     "license": "MIT",
     "homepage": "https://www.deepseek.com"
   },
   "deepseek-coder": {
     "creator": "DeepSeek",
     "publisher": "DeepSeek AI",
-    "icon_name": "deepseek-coder",
+    "family": "coder",
     "license": "DeepSeek License",
     "homepage": "https://www.deepseek.com"
   },
   "deepseek-llm": {
     "creator": "DeepSeek",
     "publisher": "DeepSeek AI",
-    "icon_name": "deepseek-llm",
+    "family": "llm",
     "license": "DeepSeek License",
     "homepage": "https://www.deepseek.com"
   },
   "mistral": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-mistral",
+    "family": "mistral",
     "license": "Apache-2.0",
     "homepage": "https://mistral.ai"
   },
   "mistral-nemo": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI / NVIDIA",
-    "icon_name": "mistral-nemo",
+    "family": "nemo",
     "license": "Apache-2.0",
     "homepage": "https://mistral.ai"
   },
   "mistral-small": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-small",
+    "family": "small",
     "license": "Mistral Research License",
     "homepage": "https://mistral.ai"
   },
   "mistral-large": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-large",
+    "family": "large",
     "license": "Mistral Commercial License",
     "homepage": "https://mistral.ai"
   },
   "mixtral": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-mixtral",
+    "family": "mixtral",
     "license": "Apache-2.0",
     "homepage": "https://mistral.ai"
   },
   "codestral": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-codestral",
+    "family": "codestral",
     "license": "Mistral Non-Production License",
     "homepage": "https://mistral.ai"
   },
   "mathstral": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-mathstral",
+    "family": "mathstral",
     "license": "Apache-2.0",
     "homepage": "https://mistral.ai"
   },
   "ministral-3": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-ministral",
+    "family": "ministral",
     "license": "Mistral Research License",
     "homepage": "https://mistral.ai"
   },
   "devstral": {
     "creator": "Mistral AI",
     "publisher": "Mistral AI",
-    "icon_name": "mistral-devstral",
+    "family": "devstral",
     "license": "Apache-2.0",
     "homepage": "https://mistral.ai"
   },
   "gemma2": {
     "creator": "Google",
     "publisher": "Google DeepMind",
-    "icon_name": "google-gemma",
+    "family": "gemma",
     "license": "Gemma Terms of Use",
     "homepage": "https://ai.google.dev/gemma"
   },
   "gemma": {
     "creator": "Google",
     "publisher": "Google DeepMind",
-    "icon_name": "google-gemma",
+    "family": "gemma",
     "license": "Gemma Terms of Use",
     "homepage": "https://ai.google.dev/gemma"
   },
   "codegemma": {
     "creator": "Google",
     "publisher": "Google DeepMind",
-    "icon_name": "google-gemma",
+    "family": "gemma",
     "license": "Gemma Terms of Use",
     "homepage": "https://ai.google.dev/gemma"
   },
   "qwen2.5": {
     "creator": "Alibaba Cloud",
     "publisher": "Qwen Team",
-    "icon_name": "alibaba-qwen",
+    "family": "qwen",
     "license": "Apache-2.0",
     "homepage": "https://github.com/QwenLM/Qwen2.5"
   },
   "qwen2.5-coder": {
     "creator": "Alibaba Cloud",
     "publisher": "Qwen Team",
-    "icon_name": "alibaba-qwen",
+    "family": "qwen",
     "license": "Apache-2.0",
     "homepage": "https://github.com/QwenLM/Qwen2.5-Coder"
   },
   "qwen2": {
     "creator": "Alibaba Cloud",
     "publisher": "Qwen Team",
-    "icon_name": "alibaba-qwen",
+    "family": "qwen",
     "license": "Apache-2.0",
     "homepage": "https://github.com/QwenLM/Qwen2"
   },
   "qwq": {
     "creator": "Alibaba Cloud",
     "publisher": "Qwen Team",
-    "icon_name": "alibaba-qwq",
+    "family": "qwq",
     "license": "Apache-2.0",
     "homepage": "https://qwenlm.github.io"
   },
   "phi4": {
     "creator": "Microsoft",
     "publisher": "Microsoft Research",
-    "icon_name": "microsoft-phi",
+    "family": "phi",
     "license": "MIT",
     "homepage": "https://azure.microsoft.com"
   },
   "phi3.5": {
     "creator": "Microsoft",
     "publisher": "Microsoft Research",
-    "icon_name": "microsoft-phi",
+    "family": "phi",
     "license": "MIT",
     "homepage": "https://azure.microsoft.com"
   },
   "phi3": {
     "creator": "Microsoft",
     "publisher": "Microsoft Research",
-    "icon_name": "microsoft-phi",
+    "family": "phi",
     "license": "MIT",
     "homepage": "https://azure.microsoft.com"
   },
   "granite3.1-dense": {
     "creator": "IBM",
     "publisher": "IBM Research",
-    "icon_name": "ibm-granite",
+    "family": "granite",
     "license": "Apache-2.0",
     "homepage": "https://www.ibm.com/granite"
   },
   "granite3.1-moe": {
     "creator": "IBM",
     "publisher": "IBM Research",
-    "icon_name": "ibm-granite",
+    "family": "granite",
     "license": "Apache-2.0",
     "homepage": "https://www.ibm.com/granite"
   },
   "granite-code": {
     "creator": "IBM",
     "publisher": "IBM Research",
-    "icon_name": "ibm-granite",
+    "family": "granite",
     "license": "Apache-2.0",
     "homepage": "https://www.ibm.com/granite"
   },
   "command-r-plus": {
     "creator": "Cohere",
     "publisher": "Cohere For AI",
-    "icon_name": "cohere-command",
+    "family": "command",
     "license": "CC-BY-NC-4.0",
     "homepage": "https://cohere.com"
   },
   "command-r": {
     "creator": "Cohere",
     "publisher": "Cohere For AI",
-    "icon_name": "cohere-command",
+    "family": "command",
     "license": "CC-BY-NC-4.0",
     "homepage": "https://cohere.com"
   },
   "falcon3": {
     "creator": "TII",
     "publisher": "Technology Innovation Institute",
-    "icon_name": "tii-falcon",
+    "family": "falcon",
     "license": "TII Falcon-LLM License",
     "homepage": "https://falconllm.tii.ae"
   },
   "smollm2": {
     "creator": "Hugging Face",
     "publisher": "Hugging Face",
-    "icon_name": "huggingface-smollm",
+    "family": "smollm",
     "license": "Apache-2.0",
     "homepage": "https://huggingface.co/blog/smollm"
   },
   "smollm": {
     "creator": "Hugging Face",
     "publisher": "Hugging Face",
-    "icon_name": "huggingface-smollm",
+    "family": "smollm",
     "license": "Apache-2.0",
     "homepage": "https://huggingface.co/blog/smollm"
   },
   "starcoder2": {
     "creator": "BigCode",
     "publisher": "BigCode / ServiceNow / Hugging Face",
-    "icon_name": "bigcode-starcoder",
+    "family": "starcoder",
     "license": "BigCode OpenRAIL-M v1",
     "homepage": "https://huggingface.co/bigcode"
   },
   "minicpm-v": {
     "creator": "OpenBMB",
     "publisher": "OpenBMB",
-    "icon_name": "openbmb-minicpm",
+    "family": "minicpm",
     "license": "Apache-2.0",
     "homepage": "https://github.com/OpenBMB/MiniCPM-V"
   },
   "moondream": {
     "creator": "Vikhyat",
     "publisher": "moondream.ai",
-    "icon_name": "vikhyat-moondream",
+    "family": "moondream",
     "license": "Apache-2.0",
     "homepage": "https://moondream.ai"
   },
   "solar-pro": {
     "creator": "Upstage",
     "publisher": "Upstage",
-    "icon_name": "upstage-solar",
+    "family": "solar",
     "license": "Upstage Solar License",
     "homepage": "https://www.upstage.ai"
   }
