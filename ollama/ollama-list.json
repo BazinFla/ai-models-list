@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-09-02 22:51:19 UTC",
+  "scraped_at": "2026-09-02 23:18:55 UTC",
   "total_models": 239,
   "total_active_models": 239,
   "total_deprecated_models": 0,
@@ -86,7 +86,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-llama",
       "license": "Llama 3.1 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "llama"
     },
     {
       "id": "deepseek-r1",
@@ -230,7 +231,8 @@
       "publisher": "DeepSeek AI",
       "icon_name": "deepseek-r1",
       "license": "MIT",
-      "homepage": "https://www.deepseek.com"
+      "homepage": "https://www.deepseek.com",
+      "family": "r1"
     },
     {
       "id": "nomic-embed-text",
@@ -345,7 +347,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-llama",
       "license": "Llama 3.2 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "llama"
     },
     {
       "id": "gemma3",
@@ -596,7 +599,8 @@
       "publisher": "Qwen Team",
       "icon_name": "alibaba-qwen",
       "license": "Apache-2.0",
-      "homepage": "https://github.com/QwenLM/Qwen2.5"
+      "homepage": "https://github.com/QwenLM/Qwen2.5",
+      "family": "qwen"
     },
     {
       "id": "qwen3",
@@ -803,7 +807,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-mistral",
       "license": "Apache-2.0",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "mistral"
     },
     {
       "id": "gemma2",
@@ -885,7 +890,8 @@
       "publisher": "Google DeepMind",
       "icon_name": "google-gemma",
       "license": "Gemma Terms of Use",
-      "homepage": "https://ai.google.dev/gemma"
+      "homepage": "https://ai.google.dev/gemma",
+      "family": "gemma"
     },
     {
       "id": "llama3",
@@ -952,7 +958,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-llama",
       "license": "Meta Llama 3 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "llama"
     },
     {
       "id": "gemma4",
@@ -1164,7 +1171,8 @@
       "publisher": "Qwen Team",
       "icon_name": "alibaba-qwen",
       "license": "Apache-2.0",
-      "homepage": "https://github.com/QwenLM/Qwen2.5-Coder"
+      "homepage": "https://github.com/QwenLM/Qwen2.5-Coder",
+      "family": "qwen"
     },
     {
       "id": "qwen3.5",
@@ -1372,7 +1380,8 @@
       "publisher": "Microsoft Research",
       "icon_name": "microsoft-phi",
       "license": "MIT",
-      "homepage": "https://azure.microsoft.com"
+      "homepage": "https://azure.microsoft.com",
+      "family": "phi"
     },
     {
       "id": "llava",
@@ -1693,7 +1702,8 @@
       "publisher": "Google DeepMind",
       "icon_name": "google-gemma",
       "license": "Gemma Terms of Use",
-      "homepage": "https://ai.google.dev/gemma"
+      "homepage": "https://ai.google.dev/gemma",
+      "family": "gemma"
     },
     {
       "id": "phi4",
@@ -1745,7 +1755,8 @@
       "publisher": "Microsoft Research",
       "icon_name": "microsoft-phi",
       "license": "MIT",
-      "homepage": "https://azure.microsoft.com"
+      "homepage": "https://azure.microsoft.com",
+      "family": "phi"
     },
     {
       "id": "qwen",
@@ -1979,7 +1990,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-llama",
       "license": "Llama 2 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "llama"
     },
     {
       "id": "glm-ocr",
@@ -2238,7 +2250,8 @@
       "publisher": "Qwen Team",
       "icon_name": "alibaba-qwen",
       "license": "Apache-2.0",
-      "homepage": "https://github.com/QwenLM/Qwen2"
+      "homepage": "https://github.com/QwenLM/Qwen2",
+      "family": "qwen"
     },
     {
       "id": "codellama",
@@ -2335,7 +2348,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-codellama",
       "license": "Llama 2 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "codellama"
     },
     {
       "id": "mistral-nemo",
@@ -2388,7 +2402,8 @@
       "publisher": "Mistral AI / NVIDIA",
       "icon_name": "mistral-nemo",
       "license": "Apache-2.0",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "nemo"
     },
     {
       "id": "qwen3-vl",
@@ -2613,7 +2628,8 @@
       "publisher": "OpenBMB",
       "icon_name": "openbmb-minicpm",
       "license": "Apache-2.0",
-      "homepage": "https://github.com/OpenBMB/MiniCPM-V"
+      "homepage": "https://github.com/OpenBMB/MiniCPM-V",
+      "family": "minicpm"
     },
     {
       "id": "llama3.2-vision",
@@ -2681,7 +2697,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-llama",
       "license": "Llama 3.2 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "llama"
     },
     {
       "id": "qwen2.5vl",
@@ -2856,7 +2873,8 @@
       "publisher": "DeepSeek AI",
       "icon_name": "deepseek-coder",
       "license": "DeepSeek License",
-      "homepage": "https://www.deepseek.com"
+      "homepage": "https://www.deepseek.com",
+      "family": "coder"
     },
     {
       "id": "llama3.3",
@@ -2909,7 +2927,8 @@
       "publisher": "Meta AI",
       "icon_name": "meta-llama",
       "license": "Llama 3.3 Community License",
-      "homepage": "https://llama.meta.com"
+      "homepage": "https://llama.meta.com",
+      "family": "llama"
     },
     {
       "id": "dolphin3",
@@ -3039,7 +3058,8 @@
       "publisher": "Hugging Face",
       "icon_name": "huggingface-smollm",
       "license": "Apache-2.0",
-      "homepage": "https://huggingface.co/blog/smollm"
+      "homepage": "https://huggingface.co/blog/smollm",
+      "family": "smollm"
     },
     {
       "id": "deepseek-v3",
@@ -3091,7 +3111,8 @@
       "publisher": "DeepSeek AI",
       "icon_name": "deepseek-v3",
       "license": "MIT",
-      "homepage": "https://www.deepseek.com"
+      "homepage": "https://www.deepseek.com",
+      "family": "v3"
     },
     {
       "id": "qwen3-embedding",
@@ -3361,7 +3382,8 @@
       "publisher": "Google DeepMind",
       "icon_name": "google-gemma",
       "license": "Gemma Terms of Use",
-      "homepage": "https://ai.google.dev/gemma"
+      "homepage": "https://ai.google.dev/gemma",
+      "family": "gemma"
     },
     {
       "id": "snowflake-arctic-embed",
@@ -3537,7 +3559,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-small",
       "license": "Mistral Research License",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "small"
     },
     {
       "id": "deepseek-coder-v2",
@@ -3604,7 +3627,8 @@
       "publisher": "DeepSeek AI",
       "icon_name": "deepseek-coder",
       "license": "MIT",
-      "homepage": "https://www.deepseek.com"
+      "homepage": "https://www.deepseek.com",
+      "family": "coder"
     },
     {
       "id": "orca-mini",
@@ -3764,7 +3788,8 @@
       "publisher": "IBM Research",
       "icon_name": "ibm-granite",
       "license": "Apache-2.0",
-      "homepage": "https://www.ibm.com/granite"
+      "homepage": "https://www.ibm.com/granite",
+      "family": "granite"
     },
     {
       "id": "starcoder2",
@@ -3846,7 +3871,8 @@
       "publisher": "BigCode / ServiceNow / Hugging Face",
       "icon_name": "bigcode-starcoder",
       "license": "BigCode OpenRAIL-M v1",
-      "homepage": "https://huggingface.co/bigcode"
+      "homepage": "https://huggingface.co/bigcode",
+      "family": "starcoder"
     },
     {
       "id": "nemotron-3-super",
@@ -3950,7 +3976,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-mixtral",
       "license": "Apache-2.0",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "mixtral"
     },
     {
       "id": "llama2-uncensored",
@@ -4109,7 +4136,8 @@
       "publisher": "Technology Innovation Institute",
       "icon_name": "tii-falcon",
       "license": "TII Falcon-LLM License",
-      "homepage": "https://falconllm.tii.ae"
+      "homepage": "https://falconllm.tii.ae",
+      "family": "falcon"
     },
     {
       "id": "mistral-small3.2",
@@ -4357,7 +4385,8 @@
       "publisher": "Qwen Team",
       "icon_name": "alibaba-qwq",
       "license": "Apache-2.0",
-      "homepage": "https://qwenlm.github.io"
+      "homepage": "https://qwenlm.github.io",
+      "family": "qwq"
     },
     {
       "id": "translategemma",
@@ -4565,7 +4594,8 @@
       "publisher": "Hugging Face",
       "icon_name": "huggingface-smollm",
       "license": "Apache-2.0",
-      "homepage": "https://huggingface.co/blog/smollm"
+      "homepage": "https://huggingface.co/blog/smollm",
+      "family": "smollm"
     },
     {
       "id": "dolphin-llama3",
@@ -4981,7 +5011,8 @@
       "publisher": "moondream.ai",
       "icon_name": "vikhyat-moondream",
       "license": "Apache-2.0",
-      "homepage": "https://moondream.ai"
+      "homepage": "https://moondream.ai",
+      "family": "moondream"
     },
     {
       "id": "phi4-reasoning",
@@ -5469,7 +5500,8 @@
       "publisher": "IBM Research",
       "icon_name": "ibm-granite",
       "license": "Apache-2.0",
-      "homepage": "https://www.ibm.com/granite"
+      "homepage": "https://www.ibm.com/granite",
+      "family": "granite"
     },
     {
       "id": "command-r",
@@ -5522,7 +5554,8 @@
       "publisher": "Cohere For AI",
       "icon_name": "cohere-command",
       "license": "CC-BY-NC-4.0",
-      "homepage": "https://cohere.com"
+      "homepage": "https://cohere.com",
+      "family": "command"
     },
     {
       "id": "magistral",
@@ -5733,7 +5766,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-ministral",
       "license": "Mistral Research License",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "ministral"
     },
     {
       "id": "yi",
@@ -5960,7 +5994,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-codestral",
       "license": "Mistral Non-Production License",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "codestral"
     },
     {
       "id": "mistral-large",
@@ -6013,7 +6048,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-large",
       "license": "Mistral Commercial License",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "large"
     },
     {
       "id": "openchat",
@@ -6578,7 +6614,8 @@
       "publisher": "DeepSeek AI",
       "icon_name": "deepseek-llm",
       "license": "DeepSeek License",
-      "homepage": "https://www.deepseek.com"
+      "homepage": "https://www.deepseek.com",
+      "family": "llm"
     },
     {
       "id": "nous-hermes",
@@ -7735,7 +7772,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-devstral",
       "license": "Apache-2.0",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "devstral"
     },
     {
       "id": "llama-guard3",
@@ -7942,7 +7980,8 @@
       "publisher": "IBM Research",
       "icon_name": "ibm-granite",
       "license": "Apache-2.0",
-      "homepage": "https://www.ibm.com/granite"
+      "homepage": "https://www.ibm.com/granite",
+      "family": "granite"
     },
     {
       "id": "granite3-dense",
@@ -8057,7 +8096,8 @@
       "publisher": "Microsoft Research",
       "icon_name": "microsoft-phi",
       "license": "MIT",
-      "homepage": "https://azure.microsoft.com"
+      "homepage": "https://azure.microsoft.com",
+      "family": "phi"
     },
     {
       "id": "internlm2",
@@ -9654,7 +9694,8 @@
       "publisher": "Cohere For AI",
       "icon_name": "cohere-command",
       "license": "CC-BY-NC-4.0",
-      "homepage": "https://cohere.com"
+      "homepage": "https://cohere.com",
+      "family": "command"
     },
     {
       "id": "mistral-small3.1",
@@ -9730,7 +9771,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 773400,
+      "pulls_count": 773500,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -10106,7 +10147,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 684200,
+      "pulls_count": 684300,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -10721,7 +10762,8 @@
       "publisher": "Upstage",
       "icon_name": "upstage-solar",
       "license": "Upstage Solar License",
-      "homepage": "https://www.upstage.ai"
+      "homepage": "https://www.upstage.ai",
+      "family": "solar"
     },
     {
       "id": "magicoder",
@@ -10897,7 +10939,8 @@
       "publisher": "Mistral AI",
       "icon_name": "mistral-mathstral",
       "license": "Apache-2.0",
-      "homepage": "https://mistral.ai"
+      "homepage": "https://mistral.ai",
+      "family": "mathstral"
     },
     {
       "id": "nuextract",
@@ -12028,7 +12071,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 417700,
+      "pulls_count": 417800,
       "tags_count": 2,
       "updated_at": "Aug 1, 2026 5:21 AM UTC",
       "updated_full_date": "Aug 1, 2026 5:21 AM UTC",
@@ -13634,7 +13677,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 146500,
+      "pulls_count": 146600,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -14026,7 +14069,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 58300,
+      "pulls_count": 58400,
       "tags_count": 0,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -14123,7 +14166,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 47500,
+      "pulls_count": 47900,
       "tags_count": 3,
       "updated_at": "Aug 27, 2026 8:28 PM UTC",
       "updated_full_date": "Aug 27, 2026 8:28 PM UTC",

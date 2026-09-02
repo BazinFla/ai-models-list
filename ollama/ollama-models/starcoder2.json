@@ -78,5 +78,6 @@
   "publisher": "BigCode / ServiceNow / Hugging Face",
   "icon_name": "bigcode-starcoder",
   "license": "BigCode OpenRAIL-M v1",
-  "homepage": "https://huggingface.co/bigcode"
+  "homepage": "https://huggingface.co/bigcode",
+  "family": "starcoder"
 }
