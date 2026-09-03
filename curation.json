@@ -167,19 +167,12 @@
     "license": "Gemma Terms of Use",
     "homepage": "https://ai.google.dev/gemma"
   },
-  "qwen2.5": {
+  "qwen": {
     "creator": "Alibaba Cloud",
     "publisher": "Qwen Team",
     "family": "qwen",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/QwenLM/Qwen2.5"
-  },
-  "qwen2.5-coder": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/QwenLM/Qwen2.5-Coder"
+    "license": "",
+    "homepage": ""
   },
   "qwen2": {
     "creator": "Alibaba Cloud",
@@ -188,10 +181,108 @@
     "license": "Apache-2.0",
     "homepage": "https://github.com/QwenLM/Qwen2"
   },
+  "qwen2-math": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen2.5": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/QwenLM/Qwen2.5"
+  },
+  "qwen2.5vl": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen2.5-coder": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/QwenLM/Qwen2.5-Coder"
+  },
+  "qwen3": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3-embedding": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3-next": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3-vl": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3-coder": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3-coder-next": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3.5": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3.6": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3.8": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
+  "qwen3.8-flash-next": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen",
+    "license": "",
+    "homepage": ""
+  },
   "qwq": {
     "creator": "Alibaba Cloud",
     "publisher": "Qwen Team",
-    "family": "qwq",
+    "family": "qwen",
     "license": "Apache-2.0",
     "homepage": "https://qwenlm.github.io"
   },
