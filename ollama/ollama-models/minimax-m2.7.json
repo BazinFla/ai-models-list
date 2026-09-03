@@ -22,26 +22,26 @@
     "embedding": false
   },
   "pulls_count": 2400000,
-  "tags_count": 0,
+  "tags_count": 1,
   "updated_at": "Mar 18, 2026 6:05 PM UTC",
   "updated_full_date": "Mar 18, 2026 6:05 PM UTC",
   "updated_date_key": 202603181805,
   "is_cloud": true,
-  "default_tag": "minimax-m2.7:latest",
+  "default_tag": "minimax-m2.7:cloud",
   "variants": [
     {
-      "tag": "minimax-m2.7:latest",
-      "name": "latest",
+      "tag": "minimax-m2.7:cloud",
+      "name": "cloud",
       "parameter_size": "",
-      "quantization": "Q4_0 (Estimated)",
-      "size_bytes": 4294967296,
-      "size_formatted": "~4 GB",
-      "context_length": 8192,
-      "context_formatted": "8K",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Medium Usage",
+      "context_length": 204800,
+      "context_formatted": "200K",
       "input_type": "Text",
-      "digest": "",
-      "updated_at": "",
-      "is_cloud": false
+      "digest": "06daa293c105",
+      "updated_at": "5 months ago",
+      "is_cloud": true
     }
   ],
   "is_deprecated": false,
