@@ -8,7 +8,7 @@ as well as a consolidated catalog index in ollama/ollama-list.json.
 
 Key Features:
 - Preserves removed/deprecated models with `is_deprecated: true`, `status: 'deprecated'`, and `deprecated_at`.
-- Supports manual curation overrides via `curation.json` (creator, publisher, icon_name, license, homepage, etc.).
+- Supports manual curation overrides via `curation.json` (creator, publisher, family, icon_name, etc.).
 - Performs intelligent in-place merge so manual edits in individual model JSON files are never overwritten.
 - Multi-threaded deep scraping for exact variants, context lengths, and digests.
 

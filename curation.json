@@ -1,394 +1,1197 @@
 {
-  "llama3.3": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "llama",
-    "license": "Llama 3.3 Community License",
-    "homepage": "https://llama.meta.com"
+  "alfred": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "llama3.2": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "llama",
-    "license": "Llama 3.2 Community License",
-    "homepage": "https://llama.meta.com"
+  "all-minilm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "llama3.2-vision": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "llama",
-    "license": "Llama 3.2 Community License",
-    "homepage": "https://llama.meta.com"
+  "athene-v2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "llama3.1": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "llama",
-    "license": "Llama 3.1 Community License",
-    "homepage": "https://llama.meta.com"
+  "aya": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "llama3": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "llama",
-    "license": "Meta Llama 3 Community License",
-    "homepage": "https://llama.meta.com"
+  "aya-expanse": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "llama2": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "llama",
-    "license": "Llama 2 Community License",
-    "homepage": "https://llama.meta.com"
+  "bakllava": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "codellama": {
-    "creator": "Meta",
-    "publisher": "Meta AI",
-    "family": "codellama",
-    "license": "Llama 2 Community License",
-    "homepage": "https://llama.meta.com"
+  "bespoke-minicheck": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "deepseek-r1": {
-    "creator": "DeepSeek",
-    "publisher": "DeepSeek AI",
-    "family": "r1",
-    "license": "MIT",
-    "homepage": "https://www.deepseek.com"
+  "bge-large": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "deepseek-v3": {
-    "creator": "DeepSeek",
-    "publisher": "DeepSeek AI",
-    "family": "v3",
-    "license": "MIT",
-    "homepage": "https://www.deepseek.com"
+  "bge-m3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "deepseek-coder-v2": {
-    "creator": "DeepSeek",
-    "publisher": "DeepSeek AI",
-    "family": "coder",
-    "license": "MIT",
-    "homepage": "https://www.deepseek.com"
+  "codebooga": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "deepseek-coder": {
-    "creator": "DeepSeek",
-    "publisher": "DeepSeek AI",
-    "family": "coder",
-    "license": "DeepSeek License",
-    "homepage": "https://www.deepseek.com"
-  },
-  "deepseek-llm": {
-    "creator": "DeepSeek",
-    "publisher": "DeepSeek AI",
-    "family": "llm",
-    "license": "DeepSeek License",
-    "homepage": "https://www.deepseek.com"
-  },
-  "mistral": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "mistral",
-    "license": "Apache-2.0",
-    "homepage": "https://mistral.ai"
-  },
-  "mistral-nemo": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI / NVIDIA",
-    "family": "nemo",
-    "license": "Apache-2.0",
-    "homepage": "https://mistral.ai"
-  },
-  "mistral-small": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "small",
-    "license": "Mistral Research License",
-    "homepage": "https://mistral.ai"
-  },
-  "mistral-large": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "large",
-    "license": "Mistral Commercial License",
-    "homepage": "https://mistral.ai"
-  },
-  "mixtral": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "mixtral",
-    "license": "Apache-2.0",
-    "homepage": "https://mistral.ai"
-  },
-  "codestral": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "codestral",
-    "license": "Mistral Non-Production License",
-    "homepage": "https://mistral.ai"
-  },
-  "mathstral": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "mathstral",
-    "license": "Apache-2.0",
-    "homepage": "https://mistral.ai"
-  },
-  "ministral-3": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "ministral",
-    "license": "Mistral Research License",
-    "homepage": "https://mistral.ai"
-  },
-  "devstral": {
-    "creator": "Mistral AI",
-    "publisher": "Mistral AI",
-    "family": "devstral",
-    "license": "Apache-2.0",
-    "homepage": "https://mistral.ai"
-  },
-  "gemma2": {
-    "creator": "Google",
-    "publisher": "Google DeepMind",
-    "family": "gemma",
-    "license": "Gemma Terms of Use",
-    "homepage": "https://ai.google.dev/gemma"
-  },
-  "gemma": {
-    "creator": "Google",
-    "publisher": "Google DeepMind",
-    "family": "gemma",
-    "license": "Gemma Terms of Use",
-    "homepage": "https://ai.google.dev/gemma"
+  "codegeex4": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
   "codegemma": {
     "creator": "Google",
     "publisher": "Google DeepMind",
-    "family": "gemma",
-    "license": "Gemma Terms of Use",
-    "homepage": "https://ai.google.dev/gemma"
+    "family": "gemma"
   },
-  "qwen": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
+  "codellama": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "codellama"
   },
-  "qwen2": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/QwenLM/Qwen2"
+  "codeqwen": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "qwen2-math": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
+  "codestral": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "codestral"
   },
-  "qwen2.5": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/QwenLM/Qwen2.5"
+  "codeup": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "qwen2.5vl": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
+  "cogito": {
+    "creator": "Deep Cogito",
+    "publisher": "Deep Cogito",
+    "family": "cogito"
   },
-  "qwen2.5-coder": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/QwenLM/Qwen2.5-Coder"
+  "cogito-2.1": {
+    "creator": "Deep Cogito",
+    "publisher": "Deep Cogito",
+    "family": "cogito"
   },
-  "qwen3": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3-embedding": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3-next": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3-vl": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3-coder": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3-coder-next": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3.5": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3.6": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3.8": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwen3.8-flash-next": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "",
-    "homepage": ""
-  },
-  "qwq": {
-    "creator": "Alibaba Cloud",
-    "publisher": "Qwen Team",
-    "family": "qwen",
-    "license": "Apache-2.0",
-    "homepage": "https://qwenlm.github.io"
-  },
-  "phi4": {
-    "creator": "Microsoft",
-    "publisher": "Microsoft Research",
-    "family": "phi",
-    "license": "MIT",
-    "homepage": "https://azure.microsoft.com"
-  },
-  "phi3.5": {
-    "creator": "Microsoft",
-    "publisher": "Microsoft Research",
-    "family": "phi",
-    "license": "MIT",
-    "homepage": "https://azure.microsoft.com"
-  },
-  "phi3": {
-    "creator": "Microsoft",
-    "publisher": "Microsoft Research",
-    "family": "phi",
-    "license": "MIT",
-    "homepage": "https://azure.microsoft.com"
-  },
-  "granite3.1-dense": {
-    "creator": "IBM",
-    "publisher": "IBM Research",
-    "family": "granite",
-    "license": "Apache-2.0",
-    "homepage": "https://www.ibm.com/granite"
-  },
-  "granite3.1-moe": {
-    "creator": "IBM",
-    "publisher": "IBM Research",
-    "family": "granite",
-    "license": "Apache-2.0",
-    "homepage": "https://www.ibm.com/granite"
-  },
-  "granite-code": {
-    "creator": "IBM",
-    "publisher": "IBM Research",
-    "family": "granite",
-    "license": "Apache-2.0",
-    "homepage": "https://www.ibm.com/granite"
-  },
-  "command-r-plus": {
-    "creator": "Cohere",
-    "publisher": "Cohere For AI",
-    "family": "command",
-    "license": "CC-BY-NC-4.0",
-    "homepage": "https://cohere.com"
+  "command-a": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
   "command-r": {
     "creator": "Cohere",
     "publisher": "Cohere For AI",
-    "family": "command",
-    "license": "CC-BY-NC-4.0",
-    "homepage": "https://cohere.com"
+    "family": "command"
+  },
+  "command-r-plus": {
+    "creator": "Cohere",
+    "publisher": "Cohere For AI",
+    "family": "command"
+  },
+  "command-r7b": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "command-r7b-arabic": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "dbrx": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "deepcoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "deepscaler": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "deepseek-coder": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek"
+  },
+  "deepseek-coder-v2": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v2"
+  },
+  "deepseek-llm": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_llm"
+  },
+  "deepseek-ocr": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_ocr"
+  },
+  "deepseek-r1": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "r1"
+  },
+  "deepseek-v2": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v2"
+  },
+  "deepseek-v2.5": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v2"
+  },
+  "deepseek-v3": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v3"
+  },
+  "deepseek-v3.1": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v3"
+  },
+  "deepseek-v4-flash": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v4"
+  },
+  "deepseek-v4-pro": {
+    "creator": "DeepSeek",
+    "publisher": "DeepSeek AI",
+    "family": "DeepSeek_v4"
+  },
+  "devstral": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "devstral"
+  },
+  "devstral-2": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "devstral"
+  },
+  "devstral-small-2": {
+    "creator": "Mistral AI",
+    "publisher": "",
+    "family": ""
+  },
+  "dolphin-llama3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "dolphin-mistral": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "dolphin-mixtral": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "dolphin-phi": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "dolphin3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "dolphincoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "duckdb-nsql": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "embeddinggemma": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "everythinglm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "exaone-deep": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "exaone3.5": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "falcon": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "falcon2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
   "falcon3": {
     "creator": "TII",
     "publisher": "Technology Innovation Institute",
-    "family": "falcon",
-    "license": "TII Falcon-LLM License",
-    "homepage": "https://falconllm.tii.ae"
+    "family": "falcon"
   },
-  "smollm2": {
-    "creator": "Hugging Face",
-    "publisher": "Hugging Face",
-    "family": "smollm",
-    "license": "Apache-2.0",
-    "homepage": "https://huggingface.co/blog/smollm"
+  "firefunction-v2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "smollm": {
-    "creator": "Hugging Face",
-    "publisher": "Hugging Face",
-    "family": "smollm",
-    "license": "Apache-2.0",
-    "homepage": "https://huggingface.co/blog/smollm"
+  "functiongemma": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
-  "starcoder2": {
-    "creator": "BigCode",
-    "publisher": "BigCode / ServiceNow / Hugging Face",
-    "family": "starcoder",
-    "license": "BigCode OpenRAIL-M v1",
-    "homepage": "https://huggingface.co/bigcode"
+  "gemma": {
+    "creator": "Google",
+    "publisher": "Google DeepMind",
+    "family": "gemma"
+  },
+  "gemma2": {
+    "creator": "Google",
+    "publisher": "Google DeepMind",
+    "family": "gemma"
+  },
+  "gemma3": {
+    "creator": "Google",
+    "publisher": "Google DeepMind",
+    "family": "gemma"
+  },
+  "gemma3n": {
+    "creator": "Google",
+    "publisher": "Google DeepMind",
+    "family": "gemma"
+  },
+  "gemma4": {
+    "creator": "Google",
+    "publisher": "Google DeepMind",
+    "family": "gemma"
+  },
+  "glm-4.7-flash": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "glm-5.1": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "glm-5.2": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "glm-5.3": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "glm-5.3-flash": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "glm-ocr": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "glm4": {
+    "creator": "Zhipu AI",
+    "publisher": "Zhipu AI",
+    "family": "glm"
+  },
+  "goliath": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "gpt-oss": {
+    "creator": "OpenAI",
+    "publisher": "OpenAI",
+    "family": "gpt-oss"
+  },
+  "gpt-oss-safeguard": {
+    "creator": "OpenAI",
+    "publisher": "OpenAI",
+    "family": "gpt-oss"
+  },
+  "granite-code": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite-embedding": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3-dense": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3-guardian": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3-moe": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3.1-dense": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3.1-moe": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3.2": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3.2-vision": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite3.3": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite4": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite4.1": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite4.1-guardian": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "granite4.2": {
+    "creator": "IBM",
+    "publisher": "IBM Research",
+    "family": "granite"
+  },
+  "hermes3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "internlm2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "kimi-k2.6": {
+    "creator": "Moonshot AI",
+    "publisher": "Moonshot AI",
+    "family": "kimi"
+  },
+  "kimi-k2.7-code": {
+    "creator": "Moonshot AI",
+    "publisher": "Moonshot AI",
+    "family": "kimi"
+  },
+  "kimi-k3": {
+    "creator": "Moonshot AI",
+    "publisher": "Moonshot AI",
+    "family": "kimi"
+  },
+  "laguna-s-2.1": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "laguna-xs-2.1": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "laguna-xs.2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "lfm2": {
+    "creator": "Liquid AI",
+    "publisher": "Liquid AI",
+    "family": "lfm"
+  },
+  "lfm2.5": {
+    "creator": "Liquid AI",
+    "publisher": "Liquid AI",
+    "family": "lfm"
+  },
+  "lfm2.5-thinking": {
+    "creator": "Liquid AI",
+    "publisher": "Liquid AI",
+    "family": "lfm"
+  },
+  "llama-guard3": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama-pro": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama2": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama2-chinese": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama2-uncensored": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "llama3": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama3-chatqa": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "llama3-gradient": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "llama3-groq-tool-use": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "llama3.1": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama3.2": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama3.2-vision": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama3.3": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llama4": {
+    "creator": "Meta",
+    "publisher": "Meta AI",
+    "family": "llama"
+  },
+  "llava": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "llava-llama3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "llava-phi3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "magicoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "magistral": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "marco-o1": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "mathstral": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mathstral"
+  },
+  "medgemma": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "medgemma1.5": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "meditron": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "medllama2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "megadolphin": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
   "minicpm-v": {
     "creator": "OpenBMB",
     "publisher": "OpenBMB",
-    "family": "minicpm",
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/OpenBMB/MiniCPM-V"
+    "family": "minicpm"
+  },
+  "minicpm-v4.5": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "minicpm-v4.6": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "minimax-m2.7": {
+    "creator": "MiniMax",
+    "publisher": "MiniMax",
+    "family": "minimax"
+  },
+  "minimax-m3": {
+    "creator": "MiniMax",
+    "publisher": "MiniMax",
+    "family": "minimax"
+  },
+  "ministral-3": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "ministral"
+  },
+  "mistral": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mistral"
+  },
+  "mistral-large": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "large"
+  },
+  "mistral-large-3": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mistral"
+  },
+  "mistral-medium-3.5": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mistral"
+  },
+  "mistral-nemo": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI / NVIDIA",
+    "family": "nemo"
+  },
+  "mistral-openorca": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "mistral-small": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "small"
+  },
+  "mistral-small3.1": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mistral"
+  },
+  "mistral-small3.2": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mistral"
+  },
+  "mistrallite": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "mixtral": {
+    "creator": "Mistral AI",
+    "publisher": "Mistral AI",
+    "family": "mixtral"
   },
   "moondream": {
     "creator": "Vikhyat",
     "publisher": "moondream.ai",
-    "family": "moondream",
-    "license": "Apache-2.0",
-    "homepage": "https://moondream.ai"
+    "family": "moondream"
+  },
+  "muse-glimmer": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "mxbai-embed-large": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nemotron": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": "nemotron"
+  },
+  "nemotron-3-nano": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": "nemotron"
+  },
+  "nemotron-3-super": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": "nemotron"
+  },
+  "nemotron-3-ultra": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": "nemotron"
+  },
+  "nemotron-3.5-lightning": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": ""
+  },
+  "nemotron-cascade-2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nemotron-mini": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": "nemotron"
+  },
+  "nemotron3": {
+    "creator": "NVIDIA",
+    "publisher": "NVIDIA",
+    "family": "nemotron"
+  },
+  "neural-chat": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nexusraven": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nomic-embed-text": {
+    "creator": "Nomic AI",
+    "publisher": "Nomic AI",
+    "family": "nomic"
+  },
+  "nomic-embed-text-v2-moe": {
+    "creator": "Nomic AI",
+    "publisher": "Nomic AI",
+    "family": "nomic"
+  },
+  "north-mini-code-1.0": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "notus": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "notux": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nous-hermes": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nous-hermes2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nous-hermes2-mixtral": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "nuextract": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "olmo-3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "olmo-3.1": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "olmo2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "open-orca-platypus2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "openchat": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "opencoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "openhermes": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "openthinker": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "orca-mini": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "orca2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "ornith": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "ornith-1.5": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "paraphrase-multilingual": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "phi": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phi3": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phi3.5": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phi4": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phi4-mini": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phi4-mini-reasoning": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phi4-reasoning": {
+    "creator": "Microsoft",
+    "publisher": "Microsoft Research",
+    "family": "phi"
+  },
+  "phind-codellama": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "qwen": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen2": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen2-math": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen2.5": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen2.5-coder": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen2.5vl": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3-coder": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3-coder-next": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3-embedding": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3-next": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3-vl": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3.5": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3.6": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3.8": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwen3.8-flash-next": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "qwq": {
+    "creator": "Alibaba Cloud",
+    "publisher": "Qwen Team",
+    "family": "qwen"
+  },
+  "r1-1776": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "reader-lm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "reflection": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "rnj-1": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "sailor2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "samantha-mistral": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "shieldgemma": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "smallthinker": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "smollm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "smollm2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "snowflake-arctic-embed": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "snowflake-arctic-embed2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "solar": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   },
   "solar-pro": {
-    "creator": "Upstage",
-    "publisher": "Upstage",
-    "family": "solar",
-    "license": "Upstage Solar License",
-    "homepage": "https://www.upstage.ai"
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "sqlcoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "stable-beluga": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "stable-code": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "stablelm-zephyr": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "stablelm2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "starcoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "starcoder2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "starling-lm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "tinydolphin": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "tinyllama": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "translategemma": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "tulu3": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "vicuna": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizard-math": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizard-vicuna": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizard-vicuna-uncensored": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizardcoder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizardlm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizardlm-uncensored": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "wizardlm2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "xwinlm": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "yarn-llama2": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "yarn-mistral": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "yi": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "yi-coder": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
+  },
+  "zephyr": {
+    "creator": "",
+    "publisher": "",
+    "family": ""
   }
 }

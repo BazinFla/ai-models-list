@@ -12,7 +12,8 @@ The catalog is automatically synchronized every 6 hours via GitHub Actions.
 ai-models-list/
 ├── .github/workflows/
 │   └── sync-catalog.yml        # Automated sync workflow (runs every 6 hours)
-├── curation.json               # Manual metadata overrides (creators, icons, licenses)
+├── curation.json               # Manual metadata overrides (creators, publishers, families)
+├── auto_curation.py            # Generates template new-curation.json with all models
 ├── check_uncurated.py          # Lists active models missing from curation.json
 ├── check_missing_icons.py      # Lists curated models missing SVG icons in NeuraDex
 ├── ollama/
@@ -114,11 +115,15 @@ python3 scraper.py --model deepseek-r1 --deep --output-dir ollama
 ## 🔍 Audit & Curation Tools
 
 ```bash
-# 1. List active Ollama models not yet present in curation.json
+# 1. Generate an alphabetical template with all models ready to curate
+python3 auto_curation.py
+python3 auto_curation.py --output new-curation.json
+
+# 2. List active Ollama models not yet present in curation.json
 python3 check_uncurated.py
 python3 check_uncurated.py --sort pulls --limit 20
 
-# 2. Audit models in curation.json missing SVG icons in NeuraDex
+# 3. Audit models in curation.json missing SVG icons in NeuraDex
 python3 check_missing_icons.py
 python3 check_missing_icons.py --missing-only
 ```
