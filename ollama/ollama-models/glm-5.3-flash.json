@@ -22,7 +22,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 91400,
+  "pulls_count": 92700,
   "tags_count": 1,
   "updated_at": "Aug 26, 2026 2:00 PM UTC",
   "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -46,5 +46,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Zhipu AI",
+  "publisher": "Zhipu AI",
+  "family": "glm"
 }

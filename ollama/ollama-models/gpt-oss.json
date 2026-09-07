@@ -103,5 +103,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "OpenAI",
+  "publisher": "OpenAI",
+  "family": "gpt-oss"
 }

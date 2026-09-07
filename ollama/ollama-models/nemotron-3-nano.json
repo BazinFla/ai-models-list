@@ -23,7 +23,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 805700,
+  "pulls_count": 807200,
   "tags_count": 9,
   "updated_at": "Mar 16, 2026 3:34 PM UTC",
   "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -159,5 +159,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "NVIDIA",
+  "publisher": "NVIDIA",
+  "family": "nemotron"
 }

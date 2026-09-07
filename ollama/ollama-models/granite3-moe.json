@@ -21,7 +21,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 953400,
+  "pulls_count": 953500,
   "tags_count": 33,
   "updated_at": "Nov 19, 2024 10:33 PM UTC",
   "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -493,5 +493,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "IBM",
+  "publisher": "IBM Research",
+  "family": "granite"
 }

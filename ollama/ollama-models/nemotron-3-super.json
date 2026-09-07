@@ -41,7 +41,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "95acc78b3ffd",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": false
     },
     {
@@ -55,7 +55,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "be3943c5a818",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": true
     },
     {
@@ -69,7 +69,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "95acc78b3ffd",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": false
     },
     {
@@ -83,7 +83,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "95acc78b3ffd",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": false
     },
     {
@@ -97,7 +97,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "95acc78b3ffd",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": false
     },
     {
@@ -111,7 +111,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "b935f8ec0f40",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": false
     },
     {
@@ -125,10 +125,13 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "c14fcbcdc70e",
-      "updated_at": "5 months ago",
+      "updated_at": "6 months ago",
       "is_cloud": false
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "NVIDIA",
+  "publisher": "NVIDIA",
+  "family": "nemotron"
 }

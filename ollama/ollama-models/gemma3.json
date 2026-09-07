@@ -398,5 +398,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Google",
+  "publisher": "Google DeepMind",
+  "family": "gemma"
 }

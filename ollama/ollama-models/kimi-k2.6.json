@@ -22,7 +22,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 462500,
+  "pulls_count": 462800,
   "tags_count": 1,
   "updated_at": "Apr 20, 2026 8:09 PM UTC",
   "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -46,5 +46,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Moonshot AI",
+  "publisher": "Moonshot AI",
+  "family": "kimi"
 }

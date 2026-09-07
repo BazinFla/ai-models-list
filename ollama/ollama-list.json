@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-09-07 11:42:34 UTC",
+  "scraped_at": "2026-09-07 16:16:52 UTC",
   "total_models": 239,
   "total_active_models": 239,
   "total_deprecated_models": 0,
@@ -1959,7 +1959,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Nomic AI",
+      "publisher": "Nomic AI",
+      "family": "nomic"
     },
     {
       "id": "llama3.2",
@@ -3284,7 +3287,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Google",
+      "publisher": "Google DeepMind",
+      "family": "gemma"
     },
     {
       "id": "qwen2.5",
@@ -5224,7 +5230,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 36400000,
+      "pulls_count": 36500000,
       "tags_count": 58,
       "updated_at": "Oct 10, 2025 8:18 PM UTC",
       "updated_full_date": "Oct 10, 2025 8:18 PM UTC",
@@ -7292,7 +7298,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 31900000,
+      "pulls_count": 32000000,
       "tags_count": 94,
       "updated_at": "Aug 1, 2024 6:51 PM UTC",
       "updated_full_date": "Aug 1, 2024 6:51 PM UTC",
@@ -10358,7 +10364,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Google",
+      "publisher": "Google DeepMind",
+      "family": "gemma"
     },
     {
       "id": "qwen2.5-coder",
@@ -13367,7 +13376,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "12f40a7f8473",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13395,7 +13404,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "12f40a7f8473",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13451,7 +13460,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9dd89c688f18",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13479,7 +13488,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9dd89c688f18",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13577,7 +13586,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "77653d4d1b88",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13675,7 +13684,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "19c108424cec",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13745,7 +13754,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "cbcaee837654",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13843,7 +13852,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "3ce4a5647be1",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13927,7 +13936,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "058a0c9f18b2",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -14011,7 +14020,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "16b03b99d8bb",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -16589,7 +16598,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mxbai-embed-large",
@@ -16679,7 +16691,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "gpt-oss",
@@ -16786,7 +16801,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "OpenAI",
+      "publisher": "OpenAI",
+      "family": "gpt-oss"
     },
     {
       "id": "qwen3-coder",
@@ -25425,7 +25443,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "qwen3.6",
@@ -26033,7 +26054,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "qwen2",
@@ -31921,7 +31945,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "minicpm-v",
@@ -34115,7 +34142,7 @@
       "icon_name": "deepseek-coder",
       "license": "DeepSeek License",
       "homepage": "https://www.deepseek.com",
-      "family": "coder"
+      "family": "DeepSeek"
     },
     {
       "id": "llama3.3",
@@ -34454,7 +34481,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "smollm2",
@@ -35177,12 +35207,12 @@
       ],
       "is_deprecated": false,
       "status": "active",
-      "creator": "Hugging Face",
-      "publisher": "Hugging Face",
+      "creator": "",
+      "publisher": "",
       "icon_name": "huggingface-smollm",
       "license": "Apache-2.0",
       "homepage": "https://huggingface.co/blog/smollm",
-      "family": "smollm"
+      "family": ""
     },
     {
       "id": "qwen3-embedding",
@@ -35500,7 +35530,7 @@
       "icon_name": "deepseek-v3",
       "license": "MIT",
       "homepage": "https://www.deepseek.com",
-      "family": "v3"
+      "family": "DeepSeek_v3"
     },
     {
       "id": "olmo2",
@@ -35660,7 +35690,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "all-minilm",
@@ -35835,7 +35868,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "codegemma",
@@ -37327,7 +37363,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mistral-small",
@@ -38598,7 +38637,7 @@
       "icon_name": "deepseek-coder",
       "license": "MIT",
       "homepage": "https://www.deepseek.com",
-      "family": "coder"
+      "family": "DeepSeek_v2"
     },
     {
       "id": "orca-mini",
@@ -40300,7 +40339,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite3.1-moe",
@@ -41777,12 +41819,12 @@
       ],
       "is_deprecated": false,
       "status": "active",
-      "creator": "BigCode",
-      "publisher": "BigCode / ServiceNow / Hugging Face",
+      "creator": "",
+      "publisher": "",
       "icon_name": "bigcode-starcoder",
       "license": "BigCode OpenRAIL-M v1",
       "homepage": "https://huggingface.co/bigcode",
-      "family": "starcoder"
+      "family": ""
     },
     {
       "id": "nemotron-3-super",
@@ -41827,7 +41869,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "95acc78b3ffd",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -41841,7 +41883,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "be3943c5a818",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": true
         },
         {
@@ -41855,7 +41897,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "95acc78b3ffd",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -41869,7 +41911,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "95acc78b3ffd",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -41883,7 +41925,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "95acc78b3ffd",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -41897,7 +41939,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "b935f8ec0f40",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -41911,12 +41953,15 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "c14fcbcdc70e",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
     },
     {
       "id": "mixtral",
@@ -43447,7 +43492,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "falcon3",
@@ -43832,7 +43880,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "family": "mistral"
     },
     {
       "id": "minimax-m2.7",
@@ -43881,7 +43932,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "MiniMax",
+      "publisher": "MiniMax",
+      "family": "minimax"
     },
     {
       "id": "glm-5.1",
@@ -43930,7 +43984,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "llava-llama3",
@@ -44020,7 +44077,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "qwq",
@@ -44390,7 +44450,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "gemma3n",
@@ -44550,7 +44613,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Google",
+      "publisher": "Google DeepMind",
+      "family": "gemma"
     },
     {
       "id": "smollm",
@@ -45902,12 +45968,12 @@
       ],
       "is_deprecated": false,
       "status": "active",
-      "creator": "Hugging Face",
-      "publisher": "Hugging Face",
+      "creator": "",
+      "publisher": "",
       "icon_name": "huggingface-smollm",
       "license": "Apache-2.0",
       "homepage": "https://huggingface.co/blog/smollm",
-      "family": "smollm"
+      "family": ""
     },
     {
       "id": "dolphin-llama3",
@@ -46683,7 +46749,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "cogito",
@@ -47001,7 +47070,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Deep Cogito",
+      "publisher": "Deep Cogito",
+      "family": "cogito"
     },
     {
       "id": "qwen3-coder-next",
@@ -47185,7 +47257,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "dolphin-mixtral",
@@ -48199,7 +48274,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama4",
@@ -48389,7 +48467,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Meta",
+      "publisher": "Meta AI",
+      "family": "llama"
     },
     {
       "id": "moondream",
@@ -48840,7 +48921,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Microsoft",
+      "publisher": "Microsoft Research",
+      "family": "phi"
     },
     {
       "id": "dolphin-mistral",
@@ -50553,7 +50637,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "sqlcoder",
@@ -51259,7 +51346,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "glm-4.7-flash",
@@ -51349,7 +51439,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "hermes3",
@@ -52296,7 +52389,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "dolphin-phi",
@@ -52539,7 +52635,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "qwen3.8",
@@ -53033,7 +53132,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Microsoft",
+      "publisher": "Microsoft Research",
+      "family": "phi"
     },
     {
       "id": "granite-code",
@@ -56105,7 +56207,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "magistral",
@@ -56210,7 +56315,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "ministral-3",
@@ -58906,7 +59014,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "phi4-mini",
@@ -59010,7 +59121,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Microsoft",
+      "publisher": "Microsoft Research",
+      "family": "phi"
     },
     {
       "id": "codestral",
@@ -60020,7 +60134,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mistral-large",
@@ -61229,7 +61346,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "lfm2.5-thinking",
@@ -61334,7 +61454,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Liquid AI",
+      "publisher": "Liquid AI",
+      "family": "lfm"
     },
     {
       "id": "zephyr",
@@ -61928,7 +62051,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepscaler",
@@ -62031,7 +62157,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "starcoder",
@@ -63467,7 +63596,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "glm4",
@@ -63948,7 +64080,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "vicuna",
@@ -65537,7 +65672,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-llm",
@@ -66473,7 +66611,7 @@
       "icon_name": "deepseek-llm",
       "license": "DeepSeek License",
       "homepage": "https://www.deepseek.com",
-      "family": "llm"
+      "family": "DeepSeek_llm"
     },
     {
       "id": "nous-hermes",
@@ -67389,7 +67527,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "wizardlm2",
@@ -67731,7 +67872,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-v2",
@@ -68241,7 +68385,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_v2"
     },
     {
       "id": "falcon",
@@ -68808,7 +68955,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "openthinker",
@@ -69052,7 +69202,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "lfm2",
@@ -69170,7 +69323,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Liquid AI",
+      "publisher": "Liquid AI",
+      "family": "lfm"
     },
     {
       "id": "openhermes",
@@ -69691,7 +69847,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "codeqwen",
@@ -70144,7 +70303,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "qwen2-math",
@@ -71645,7 +71807,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite3.3",
@@ -71722,7 +71887,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "nous-hermes2",
@@ -72218,7 +72386,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "aya",
@@ -72714,7 +72885,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "wizardcoder",
@@ -73685,7 +73859,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama2-chinese",
@@ -74209,7 +74386,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Meta",
+      "publisher": "Meta AI",
+      "family": "llama"
     },
     {
       "id": "stablelm2",
@@ -75419,7 +75599,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "yi-coder",
@@ -76391,7 +76574,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "stable-code",
@@ -76928,7 +77114,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama3-chatqa",
@@ -77452,7 +77641,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama-guard3",
@@ -77948,7 +78140,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Meta",
+      "publisher": "Meta AI",
+      "family": "llama"
     },
     {
       "id": "devstral",
@@ -78989,7 +79184,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "devstral-small-2",
@@ -79108,7 +79306,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite3.1-dense",
@@ -80108,7 +80309,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "phi3.5",
@@ -81331,7 +81535,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "aya-expanse",
@@ -81828,7 +82035,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "dolphincoder",
@@ -82352,7 +82562,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "samantha-mistral",
@@ -83071,7 +83284,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "xwinlm",
@@ -84225,7 +84441,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama3-gradient",
@@ -84749,7 +84968,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama3-groq-tool-use",
@@ -84774,7 +84996,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 997000,
+      "pulls_count": 997200,
       "tags_count": 33,
       "updated_at": "Jul 25, 2024 1:15 AM UTC",
       "updated_full_date": "Jul 25, 2024 1:15 AM UTC",
@@ -85246,7 +85468,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite3.2-vision",
@@ -85271,7 +85496,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 993600,
+      "pulls_count": 993800,
       "tags_count": 5,
       "updated_at": "Feb 27, 2025 7:26 PM UTC",
       "updated_full_date": "Feb 27, 2025 7:26 PM UTC",
@@ -85351,7 +85576,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "starling-lm",
@@ -85374,7 +85602,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 983700,
+      "pulls_count": 983900,
       "tags_count": 36,
       "updated_at": "Apr 2, 2024 11:45 PM UTC",
       "updated_full_date": "Apr 2, 2024 11:45 PM UTC",
@@ -85888,7 +86116,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "yarn-llama2",
@@ -85912,7 +86143,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 979500,
+      "pulls_count": 979800,
       "tags_count": 67,
       "updated_at": "Nov 4, 2023 10:50 PM UTC",
       "updated_full_date": "Nov 4, 2023 10:50 PM UTC",
@@ -86860,7 +87091,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "phind-codellama",
@@ -86883,7 +87117,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 975700,
+      "pulls_count": 975900,
       "tags_count": 49,
       "updated_at": "Dec 28, 2023 2:53 AM UTC",
       "updated_full_date": "Dec 28, 2023 2:53 AM UTC",
@@ -87579,7 +87813,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "solar",
@@ -87602,7 +87839,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 965900,
+      "pulls_count": 966000,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88060,7 +88297,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite3-moe",
@@ -88085,7 +88325,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 953400,
+      "pulls_count": 953500,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -88557,7 +88797,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "deepcoder",
@@ -88581,7 +88824,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 949600,
+      "pulls_count": 949700,
       "tags_count": 9,
       "updated_at": "Apr 8, 2025 10:53 PM UTC",
       "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
@@ -88717,7 +88960,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "stable-beluga",
@@ -88742,7 +88988,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 942400,
+      "pulls_count": 942600,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -89438,7 +89684,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "paraphrase-multilingual",
@@ -89514,7 +89763,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "orca2",
@@ -89538,7 +89790,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 936200,
+      "pulls_count": 936300,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -90010,7 +90262,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "shieldgemma",
@@ -90035,7 +90290,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 933100,
+      "pulls_count": 933300,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -90731,7 +90986,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "reader-lm",
@@ -90755,7 +91013,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 928200,
+      "pulls_count": 928400,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -91227,7 +91485,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "llama-pro",
@@ -91248,7 +91509,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 911200,
+      "pulls_count": 911400,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -91720,7 +91981,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Meta",
+      "publisher": "Meta AI",
+      "family": "llama"
     },
     {
       "id": "wizardlm",
@@ -91741,7 +92005,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 911000,
+      "pulls_count": 911200,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92773,7 +93037,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "yarn-mistral",
@@ -92796,7 +93063,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 901600,
+      "pulls_count": 901700,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -93268,7 +93535,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "nexusraven",
@@ -93291,7 +93561,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 896500,
+      "pulls_count": 896600,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -93749,7 +94019,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "bakllava",
@@ -93773,7 +94046,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 886200,
+      "pulls_count": 886300,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -94021,7 +94294,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "meditron",
@@ -94045,7 +94321,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 862500,
+      "pulls_count": 862900,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94363,7 +94639,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "nomic-embed-text-v2-moe",
@@ -94386,7 +94665,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 857400,
+      "pulls_count": 858300,
       "tags_count": 1,
       "updated_at": "Dec 10, 2025 10:09 PM UTC",
       "updated_full_date": "Dec 10, 2025 10:09 PM UTC",
@@ -94410,7 +94689,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Nomic AI",
+      "publisher": "Nomic AI",
+      "family": "nomic"
     },
     {
       "id": "nemotron-3-nano",
@@ -94437,7 +94719,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 805700,
+      "pulls_count": 807200,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -94573,7 +94855,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
     },
     {
       "id": "command-r-plus",
@@ -94597,7 +94882,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 799100,
+      "pulls_count": 799200,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -94932,7 +95217,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 785800,
+      "pulls_count": 785900,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -95012,7 +95297,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "family": "mistral"
     },
     {
       "id": "exaone-deep",
@@ -95037,7 +95325,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 765400,
+      "pulls_count": 765500,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95229,7 +95517,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-v3.1",
@@ -95254,7 +95545,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 726000,
+      "pulls_count": 726100,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -95362,7 +95653,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_v3"
     },
     {
       "id": "tinydolphin",
@@ -95385,7 +95679,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 724900,
+      "pulls_count": 725000,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -95647,7 +95941,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "nemotron-mini",
@@ -95671,7 +95968,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 709700,
+      "pulls_count": 709900,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -95919,7 +96216,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
     },
     {
       "id": "medllama2",
@@ -95942,7 +96242,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 696000,
+      "pulls_count": 696300,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96190,7 +96490,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "codegeex4",
@@ -96213,7 +96516,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 690100,
+      "pulls_count": 690200,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -96461,7 +96764,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mistral-openorca",
@@ -96484,7 +96790,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 688500,
+      "pulls_count": 688700,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -96732,7 +97038,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "nemotron3",
@@ -96824,7 +97133,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
     },
     {
       "id": "wizardlm-uncensored",
@@ -96847,7 +97159,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 643800,
+      "pulls_count": 644200,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -97109,7 +97421,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "opencoder",
@@ -97133,7 +97448,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 640900,
+      "pulls_count": 641000,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97269,7 +97584,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "nemotron",
@@ -97293,7 +97611,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 617600,
+      "pulls_count": 617700,
       "tags_count": 17,
       "updated_at": "Oct 16, 2024 11:10 PM UTC",
       "updated_full_date": "Oct 16, 2024 11:10 PM UTC",
@@ -97541,7 +97859,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
     },
     {
       "id": "reflection",
@@ -97564,7 +97885,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 616600,
+      "pulls_count": 616700,
       "tags_count": 17,
       "updated_at": "Sep 9, 2024 5:16 AM UTC",
       "updated_full_date": "Sep 9, 2024 5:16 AM UTC",
@@ -97812,7 +98133,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "codeup",
@@ -97835,7 +98159,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 594700,
+      "pulls_count": 594800,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -98111,7 +98435,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "nous-hermes2-mixtral",
@@ -98134,7 +98461,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 590400,
+      "pulls_count": 590500,
       "tags_count": 18,
       "updated_at": "Dec 20, 2024 1:05 AM UTC",
       "updated_full_date": "Dec 20, 2024 1:05 AM UTC",
@@ -98396,7 +98723,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "athene-v2",
@@ -98420,7 +98750,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 589400,
+      "pulls_count": 589500,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -98668,7 +98998,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "qwen3-next",
@@ -98693,7 +99026,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 586300,
+      "pulls_count": 586400,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -98857,7 +99190,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 568500,
+      "pulls_count": 568600,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -99133,7 +99466,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "everythinglm",
@@ -99156,7 +99492,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 565400,
+      "pulls_count": 565500,
       "tags_count": 18,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -99418,7 +99754,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "solar-pro",
@@ -99441,7 +99780,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 558200,
+      "pulls_count": 558300,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -99704,12 +100043,12 @@
       ],
       "is_deprecated": false,
       "status": "active",
-      "creator": "Upstage",
-      "publisher": "Upstage",
+      "creator": "",
+      "publisher": "",
       "icon_name": "upstage-solar",
       "license": "Upstage Solar License",
       "homepage": "https://www.upstage.ai",
-      "family": "solar"
+      "family": ""
     },
     {
       "id": "exaone3.5",
@@ -99734,7 +100073,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 555000,
+      "pulls_count": 555100,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -99926,7 +100265,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "magicoder",
@@ -99949,7 +100291,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 554600,
+      "pulls_count": 554700,
       "tags_count": 18,
       "updated_at": "Dec 5, 2023 11:59 PM UTC",
       "updated_full_date": "Dec 5, 2023 11:59 PM UTC",
@@ -100211,7 +100553,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mathstral",
@@ -100234,7 +100579,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 548800,
+      "pulls_count": 548900,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -100511,7 +100856,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 544900,
+      "pulls_count": 545100,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -100759,7 +101104,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "falcon2",
@@ -100782,7 +101130,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 540100,
+      "pulls_count": 540200,
       "tags_count": 17,
       "updated_at": "May 14, 2024 1:46 AM UTC",
       "updated_full_date": "May 14, 2024 1:46 AM UTC",
@@ -101030,7 +101378,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "notus",
@@ -101315,7 +101666,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "notux",
@@ -101338,7 +101692,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 538000,
+      "pulls_count": 538100,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -101600,7 +101954,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "stablelm-zephyr",
@@ -101623,7 +101980,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 532600,
+      "pulls_count": 532700,
       "tags_count": 17,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -101871,7 +102228,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "bespoke-minicheck",
@@ -101894,7 +102254,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 528700,
+      "pulls_count": 528800,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -102142,7 +102502,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-ocr",
@@ -102166,7 +102529,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 527900,
+      "pulls_count": 528000,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102218,7 +102581,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_ocr"
     },
     {
       "id": "duckdb-nsql",
@@ -102241,7 +102607,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 527000,
+      "pulls_count": 527100,
       "tags_count": 17,
       "updated_at": "Jan 29, 2024 11:52 PM UTC",
       "updated_full_date": "Jan 29, 2024 11:52 PM UTC",
@@ -102489,7 +102855,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "firefunction-v2",
@@ -102513,7 +102882,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 523400,
+      "pulls_count": 523500,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -102761,7 +103130,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mistrallite",
@@ -102784,7 +103156,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 523300,
+      "pulls_count": 523400,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -103032,7 +103404,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "wizard-vicuna",
@@ -103303,7 +103678,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "open-orca-platypus2",
@@ -103326,7 +103704,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 509600,
+      "pulls_count": 509700,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -103574,7 +103952,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "rnj-1",
@@ -103598,7 +103979,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 506600,
+      "pulls_count": 506700,
       "tags_count": 5,
       "updated_at": "Dec 9, 2025 7:48 AM UTC",
       "updated_full_date": "Dec 9, 2025 7:48 AM UTC",
@@ -103678,7 +104059,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "minimax-m3",
@@ -103704,7 +104088,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 504400,
+      "pulls_count": 504500,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -103728,7 +104112,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "MiniMax",
+      "publisher": "MiniMax",
+      "family": "minimax"
     },
     {
       "id": "codebooga",
@@ -103751,7 +104138,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 500000,
+      "pulls_count": 500100,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -103985,7 +104372,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "goliath",
@@ -104240,7 +104630,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "ornith",
@@ -104265,7 +104658,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 463400,
+      "pulls_count": 464100,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -104401,7 +104794,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "kimi-k2.6",
@@ -104427,7 +104823,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 462500,
+      "pulls_count": 462800,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -104451,7 +104847,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Moonshot AI",
+      "publisher": "Moonshot AI",
+      "family": "kimi"
     },
     {
       "id": "granite3.2",
@@ -104476,7 +104875,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 455500,
+      "pulls_count": 455600,
       "tags_count": 9,
       "updated_at": "Feb 26, 2025 5:48 AM UTC",
       "updated_full_date": "Feb 26, 2025 5:48 AM UTC",
@@ -104612,7 +105011,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "olmo-3",
@@ -104638,7 +105040,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 455500,
+      "pulls_count": 455600,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -104858,7 +105260,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "snowflake-arctic-embed2",
@@ -104882,7 +105287,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 448400,
+      "pulls_count": 448500,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -104934,7 +105339,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-v4-flash",
@@ -104959,7 +105367,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 429200,
+      "pulls_count": 429700,
       "tags_count": 2,
       "updated_at": "Aug 1, 2026 5:21 AM UTC",
       "updated_full_date": "Aug 1, 2026 5:21 AM UTC",
@@ -104997,7 +105405,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_v4"
     },
     {
       "id": "r1-1776",
@@ -105157,7 +105568,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "sailor2",
@@ -105182,7 +105596,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 413100,
+      "pulls_count": 413200,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -105374,7 +105788,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite4.1",
@@ -105400,7 +105817,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 410600,
+      "pulls_count": 411300,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -106082,7 +106499,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "tulu3",
@@ -106106,7 +106526,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 393700,
+      "pulls_count": 393800,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -106242,7 +106662,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-v4-pro",
@@ -106267,7 +106690,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 386400,
+      "pulls_count": 386900,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106305,7 +106728,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_v4"
     },
     {
       "id": "mistral-medium-3.5",
@@ -106411,7 +106837,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "family": "mistral"
     },
     {
       "id": "dbrx",
@@ -106542,7 +106971,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite-embedding",
@@ -106567,7 +106999,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 364100,
+      "pulls_count": 364200,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -106661,7 +107093,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "medgemma",
@@ -106686,7 +107121,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 355300,
+      "pulls_count": 355900,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106822,7 +107257,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "devstral-2",
@@ -106926,7 +107364,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "family": "devstral"
     },
     {
       "id": "glm-5.2",
@@ -106975,7 +107416,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "granite3-guardian",
@@ -106999,7 +107443,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 335800,
+      "pulls_count": 335900,
       "tags_count": 10,
       "updated_at": "Nov 19, 2024 11:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 11:33 PM UTC",
@@ -107149,7 +107593,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "llava-phi3",
@@ -107173,7 +107620,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 327900,
+      "pulls_count": 328200,
       "tags_count": 4,
       "updated_at": "May 7, 2024 9:20 PM UTC",
       "updated_full_date": "May 7, 2024 9:20 PM UTC",
@@ -107239,7 +107686,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "command-r7b",
@@ -107263,7 +107713,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 318800,
+      "pulls_count": 318900,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -107343,7 +107793,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "phi4-mini-reasoning",
@@ -107366,7 +107819,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 309100,
+      "pulls_count": 309200,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -107446,7 +107899,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Microsoft",
+      "publisher": "Microsoft Research",
+      "family": "phi"
     },
     {
       "id": "ornith-1.5",
@@ -107472,7 +107928,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 295500,
+      "pulls_count": 296000,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107524,7 +107980,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "olmo-3.1",
@@ -107549,7 +108008,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 288800,
+      "pulls_count": 288900,
       "tags_count": 10,
       "updated_at": "Dec 16, 2025 5:56 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:56 AM UTC",
@@ -107699,7 +108158,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "deepseek-v2.5",
@@ -107722,7 +108184,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 288500,
+      "pulls_count": 288600,
       "tags_count": 7,
       "updated_at": "Sep 11, 2024 7:31 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
@@ -107830,7 +108292,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_v2"
     },
     {
       "id": "bge-large",
@@ -107854,7 +108319,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 283800,
+      "pulls_count": 283900,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:04 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:04 AM UTC",
@@ -107906,7 +108371,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "smallthinker",
@@ -108009,7 +108477,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "alfred",
@@ -108032,7 +108503,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 247600,
+      "pulls_count": 247900,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108140,7 +108611,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "kimi-k2.7-code",
@@ -108166,7 +108640,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 232800,
+      "pulls_count": 232900,
       "tags_count": 1,
       "updated_at": "Jun 13, 2026 12:26 AM UTC",
       "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
@@ -108190,7 +108664,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Moonshot AI",
+      "publisher": "Moonshot AI",
+      "family": "kimi"
     },
     {
       "id": "command-a",
@@ -108214,7 +108691,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 227300,
+      "pulls_count": 227400,
       "tags_count": 5,
       "updated_at": "Mar 13, 2025 12:39 PM UTC",
       "updated_full_date": "Mar 13, 2025 12:39 PM UTC",
@@ -108294,7 +108771,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "cogito-2.1",
@@ -108397,7 +108877,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Deep Cogito",
+      "publisher": "Deep Cogito",
+      "family": "cogito"
     },
     {
       "id": "marco-o1",
@@ -108500,7 +108983,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "command-r7b-arabic",
@@ -108604,7 +109090,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "muse-glimmer",
@@ -108630,7 +109119,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 192300,
+      "pulls_count": 192700,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108850,7 +109339,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "functiongemma",
@@ -108940,7 +109432,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "medgemma1.5",
@@ -108964,7 +109459,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 167000,
+      "pulls_count": 167400,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109044,7 +109539,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "gpt-oss-safeguard",
@@ -109122,7 +109620,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "OpenAI",
+      "publisher": "OpenAI",
+      "family": "gpt-oss"
     },
     {
       "id": "nemotron-3.5-lightning",
@@ -109147,7 +109648,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 153600,
+      "pulls_count": 153900,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109311,7 +109812,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": ""
     },
     {
       "id": "nemotron-cascade-2",
@@ -109336,7 +109840,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 145900,
+      "pulls_count": 146000,
       "tags_count": 3,
       "updated_at": "Mar 20, 2026 8:10 PM UTC",
       "updated_full_date": "Mar 20, 2026 8:10 PM UTC",
@@ -109388,7 +109892,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "lfm2.5",
@@ -109413,7 +109920,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 140400,
+      "pulls_count": 140600,
       "tags_count": 5,
       "updated_at": "May 31, 2026 4:16 AM UTC",
       "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -109493,7 +110000,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Liquid AI",
+      "publisher": "Liquid AI",
+      "family": "lfm"
     },
     {
       "id": "laguna-s-2.1",
@@ -109517,7 +110027,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 129500,
+      "pulls_count": 129600,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -109639,7 +110149,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "laguna-xs-2.1",
@@ -109663,7 +110176,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 106300,
+      "pulls_count": 106400,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -109771,7 +110284,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "mistral-large-3",
@@ -109796,7 +110312,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 102900,
+      "pulls_count": 103100,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -109820,7 +110336,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "family": "mistral"
     },
     {
       "id": "glm-5.3-flash",
@@ -109846,7 +110365,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 91400,
+      "pulls_count": 92700,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -109870,7 +110389,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "qwen3.8-flash-next",
@@ -109895,7 +110417,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 85500,
+      "pulls_count": 85900,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110019,7 +110541,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 82100,
+      "pulls_count": 82300,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -110043,7 +110565,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
     },
     {
       "id": "kimi-k3",
@@ -110069,7 +110594,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 74100,
+      "pulls_count": 74300,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -110093,7 +110618,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Moonshot AI",
+      "publisher": "Moonshot AI",
+      "family": "kimi"
     },
     {
       "id": "north-mini-code-1.0",
@@ -110117,7 +110645,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 51700,
+      "pulls_count": 51800,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -110225,7 +110753,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "minicpm-v4.6",
@@ -110249,7 +110780,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 44500,
+      "pulls_count": 44600,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -110441,7 +110972,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite4.2",
@@ -110466,7 +111000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 38500,
+      "pulls_count": 39100,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111162,7 +111696,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "glm-5.3",
@@ -111187,7 +111724,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 36000,
+      "pulls_count": 36300,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111211,7 +111748,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "Zhipu AI",
+      "publisher": "Zhipu AI",
+      "family": "glm"
     },
     {
       "id": "minicpm-v4.5",
@@ -111235,7 +111775,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 35000,
+      "pulls_count": 35100,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -111427,7 +111967,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "laguna-xs.2",
@@ -111559,7 +112102,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
     },
     {
       "id": "granite4.1-guardian",
@@ -111584,7 +112130,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 14600,
+      "pulls_count": 14700,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -111818,7 +112364,10 @@
         }
       ],
       "is_deprecated": false,
-      "status": "active"
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     }
   ]
 }

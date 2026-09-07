@@ -492,5 +492,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Meta",
+  "publisher": "Meta AI",
+  "family": "llama"
 }

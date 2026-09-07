@@ -19,7 +19,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 288500,
+  "pulls_count": 288600,
   "tags_count": 7,
   "updated_at": "Sep 11, 2024 7:31 PM UTC",
   "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
@@ -127,5 +127,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "DeepSeek",
+  "publisher": "DeepSeek AI",
+  "family": "DeepSeek_v2"
 }

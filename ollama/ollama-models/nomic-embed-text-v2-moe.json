@@ -19,7 +19,7 @@
     "code": false,
     "embedding": true
   },
-  "pulls_count": 857400,
+  "pulls_count": 858300,
   "tags_count": 1,
   "updated_at": "Dec 10, 2025 10:09 PM UTC",
   "updated_full_date": "Dec 10, 2025 10:09 PM UTC",
@@ -43,5 +43,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Nomic AI",
+  "publisher": "Nomic AI",
+  "family": "nomic"
 }

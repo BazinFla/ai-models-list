@@ -21,7 +21,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 785800,
+  "pulls_count": 785900,
   "tags_count": 5,
   "updated_at": "Apr 7, 2025 4:59 PM UTC",
   "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -101,5 +101,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Mistral AI",
+  "publisher": "Mistral AI",
+  "family": "mistral"
 }

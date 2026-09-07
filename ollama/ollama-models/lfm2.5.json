@@ -21,7 +21,7 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 140400,
+  "pulls_count": 140600,
   "tags_count": 5,
   "updated_at": "May 31, 2026 4:16 AM UTC",
   "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -101,5 +101,8 @@
     }
   ],
   "is_deprecated": false,
-  "status": "active"
+  "status": "active",
+  "creator": "Liquid AI",
+  "publisher": "Liquid AI",
+  "family": "lfm"
 }
