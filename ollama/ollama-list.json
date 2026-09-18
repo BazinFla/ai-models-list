@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-09-18 15:55:15 UTC",
+  "scraped_at": "2026-09-18 20:28:57 UTC",
   "total_models": 240,
   "total_active_models": 240,
   "total_deprecated_models": 0,
@@ -5230,7 +5230,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 37300000,
+      "pulls_count": 37400000,
       "tags_count": 58,
       "updated_at": "Oct 10, 2025 8:18 PM UTC",
       "updated_full_date": "Oct 10, 2025 8:18 PM UTC",
@@ -9654,7 +9654,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 25200000,
+      "pulls_count": 25300000,
       "tags_count": 50,
       "updated_at": "Aug 31, 2026 8:52 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:52 PM UTC",
@@ -13558,7 +13558,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "61aa3858e9d3",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -13656,7 +13656,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "203e30078279",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -13824,7 +13824,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "41eb9db48b39",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -14090,7 +14090,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "fb2d58ab6d45",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -16848,7 +16848,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "06c1097efce0",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16862,7 +16862,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "06c1097efce0",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16876,7 +16876,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "72b144baf727",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16890,7 +16890,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "06c1097efce0",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16904,7 +16904,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "7b438a19895a",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16918,7 +16918,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "0d2a10a65d2f",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16932,7 +16932,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "72b144baf727",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16946,7 +16946,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "459cea34ff3a",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -16960,7 +16960,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "23af91755def",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         }
       ],
@@ -34529,7 +34529,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "64b933495768",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34543,7 +34543,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "ac6da0dfba84",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34557,7 +34557,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "df5bd2e3c74c",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34571,7 +34571,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "64b933495768",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34585,7 +34585,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "ac6da0dfba84",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34599,7 +34599,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "67a7592a8852",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34613,7 +34613,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "df5bd2e3c74c",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34627,7 +34627,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "357d756ba8e5",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34641,7 +34641,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "3c93b6415795",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34655,7 +34655,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "64b933495768",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34669,7 +34669,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "9704fd987c12",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         },
         {
@@ -34683,7 +34683,7 @@
           "context_formatted": "40K",
           "input_type": "Text",
           "digest": "aa924958585e",
-          "updated_at": "11 months ago",
+          "updated_at": "12 months ago",
           "is_cloud": false
         }
       ],
@@ -44619,6 +44619,215 @@
       "family": "gemma"
     },
     {
+      "id": "qwen3.8",
+      "name": "qwen3.8",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/qwen3.8",
+      "tags_page_url": "https://ollama.com/library/qwen3.8/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "thinking",
+        "27b"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 2200000,
+      "tags_count": 12,
+      "updated_at": "Aug 14, 2026 4:54 PM UTC",
+      "updated_full_date": "Aug 14, 2026 4:54 PM UTC",
+      "updated_date_key": 202608141654,
+      "is_cloud": false,
+      "default_tag": "qwen3.8:latest",
+      "variants": [
+        {
+          "tag": "qwen3.8:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "22130167c4c2",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b",
+          "name": "27b",
+          "parameter_size": "27B",
+          "quantization": "Default",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "22130167c4c2",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-mlx",
+          "name": "27b-mlx",
+          "parameter_size": "27B",
+          "quantization": "Default",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "5642e97495e1",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-mlx-bf16",
+          "name": "27b-mlx-bf16",
+          "parameter_size": "27B",
+          "quantization": "F16",
+          "size_bytes": 60129542144,
+          "size_formatted": "56GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "65e5e1c72d2d",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-mtp-q4_K_M",
+          "name": "27b-mtp-q4_K_M",
+          "parameter_size": "27B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "22130167c4c2",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-mtp-q8_0",
+          "name": "27b-mtp-q8_0",
+          "parameter_size": "27B",
+          "quantization": "Q8_0",
+          "size_bytes": 32212254720,
+          "size_formatted": "30GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "8a1582877303",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-mtp-bf16",
+          "name": "27b-mtp-bf16",
+          "parameter_size": "27B",
+          "quantization": "F16",
+          "size_bytes": 60129542144,
+          "size_formatted": "56GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "197257101a8c",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-mxfp8",
+          "name": "27b-mxfp8",
+          "parameter_size": "27B",
+          "quantization": "Default",
+          "size_bytes": 34359738368,
+          "size_formatted": "32GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "464021588235",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-nvfp4",
+          "name": "27b-nvfp4",
+          "parameter_size": "27B",
+          "quantization": "Default",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "5642e97495e1",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-q4_K_M",
+          "name": "27b-q4_K_M",
+          "parameter_size": "27B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "25b843619e94",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-q8_0",
+          "name": "27b-q8_0",
+          "parameter_size": "27B",
+          "quantization": "Q8_0",
+          "size_bytes": 32212254720,
+          "size_formatted": "30GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "8f5fb6b71ea0",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen3.8:27b-bf16",
+          "name": "27b-bf16",
+          "parameter_size": "27B",
+          "quantization": "F16",
+          "size_bytes": 60129542144,
+          "size_formatted": "56GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "1aa85dae8b2d",
+          "updated_at": "1 month ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Alibaba Cloud",
+      "publisher": "Qwen Team",
+      "family": "qwen",
+      "license": "",
+      "homepage": ""
+    },
+    {
       "id": "smollm",
       "name": "smollm",
       "source": "ollama_library",
@@ -45974,215 +46183,6 @@
       "license": "Apache-2.0",
       "homepage": "https://huggingface.co/blog/smollm",
       "family": ""
-    },
-    {
-      "id": "qwen3.8",
-      "name": "qwen3.8",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/qwen3.8",
-      "tags_page_url": "https://ollama.com/library/qwen3.8/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "thinking",
-        "27b"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 2200000,
-      "tags_count": 12,
-      "updated_at": "Aug 14, 2026 4:54 PM UTC",
-      "updated_full_date": "Aug 14, 2026 4:54 PM UTC",
-      "updated_date_key": 202608141654,
-      "is_cloud": false,
-      "default_tag": "qwen3.8:latest",
-      "variants": [
-        {
-          "tag": "qwen3.8:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "22130167c4c2",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b",
-          "name": "27b",
-          "parameter_size": "27B",
-          "quantization": "Default",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "22130167c4c2",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-mlx",
-          "name": "27b-mlx",
-          "parameter_size": "27B",
-          "quantization": "Default",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "5642e97495e1",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-mlx-bf16",
-          "name": "27b-mlx-bf16",
-          "parameter_size": "27B",
-          "quantization": "F16",
-          "size_bytes": 60129542144,
-          "size_formatted": "56GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "65e5e1c72d2d",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-mtp-q4_K_M",
-          "name": "27b-mtp-q4_K_M",
-          "parameter_size": "27B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "22130167c4c2",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-mtp-q8_0",
-          "name": "27b-mtp-q8_0",
-          "parameter_size": "27B",
-          "quantization": "Q8_0",
-          "size_bytes": 32212254720,
-          "size_formatted": "30GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "8a1582877303",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-mtp-bf16",
-          "name": "27b-mtp-bf16",
-          "parameter_size": "27B",
-          "quantization": "F16",
-          "size_bytes": 60129542144,
-          "size_formatted": "56GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "197257101a8c",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-mxfp8",
-          "name": "27b-mxfp8",
-          "parameter_size": "27B",
-          "quantization": "Default",
-          "size_bytes": 34359738368,
-          "size_formatted": "32GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "464021588235",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-nvfp4",
-          "name": "27b-nvfp4",
-          "parameter_size": "27B",
-          "quantization": "Default",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "5642e97495e1",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-q4_K_M",
-          "name": "27b-q4_K_M",
-          "parameter_size": "27B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "25b843619e94",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-q8_0",
-          "name": "27b-q8_0",
-          "parameter_size": "27B",
-          "quantization": "Q8_0",
-          "size_bytes": 32212254720,
-          "size_formatted": "30GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "8f5fb6b71ea0",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen3.8:27b-bf16",
-          "name": "27b-bf16",
-          "parameter_size": "27B",
-          "quantization": "F16",
-          "size_bytes": 60129542144,
-          "size_formatted": "56GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "1aa85dae8b2d",
-          "updated_at": "1 month ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Alibaba Cloud",
-      "publisher": "Qwen Team",
-      "family": "qwen",
-      "license": "",
-      "homepage": ""
     },
     {
       "id": "dolphin-llama3",
@@ -70589,774 +70589,6 @@
       "family": ""
     },
     {
-      "id": "qwen2-math",
-      "name": "qwen2-math",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/qwen2-math",
-      "tags_page_url": "https://ollama.com/library/qwen2-math/tags",
-      "badges": [
-        "1.5b",
-        "7b",
-        "72b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 1100000,
-      "tags_count": 52,
-      "updated_at": "Aug 30, 2024 9:09 PM UTC",
-      "updated_full_date": "Aug 30, 2024 9:09 PM UTC",
-      "updated_date_key": 202408302109,
-      "is_cloud": false,
-      "default_tag": "qwen2-math:latest",
-      "variants": [
-        {
-          "tag": "qwen2-math:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 4724464025,
-          "size_formatted": "4.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "28cc3a337734",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b",
-          "name": "1.5b",
-          "parameter_size": "1.5B",
-          "quantization": "Default",
-          "size_bytes": 980418560,
-          "size_formatted": "935MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "a4fdda0c6cc5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b",
-          "name": "7b",
-          "parameter_size": "7B",
-          "quantization": "Default",
-          "size_bytes": 4724464025,
-          "size_formatted": "4.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "28cc3a337734",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b",
-          "name": "72b",
-          "parameter_size": "72B",
-          "quantization": "Default",
-          "size_bytes": 44023414784,
-          "size_formatted": "41GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "9cf426342464",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct",
-          "name": "1.5b-instruct",
-          "parameter_size": "1.5B",
-          "quantization": "Default",
-          "size_bytes": 980418560,
-          "size_formatted": "935MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "a4fdda0c6cc5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q2_K",
-          "name": "1.5b-instruct-q2_K",
-          "parameter_size": "1.5B",
-          "quantization": "Q2_K",
-          "size_bytes": 708837376,
-          "size_formatted": "676MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "7a8feb441528",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q3_K_S",
-          "name": "1.5b-instruct-q3_K_S",
-          "parameter_size": "1.5B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 797966336,
-          "size_formatted": "761MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "2944d4047629",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q3_K_M",
-          "name": "1.5b-instruct-q3_K_M",
-          "parameter_size": "1.5B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 864026624,
-          "size_formatted": "824MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "edd19aa7dc5c",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q3_K_L",
-          "name": "1.5b-instruct-q3_K_L",
-          "parameter_size": "1.5B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 922746880,
-          "size_formatted": "880MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "8db3e0ee180a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q4_0",
-          "name": "1.5b-instruct-q4_0",
-          "parameter_size": "1.5B",
-          "quantization": "Q4_0",
-          "size_bytes": 980418560,
-          "size_formatted": "935MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "a4fdda0c6cc5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q4_1",
-          "name": "1.5b-instruct-q4_1",
-          "parameter_size": "1.5B",
-          "quantization": "Q4_1",
-          "size_bytes": 1073741824,
-          "size_formatted": "1.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "0df8170c4293",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q4_K_S",
-          "name": "1.5b-instruct-q4_K_S",
-          "parameter_size": "1.5B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 985661440,
-          "size_formatted": "940MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "bf98cc10ea89",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q4_K_M",
-          "name": "1.5b-instruct-q4_K_M",
-          "parameter_size": "1.5B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 1033895936,
-          "size_formatted": "986MB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "2cf0b27c20c4",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q5_0",
-          "name": "1.5b-instruct-q5_0",
-          "parameter_size": "1.5B",
-          "quantization": "Q5_0",
-          "size_bytes": 1181116006,
-          "size_formatted": "1.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "6458bd105c38",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q5_1",
-          "name": "1.5b-instruct-q5_1",
-          "parameter_size": "1.5B",
-          "quantization": "Q5_1",
-          "size_bytes": 1288490188,
-          "size_formatted": "1.2GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "a6c823420573",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q5_K_S",
-          "name": "1.5b-instruct-q5_K_S",
-          "parameter_size": "1.5B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 1181116006,
-          "size_formatted": "1.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "de1d907e050a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q5_K_M",
-          "name": "1.5b-instruct-q5_K_M",
-          "parameter_size": "1.5B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 1181116006,
-          "size_formatted": "1.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "041636d78c2d",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q6_K",
-          "name": "1.5b-instruct-q6_K",
-          "parameter_size": "1.5B",
-          "quantization": "Q6_K",
-          "size_bytes": 1395864371,
-          "size_formatted": "1.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "bef4dcb32ea5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-q8_0",
-          "name": "1.5b-instruct-q8_0",
-          "parameter_size": "1.5B",
-          "quantization": "Q8_0",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "ad817da24abc",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:1.5b-instruct-fp16",
-          "name": "1.5b-instruct-fp16",
-          "parameter_size": "1.5B",
-          "quantization": "FP16",
-          "size_bytes": 3328599654,
-          "size_formatted": "3.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "d8dc2e83f294",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct",
-          "name": "7b-instruct",
-          "parameter_size": "7B",
-          "quantization": "Default",
-          "size_bytes": 4724464025,
-          "size_formatted": "4.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "28cc3a337734",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q2_K",
-          "name": "7b-instruct-q2_K",
-          "parameter_size": "7B",
-          "quantization": "Q2_K",
-          "size_bytes": 3221225472,
-          "size_formatted": "3.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "4ed0c248a5bf",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q3_K_S",
-          "name": "7b-instruct-q3_K_S",
-          "parameter_size": "7B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 3758096384,
-          "size_formatted": "3.5GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "d53bb5d1bf39",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q3_K_M",
-          "name": "7b-instruct-q3_K_M",
-          "parameter_size": "7B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 4080218931,
-          "size_formatted": "3.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "4454608bd85e",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q3_K_L",
-          "name": "7b-instruct-q3_K_L",
-          "parameter_size": "7B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 4402341478,
-          "size_formatted": "4.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "7e37bb4b4a7a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q4_0",
-          "name": "7b-instruct-q4_0",
-          "parameter_size": "7B",
-          "quantization": "Q4_0",
-          "size_bytes": 4724464025,
-          "size_formatted": "4.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "28cc3a337734",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q4_1",
-          "name": "7b-instruct-q4_1",
-          "parameter_size": "7B",
-          "quantization": "Q4_1",
-          "size_bytes": 5261334937,
-          "size_formatted": "4.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "53ddcc942030",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q4_K_S",
-          "name": "7b-instruct-q4_K_S",
-          "parameter_size": "7B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 4831838208,
-          "size_formatted": "4.5GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "ed3fc5765c47",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q4_K_M",
-          "name": "7b-instruct-q4_K_M",
-          "parameter_size": "7B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 5046586572,
-          "size_formatted": "4.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "bade12dad269",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q5_0",
-          "name": "7b-instruct-q5_0",
-          "parameter_size": "7B",
-          "quantization": "Q5_0",
-          "size_bytes": 5690831667,
-          "size_formatted": "5.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "8538649897c5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q5_1",
-          "name": "7b-instruct-q5_1",
-          "parameter_size": "7B",
-          "quantization": "Q5_1",
-          "size_bytes": 6227702579,
-          "size_formatted": "5.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "d428300aab38",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q5_K_S",
-          "name": "7b-instruct-q5_K_S",
-          "parameter_size": "7B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 5690831667,
-          "size_formatted": "5.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "1b0fe2e02e2c",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q5_K_M",
-          "name": "7b-instruct-q5_K_M",
-          "parameter_size": "7B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 5798205849,
-          "size_formatted": "5.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "b49686d392f7",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q6_K",
-          "name": "7b-instruct-q6_K",
-          "parameter_size": "7B",
-          "quantization": "Q6_K",
-          "size_bytes": 6764573491,
-          "size_formatted": "6.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "e387e8c7e4de",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-q8_0",
-          "name": "7b-instruct-q8_0",
-          "parameter_size": "7B",
-          "quantization": "Q8_0",
-          "size_bytes": 8697308774,
-          "size_formatted": "8.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "628f28555c4e",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:7b-instruct-fp16",
-          "name": "7b-instruct-fp16",
-          "parameter_size": "7B",
-          "quantization": "FP16",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "2ff60f753a04",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct",
-          "name": "72b-instruct",
-          "parameter_size": "72B",
-          "quantization": "Default",
-          "size_bytes": 44023414784,
-          "size_formatted": "41GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "9cf426342464",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q2_K",
-          "name": "72b-instruct-q2_K",
-          "parameter_size": "72B",
-          "quantization": "Q2_K",
-          "size_bytes": 32212254720,
-          "size_formatted": "30GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "e756083b2ef3",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q3_K_S",
-          "name": "72b-instruct-q3_K_S",
-          "parameter_size": "72B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 36507222016,
-          "size_formatted": "34GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "8300d30bce4d",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q3_K_M",
-          "name": "72b-instruct-q3_K_M",
-          "parameter_size": "72B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 40802189312,
-          "size_formatted": "38GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "39f518ee780a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q3_K_L",
-          "name": "72b-instruct-q3_K_L",
-          "parameter_size": "72B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 42949672960,
-          "size_formatted": "40GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "9b0ee46ebbb0",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q4_0",
-          "name": "72b-instruct-q4_0",
-          "parameter_size": "72B",
-          "quantization": "Q4_0",
-          "size_bytes": 44023414784,
-          "size_formatted": "41GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "9cf426342464",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q4_1",
-          "name": "72b-instruct-q4_1",
-          "parameter_size": "72B",
-          "quantization": "Q4_1",
-          "size_bytes": 49392123904,
-          "size_formatted": "46GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "92742f4e5a3c",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q4_K_S",
-          "name": "72b-instruct-q4_K_S",
-          "parameter_size": "72B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 47244640256,
-          "size_formatted": "44GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "7fdab978b506",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q4_K_M",
-          "name": "72b-instruct-q4_K_M",
-          "parameter_size": "72B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 50465865728,
-          "size_formatted": "47GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "4607ef31652a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q5_0",
-          "name": "72b-instruct-q5_0",
-          "parameter_size": "72B",
-          "quantization": "Q5_0",
-          "size_bytes": 53687091200,
-          "size_formatted": "50GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "08ba2da5a4db",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q5_1",
-          "name": "72b-instruct-q5_1",
-          "parameter_size": "72B",
-          "quantization": "Q5_1",
-          "size_bytes": 59055800320,
-          "size_formatted": "55GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "6ae803c94afe",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q5_K_S",
-          "name": "72b-instruct-q5_K_S",
-          "parameter_size": "72B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 54760833024,
-          "size_formatted": "51GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "84fadf091d81",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q5_K_M",
-          "name": "72b-instruct-q5_K_M",
-          "parameter_size": "72B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 57982058496,
-          "size_formatted": "54GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "ad3afa8c1764",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q6_K",
-          "name": "72b-instruct-q6_K",
-          "parameter_size": "72B",
-          "quantization": "Q6_K",
-          "size_bytes": 68719476736,
-          "size_formatted": "64GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "0357576f1f45",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-q8_0",
-          "name": "72b-instruct-q8_0",
-          "parameter_size": "72B",
-          "quantization": "Q8_0",
-          "size_bytes": 82678120448,
-          "size_formatted": "77GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "4a5f8f66cc3b",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "qwen2-math:72b-instruct-fp16",
-          "name": "72b-instruct-fp16",
-          "parameter_size": "72B",
-          "quantization": "FP16",
-          "size_bytes": 155692564480,
-          "size_formatted": "145GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "119fdb055da9",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Alibaba Cloud",
-      "publisher": "Qwen Team",
-      "family": "qwen",
-      "license": "",
-      "homepage": ""
-    },
-    {
       "id": "wizardcoder",
       "name": "wizardcoder",
       "source": "ollama_library",
@@ -72329,6 +71561,774 @@
       "creator": "",
       "publisher": "",
       "family": ""
+    },
+    {
+      "id": "qwen2-math",
+      "name": "qwen2-math",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/qwen2-math",
+      "tags_page_url": "https://ollama.com/library/qwen2-math/tags",
+      "badges": [
+        "1.5b",
+        "7b",
+        "72b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 1100000,
+      "tags_count": 52,
+      "updated_at": "Aug 30, 2024 9:09 PM UTC",
+      "updated_full_date": "Aug 30, 2024 9:09 PM UTC",
+      "updated_date_key": 202408302109,
+      "is_cloud": false,
+      "default_tag": "qwen2-math:latest",
+      "variants": [
+        {
+          "tag": "qwen2-math:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 4724464025,
+          "size_formatted": "4.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "28cc3a337734",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b",
+          "name": "1.5b",
+          "parameter_size": "1.5B",
+          "quantization": "Default",
+          "size_bytes": 980418560,
+          "size_formatted": "935MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "a4fdda0c6cc5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b",
+          "name": "7b",
+          "parameter_size": "7B",
+          "quantization": "Default",
+          "size_bytes": 4724464025,
+          "size_formatted": "4.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "28cc3a337734",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b",
+          "name": "72b",
+          "parameter_size": "72B",
+          "quantization": "Default",
+          "size_bytes": 44023414784,
+          "size_formatted": "41GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "9cf426342464",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct",
+          "name": "1.5b-instruct",
+          "parameter_size": "1.5B",
+          "quantization": "Default",
+          "size_bytes": 980418560,
+          "size_formatted": "935MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "a4fdda0c6cc5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q2_K",
+          "name": "1.5b-instruct-q2_K",
+          "parameter_size": "1.5B",
+          "quantization": "Q2_K",
+          "size_bytes": 708837376,
+          "size_formatted": "676MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "7a8feb441528",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q3_K_S",
+          "name": "1.5b-instruct-q3_K_S",
+          "parameter_size": "1.5B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 797966336,
+          "size_formatted": "761MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "2944d4047629",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q3_K_M",
+          "name": "1.5b-instruct-q3_K_M",
+          "parameter_size": "1.5B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 864026624,
+          "size_formatted": "824MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "edd19aa7dc5c",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q3_K_L",
+          "name": "1.5b-instruct-q3_K_L",
+          "parameter_size": "1.5B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 922746880,
+          "size_formatted": "880MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "8db3e0ee180a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q4_0",
+          "name": "1.5b-instruct-q4_0",
+          "parameter_size": "1.5B",
+          "quantization": "Q4_0",
+          "size_bytes": 980418560,
+          "size_formatted": "935MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "a4fdda0c6cc5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q4_1",
+          "name": "1.5b-instruct-q4_1",
+          "parameter_size": "1.5B",
+          "quantization": "Q4_1",
+          "size_bytes": 1073741824,
+          "size_formatted": "1.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "0df8170c4293",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q4_K_S",
+          "name": "1.5b-instruct-q4_K_S",
+          "parameter_size": "1.5B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 985661440,
+          "size_formatted": "940MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "bf98cc10ea89",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q4_K_M",
+          "name": "1.5b-instruct-q4_K_M",
+          "parameter_size": "1.5B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 1033895936,
+          "size_formatted": "986MB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "2cf0b27c20c4",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q5_0",
+          "name": "1.5b-instruct-q5_0",
+          "parameter_size": "1.5B",
+          "quantization": "Q5_0",
+          "size_bytes": 1181116006,
+          "size_formatted": "1.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "6458bd105c38",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q5_1",
+          "name": "1.5b-instruct-q5_1",
+          "parameter_size": "1.5B",
+          "quantization": "Q5_1",
+          "size_bytes": 1288490188,
+          "size_formatted": "1.2GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "a6c823420573",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q5_K_S",
+          "name": "1.5b-instruct-q5_K_S",
+          "parameter_size": "1.5B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 1181116006,
+          "size_formatted": "1.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "de1d907e050a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q5_K_M",
+          "name": "1.5b-instruct-q5_K_M",
+          "parameter_size": "1.5B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 1181116006,
+          "size_formatted": "1.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "041636d78c2d",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q6_K",
+          "name": "1.5b-instruct-q6_K",
+          "parameter_size": "1.5B",
+          "quantization": "Q6_K",
+          "size_bytes": 1395864371,
+          "size_formatted": "1.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "bef4dcb32ea5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-q8_0",
+          "name": "1.5b-instruct-q8_0",
+          "parameter_size": "1.5B",
+          "quantization": "Q8_0",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "ad817da24abc",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:1.5b-instruct-fp16",
+          "name": "1.5b-instruct-fp16",
+          "parameter_size": "1.5B",
+          "quantization": "FP16",
+          "size_bytes": 3328599654,
+          "size_formatted": "3.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "d8dc2e83f294",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct",
+          "name": "7b-instruct",
+          "parameter_size": "7B",
+          "quantization": "Default",
+          "size_bytes": 4724464025,
+          "size_formatted": "4.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "28cc3a337734",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q2_K",
+          "name": "7b-instruct-q2_K",
+          "parameter_size": "7B",
+          "quantization": "Q2_K",
+          "size_bytes": 3221225472,
+          "size_formatted": "3.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "4ed0c248a5bf",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q3_K_S",
+          "name": "7b-instruct-q3_K_S",
+          "parameter_size": "7B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 3758096384,
+          "size_formatted": "3.5GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "d53bb5d1bf39",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q3_K_M",
+          "name": "7b-instruct-q3_K_M",
+          "parameter_size": "7B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 4080218931,
+          "size_formatted": "3.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "4454608bd85e",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q3_K_L",
+          "name": "7b-instruct-q3_K_L",
+          "parameter_size": "7B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 4402341478,
+          "size_formatted": "4.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "7e37bb4b4a7a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q4_0",
+          "name": "7b-instruct-q4_0",
+          "parameter_size": "7B",
+          "quantization": "Q4_0",
+          "size_bytes": 4724464025,
+          "size_formatted": "4.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "28cc3a337734",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q4_1",
+          "name": "7b-instruct-q4_1",
+          "parameter_size": "7B",
+          "quantization": "Q4_1",
+          "size_bytes": 5261334937,
+          "size_formatted": "4.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "53ddcc942030",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q4_K_S",
+          "name": "7b-instruct-q4_K_S",
+          "parameter_size": "7B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 4831838208,
+          "size_formatted": "4.5GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "ed3fc5765c47",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q4_K_M",
+          "name": "7b-instruct-q4_K_M",
+          "parameter_size": "7B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 5046586572,
+          "size_formatted": "4.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "bade12dad269",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q5_0",
+          "name": "7b-instruct-q5_0",
+          "parameter_size": "7B",
+          "quantization": "Q5_0",
+          "size_bytes": 5690831667,
+          "size_formatted": "5.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "8538649897c5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q5_1",
+          "name": "7b-instruct-q5_1",
+          "parameter_size": "7B",
+          "quantization": "Q5_1",
+          "size_bytes": 6227702579,
+          "size_formatted": "5.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "d428300aab38",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q5_K_S",
+          "name": "7b-instruct-q5_K_S",
+          "parameter_size": "7B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 5690831667,
+          "size_formatted": "5.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "1b0fe2e02e2c",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q5_K_M",
+          "name": "7b-instruct-q5_K_M",
+          "parameter_size": "7B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 5798205849,
+          "size_formatted": "5.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "b49686d392f7",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q6_K",
+          "name": "7b-instruct-q6_K",
+          "parameter_size": "7B",
+          "quantization": "Q6_K",
+          "size_bytes": 6764573491,
+          "size_formatted": "6.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "e387e8c7e4de",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-q8_0",
+          "name": "7b-instruct-q8_0",
+          "parameter_size": "7B",
+          "quantization": "Q8_0",
+          "size_bytes": 8697308774,
+          "size_formatted": "8.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "628f28555c4e",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:7b-instruct-fp16",
+          "name": "7b-instruct-fp16",
+          "parameter_size": "7B",
+          "quantization": "FP16",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "2ff60f753a04",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct",
+          "name": "72b-instruct",
+          "parameter_size": "72B",
+          "quantization": "Default",
+          "size_bytes": 44023414784,
+          "size_formatted": "41GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "9cf426342464",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q2_K",
+          "name": "72b-instruct-q2_K",
+          "parameter_size": "72B",
+          "quantization": "Q2_K",
+          "size_bytes": 32212254720,
+          "size_formatted": "30GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "e756083b2ef3",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q3_K_S",
+          "name": "72b-instruct-q3_K_S",
+          "parameter_size": "72B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 36507222016,
+          "size_formatted": "34GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "8300d30bce4d",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q3_K_M",
+          "name": "72b-instruct-q3_K_M",
+          "parameter_size": "72B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 40802189312,
+          "size_formatted": "38GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "39f518ee780a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q3_K_L",
+          "name": "72b-instruct-q3_K_L",
+          "parameter_size": "72B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 42949672960,
+          "size_formatted": "40GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "9b0ee46ebbb0",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q4_0",
+          "name": "72b-instruct-q4_0",
+          "parameter_size": "72B",
+          "quantization": "Q4_0",
+          "size_bytes": 44023414784,
+          "size_formatted": "41GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "9cf426342464",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q4_1",
+          "name": "72b-instruct-q4_1",
+          "parameter_size": "72B",
+          "quantization": "Q4_1",
+          "size_bytes": 49392123904,
+          "size_formatted": "46GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "92742f4e5a3c",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q4_K_S",
+          "name": "72b-instruct-q4_K_S",
+          "parameter_size": "72B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 47244640256,
+          "size_formatted": "44GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "7fdab978b506",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q4_K_M",
+          "name": "72b-instruct-q4_K_M",
+          "parameter_size": "72B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 50465865728,
+          "size_formatted": "47GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "4607ef31652a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q5_0",
+          "name": "72b-instruct-q5_0",
+          "parameter_size": "72B",
+          "quantization": "Q5_0",
+          "size_bytes": 53687091200,
+          "size_formatted": "50GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "08ba2da5a4db",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q5_1",
+          "name": "72b-instruct-q5_1",
+          "parameter_size": "72B",
+          "quantization": "Q5_1",
+          "size_bytes": 59055800320,
+          "size_formatted": "55GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "6ae803c94afe",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q5_K_S",
+          "name": "72b-instruct-q5_K_S",
+          "parameter_size": "72B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 54760833024,
+          "size_formatted": "51GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "84fadf091d81",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q5_K_M",
+          "name": "72b-instruct-q5_K_M",
+          "parameter_size": "72B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 57982058496,
+          "size_formatted": "54GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "ad3afa8c1764",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q6_K",
+          "name": "72b-instruct-q6_K",
+          "parameter_size": "72B",
+          "quantization": "Q6_K",
+          "size_bytes": 68719476736,
+          "size_formatted": "64GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "0357576f1f45",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-q8_0",
+          "name": "72b-instruct-q8_0",
+          "parameter_size": "72B",
+          "quantization": "Q8_0",
+          "size_bytes": 82678120448,
+          "size_formatted": "77GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "4a5f8f66cc3b",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "qwen2-math:72b-instruct-fp16",
+          "name": "72b-instruct-fp16",
+          "parameter_size": "72B",
+          "quantization": "FP16",
+          "size_bytes": 155692564480,
+          "size_formatted": "145GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "119fdb055da9",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Alibaba Cloud",
+      "publisher": "Qwen Team",
+      "family": "qwen",
+      "license": "",
+      "homepage": ""
     },
     {
       "id": "codeqwen",
@@ -85603,7 +85603,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 992400,
+      "pulls_count": 992600,
       "tags_count": 67,
       "updated_at": "Nov 4, 2023 10:50 PM UTC",
       "updated_full_date": "Nov 4, 2023 10:50 PM UTC",
@@ -86577,7 +86577,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 991400,
+      "pulls_count": 991500,
       "tags_count": 36,
       "updated_at": "Apr 2, 2024 11:45 PM UTC",
       "updated_full_date": "Apr 2, 2024 11:45 PM UTC",
@@ -87117,7 +87117,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 984800,
+      "pulls_count": 985000,
       "tags_count": 49,
       "updated_at": "Dec 28, 2023 2:53 AM UTC",
       "updated_full_date": "Dec 28, 2023 2:53 AM UTC",
@@ -87839,7 +87839,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 972800,
+      "pulls_count": 972900,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88325,7 +88325,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 960900,
+      "pulls_count": 961100,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -88824,7 +88824,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 953500,
+      "pulls_count": 953600,
       "tags_count": 9,
       "updated_at": "Apr 8, 2025 10:53 PM UTC",
       "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
@@ -88988,7 +88988,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 952100,
+      "pulls_count": 952200,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -89711,7 +89711,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 943500,
+      "pulls_count": 943600,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -90211,7 +90211,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 942400,
+      "pulls_count": 942500,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -91013,7 +91013,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 935400,
+      "pulls_count": 935500,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -91509,7 +91509,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 923400,
+      "pulls_count": 923900,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92565,7 +92565,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 917900,
+      "pulls_count": 918200,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93063,7 +93063,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 916900,
+      "pulls_count": 917500,
       "tags_count": 1,
       "updated_at": "Dec 10, 2025 10:09 PM UTC",
       "updated_full_date": "Dec 10, 2025 10:09 PM UTC",
@@ -93113,7 +93113,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 908600,
+      "pulls_count": 908700,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -93611,7 +93611,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 902900,
+      "pulls_count": 903000,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94096,7 +94096,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 890700,
+      "pulls_count": 890800,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -94371,7 +94371,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 883800,
+      "pulls_count": 884100,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94719,7 +94719,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 841800,
+      "pulls_count": 842300,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -94882,7 +94882,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 804300,
+      "pulls_count": 804400,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95217,7 +95217,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 789800,
+      "pulls_count": 789900,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -95325,7 +95325,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 768900,
+      "pulls_count": 769000,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95543,7 +95543,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 729700,
+      "pulls_count": 729800,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -95967,7 +95967,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 715700,
+      "pulls_count": 716000,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96242,7 +96242,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 714900,
+      "pulls_count": 715000,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -96261,7 +96261,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "ed76ab18784f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96275,7 +96275,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "ed76ab18784f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96289,7 +96289,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "71c1aed58cc4",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96303,7 +96303,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "28cabdeeb76e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96317,7 +96317,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "91b07164ba46",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96331,7 +96331,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "899020cd5b1e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96345,7 +96345,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "041bd339f71f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96359,7 +96359,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "715f0114b145",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96373,7 +96373,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "59f3d2ea76f8",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96387,7 +96387,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "ed76ab18784f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96401,7 +96401,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "e5f64c7116d1",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96415,7 +96415,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "8c244be13dfe",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96429,7 +96429,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "072f4b7daa17",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96443,7 +96443,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "9e36e563dbdd",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96457,7 +96457,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "4cf36901911e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96471,7 +96471,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "fe86a4d04f9f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -96485,7 +96485,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "d0d806e9853c",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         }
       ],
@@ -96516,7 +96516,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 697900,
+      "pulls_count": 699100,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -96790,7 +96790,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 694300,
+      "pulls_count": 694400,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97067,7 +97067,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 662200,
+      "pulls_count": 662300,
       "tags_count": 4,
       "updated_at": "Apr 27, 2026 8:26 PM UTC",
       "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
@@ -97159,7 +97159,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 648900,
+      "pulls_count": 649000,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -97448,7 +97448,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 648300,
+      "pulls_count": 648500,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97885,7 +97885,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 620200,
+      "pulls_count": 620300,
       "tags_count": 17,
       "updated_at": "Sep 9, 2024 5:16 AM UTC",
       "updated_full_date": "Sep 9, 2024 5:16 AM UTC",
@@ -98159,7 +98159,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 598800,
+      "pulls_count": 598900,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -98461,7 +98461,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 594200,
+      "pulls_count": 594300,
       "tags_count": 18,
       "updated_at": "Dec 20, 2024 1:05 AM UTC",
       "updated_full_date": "Dec 20, 2024 1:05 AM UTC",
@@ -98750,7 +98750,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 593200,
+      "pulls_count": 593300,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -99190,7 +99190,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 572500,
+      "pulls_count": 572600,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -99492,7 +99492,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 569500,
+      "pulls_count": 569600,
       "tags_count": 18,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -99780,7 +99780,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 562300,
+      "pulls_count": 562400,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -100579,7 +100579,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 552900,
+      "pulls_count": 553000,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -100856,7 +100856,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 551300,
+      "pulls_count": 551400,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -101404,7 +101404,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 543200,
+      "pulls_count": 543300,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 10:06 PM UTC",
       "updated_full_date": "Dec 29, 2023 10:06 PM UTC",
@@ -101692,7 +101692,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 541900,
+      "pulls_count": 542100,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -102255,7 +102255,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 534800,
+      "pulls_count": 534900,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102352,7 +102352,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "66607904c165",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102366,7 +102366,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "66607904c165",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102380,7 +102380,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "98385f12a848",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102394,7 +102394,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "a68a5fb19b12",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102408,7 +102408,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "560cfbea53dd",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102422,7 +102422,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "74690ad307cb",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102436,7 +102436,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "7fc72b12130d",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102450,7 +102450,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "c796eb693160",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102464,7 +102464,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "f0921a474a27",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102478,7 +102478,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "66607904c165",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102492,7 +102492,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "fb6f4f1a6545",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102506,7 +102506,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "5cb78318e18c",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102520,7 +102520,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "136d527fe4a4",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102534,7 +102534,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d14295ca6cda",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102548,7 +102548,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "938ab53c88c7",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102562,7 +102562,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "a7b1d189f707",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -102576,7 +102576,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "3fa94947d3bb",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         }
       ],
@@ -102882,7 +102882,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 527200,
+      "pulls_count": 527300,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -103156,7 +103156,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 526900,
+      "pulls_count": 527000,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -103704,7 +103704,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 513200,
+      "pulls_count": 513300,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -103981,7 +103981,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 511200,
+      "pulls_count": 511300,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -104032,7 +104032,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 508900,
+      "pulls_count": 509000,
       "tags_count": 5,
       "updated_at": "Dec 9, 2025 7:48 AM UTC",
       "updated_full_date": "Dec 9, 2025 7:48 AM UTC",
@@ -104140,7 +104140,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 507200,
+      "pulls_count": 507800,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -104302,7 +104302,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 503400,
+      "pulls_count": 503500,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -104560,7 +104560,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 482400,
+      "pulls_count": 482500,
       "tags_count": 16,
       "updated_at": "Nov 17, 2023 9:54 PM UTC",
       "updated_full_date": "Nov 17, 2023 9:54 PM UTC",
@@ -104823,7 +104823,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 474800,
+      "pulls_count": 474900,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -104875,7 +104875,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 462200,
+      "pulls_count": 462500,
       "tags_count": 2,
       "updated_at": "Aug 1, 2026 5:21 AM UTC",
       "updated_full_date": "Aug 1, 2026 5:21 AM UTC",
@@ -104942,7 +104942,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 459000,
+      "pulls_count": 459100,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -105190,7 +105190,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 458200,
+      "pulls_count": 458300,
       "tags_count": 9,
       "updated_at": "Feb 26, 2025 5:48 AM UTC",
       "updated_full_date": "Feb 26, 2025 5:48 AM UTC",
@@ -105353,7 +105353,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 453100,
+      "pulls_count": 453200,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -105434,7 +105434,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 448400,
+      "pulls_count": 449100,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -106307,7 +106307,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 416400,
+      "pulls_count": 416500,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -106527,7 +106527,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 410700,
+      "pulls_count": 411100,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106701,7 +106701,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 398500,
+      "pulls_count": 398600,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -106865,7 +106865,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 395000,
+      "pulls_count": 395700,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -107029,7 +107029,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 370000,
+      "pulls_count": 370100,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107391,7 +107391,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 347800,
+      "pulls_count": 349100,
       "tags_count": 4,
       "updated_at": "May 7, 2024 9:20 PM UTC",
       "updated_full_date": "May 7, 2024 9:20 PM UTC",
@@ -107715,7 +107715,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 324400,
+      "pulls_count": 325000,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107734,7 +107734,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "e5df7dcdd8a2",
-          "updated_at": "4 weeks ago",
+          "updated_at": "1 month ago",
           "is_cloud": false
         },
         {
@@ -107748,7 +107748,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9f3b89b25219",
-          "updated_at": "4 weeks ago",
+          "updated_at": "1 month ago",
           "is_cloud": false
         },
         {
@@ -107762,7 +107762,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "337c6db6be12",
-          "updated_at": "4 weeks ago",
+          "updated_at": "1 month ago",
           "is_cloud": false
         }
       ],
@@ -107794,7 +107794,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 323900,
+      "pulls_count": 324000,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -107900,7 +107900,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 311700,
+      "pulls_count": 311800,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -108008,7 +108008,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 291000,
+      "pulls_count": 291100,
       "tags_count": 10,
       "updated_at": "Dec 16, 2025 5:56 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:56 AM UTC",
@@ -108397,7 +108397,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 261200,
+      "pulls_count": 261400,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108531,7 +108531,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 260300,
+      "pulls_count": 260400,
       "tags_count": 5,
       "updated_at": "Dec 30, 2024 9:33 PM UTC",
       "updated_full_date": "Dec 30, 2024 9:33 PM UTC",
@@ -108640,7 +108640,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 239200,
+      "pulls_count": 239300,
       "tags_count": 1,
       "updated_at": "Jun 13, 2026 12:26 AM UTC",
       "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
@@ -108906,7 +108906,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 215400,
+      "pulls_count": 215800,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108967,7 +108967,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "015fa21845be",
-          "updated_at": "2 weeks ago",
+          "updated_at": "3 weeks ago",
           "is_cloud": false
         },
         {
@@ -109051,7 +109051,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "015fa21845be",
-          "updated_at": "2 weeks ago",
+          "updated_at": "3 weeks ago",
           "is_cloud": false
         },
         {
@@ -109459,7 +109459,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 186200,
+      "pulls_count": 186500,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109567,7 +109567,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 171800,
+      "pulls_count": 172100,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109840,7 +109840,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 152100,
+      "pulls_count": 152400,
       "tags_count": 5,
       "updated_at": "May 31, 2026 4:16 AM UTC",
       "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -109947,7 +109947,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 150600,
+      "pulls_count": 150700,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -109980,7 +109980,7 @@
           "context_formatted": "1M",
           "input_type": "Text",
           "digest": "4d872a0116f7",
-          "updated_at": "2 weeks ago",
+          "updated_at": "3 weeks ago",
           "is_cloud": false
         },
         {
@@ -110178,7 +110178,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 142400,
+      "pulls_count": 142700,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -110229,7 +110229,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 113200,
+      "pulls_count": 113300,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -110332,7 +110332,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "989474a733e8",
-          "updated_at": "4 weeks ago",
+          "updated_at": "1 month ago",
           "is_cloud": false
         }
       ],
@@ -110365,7 +110365,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 112600,
+      "pulls_count": 112800,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -110417,7 +110417,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 107600,
+      "pulls_count": 107900,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110541,7 +110541,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 97500,
+      "pulls_count": 97700,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -110594,7 +110594,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 84300,
+      "pulls_count": 84400,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -110646,7 +110646,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 69000,
+      "pulls_count": 69600,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111369,7 +111369,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 55800,
+      "pulls_count": 55900,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -111505,7 +111505,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 52200,
+      "pulls_count": 52500,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111556,7 +111556,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 50500,
+      "pulls_count": 50600,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -111775,7 +111775,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 39800,
+      "pulls_count": 39900,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -111994,7 +111994,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 30100,
+      "pulls_count": 30200,
       "tags_count": 7,
       "updated_at": "Jul 25, 2026 6:19 PM UTC",
       "updated_full_date": "Jul 25, 2026 6:19 PM UTC",
@@ -112131,7 +112131,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 28300,
+      "pulls_count": 28800,
       "tags_count": 1,
       "updated_at": "Sep 10, 2026 3:00 AM UTC",
       "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
@@ -112180,7 +112180,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 25100,
+      "pulls_count": 25200,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
