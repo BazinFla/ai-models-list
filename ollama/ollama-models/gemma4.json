@@ -30,9 +30,9 @@
   },
   "pulls_count": 25500000,
   "tags_count": 50,
-  "updated_at": "Aug 31, 2026 8:52 PM UTC",
-  "updated_full_date": "Aug 31, 2026 8:52 PM UTC",
-  "updated_date_key": 202608312052,
+  "updated_at": "Sep 22, 2026 8:28 PM UTC",
+  "updated_full_date": "Sep 22, 2026 8:28 PM UTC",
+  "updated_date_key": 202609222028,
   "is_cloud": true,
   "default_tag": "gemma4:latest",
   "variants": [
@@ -61,7 +61,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "b06ba4be71c0",
-      "updated_at": "2 months ago",
+      "updated_at": "3 months ago",
       "is_cloud": true
     },
     {
@@ -587,13 +587,13 @@
       "name": "26b-nvfp4",
       "parameter_size": "26B",
       "quantization": "Default",
-      "size_bytes": 19327352832,
-      "size_formatted": "18GB",
+      "size_bytes": 17179869184,
+      "size_formatted": "16GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "f0fc7e0ae494",
-      "updated_at": "3 weeks ago",
+      "digest": "f60799545325",
+      "updated_at": "28 minutes ago",
       "is_cloud": false
     },
     {
