@@ -44,9 +44,10 @@
       "is_cloud": true
     }
   ],
-  "is_deprecated": false,
-  "status": "active",
+  "is_deprecated": true,
+  "status": "deprecated",
   "creator": "Zhipu AI",
   "publisher": "Zhipu AI",
-  "family": "glm"
+  "family": "glm",
+  "deprecated_at": "2026-09-25 11:16:23 UTC"
 }
