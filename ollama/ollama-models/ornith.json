@@ -5,23 +5,24 @@
   "is_official": true,
   "namespace": "library",
   "description": "A self-improving family of open-source models for agentic coding",
-  "category": "General LLM",
+  "category": "Reasoning",
   "page_url": "https://ollama.com/library/ornith",
   "tags_page_url": "https://ollama.com/library/ornith/tags",
   "badges": [
     "tools",
+    "thinking",
     "9b",
     "35b"
   ],
   "capabilities": {
-    "think": false,
+    "think": true,
     "vision": false,
     "audio": false,
     "tools": true,
     "code": false,
     "embedding": false
   },
-  "pulls_count": 545700,
+  "pulls_count": 547100,
   "tags_count": 9,
   "updated_at": "Jun 27, 2026 8:45 PM UTC",
   "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
