@@ -20,11 +20,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 827,
+  "pulls_count": 0,
   "tags_count": 8,
-  "updated_at": "Sep 29, 2026 9:11 PM UTC",
-  "updated_full_date": "Sep 29, 2026 9:11 PM UTC",
-  "updated_date_key": 202609292111,
+  "updated_at": "Sep 29, 2026 11:34 PM UTC",
+  "updated_full_date": "Sep 29, 2026 11:34 PM UTC",
+  "updated_date_key": 202609292334,
   "is_cloud": false,
   "default_tag": "tev1:latest",
   "variants": [
@@ -39,7 +39,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "cef45ef93cf6",
-      "updated_at": "45 minutes ago",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -52,8 +52,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "c0099a86fcbd",
-      "updated_at": "",
+      "digest": "d45e875d63fe",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -67,7 +67,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "cef45ef93cf6",
-      "updated_at": "45 minutes ago",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -80,8 +80,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "c0099a86fcbd",
-      "updated_at": "",
+      "digest": "d45e875d63fe",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -94,8 +94,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "5ce5dd54b9b3",
-      "updated_at": "",
+      "digest": "e7fb0ec7c16e",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -109,7 +109,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "07be32e6e5e3",
-      "updated_at": "44 minutes ago",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -123,7 +123,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "cef45ef93cf6",
-      "updated_at": "44 minutes ago",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -137,7 +137,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "4a7714fab59e",
-      "updated_at": "44 minutes ago",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     }
   ],
