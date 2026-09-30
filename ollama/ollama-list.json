@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-09-30 11:59:45 UTC",
+  "scraped_at": "2026-09-30 17:57:31 UTC",
   "total_models": 240,
   "total_active_models": 240,
   "total_deprecated_models": 2,
@@ -6081,7 +6081,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 33700000,
+      "pulls_count": 33800000,
       "tags_count": 84,
       "updated_at": "Jul 13, 2025 12:56 AM UTC",
       "updated_full_date": "Jul 13, 2025 12:56 AM UTC",
@@ -8662,7 +8662,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 26000000,
+      "pulls_count": 26100000,
       "tags_count": 51,
       "updated_at": "Sep 30, 2026 2:36 AM UTC",
       "updated_full_date": "Sep 30, 2026 2:36 AM UTC",
@@ -8681,7 +8681,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "009acb0d7fe1",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -8709,7 +8709,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "862c9e801351",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -8723,7 +8723,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "009acb0d7fe1",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -8737,7 +8737,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "312246b09fab",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -8751,7 +8751,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "ed3c4359df98",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -8765,7 +8765,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "70d0e663aeb9",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -8793,7 +8793,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b37049369adf",
-          "updated_at": "14 hours ago",
+          "updated_at": "20 hours ago",
           "is_cloud": false
         },
         {
@@ -8905,7 +8905,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "dc35e8d9c606",
-          "updated_at": "14 hours ago",
+          "updated_at": "19 hours ago",
           "is_cloud": false
         },
         {
@@ -9017,7 +9017,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "6114515d63c1",
-          "updated_at": "13 hours ago",
+          "updated_at": "19 hours ago",
           "is_cloud": false
         },
         {
@@ -9115,7 +9115,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "ed3c4359df98",
-          "updated_at": "9 hours ago",
+          "updated_at": "15 hours ago",
           "is_cloud": false
         },
         {
@@ -9129,7 +9129,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "001e5dafc3c7",
-          "updated_at": "10 hours ago",
+          "updated_at": "16 hours ago",
           "is_cloud": false
         },
         {
@@ -9297,7 +9297,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "17ba34c06c80",
-          "updated_at": "12 hours ago",
+          "updated_at": "18 hours ago",
           "is_cloud": false
         },
         {
@@ -13244,7 +13244,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 21200000,
+      "pulls_count": 21300000,
       "tags_count": 62,
       "updated_at": "Sep 1, 2026 4:30 PM UTC",
       "updated_full_date": "Sep 1, 2026 4:30 PM UTC",
@@ -63551,112 +63551,6 @@
       "family": "lfm"
     },
     {
-      "id": "deepscaler",
-      "name": "deepscaler",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/deepscaler",
-      "tags_page_url": "https://ollama.com/library/deepscaler/tags",
-      "badges": [
-        "1.5b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 1300000,
-      "tags_count": 5,
-      "updated_at": "Feb 12, 2025 1:53 AM UTC",
-      "updated_full_date": "Feb 12, 2025 1:53 AM UTC",
-      "updated_date_key": 202502120153,
-      "is_cloud": false,
-      "default_tag": "deepscaler:latest",
-      "variants": [
-        {
-          "tag": "deepscaler:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 3865470566,
-          "size_formatted": "3.6GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "0031bcf7459f",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepscaler:1.5b",
-          "name": "1.5b",
-          "parameter_size": "1.5B",
-          "quantization": "Default",
-          "size_bytes": 3865470566,
-          "size_formatted": "3.6GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "0031bcf7459f",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepscaler:1.5b-preview-q4_K_M",
-          "name": "1.5b-preview-q4_K_M",
-          "parameter_size": "1.5B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 1181116006,
-          "size_formatted": "1.1GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "305c4a53269d",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepscaler:1.5b-preview-q8_0",
-          "name": "1.5b-preview-q8_0",
-          "parameter_size": "1.5B",
-          "quantization": "Q8_0",
-          "size_bytes": 2040109465,
-          "size_formatted": "1.9GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "37b8148c7f55",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepscaler:1.5b-preview-fp16",
-          "name": "1.5b-preview-fp16",
-          "parameter_size": "1.5B",
-          "quantization": "FP16",
-          "size_bytes": 3865470566,
-          "size_formatted": "3.6GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "0031bcf7459f",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "wizardcoder",
       "name": "wizardcoder",
       "source": "ollama_library",
@@ -64621,6 +64515,112 @@
           "input_type": "Text",
           "digest": "06ce62e380d8",
           "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
+      "id": "deepscaler",
+      "name": "deepscaler",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/deepscaler",
+      "tags_page_url": "https://ollama.com/library/deepscaler/tags",
+      "badges": [
+        "1.5b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 1300000,
+      "tags_count": 5,
+      "updated_at": "Feb 12, 2025 1:53 AM UTC",
+      "updated_full_date": "Feb 12, 2025 1:53 AM UTC",
+      "updated_date_key": 202502120153,
+      "is_cloud": false,
+      "default_tag": "deepscaler:latest",
+      "variants": [
+        {
+          "tag": "deepscaler:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 3865470566,
+          "size_formatted": "3.6GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "0031bcf7459f",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepscaler:1.5b",
+          "name": "1.5b",
+          "parameter_size": "1.5B",
+          "quantization": "Default",
+          "size_bytes": 3865470566,
+          "size_formatted": "3.6GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "0031bcf7459f",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepscaler:1.5b-preview-q4_K_M",
+          "name": "1.5b-preview-q4_K_M",
+          "parameter_size": "1.5B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 1181116006,
+          "size_formatted": "1.1GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "305c4a53269d",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepscaler:1.5b-preview-q8_0",
+          "name": "1.5b-preview-q8_0",
+          "parameter_size": "1.5B",
+          "quantization": "Q8_0",
+          "size_bytes": 2040109465,
+          "size_formatted": "1.9GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "37b8148c7f55",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepscaler:1.5b-preview-fp16",
+          "name": "1.5b-preview-fp16",
+          "parameter_size": "1.5B",
+          "quantization": "FP16",
+          "size_bytes": 3865470566,
+          "size_formatted": "3.6GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "0031bcf7459f",
+          "updated_at": "1 year ago",
           "is_cloud": false
         }
       ],
@@ -78608,6 +78608,116 @@
       "family": "llama"
     },
     {
+      "id": "devstral",
+      "name": "devstral",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Devstral: the best open source model for coding agents",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/devstral",
+      "tags_page_url": "https://ollama.com/library/devstral/tags",
+      "badges": [
+        "tools",
+        "24b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 1100000,
+      "tags_count": 5,
+      "updated_at": "Jul 4, 2025 6:29 PM UTC",
+      "updated_full_date": "Jul 4, 2025 6:29 PM UTC",
+      "updated_date_key": 202507041829,
+      "is_cloud": false,
+      "default_tag": "devstral:latest",
+      "variants": [
+        {
+          "tag": "devstral:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 15032385536,
+          "size_formatted": "14GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "9bd74193e939",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral:24b",
+          "name": "24b",
+          "parameter_size": "24B",
+          "quantization": "Default",
+          "size_bytes": 15032385536,
+          "size_formatted": "14GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "9bd74193e939",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral:24b-small-2505-q4_K_M",
+          "name": "24b-small-2505-q4_K_M",
+          "parameter_size": "24B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 15032385536,
+          "size_formatted": "14GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "9bd74193e939",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral:24b-small-2505-q8_0",
+          "name": "24b-small-2505-q8_0",
+          "parameter_size": "24B",
+          "quantization": "Q8_0",
+          "size_bytes": 26843545600,
+          "size_formatted": "25GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "25a16f448fb3",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral:24b-small-2505-fp16",
+          "name": "24b-small-2505-fp16",
+          "parameter_size": "24B",
+          "quantization": "FP16",
+          "size_bytes": 50465865728,
+          "size_formatted": "47GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "d1e6469472dc",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "icon_name": "mistral-devstral",
+      "license": "Apache-2.0",
+      "homepage": "https://mistral.ai",
+      "family": "devstral"
+    },
+    {
       "id": "llama3-chatqa",
       "name": "llama3-chatqa",
       "source": "ollama_library",
@@ -79133,116 +79243,6 @@
       "creator": "",
       "publisher": "",
       "family": ""
-    },
-    {
-      "id": "devstral",
-      "name": "devstral",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Devstral: the best open source model for coding agents",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/devstral",
-      "tags_page_url": "https://ollama.com/library/devstral/tags",
-      "badges": [
-        "tools",
-        "24b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 1100000,
-      "tags_count": 5,
-      "updated_at": "Jul 4, 2025 6:29 PM UTC",
-      "updated_full_date": "Jul 4, 2025 6:29 PM UTC",
-      "updated_date_key": 202507041829,
-      "is_cloud": false,
-      "default_tag": "devstral:latest",
-      "variants": [
-        {
-          "tag": "devstral:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 15032385536,
-          "size_formatted": "14GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "9bd74193e939",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral:24b",
-          "name": "24b",
-          "parameter_size": "24B",
-          "quantization": "Default",
-          "size_bytes": 15032385536,
-          "size_formatted": "14GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "9bd74193e939",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral:24b-small-2505-q4_K_M",
-          "name": "24b-small-2505-q4_K_M",
-          "parameter_size": "24B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 15032385536,
-          "size_formatted": "14GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "9bd74193e939",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral:24b-small-2505-q8_0",
-          "name": "24b-small-2505-q8_0",
-          "parameter_size": "24B",
-          "quantization": "Q8_0",
-          "size_bytes": 26843545600,
-          "size_formatted": "25GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "25a16f448fb3",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral:24b-small-2505-fp16",
-          "name": "24b-small-2505-fp16",
-          "parameter_size": "24B",
-          "quantization": "FP16",
-          "size_bytes": 50465865728,
-          "size_formatted": "47GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "d1e6469472dc",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Mistral AI",
-      "publisher": "Mistral AI",
-      "icon_name": "mistral-devstral",
-      "license": "Apache-2.0",
-      "homepage": "https://mistral.ai",
-      "family": "devstral"
     },
     {
       "id": "internlm2",
@@ -87100,7 +87100,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 995300,
+      "pulls_count": 995600,
       "tags_count": 49,
       "updated_at": "Dec 28, 2023 2:53 AM UTC",
       "updated_full_date": "Dec 28, 2023 2:53 AM UTC",
@@ -87822,7 +87822,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 980600,
+      "pulls_count": 980800,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88308,7 +88308,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 969500,
+      "pulls_count": 969800,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -88808,7 +88808,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 963600,
+      "pulls_count": 963800,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -89531,7 +89531,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 958000,
+      "pulls_count": 958100,
       "tags_count": 9,
       "updated_at": "Apr 8, 2025 10:53 PM UTC",
       "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
@@ -89695,7 +89695,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 953700,
+      "pulls_count": 954000,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -90418,7 +90418,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 952200,
+      "pulls_count": 952400,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -90996,7 +90996,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 943800,
+      "pulls_count": 944000,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -91492,7 +91492,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 937400,
+      "pulls_count": 937700,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92548,7 +92548,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 925900,
+      "pulls_count": 926100,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93046,7 +93046,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 916400,
+      "pulls_count": 916600,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -93544,7 +93544,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 910500,
+      "pulls_count": 910700,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94029,7 +94029,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 906700,
+      "pulls_count": 906800,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94374,7 +94374,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 896000,
+      "pulls_count": 896100,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -94652,7 +94652,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 870500,
+      "pulls_count": 871200,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -94814,7 +94814,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 811900,
+      "pulls_count": 814400,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -95089,7 +95089,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 810000,
+      "pulls_count": 810100,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95424,7 +95424,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 793800,
+      "pulls_count": 793900,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -95532,7 +95532,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 773500,
+      "pulls_count": 773600,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95750,7 +95750,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 736800,
+      "pulls_count": 736900,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96024,7 +96024,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 735200,
+      "pulls_count": 735400,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -96314,7 +96314,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 730900,
+      "pulls_count": 731000,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -96449,7 +96449,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 721200,
+      "pulls_count": 721300,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -96723,7 +96723,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 699300,
+      "pulls_count": 699400,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97000,7 +97000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 671000,
+      "pulls_count": 671100,
       "tags_count": 4,
       "updated_at": "Apr 27, 2026 8:26 PM UTC",
       "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
@@ -97093,7 +97093,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 656800,
+      "pulls_count": 657000,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97255,7 +97255,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 654100,
+      "pulls_count": 654300,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -97544,7 +97544,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 632800,
+      "pulls_count": 632900,
       "tags_count": 17,
       "updated_at": "Oct 16, 2024 11:10 PM UTC",
       "updated_full_date": "Oct 16, 2024 11:10 PM UTC",
@@ -97818,7 +97818,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 624600,
+      "pulls_count": 624700,
       "tags_count": 17,
       "updated_at": "Sep 9, 2024 5:16 AM UTC",
       "updated_full_date": "Sep 9, 2024 5:16 AM UTC",
@@ -98092,7 +98092,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 603700,
+      "pulls_count": 603900,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -98394,7 +98394,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 599100,
+      "pulls_count": 599200,
       "tags_count": 18,
       "updated_at": "Dec 20, 2024 1:05 AM UTC",
       "updated_full_date": "Dec 20, 2024 1:05 AM UTC",
@@ -98683,7 +98683,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 597800,
+      "pulls_count": 597900,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -98959,7 +98959,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 593800,
+      "pulls_count": 593900,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -99123,7 +99123,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 577300,
+      "pulls_count": 577500,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -99425,7 +99425,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 574400,
+      "pulls_count": 574500,
       "tags_count": 18,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -99715,7 +99715,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 567600,
+      "pulls_count": 567700,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -99933,7 +99933,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 567100,
+      "pulls_count": 567300,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -100224,7 +100224,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 563900,
+      "pulls_count": 564000,
       "tags_count": 18,
       "updated_at": "Dec 5, 2023 11:59 PM UTC",
       "updated_full_date": "Dec 5, 2023 11:59 PM UTC",
@@ -100512,7 +100512,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 558700,
+      "pulls_count": 558900,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -100786,7 +100786,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 557800,
+      "pulls_count": 558000,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -101043,6 +101043,171 @@
       "family": "mathstral"
     },
     {
+      "id": "ornith",
+      "name": "ornith",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A self-improving family of open-source models for agentic coding",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/ornith",
+      "tags_page_url": "https://ollama.com/library/ornith/tags",
+      "badges": [
+        "tools",
+        "thinking",
+        "9b",
+        "35b"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": false,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 548900,
+      "tags_count": 9,
+      "updated_at": "Jun 27, 2026 8:45 PM UTC",
+      "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
+      "updated_date_key": 202606272045,
+      "is_cloud": false,
+      "default_tag": "ornith:latest",
+      "variants": [
+        {
+          "tag": "ornith:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "a75697c14589",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:9b",
+          "name": "9b",
+          "parameter_size": "9B",
+          "quantization": "Default",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "a75697c14589",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:35b",
+          "name": "35b",
+          "parameter_size": "35B",
+          "quantization": "Default",
+          "size_bytes": 22548578304,
+          "size_formatted": "21GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "5a470e0f652c",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:9b-q4_K_M",
+          "name": "9b-q4_K_M",
+          "parameter_size": "9B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "a75697c14589",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:9b-q8_0",
+          "name": "9b-q8_0",
+          "parameter_size": "9B",
+          "quantization": "Q8_0",
+          "size_bytes": 10200547328,
+          "size_formatted": "9.5GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "b1edce684170",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:9b-bf16",
+          "name": "9b-bf16",
+          "parameter_size": "9B",
+          "quantization": "F16",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "0ed5c778f8a9",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:35b-q4_K_M",
+          "name": "35b-q4_K_M",
+          "parameter_size": "35B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 22548578304,
+          "size_formatted": "21GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "5a470e0f652c",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:35b-q8_0",
+          "name": "35b-q8_0",
+          "parameter_size": "35B",
+          "quantization": "Q8_0",
+          "size_bytes": 39728447488,
+          "size_formatted": "37GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "44788b2fdab4",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "ornith:35b-bf16",
+          "name": "35b-bf16",
+          "parameter_size": "35B",
+          "quantization": "F16",
+          "size_bytes": 74088185856,
+          "size_formatted": "69GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "cfc852542826",
+          "updated_at": "3 months ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "falcon2",
       "name": "falcon2",
       "source": "ollama_library",
@@ -101063,7 +101228,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 548200,
+      "pulls_count": 548400,
       "tags_count": 17,
       "updated_at": "May 14, 2024 1:46 AM UTC",
       "updated_full_date": "May 14, 2024 1:46 AM UTC",
@@ -101337,7 +101502,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 548000,
+      "pulls_count": 548100,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 10:06 PM UTC",
       "updated_full_date": "Dec 29, 2023 10:06 PM UTC",
@@ -101605,171 +101770,6 @@
       "family": ""
     },
     {
-      "id": "ornith",
-      "name": "ornith",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A self-improving family of open-source models for agentic coding",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/ornith",
-      "tags_page_url": "https://ollama.com/library/ornith/tags",
-      "badges": [
-        "tools",
-        "thinking",
-        "9b",
-        "35b"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": false,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 547100,
-      "tags_count": 9,
-      "updated_at": "Jun 27, 2026 8:45 PM UTC",
-      "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
-      "updated_date_key": 202606272045,
-      "is_cloud": false,
-      "default_tag": "ornith:latest",
-      "variants": [
-        {
-          "tag": "ornith:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "a75697c14589",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:9b",
-          "name": "9b",
-          "parameter_size": "9B",
-          "quantization": "Default",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "a75697c14589",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:35b",
-          "name": "35b",
-          "parameter_size": "35B",
-          "quantization": "Default",
-          "size_bytes": 22548578304,
-          "size_formatted": "21GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "5a470e0f652c",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:9b-q4_K_M",
-          "name": "9b-q4_K_M",
-          "parameter_size": "9B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "a75697c14589",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:9b-q8_0",
-          "name": "9b-q8_0",
-          "parameter_size": "9B",
-          "quantization": "Q8_0",
-          "size_bytes": 10200547328,
-          "size_formatted": "9.5GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "b1edce684170",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:9b-bf16",
-          "name": "9b-bf16",
-          "parameter_size": "9B",
-          "quantization": "F16",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "0ed5c778f8a9",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:35b-q4_K_M",
-          "name": "35b-q4_K_M",
-          "parameter_size": "35B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 22548578304,
-          "size_formatted": "21GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "5a470e0f652c",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:35b-q8_0",
-          "name": "35b-q8_0",
-          "parameter_size": "35B",
-          "quantization": "Q8_0",
-          "size_bytes": 39728447488,
-          "size_formatted": "37GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "44788b2fdab4",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "ornith:35b-bf16",
-          "name": "35b-bf16",
-          "parameter_size": "35B",
-          "quantization": "F16",
-          "size_bytes": 74088185856,
-          "size_formatted": "69GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "cfc852542826",
-          "updated_at": "3 months ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "notux",
       "name": "notux",
       "source": "ollama_library",
@@ -101790,7 +101790,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 546700,
+      "pulls_count": 546900,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -102079,7 +102079,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 542200,
+      "pulls_count": 542400,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102157,7 +102157,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 540800,
+      "pulls_count": 540900,
       "tags_count": 17,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -102431,7 +102431,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 537700,
+      "pulls_count": 537800,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -102705,7 +102705,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 535400,
+      "pulls_count": 535600,
       "tags_count": 17,
       "updated_at": "Jan 29, 2024 11:52 PM UTC",
       "updated_full_date": "Jan 29, 2024 11:52 PM UTC",
@@ -102980,7 +102980,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 531800,
+      "pulls_count": 531900,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -103254,7 +103254,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 531300,
+      "pulls_count": 531400,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -103528,7 +103528,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 525600,
+      "pulls_count": 525700,
       "tags_count": 17,
       "updated_at": "Oct 28, 2023 7:41 PM UTC",
       "updated_full_date": "Oct 28, 2023 7:41 PM UTC",
@@ -103802,7 +103802,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 517600,
+      "pulls_count": 517700,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -104079,7 +104079,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 517500,
+      "pulls_count": 517600,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -104130,7 +104130,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 511600,
+      "pulls_count": 511700,
       "tags_count": 5,
       "updated_at": "Dec 9, 2025 7:48 AM UTC",
       "updated_full_date": "Dec 9, 2025 7:48 AM UTC",
@@ -104236,7 +104236,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 507600,
+      "pulls_count": 507700,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -104499,7 +104499,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 490600,
+      "pulls_count": 491700,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -105205,7 +105205,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 486600,
+      "pulls_count": 486700,
       "tags_count": 16,
       "updated_at": "Nov 17, 2023 9:54 PM UTC",
       "updated_full_date": "Nov 17, 2023 9:54 PM UTC",
@@ -105468,7 +105468,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 483700,
+      "pulls_count": 483900,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -105519,7 +105519,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 471600,
+      "pulls_count": 474200,
       "tags_count": 4,
       "updated_at": "May 7, 2024 9:20 PM UTC",
       "updated_full_date": "May 7, 2024 9:20 PM UTC",
@@ -105614,7 +105614,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 463500,
+      "pulls_count": 463600,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -105862,7 +105862,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 461800,
+      "pulls_count": 461900,
       "tags_count": 9,
       "updated_at": "Feb 26, 2025 5:48 AM UTC",
       "updated_full_date": "Feb 26, 2025 5:48 AM UTC",
@@ -106025,7 +106025,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 460000,
+      "pulls_count": 460100,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -106105,7 +106105,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 437900,
+      "pulls_count": 438200,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106269,7 +106269,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 433400,
+      "pulls_count": 433900,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106334,7 +106334,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 426200,
+      "pulls_count": 426300,
       "tags_count": 9,
       "updated_at": "Feb 21, 2025 3:28 PM UTC",
       "updated_full_date": "Feb 21, 2025 3:28 PM UTC",
@@ -106498,7 +106498,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 420800,
+      "pulls_count": 420900,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -106719,7 +106719,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 419100,
+      "pulls_count": 419300,
       "tags_count": 5,
       "updated_at": "May 5, 2026 11:14 PM UTC",
       "updated_full_date": "May 5, 2026 11:14 PM UTC",
@@ -106826,7 +106826,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 404300,
+      "pulls_count": 404500,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -106990,7 +106990,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 377200,
+      "pulls_count": 377400,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107246,7 +107246,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 361200,
+      "pulls_count": 361500,
       "tags_count": 1,
       "updated_at": "Jun 16, 2026 5:39 PM UTC",
       "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
@@ -107297,7 +107297,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 358700,
+      "pulls_count": 358800,
       "tags_count": 5,
       "updated_at": "Dec 12, 2025 1:21 AM UTC",
       "updated_full_date": "Dec 12, 2025 1:21 AM UTC",
@@ -107406,7 +107406,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 355400,
+      "pulls_count": 355900,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107485,7 +107485,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 342000,
+      "pulls_count": 342100,
       "tags_count": 10,
       "updated_at": "Nov 19, 2024 11:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 11:33 PM UTC",
@@ -107662,7 +107662,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 329100,
+      "pulls_count": 329200,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -107768,7 +107768,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 315100,
+      "pulls_count": 315200,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -107876,7 +107876,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 293800,
+      "pulls_count": 293900,
       "tags_count": 10,
       "updated_at": "Dec 16, 2025 5:56 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:56 AM UTC",
@@ -108265,7 +108265,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 275800,
+      "pulls_count": 276100,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108485,59 +108485,6 @@
       "family": ""
     },
     {
-      "id": "kimi-k2.7-code",
-      "name": "kimi-k2.7-code",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Kimi K2.7 Code is Moonshot AI's coding-focused agentic model built upon Kimi K2.6, with substantial improvements on real-world long-horizon coding tasks and roughly 30% lower thinking-token usage.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/kimi-k2.7-code",
-      "tags_page_url": "https://ollama.com/library/kimi-k2.7-code/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "thinking",
-        "cloud"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 244800,
-      "tags_count": 1,
-      "updated_at": "Jun 13, 2026 12:26 AM UTC",
-      "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
-      "updated_date_key": 202606130026,
-      "is_cloud": true,
-      "default_tag": "kimi-k2.7-code:cloud",
-      "variants": [
-        {
-          "tag": "kimi-k2.7-code:cloud",
-          "name": "cloud",
-          "parameter_size": "",
-          "quantization": "Cloud",
-          "size_bytes": 0,
-          "size_formatted": "High Usage",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "eda07a659237",
-          "updated_at": "3 months ago",
-          "is_cloud": true
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Moonshot AI",
-      "publisher": "Moonshot AI",
-      "family": "kimi"
-    },
-    {
       "id": "muse-glimmer",
       "name": "muse-glimmer",
       "source": "ollama_library",
@@ -108561,7 +108508,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 244100,
+      "pulls_count": 245300,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108785,6 +108732,59 @@
       "creator": "",
       "publisher": "",
       "family": ""
+    },
+    {
+      "id": "kimi-k2.7-code",
+      "name": "kimi-k2.7-code",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Kimi K2.7 Code is Moonshot AI's coding-focused agentic model built upon Kimi K2.6, with substantial improvements on real-world long-horizon coding tasks and roughly 30% lower thinking-token usage.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/kimi-k2.7-code",
+      "tags_page_url": "https://ollama.com/library/kimi-k2.7-code/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "thinking",
+        "cloud"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 244900,
+      "tags_count": 1,
+      "updated_at": "Jun 13, 2026 12:26 AM UTC",
+      "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
+      "updated_date_key": 202606130026,
+      "is_cloud": true,
+      "default_tag": "kimi-k2.7-code:cloud",
+      "variants": [
+        {
+          "tag": "kimi-k2.7-code:cloud",
+          "name": "cloud",
+          "parameter_size": "",
+          "quantization": "Cloud",
+          "size_bytes": 0,
+          "size_formatted": "High Usage",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "eda07a659237",
+          "updated_at": "3 months ago",
+          "is_cloud": true
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Moonshot AI",
+      "publisher": "Moonshot AI",
+      "family": "kimi"
     },
     {
       "id": "command-a",
@@ -109020,7 +109020,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 215700,
+      "pulls_count": 215800,
       "tags_count": 5,
       "updated_at": "Dec 4, 2024 8:14 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:14 AM UTC",
@@ -109234,7 +109234,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 206600,
+      "pulls_count": 206700,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109342,7 +109342,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 194000,
+      "pulls_count": 195000,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109533,7 +109533,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 193900,
+      "pulls_count": 194100,
       "tags_count": 4,
       "updated_at": "Dec 18, 2025 7:03 AM UTC",
       "updated_full_date": "Dec 18, 2025 7:03 AM UTC",
@@ -109627,7 +109627,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 171100,
+      "pulls_count": 171300,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -109751,7 +109751,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 168800,
+      "pulls_count": 169600,
       "tags_count": 5,
       "updated_at": "May 31, 2026 4:16 AM UTC",
       "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -109858,7 +109858,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 168000,
+      "pulls_count": 168100,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -110009,7 +110009,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 159100,
+      "pulls_count": 159200,
       "tags_count": 3,
       "updated_at": "Oct 29, 2025 2:04 AM UTC",
       "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
@@ -110090,7 +110090,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 158700,
+      "pulls_count": 159000,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -110142,7 +110142,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 150200,
+      "pulls_count": 150300,
       "tags_count": 3,
       "updated_at": "Mar 20, 2026 8:10 PM UTC",
       "updated_full_date": "Mar 20, 2026 8:10 PM UTC",
@@ -110222,7 +110222,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 124000,
+      "pulls_count": 124200,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -110273,7 +110273,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 121200,
+      "pulls_count": 121300,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -110409,7 +110409,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 111100,
+      "pulls_count": 111400,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -110461,7 +110461,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 97800,
+      "pulls_count": 98500,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111186,7 +111186,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 94600,
+      "pulls_count": 94800,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -111238,7 +111238,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 64900,
+      "pulls_count": 65200,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111289,7 +111289,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 61200,
+      "pulls_count": 61300,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -111426,7 +111426,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 59300,
+      "pulls_count": 59800,
       "tags_count": 1,
       "updated_at": "Sep 10, 2026 3:00 AM UTC",
       "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
@@ -111474,7 +111474,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 57900,
+      "pulls_count": 58000,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -111693,7 +111693,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 46300,
+      "pulls_count": 46400,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -112048,7 +112048,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 28800,
+      "pulls_count": 28900,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -112288,6 +112288,109 @@
       "family": "granite"
     },
     {
+      "id": "nimble",
+      "name": "nimble",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A 9B decision model from Bespoke Labs for fast, typed classification.",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/nimble",
+      "tags_page_url": "https://ollama.com/library/nimble/tags",
+      "badges": [
+        "9b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 0,
+      "tags_count": 5,
+      "updated_at": "Sep 29, 2026 9:12 PM UTC",
+      "updated_full_date": "Sep 29, 2026 9:12 PM UTC",
+      "updated_date_key": 202609292112,
+      "is_cloud": false,
+      "default_tag": "nimble:latest",
+      "variants": [
+        {
+          "tag": "nimble:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 10200547328,
+          "size_formatted": "9.5GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "24e550a16a70",
+          "updated_at": "21 hours ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b",
+          "name": "9b",
+          "parameter_size": "9B",
+          "quantization": "Default",
+          "size_bytes": 10200547328,
+          "size_formatted": "9.5GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "24e550a16a70",
+          "updated_at": "21 hours ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-q4_K_M",
+          "name": "9b-q4_K_M",
+          "parameter_size": "9B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "572f1f4c801d",
+          "updated_at": "21 hours ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-q8_0",
+          "name": "9b-q8_0",
+          "parameter_size": "9B",
+          "quantization": "Q8_0",
+          "size_bytes": 10200547328,
+          "size_formatted": "9.5GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "24e550a16a70",
+          "updated_at": "21 hours ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-bf16",
+          "name": "9b-bf16",
+          "parameter_size": "9B",
+          "quantization": "F16",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "adfcdbb4070d",
+          "updated_at": "21 hours ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active"
+    },
+    {
       "id": "tev1",
       "name": "tev1",
       "source": "ollama_library",
@@ -112328,7 +112431,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "cef45ef93cf6",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -112342,7 +112445,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "d45e875d63fe",
-          "updated_at": "12 hours ago",
+          "updated_at": "18 hours ago",
           "is_cloud": false
         },
         {
@@ -112356,7 +112459,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "cef45ef93cf6",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -112370,7 +112473,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "d45e875d63fe",
-          "updated_at": "12 hours ago",
+          "updated_at": "18 hours ago",
           "is_cloud": false
         },
         {
@@ -112384,7 +112487,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "e7fb0ec7c16e",
-          "updated_at": "12 hours ago",
+          "updated_at": "18 hours ago",
           "is_cloud": false
         },
         {
@@ -112398,7 +112501,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "07be32e6e5e3",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -112412,7 +112515,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "cef45ef93cf6",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -112426,110 +112529,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "4a7714fab59e",
-          "updated_at": "15 hours ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active"
-    },
-    {
-      "id": "nimble",
-      "name": "nimble",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A 9B decision model from Bespoke Labs for fast, typed classification.",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/nimble",
-      "tags_page_url": "https://ollama.com/library/nimble/tags",
-      "badges": [
-        "9b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 0,
-      "tags_count": 5,
-      "updated_at": "Sep 29, 2026 9:12 PM UTC",
-      "updated_full_date": "Sep 29, 2026 9:12 PM UTC",
-      "updated_date_key": 202609292112,
-      "is_cloud": false,
-      "default_tag": "nimble:latest",
-      "variants": [
-        {
-          "tag": "nimble:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 10200547328,
-          "size_formatted": "9.5GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "24e550a16a70",
-          "updated_at": "15 hours ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b",
-          "name": "9b",
-          "parameter_size": "9B",
-          "quantization": "Default",
-          "size_bytes": 10200547328,
-          "size_formatted": "9.5GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "24e550a16a70",
-          "updated_at": "15 hours ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-q4_K_M",
-          "name": "9b-q4_K_M",
-          "parameter_size": "9B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "572f1f4c801d",
-          "updated_at": "15 hours ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-q8_0",
-          "name": "9b-q8_0",
-          "parameter_size": "9B",
-          "quantization": "Q8_0",
-          "size_bytes": 10200547328,
-          "size_formatted": "9.5GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "24e550a16a70",
-          "updated_at": "15 hours ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-bf16",
-          "name": "9b-bf16",
-          "parameter_size": "9B",
-          "quantization": "F16",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "adfcdbb4070d",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         }
       ],
