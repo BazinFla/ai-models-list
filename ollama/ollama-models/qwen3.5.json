@@ -30,9 +30,9 @@
   },
   "pulls_count": 21400000,
   "tags_count": 62,
-  "updated_at": "Sep 1, 2026 4:30 PM UTC",
-  "updated_full_date": "Sep 1, 2026 4:30 PM UTC",
-  "updated_date_key": 202609011630,
+  "updated_at": "Oct 2, 2026 10:11 PM UTC",
+  "updated_full_date": "Oct 2, 2026 10:11 PM UTC",
+  "updated_date_key": 202610022211,
   "is_cloud": false,
   "default_tag": "qwen3.5:latest",
   "variants": [
@@ -209,13 +209,13 @@
       "name": "0.8b-q8_0",
       "parameter_size": "0.8B",
       "quantization": "Q8_0",
-      "size_bytes": 1073741824,
-      "size_formatted": "1.0GB",
+      "size_bytes": 1395864371,
+      "size_formatted": "1.3GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "f3817196d142",
-      "updated_at": "7 months ago",
+      "digest": "de63045f2975",
+      "updated_at": "6 hours ago",
       "is_cloud": false
     },
     {
@@ -307,13 +307,13 @@
       "name": "2b-q8_0",
       "parameter_size": "2B",
       "quantization": "Q8_0",
-      "size_bytes": 2899102924,
-      "size_formatted": "2.7GB",
+      "size_bytes": 3543348019,
+      "size_formatted": "3.3GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "324d162be6ca",
-      "updated_at": "7 months ago",
+      "digest": "d9ed436b38f7",
+      "updated_at": "6 hours ago",
       "is_cloud": false
     },
     {
@@ -793,6 +793,20 @@
       "is_cloud": false
     },
     {
+      "tag": "qwen3.5:35b-a3b-q8_0",
+      "name": "35b-a3b-q8_0",
+      "parameter_size": "35B",
+      "quantization": "Q8_0",
+      "size_bytes": 41875931136,
+      "size_formatted": "39GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "655d273ede3a",
+      "updated_at": "7 months ago",
+      "is_cloud": false
+    },
+    {
       "tag": "qwen3.5:35b-a3b-bf16",
       "name": "35b-a3b-bf16",
       "parameter_size": "35B",
@@ -846,20 +860,6 @@
       "input_type": "Image",
       "digest": "fb2d58ab6d45",
       "updated_at": "6 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "qwen3.5:35b-a3b-q8_0",
-      "name": "35b-a3b-q8_0",
-      "parameter_size": "35B",
-      "quantization": "Q8_0",
-      "size_bytes": 41875931136,
-      "size_formatted": "39GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Image",
-      "digest": "655d273ede3a",
-      "updated_at": "7 months ago",
       "is_cloud": false
     },
     {
