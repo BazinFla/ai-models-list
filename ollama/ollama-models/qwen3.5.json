@@ -29,10 +29,10 @@
     "embedding": false
   },
   "pulls_count": 21500000,
-  "tags_count": 67,
-  "updated_at": "Oct 3, 2026 6:34 PM UTC",
-  "updated_full_date": "Oct 3, 2026 6:34 PM UTC",
-  "updated_date_key": 202610031834,
+  "tags_count": 69,
+  "updated_at": "Oct 4, 2026 1:04 AM UTC",
+  "updated_full_date": "Oct 4, 2026 1:04 AM UTC",
+  "updated_date_key": 202610040104,
   "is_cloud": false,
   "default_tag": "qwen3.5:latest",
   "variants": [
@@ -187,7 +187,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "de63045f2975",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -229,7 +229,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "7c00f78aed0f",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -285,7 +285,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "f64538b732a5",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -299,7 +299,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "d9ed436b38f7",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -341,7 +341,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "1e2d21a4f03a",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -355,7 +355,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "0689d44085e0",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -411,7 +411,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "1a672101e149",
-      "updated_at": "3 hours ago",
+      "updated_at": "11 hours ago",
       "is_cloud": false
     },
     {
@@ -425,7 +425,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "477fe1aa30c7",
-      "updated_at": "2 hours ago",
+      "updated_at": "10 hours ago",
       "is_cloud": false
     },
     {
@@ -467,7 +467,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "d8b0f5e9760c",
-      "updated_at": "3 hours ago",
+      "updated_at": "11 hours ago",
       "is_cloud": false
     },
     {
@@ -481,7 +481,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "e15635ee9312",
-      "updated_at": "2 hours ago",
+      "updated_at": "10 hours ago",
       "is_cloud": false
     },
     {
@@ -527,6 +527,34 @@
       "is_cloud": false
     },
     {
+      "tag": "qwen3.5:9b-mtp-q4_K_M",
+      "name": "9b-mtp-q4_K_M",
+      "parameter_size": "9B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 9663676416,
+      "size_formatted": "9.0GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "bf0f1496db06",
+      "updated_at": "8 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3.5:9b-mtp-q8_0",
+      "name": "9b-mtp-q8_0",
+      "parameter_size": "9B",
+      "quantization": "Q8_0",
+      "size_bytes": 13958643712,
+      "size_formatted": "13GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "cebff225d719",
+      "updated_at": "3 hours ago",
+      "is_cloud": false
+    },
+    {
       "tag": "qwen3.5:9b-mxfp8",
       "name": "9b-mxfp8",
       "parameter_size": "9B",
@@ -564,8 +592,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "6488c96fa5fa",
-      "updated_at": "7 months ago",
+      "digest": "56671c2ab938",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -573,13 +601,13 @@
       "name": "9b-q8_0",
       "parameter_size": "9B",
       "quantization": "Q8_0",
-      "size_bytes": 11811160064,
-      "size_formatted": "11GB",
+      "size_bytes": 10737418240,
+      "size_formatted": "10GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "441ec31e4d2a",
-      "updated_at": "7 months ago",
+      "digest": "a8ee95bc3592",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -807,20 +835,6 @@
       "is_cloud": false
     },
     {
-      "tag": "qwen3.5:35b-a3b-coding-bf16",
-      "name": "35b-a3b-coding-bf16",
-      "parameter_size": "35B",
-      "quantization": "F16",
-      "size_bytes": 75161927680,
-      "size_formatted": "70GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Image",
-      "digest": "37b8d012f58e",
-      "updated_at": "6 months ago",
-      "is_cloud": false
-    },
-    {
       "tag": "qwen3.5:35b-a3b-int4",
       "name": "35b-a3b-int4",
       "parameter_size": "35B",
@@ -846,6 +860,20 @@
       "input_type": "Image",
       "digest": "fc565b23657b",
       "updated_at": "6 months ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "qwen3.5:35b-a3b-mxfp8",
+      "name": "35b-a3b-mxfp8",
+      "parameter_size": "35B",
+      "quantization": "Default",
+      "size_bytes": 39728447488,
+      "size_formatted": "37GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "16b03b99d8bb",
+      "updated_at": "1 month ago",
       "is_cloud": false
     },
     {
@@ -905,6 +933,20 @@
       "is_cloud": false
     },
     {
+      "tag": "qwen3.5:35b-a3b-coding-bf16",
+      "name": "35b-a3b-coding-bf16",
+      "parameter_size": "35B",
+      "quantization": "F16",
+      "size_bytes": 75161927680,
+      "size_formatted": "70GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "37b8d012f58e",
+      "updated_at": "6 months ago",
+      "is_cloud": false
+    },
+    {
       "tag": "qwen3.5:35b-a3b-mlx-bf16",
       "name": "35b-a3b-mlx-bf16",
       "parameter_size": "35B",
@@ -916,20 +958,6 @@
       "input_type": "Image",
       "digest": "f6555d933b86",
       "updated_at": "6 months ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "qwen3.5:35b-a3b-mxfp8",
-      "name": "35b-a3b-mxfp8",
-      "parameter_size": "35B",
-      "quantization": "Default",
-      "size_bytes": 39728447488,
-      "size_formatted": "37GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Image",
-      "digest": "16b03b99d8bb",
-      "updated_at": "1 month ago",
       "is_cloud": false
     },
     {
