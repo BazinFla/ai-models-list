@@ -30,9 +30,9 @@
   },
   "pulls_count": 21600000,
   "tags_count": 72,
-  "updated_at": "Oct 4, 2026 8:49 PM UTC",
-  "updated_full_date": "Oct 4, 2026 8:49 PM UTC",
-  "updated_date_key": 202610042049,
+  "updated_at": "Oct 4, 2026 8:59 PM UTC",
+  "updated_full_date": "Oct 4, 2026 8:59 PM UTC",
+  "updated_date_key": 202610042059,
   "is_cloud": false,
   "default_tag": "qwen3.5:latest",
   "variants": [
@@ -47,7 +47,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "fdf5fd4cd409",
-      "updated_at": "4 hours ago",
+      "updated_at": "11 hours ago",
       "is_cloud": false
     },
     {
@@ -61,7 +61,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "6a061203ed02",
-      "updated_at": "5 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -75,7 +75,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "0b28bbb3449d",
-      "updated_at": "4 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -89,7 +89,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "492e37dc6907",
-      "updated_at": "4 hours ago",
+      "updated_at": "11 hours ago",
       "is_cloud": false
     },
     {
@@ -103,7 +103,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "fdf5fd4cd409",
-      "updated_at": "4 hours ago",
+      "updated_at": "11 hours ago",
       "is_cloud": false
     },
     {
@@ -117,7 +117,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "1476e7035481",
-      "updated_at": "5 minutes ago",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -125,13 +125,13 @@
       "name": "35b",
       "parameter_size": "35B",
       "quantization": "Default",
-      "size_bytes": 25769803776,
-      "size_formatted": "24GB",
+      "size_bytes": 23622320128,
+      "size_formatted": "22GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "3460ffeede54",
-      "updated_at": "7 months ago",
+      "digest": "154688af885e",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -537,7 +537,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "a010df198560",
-      "updated_at": "5 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -565,7 +565,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "cebff225d719",
-      "updated_at": "20 hours ago",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -593,7 +593,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "8218177ac78e",
-      "updated_at": "5 hours ago",
+      "updated_at": "12 hours ago",
       "is_cloud": false
     },
     {
@@ -621,7 +621,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "a8ee95bc3592",
-      "updated_at": "20 hours ago",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -747,7 +747,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "06687a8bf737",
-      "updated_at": "9 minutes ago",
+      "updated_at": "8 hours ago",
       "is_cloud": false
     },
     {
@@ -789,7 +789,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "64ae5b1d651f",
-      "updated_at": "2 hours ago",
+      "updated_at": "9 hours ago",
       "is_cloud": false
     },
     {
@@ -825,13 +825,13 @@
       "name": "35b-a3b",
       "parameter_size": "35B",
       "quantization": "Default",
-      "size_bytes": 25769803776,
-      "size_formatted": "24GB",
+      "size_bytes": 23622320128,
+      "size_formatted": "22GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "3460ffeede54",
-      "updated_at": "7 months ago",
+      "digest": "154688af885e",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -873,7 +873,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "72aac7c28be8",
-      "updated_at": "2 hours ago",
+      "updated_at": "9 hours ago",
       "is_cloud": false
     },
     {
@@ -971,7 +971,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "80df2b8514d6",
-      "updated_at": "8 minutes ago",
+      "updated_at": "8 hours ago",
       "is_cloud": false
     },
     {
