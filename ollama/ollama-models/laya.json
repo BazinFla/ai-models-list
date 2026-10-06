@@ -1,0 +1,89 @@
+{
+  "id": "laya",
+  "name": "laya",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Laya is a 421M decision model from Convai Innovations, fine-tuned from ModernBERT-large.",
+  "category": "General LLM",
+  "page_url": "https://ollama.com/library/laya",
+  "tags_page_url": "https://ollama.com/library/laya/tags",
+  "badges": [
+    "decision"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": false,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 135,
+  "tags_count": 4,
+  "updated_at": "Sep 30, 2026 11:35 PM UTC",
+  "updated_full_date": "Sep 30, 2026 11:35 PM UTC",
+  "updated_date_key": 202609302335,
+  "is_cloud": false,
+  "default_tag": "laya:latest",
+  "variants": [
+    {
+      "tag": "laya:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 887095296,
+      "size_formatted": "846MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "aaba5574a1e1",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "laya:322m-multilingual-mlx-fp16",
+      "name": "322m-multilingual-mlx-fp16",
+      "parameter_size": "322M",
+      "quantization": "FP16",
+      "size_bytes": 710934528,
+      "size_formatted": "678MB",
+      "context_length": 1024,
+      "context_formatted": "1K",
+      "input_type": "Text",
+      "digest": "63b6e37ecedb",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "laya:421m-english-mlx-fp16",
+      "name": "421m-english-mlx-fp16",
+      "parameter_size": "421M",
+      "quantization": "FP16",
+      "size_bytes": 887095296,
+      "size_formatted": "846MB",
+      "context_length": 512,
+      "context_formatted": "512",
+      "input_type": "Text",
+      "digest": "aaba5574a1e1",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "laya:421m-typed-decisions-mlx-fp16",
+      "name": "421m-typed-decisions-mlx-fp16",
+      "parameter_size": "421M",
+      "quantization": "FP16",
+      "size_bytes": 887095296,
+      "size_formatted": "846MB",
+      "context_length": 1024,
+      "context_formatted": "1K",
+      "input_type": "Text",
+      "digest": "c62bc110244c",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}
