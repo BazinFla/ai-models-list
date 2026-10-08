@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-10-08 12:53:56 UTC",
+  "scraped_at": "2026-10-08 22:58:42 UTC",
   "total_models": 245,
   "total_active_models": 245,
   "total_deprecated_models": 2,
@@ -29,7 +29,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 120100000,
+      "pulls_count": 120200000,
       "tags_count": 93,
       "updated_at": "Nov 30, 2024 10:34 PM UTC",
       "updated_full_date": "Nov 30, 2024 10:34 PM UTC",
@@ -2915,7 +2915,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 41900000,
+      "pulls_count": 42000000,
       "tags_count": 133,
       "updated_at": "Sep 19, 2024 4:42 PM UTC",
       "updated_full_date": "Sep 19, 2024 4:42 PM UTC",
@@ -5230,7 +5230,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 39300000,
+      "pulls_count": 39400000,
       "tags_count": 58,
       "updated_at": "Oct 10, 2025 8:18 PM UTC",
       "updated_full_date": "Oct 10, 2025 8:18 PM UTC",
@@ -13244,7 +13244,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 21800000,
+      "pulls_count": 21900000,
       "tags_count": 72,
       "updated_at": "Oct 4, 2026 8:59 PM UTC",
       "updated_full_date": "Oct 4, 2026 8:59 PM UTC",
@@ -13263,7 +13263,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "fdf5fd4cd409",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13277,7 +13277,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "6a061203ed02",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13291,7 +13291,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "0b28bbb3449d",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13305,7 +13305,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "492e37dc6907",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13319,7 +13319,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "fdf5fd4cd409",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13333,7 +13333,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "1476e7035481",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13347,7 +13347,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "154688af885e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13403,7 +13403,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "de63045f2975",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13445,7 +13445,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "7c00f78aed0f",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13501,7 +13501,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f64538b732a5",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13515,7 +13515,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "d9ed436b38f7",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13557,7 +13557,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "1e2d21a4f03a",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13571,7 +13571,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "0689d44085e0",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13627,7 +13627,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "1a672101e149",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13641,7 +13641,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "477fe1aa30c7",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13683,7 +13683,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "d8b0f5e9760c",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13697,7 +13697,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "e15635ee9312",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13753,7 +13753,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "a010df198560",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13767,7 +13767,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "bf0f1496db06",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13809,7 +13809,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "8218177ac78e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -13823,7 +13823,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "56671c2ab938",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -13963,7 +13963,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "06687a8bf737",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -14005,7 +14005,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "64ae5b1d651f",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -14047,7 +14047,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "154688af885e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -14089,7 +14089,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "72aac7c28be8",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -14187,7 +14187,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "80df2b8514d6",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -52677,6 +52677,128 @@
       "family": "phi"
     },
     {
+      "id": "devstral-small-2",
+      "name": "devstral-small-2",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "24B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
+      "category": "Vision & Multimodal",
+      "page_url": "https://ollama.com/library/devstral-small-2",
+      "tags_page_url": "https://ollama.com/library/devstral-small-2/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "24b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 1600000,
+      "tags_count": 6,
+      "updated_at": "Dec 13, 2025 6:47 AM UTC",
+      "updated_full_date": "Dec 13, 2025 6:47 AM UTC",
+      "updated_date_key": 202512130647,
+      "is_cloud": false,
+      "default_tag": "devstral-small-2:latest",
+      "variants": [
+        {
+          "tag": "devstral-small-2:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 393216,
+          "context_formatted": "384K",
+          "input_type": "Image",
+          "digest": "24277f07f62d",
+          "updated_at": "10 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral-small-2:24b",
+          "name": "24b",
+          "parameter_size": "24B",
+          "quantization": "Default",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 393216,
+          "context_formatted": "384K",
+          "input_type": "Image",
+          "digest": "24277f07f62d",
+          "updated_at": "9 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral-small-2:24b-cloud",
+          "name": "24b-cloud",
+          "parameter_size": "24B",
+          "quantization": "Cloud",
+          "size_bytes": 0,
+          "size_formatted": "Cloud",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "ec4a591da58a",
+          "updated_at": "9 months ago",
+          "is_cloud": true
+        },
+        {
+          "tag": "devstral-small-2:24b-instruct-2512-q4_K_M",
+          "name": "24b-instruct-2512-q4_K_M",
+          "parameter_size": "24B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 393216,
+          "context_formatted": "384K",
+          "input_type": "Image",
+          "digest": "24277f07f62d",
+          "updated_at": "10 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral-small-2:24b-instruct-2512-q8_0",
+          "name": "24b-instruct-2512-q8_0",
+          "parameter_size": "24B",
+          "quantization": "Q8_0",
+          "size_bytes": 27917287424,
+          "size_formatted": "26GB",
+          "context_length": 393216,
+          "context_formatted": "384K",
+          "input_type": "Image",
+          "digest": "691a8e03a6dd",
+          "updated_at": "10 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "devstral-small-2:24b-instruct-2512-fp16",
+          "name": "24b-instruct-2512-fp16",
+          "parameter_size": "24B",
+          "quantization": "FP16",
+          "size_bytes": 51539607552,
+          "size_formatted": "48GB",
+          "context_length": 393216,
+          "context_formatted": "384K",
+          "input_type": "Image",
+          "digest": "15c77ff5438a",
+          "updated_at": "10 months ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "granite-code",
       "name": "granite-code",
       "source": "ollama_library",
@@ -55229,128 +55351,6 @@
       "is_deprecated": false,
       "status": "active",
       "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
-      "id": "devstral-small-2",
-      "name": "devstral-small-2",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "24B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
-      "category": "Vision & Multimodal",
-      "page_url": "https://ollama.com/library/devstral-small-2",
-      "tags_page_url": "https://ollama.com/library/devstral-small-2/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "24b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 1600000,
-      "tags_count": 6,
-      "updated_at": "Dec 13, 2025 6:47 AM UTC",
-      "updated_full_date": "Dec 13, 2025 6:47 AM UTC",
-      "updated_date_key": 202512130647,
-      "is_cloud": false,
-      "default_tag": "devstral-small-2:latest",
-      "variants": [
-        {
-          "tag": "devstral-small-2:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 393216,
-          "context_formatted": "384K",
-          "input_type": "Image",
-          "digest": "24277f07f62d",
-          "updated_at": "10 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral-small-2:24b",
-          "name": "24b",
-          "parameter_size": "24B",
-          "quantization": "Default",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 393216,
-          "context_formatted": "384K",
-          "input_type": "Image",
-          "digest": "24277f07f62d",
-          "updated_at": "9 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral-small-2:24b-cloud",
-          "name": "24b-cloud",
-          "parameter_size": "24B",
-          "quantization": "Cloud",
-          "size_bytes": 0,
-          "size_formatted": "Cloud",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "ec4a591da58a",
-          "updated_at": "9 months ago",
-          "is_cloud": true
-        },
-        {
-          "tag": "devstral-small-2:24b-instruct-2512-q4_K_M",
-          "name": "24b-instruct-2512-q4_K_M",
-          "parameter_size": "24B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 393216,
-          "context_formatted": "384K",
-          "input_type": "Image",
-          "digest": "24277f07f62d",
-          "updated_at": "10 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral-small-2:24b-instruct-2512-q8_0",
-          "name": "24b-instruct-2512-q8_0",
-          "parameter_size": "24B",
-          "quantization": "Q8_0",
-          "size_bytes": 27917287424,
-          "size_formatted": "26GB",
-          "context_length": 393216,
-          "context_formatted": "384K",
-          "input_type": "Image",
-          "digest": "691a8e03a6dd",
-          "updated_at": "10 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "devstral-small-2:24b-instruct-2512-fp16",
-          "name": "24b-instruct-2512-fp16",
-          "parameter_size": "24B",
-          "quantization": "FP16",
-          "size_bytes": 51539607552,
-          "size_formatted": "48GB",
-          "context_length": 393216,
-          "context_formatted": "384K",
-          "input_type": "Image",
-          "digest": "15c77ff5438a",
-          "updated_at": "10 months ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Mistral AI",
       "publisher": "",
       "family": ""
     },
@@ -62471,283 +62471,6 @@
       "family": ""
     },
     {
-      "id": "codestral",
-      "name": "codestral",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Codestral is Mistral AI’s first-ever code model designed for code generation tasks.",
-      "category": "Code & Programming",
-      "page_url": "https://ollama.com/library/codestral",
-      "tags_page_url": "https://ollama.com/library/codestral/tags",
-      "badges": [
-        "22b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": true,
-        "embedding": false
-      },
-      "pulls_count": 1300000,
-      "tags_count": 17,
-      "updated_at": "Sep 3, 2024 9:32 PM UTC",
-      "updated_full_date": "Sep 3, 2024 9:32 PM UTC",
-      "updated_date_key": 202409032132,
-      "is_cloud": false,
-      "default_tag": "codestral:latest",
-      "variants": [
-        {
-          "tag": "codestral:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 13958643712,
-          "size_formatted": "13GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "0898a8b286d5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:v0.1",
-          "name": "v0.1",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 13958643712,
-          "size_formatted": "13GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "0898a8b286d5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b",
-          "name": "22b",
-          "parameter_size": "22B",
-          "quantization": "Default",
-          "size_bytes": 13958643712,
-          "size_formatted": "13GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "0898a8b286d5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q2_K",
-          "name": "22b-v0.1-q2_K",
-          "parameter_size": "22B",
-          "quantization": "Q2_K",
-          "size_bytes": 8912057139,
-          "size_formatted": "8.3GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "0e1127d332ef",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q3_K_S",
-          "name": "22b-v0.1-q3_K_S",
-          "parameter_size": "22B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 10307921510,
-          "size_formatted": "9.6GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "435a805994fa",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q3_K_M",
-          "name": "22b-v0.1-q3_K_M",
-          "parameter_size": "22B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 11811160064,
-          "size_formatted": "11GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "71655d0feff7",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q3_K_L",
-          "name": "22b-v0.1-q3_K_L",
-          "parameter_size": "22B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 12884901888,
-          "size_formatted": "12GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "40e96062aff7",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q4_0",
-          "name": "22b-v0.1-q4_0",
-          "parameter_size": "22B",
-          "quantization": "Q4_0",
-          "size_bytes": 13958643712,
-          "size_formatted": "13GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "0898a8b286d5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q4_1",
-          "name": "22b-v0.1-q4_1",
-          "parameter_size": "22B",
-          "quantization": "Q4_1",
-          "size_bytes": 15032385536,
-          "size_formatted": "14GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "112589019335",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q4_K_S",
-          "name": "22b-v0.1-q4_K_S",
-          "parameter_size": "22B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 13958643712,
-          "size_formatted": "13GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "98d819ea95ec",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q4_K_M",
-          "name": "22b-v0.1-q4_K_M",
-          "parameter_size": "22B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 13958643712,
-          "size_formatted": "13GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "9a43e868fd2c",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q5_0",
-          "name": "22b-v0.1-q5_0",
-          "parameter_size": "22B",
-          "quantization": "Q5_0",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "05c0a78fd842",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q5_1",
-          "name": "22b-v0.1-q5_1",
-          "parameter_size": "22B",
-          "quantization": "Q5_1",
-          "size_bytes": 18253611008,
-          "size_formatted": "17GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "c71bfe359bcc",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q5_K_S",
-          "name": "22b-v0.1-q5_K_S",
-          "parameter_size": "22B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "937f5c4a1a20",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q5_K_M",
-          "name": "22b-v0.1-q5_K_M",
-          "parameter_size": "22B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 17179869184,
-          "size_formatted": "16GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "2df1ccc62c6a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q6_K",
-          "name": "22b-v0.1-q6_K",
-          "parameter_size": "22B",
-          "quantization": "Q6_K",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "e77ab7ec51f6",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "codestral:22b-v0.1-q8_0",
-          "name": "22b-v0.1-q8_0",
-          "parameter_size": "22B",
-          "quantization": "Q8_0",
-          "size_bytes": 25769803776,
-          "size_formatted": "24GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "8dde0029a91f",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Mistral AI",
-      "publisher": "Mistral AI",
-      "icon_name": "mistral-codestral",
-      "license": "Mistral Non-Production License",
-      "homepage": "https://mistral.ai",
-      "family": "codestral"
-    },
-    {
       "id": "openhermes",
       "name": "openhermes",
       "source": "ollama_library",
@@ -63270,6 +62993,283 @@
       "creator": "",
       "publisher": "",
       "family": ""
+    },
+    {
+      "id": "codestral",
+      "name": "codestral",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Codestral is Mistral AI’s first-ever code model designed for code generation tasks.",
+      "category": "Code & Programming",
+      "page_url": "https://ollama.com/library/codestral",
+      "tags_page_url": "https://ollama.com/library/codestral/tags",
+      "badges": [
+        "22b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": true,
+        "embedding": false
+      },
+      "pulls_count": 1300000,
+      "tags_count": 17,
+      "updated_at": "Sep 3, 2024 9:32 PM UTC",
+      "updated_full_date": "Sep 3, 2024 9:32 PM UTC",
+      "updated_date_key": 202409032132,
+      "is_cloud": false,
+      "default_tag": "codestral:latest",
+      "variants": [
+        {
+          "tag": "codestral:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 13958643712,
+          "size_formatted": "13GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "0898a8b286d5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:v0.1",
+          "name": "v0.1",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 13958643712,
+          "size_formatted": "13GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "0898a8b286d5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b",
+          "name": "22b",
+          "parameter_size": "22B",
+          "quantization": "Default",
+          "size_bytes": 13958643712,
+          "size_formatted": "13GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "0898a8b286d5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q2_K",
+          "name": "22b-v0.1-q2_K",
+          "parameter_size": "22B",
+          "quantization": "Q2_K",
+          "size_bytes": 8912057139,
+          "size_formatted": "8.3GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "0e1127d332ef",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q3_K_S",
+          "name": "22b-v0.1-q3_K_S",
+          "parameter_size": "22B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 10307921510,
+          "size_formatted": "9.6GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "435a805994fa",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q3_K_M",
+          "name": "22b-v0.1-q3_K_M",
+          "parameter_size": "22B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 11811160064,
+          "size_formatted": "11GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "71655d0feff7",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q3_K_L",
+          "name": "22b-v0.1-q3_K_L",
+          "parameter_size": "22B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 12884901888,
+          "size_formatted": "12GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "40e96062aff7",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q4_0",
+          "name": "22b-v0.1-q4_0",
+          "parameter_size": "22B",
+          "quantization": "Q4_0",
+          "size_bytes": 13958643712,
+          "size_formatted": "13GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "0898a8b286d5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q4_1",
+          "name": "22b-v0.1-q4_1",
+          "parameter_size": "22B",
+          "quantization": "Q4_1",
+          "size_bytes": 15032385536,
+          "size_formatted": "14GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "112589019335",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q4_K_S",
+          "name": "22b-v0.1-q4_K_S",
+          "parameter_size": "22B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 13958643712,
+          "size_formatted": "13GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "98d819ea95ec",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q4_K_M",
+          "name": "22b-v0.1-q4_K_M",
+          "parameter_size": "22B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 13958643712,
+          "size_formatted": "13GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "9a43e868fd2c",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q5_0",
+          "name": "22b-v0.1-q5_0",
+          "parameter_size": "22B",
+          "quantization": "Q5_0",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "05c0a78fd842",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q5_1",
+          "name": "22b-v0.1-q5_1",
+          "parameter_size": "22B",
+          "quantization": "Q5_1",
+          "size_bytes": 18253611008,
+          "size_formatted": "17GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "c71bfe359bcc",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q5_K_S",
+          "name": "22b-v0.1-q5_K_S",
+          "parameter_size": "22B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "937f5c4a1a20",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q5_K_M",
+          "name": "22b-v0.1-q5_K_M",
+          "parameter_size": "22B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 17179869184,
+          "size_formatted": "16GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "2df1ccc62c6a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q6_K",
+          "name": "22b-v0.1-q6_K",
+          "parameter_size": "22B",
+          "quantization": "Q6_K",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "e77ab7ec51f6",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "codestral:22b-v0.1-q8_0",
+          "name": "22b-v0.1-q8_0",
+          "parameter_size": "22B",
+          "quantization": "Q8_0",
+          "size_bytes": 25769803776,
+          "size_formatted": "24GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "8dde0029a91f",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Mistral AI",
+      "publisher": "Mistral AI",
+      "icon_name": "mistral-codestral",
+      "license": "Mistral Non-Production License",
+      "homepage": "https://mistral.ai",
+      "family": "codestral"
     },
     {
       "id": "mistral-large",
@@ -87962,7 +87962,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 985700,
+      "pulls_count": 985900,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88448,7 +88448,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 975000,
+      "pulls_count": 975200,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -88948,7 +88948,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 970400,
+      "pulls_count": 970700,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -89650,169 +89650,6 @@
       "family": ""
     },
     {
-      "id": "deepcoder",
-      "name": "deepcoder",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.",
-      "category": "Code & Programming",
-      "page_url": "https://ollama.com/library/deepcoder",
-      "tags_page_url": "https://ollama.com/library/deepcoder/tags",
-      "badges": [
-        "1.5b",
-        "14b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": true,
-        "embedding": false
-      },
-      "pulls_count": 960900,
-      "tags_count": 9,
-      "updated_at": "Apr 8, 2025 10:53 PM UTC",
-      "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
-      "updated_date_key": 202504082253,
-      "is_cloud": false,
-      "default_tag": "deepcoder:latest",
-      "variants": [
-        {
-          "tag": "deepcoder:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 9663676416,
-          "size_formatted": "9.0GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "12bdda054d23",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:1.5b",
-          "name": "1.5b",
-          "parameter_size": "1.5B",
-          "quantization": "Default",
-          "size_bytes": 1181116006,
-          "size_formatted": "1.1GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "3bc49891ec47",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:14b",
-          "name": "14b",
-          "parameter_size": "14B",
-          "quantization": "Default",
-          "size_bytes": 9663676416,
-          "size_formatted": "9.0GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "12bdda054d23",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:1.5b-preview-q4_K_M",
-          "name": "1.5b-preview-q4_K_M",
-          "parameter_size": "1.5B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 1181116006,
-          "size_formatted": "1.1GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "3bc49891ec47",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:1.5b-preview-q8_0",
-          "name": "1.5b-preview-q8_0",
-          "parameter_size": "1.5B",
-          "quantization": "Q8_0",
-          "size_bytes": 2040109465,
-          "size_formatted": "1.9GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "b240e7d4c9d5",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:1.5b-preview-fp16",
-          "name": "1.5b-preview-fp16",
-          "parameter_size": "1.5B",
-          "quantization": "FP16",
-          "size_bytes": 3865470566,
-          "size_formatted": "3.6GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "a4f72a133925",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:14b-preview-q4_K_M",
-          "name": "14b-preview-q4_K_M",
-          "parameter_size": "14B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 9663676416,
-          "size_formatted": "9.0GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "12bdda054d23",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:14b-preview-q8_0",
-          "name": "14b-preview-q8_0",
-          "parameter_size": "14B",
-          "quantization": "Q8_0",
-          "size_bytes": 17179869184,
-          "size_formatted": "16GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "77a03c7a6183",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepcoder:14b-preview-fp16",
-          "name": "14b-preview-fp16",
-          "parameter_size": "14B",
-          "quantization": "FP16",
-          "size_bytes": 32212254720,
-          "size_formatted": "30GB",
-          "context_length": 131072,
-          "context_formatted": "128K",
-          "input_type": "Text",
-          "digest": "94795ede1f7b",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "shieldgemma",
       "name": "shieldgemma",
       "source": "ollama_library",
@@ -89835,7 +89672,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 960800,
+      "pulls_count": 961200,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -90537,6 +90374,169 @@
       "family": ""
     },
     {
+      "id": "deepcoder",
+      "name": "deepcoder",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.",
+      "category": "Code & Programming",
+      "page_url": "https://ollama.com/library/deepcoder",
+      "tags_page_url": "https://ollama.com/library/deepcoder/tags",
+      "badges": [
+        "1.5b",
+        "14b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": true,
+        "embedding": false
+      },
+      "pulls_count": 961000,
+      "tags_count": 9,
+      "updated_at": "Apr 8, 2025 10:53 PM UTC",
+      "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
+      "updated_date_key": 202504082253,
+      "is_cloud": false,
+      "default_tag": "deepcoder:latest",
+      "variants": [
+        {
+          "tag": "deepcoder:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 9663676416,
+          "size_formatted": "9.0GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "12bdda054d23",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:1.5b",
+          "name": "1.5b",
+          "parameter_size": "1.5B",
+          "quantization": "Default",
+          "size_bytes": 1181116006,
+          "size_formatted": "1.1GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "3bc49891ec47",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:14b",
+          "name": "14b",
+          "parameter_size": "14B",
+          "quantization": "Default",
+          "size_bytes": 9663676416,
+          "size_formatted": "9.0GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "12bdda054d23",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:1.5b-preview-q4_K_M",
+          "name": "1.5b-preview-q4_K_M",
+          "parameter_size": "1.5B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 1181116006,
+          "size_formatted": "1.1GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "3bc49891ec47",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:1.5b-preview-q8_0",
+          "name": "1.5b-preview-q8_0",
+          "parameter_size": "1.5B",
+          "quantization": "Q8_0",
+          "size_bytes": 2040109465,
+          "size_formatted": "1.9GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "b240e7d4c9d5",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:1.5b-preview-fp16",
+          "name": "1.5b-preview-fp16",
+          "parameter_size": "1.5B",
+          "quantization": "FP16",
+          "size_bytes": 3865470566,
+          "size_formatted": "3.6GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "a4f72a133925",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:14b-preview-q4_K_M",
+          "name": "14b-preview-q4_K_M",
+          "parameter_size": "14B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 9663676416,
+          "size_formatted": "9.0GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "12bdda054d23",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:14b-preview-q8_0",
+          "name": "14b-preview-q8_0",
+          "parameter_size": "14B",
+          "quantization": "Q8_0",
+          "size_bytes": 17179869184,
+          "size_formatted": "16GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "77a03c7a6183",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepcoder:14b-preview-fp16",
+          "name": "14b-preview-fp16",
+          "parameter_size": "14B",
+          "quantization": "FP16",
+          "size_bytes": 32212254720,
+          "size_formatted": "30GB",
+          "context_length": 131072,
+          "context_formatted": "128K",
+          "input_type": "Text",
+          "digest": "94795ede1f7b",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "orca2",
       "name": "orca2",
       "source": "ollama_library",
@@ -90558,7 +90558,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 957800,
+      "pulls_count": 958100,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -91057,7 +91057,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 949000,
+      "pulls_count": 949300,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -91553,7 +91553,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 946900,
+      "pulls_count": 947200,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92612,7 +92612,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 946300,
+      "pulls_count": 946400,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:05 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:05 AM UTC",
@@ -92688,7 +92688,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 931400,
+      "pulls_count": 931700,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93186,7 +93186,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 921600,
+      "pulls_count": 921800,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -93684,7 +93684,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 915300,
+      "pulls_count": 915500,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94169,7 +94169,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 910700,
+      "pulls_count": 910900,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94513,7 +94513,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 901800,
+      "pulls_count": 906800,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -94788,7 +94788,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 899700,
+      "pulls_count": 899900,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -95066,7 +95066,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 890700,
+      "pulls_count": 892000,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -95229,7 +95229,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 815500,
+      "pulls_count": 815800,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95564,7 +95564,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 796800,
+      "pulls_count": 796900,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -95672,7 +95672,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 776500,
+      "pulls_count": 776700,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95890,7 +95890,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 739700,
+      "pulls_count": 739900,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96164,7 +96164,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 738700,
+      "pulls_count": 738900,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -96454,7 +96454,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 732900,
+      "pulls_count": 733000,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -96589,7 +96589,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 725300,
+      "pulls_count": 725500,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -96863,7 +96863,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 702500,
+      "pulls_count": 702600,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97140,7 +97140,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 675400,
+      "pulls_count": 675500,
       "tags_count": 4,
       "updated_at": "Apr 27, 2026 8:26 PM UTC",
       "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
@@ -97233,7 +97233,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 662300,
+      "pulls_count": 662600,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97395,7 +97395,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 657800,
+      "pulls_count": 657900,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -97684,7 +97684,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 636200,
+      "pulls_count": 636300,
       "tags_count": 17,
       "updated_at": "Oct 16, 2024 11:10 PM UTC",
       "updated_full_date": "Oct 16, 2024 11:10 PM UTC",
@@ -97958,7 +97958,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 627300,
+      "pulls_count": 627400,
       "tags_count": 17,
       "updated_at": "Sep 9, 2024 5:16 AM UTC",
       "updated_full_date": "Sep 9, 2024 5:16 AM UTC",
@@ -98232,7 +98232,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 606900,
+      "pulls_count": 607000,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -98534,7 +98534,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 602000,
+      "pulls_count": 602200,
       "tags_count": 18,
       "updated_at": "Dec 20, 2024 1:05 AM UTC",
       "updated_full_date": "Dec 20, 2024 1:05 AM UTC",
@@ -98823,7 +98823,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 600700,
+      "pulls_count": 600900,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -99099,7 +99099,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 596500,
+      "pulls_count": 596600,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -99266,7 +99266,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 589700,
+      "pulls_count": 591800,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -99428,7 +99428,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 580300,
+      "pulls_count": 580400,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -99730,7 +99730,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 577700,
+      "pulls_count": 577800,
       "tags_count": 18,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -99998,6 +99998,99 @@
       "family": ""
     },
     {
+      "id": "llava-phi3",
+      "name": "llava-phi3",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
+      "category": "Vision & Multimodal",
+      "page_url": "https://ollama.com/library/llava-phi3",
+      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
+      "badges": [
+        "vision",
+        "3.8b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": true,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 573500,
+      "tags_count": 4,
+      "updated_at": "May 7, 2024 9:20 PM UTC",
+      "updated_full_date": "May 7, 2024 9:20 PM UTC",
+      "updated_date_key": 202405072120,
+      "is_cloud": false,
+      "default_tag": "llava-phi3:latest",
+      "variants": [
+        {
+          "tag": "llava-phi3:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b",
+          "name": "3.8b",
+          "parameter_size": "3.8B",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-q4_0",
+          "name": "3.8b-mini-q4_0",
+          "parameter_size": "3.8B",
+          "quantization": "Q4_0",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-fp16",
+          "name": "3.8b-mini-fp16",
+          "parameter_size": "3.8B",
+          "quantization": "FP16",
+          "size_bytes": 8912057139,
+          "size_formatted": "8.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "39ed50ad5b22",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "exaone3.5",
       "name": "exaone3.5",
       "source": "ollama_library",
@@ -100020,7 +100113,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 571800,
+      "pulls_count": 572000,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -100238,7 +100331,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 570200,
+      "pulls_count": 570400,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -100509,99 +100602,6 @@
       "family": ""
     },
     {
-      "id": "llava-phi3",
-      "name": "llava-phi3",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
-      "category": "Vision & Multimodal",
-      "page_url": "https://ollama.com/library/llava-phi3",
-      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
-      "badges": [
-        "vision",
-        "3.8b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": true,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 568300,
-      "tags_count": 4,
-      "updated_at": "May 7, 2024 9:20 PM UTC",
-      "updated_full_date": "May 7, 2024 9:20 PM UTC",
-      "updated_date_key": 202405072120,
-      "is_cloud": false,
-      "default_tag": "llava-phi3:latest",
-      "variants": [
-        {
-          "tag": "llava-phi3:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b",
-          "name": "3.8b",
-          "parameter_size": "3.8B",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-q4_0",
-          "name": "3.8b-mini-q4_0",
-          "parameter_size": "3.8B",
-          "quantization": "Q4_0",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-fp16",
-          "name": "3.8b-mini-fp16",
-          "parameter_size": "3.8B",
-          "quantization": "FP16",
-          "size_bytes": 8912057139,
-          "size_formatted": "8.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "39ed50ad5b22",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "magicoder",
       "name": "magicoder",
       "source": "ollama_library",
@@ -100622,7 +100622,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 567000,
+      "pulls_count": 567200,
       "tags_count": 18,
       "updated_at": "Dec 5, 2023 11:59 PM UTC",
       "updated_full_date": "Dec 5, 2023 11:59 PM UTC",
@@ -100910,7 +100910,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 563400,
+      "pulls_count": 563700,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -101184,7 +101184,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 561000,
+      "pulls_count": 561100,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -101461,7 +101461,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 551200,
+      "pulls_count": 551300,
       "tags_count": 17,
       "updated_at": "May 14, 2024 1:46 AM UTC",
       "updated_full_date": "May 14, 2024 1:46 AM UTC",
@@ -101735,7 +101735,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 551100,
+      "pulls_count": 551200,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 10:06 PM UTC",
       "updated_full_date": "Dec 29, 2023 10:06 PM UTC",
@@ -102023,7 +102023,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 549700,
+      "pulls_count": 549900,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -102312,7 +102312,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 547400,
+      "pulls_count": 547700,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102390,7 +102390,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 543700,
+      "pulls_count": 543800,
       "tags_count": 17,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -102664,7 +102664,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 540900,
+      "pulls_count": 541100,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -102938,7 +102938,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 538400,
+      "pulls_count": 538600,
       "tags_count": 17,
       "updated_at": "Jan 29, 2024 11:52 PM UTC",
       "updated_full_date": "Jan 29, 2024 11:52 PM UTC",
@@ -103213,7 +103213,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 534700,
+      "pulls_count": 534900,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -103487,7 +103487,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 534500,
+      "pulls_count": 534600,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -103761,7 +103761,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 528400,
+      "pulls_count": 528600,
       "tags_count": 17,
       "updated_at": "Oct 28, 2023 7:41 PM UTC",
       "updated_full_date": "Oct 28, 2023 7:41 PM UTC",
@@ -104038,7 +104038,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 520900,
+      "pulls_count": 521100,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -104088,7 +104088,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 520400,
+      "pulls_count": 520600,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -104365,7 +104365,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 517100,
+      "pulls_count": 518600,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -105074,7 +105074,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 514000,
+      "pulls_count": 514100,
       "tags_count": 5,
       "updated_at": "Dec 9, 2025 7:48 AM UTC",
       "updated_full_date": "Dec 9, 2025 7:48 AM UTC",
@@ -105180,7 +105180,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 510300,
+      "pulls_count": 510400,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -105438,7 +105438,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 489400,
+      "pulls_count": 489500,
       "tags_count": 16,
       "updated_at": "Nov 17, 2023 9:54 PM UTC",
       "updated_full_date": "Nov 17, 2023 9:54 PM UTC",
@@ -105701,7 +105701,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 488000,
+      "pulls_count": 488200,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -105754,7 +105754,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 466600,
+      "pulls_count": 466800,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -105980,6 +105980,85 @@
       "family": ""
     },
     {
+      "id": "snowflake-arctic-embed2",
+      "name": "snowflake-arctic-embed2",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.",
+      "category": "Embeddings & Search",
+      "page_url": "https://ollama.com/library/snowflake-arctic-embed2",
+      "tags_page_url": "https://ollama.com/library/snowflake-arctic-embed2/tags",
+      "badges": [
+        "embedding",
+        "568m"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": true
+      },
+      "pulls_count": 464100,
+      "tags_count": 3,
+      "updated_at": "Dec 4, 2024 11:57 PM UTC",
+      "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
+      "updated_date_key": 202412042357,
+      "is_cloud": false,
+      "default_tag": "snowflake-arctic-embed2:latest",
+      "variants": [
+        {
+          "tag": "snowflake-arctic-embed2:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 1288490188,
+          "size_formatted": "1.2GB",
+          "context_length": 8192,
+          "context_formatted": "8K",
+          "input_type": "Text",
+          "digest": "5de93a84837d",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "snowflake-arctic-embed2:568m",
+          "name": "568m",
+          "parameter_size": "568M",
+          "quantization": "Default",
+          "size_bytes": 1288490188,
+          "size_formatted": "1.2GB",
+          "context_length": 8192,
+          "context_formatted": "8K",
+          "input_type": "Text",
+          "digest": "5de93a84837d",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "snowflake-arctic-embed2:568m-l-fp16",
+          "name": "568m-l-fp16",
+          "parameter_size": "568M",
+          "quantization": "FP16",
+          "size_bytes": 1288490188,
+          "size_formatted": "1.2GB",
+          "context_length": 8192,
+          "context_formatted": "8K",
+          "input_type": "Text",
+          "digest": "5de93a84837d",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "granite3.2",
       "name": "granite3.2",
       "source": "ollama_library",
@@ -106002,7 +106081,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 463900,
+      "pulls_count": 464100,
       "tags_count": 9,
       "updated_at": "Feb 26, 2025 5:48 AM UTC",
       "updated_full_date": "Feb 26, 2025 5:48 AM UTC",
@@ -106144,85 +106223,6 @@
       "family": "granite"
     },
     {
-      "id": "snowflake-arctic-embed2",
-      "name": "snowflake-arctic-embed2",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.",
-      "category": "Embeddings & Search",
-      "page_url": "https://ollama.com/library/snowflake-arctic-embed2",
-      "tags_page_url": "https://ollama.com/library/snowflake-arctic-embed2/tags",
-      "badges": [
-        "embedding",
-        "568m"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": true
-      },
-      "pulls_count": 463900,
-      "tags_count": 3,
-      "updated_at": "Dec 4, 2024 11:57 PM UTC",
-      "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
-      "updated_date_key": 202412042357,
-      "is_cloud": false,
-      "default_tag": "snowflake-arctic-embed2:latest",
-      "variants": [
-        {
-          "tag": "snowflake-arctic-embed2:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 1288490188,
-          "size_formatted": "1.2GB",
-          "context_length": 8192,
-          "context_formatted": "8K",
-          "input_type": "Text",
-          "digest": "5de93a84837d",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "snowflake-arctic-embed2:568m",
-          "name": "568m",
-          "parameter_size": "568M",
-          "quantization": "Default",
-          "size_bytes": 1288490188,
-          "size_formatted": "1.2GB",
-          "context_length": 8192,
-          "context_formatted": "8K",
-          "input_type": "Text",
-          "digest": "5de93a84837d",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "snowflake-arctic-embed2:568m-l-fp16",
-          "name": "568m-l-fp16",
-          "parameter_size": "568M",
-          "quantization": "FP16",
-          "size_bytes": 1288490188,
-          "size_formatted": "1.2GB",
-          "context_length": 8192,
-          "context_formatted": "8K",
-          "input_type": "Text",
-          "digest": "5de93a84837d",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "deepseek-v4-pro",
       "name": "deepseek-v4-pro",
       "source": "ollama_library",
@@ -106245,7 +106245,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 445800,
+      "pulls_count": 446500,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106311,7 +106311,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 445100,
+      "pulls_count": 445500,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106638,7 +106638,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 423400,
+      "pulls_count": 423500,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -106859,7 +106859,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 422000,
+      "pulls_count": 422200,
       "tags_count": 5,
       "updated_at": "May 5, 2026 11:14 PM UTC",
       "updated_full_date": "May 5, 2026 11:14 PM UTC",
@@ -106966,7 +106966,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 407700,
+      "pulls_count": 407900,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -107130,7 +107130,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 382000,
+      "pulls_count": 382400,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107253,7 +107253,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 372100,
+      "pulls_count": 373400,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107333,7 +107333,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 371700,
+      "pulls_count": 371800,
       "tags_count": 1,
       "updated_at": "Jun 16, 2026 5:39 PM UTC",
       "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
@@ -107383,7 +107383,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 371600,
+      "pulls_count": 371700,
       "tags_count": 7,
       "updated_at": "Apr 16, 2024 4:18 AM UTC",
       "updated_full_date": "Apr 16, 2024 4:18 AM UTC",
@@ -107518,7 +107518,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 360900,
+      "pulls_count": 361000,
       "tags_count": 5,
       "updated_at": "Dec 12, 2025 1:21 AM UTC",
       "updated_full_date": "Dec 12, 2025 1:21 AM UTC",
@@ -107625,7 +107625,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 344300,
+      "pulls_count": 344400,
       "tags_count": 10,
       "updated_at": "Nov 19, 2024 11:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 11:33 PM UTC",
@@ -107802,7 +107802,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 334700,
+      "pulls_count": 334900,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -107908,7 +107908,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 317400,
+      "pulls_count": 317600,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -108016,7 +108016,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 295900,
+      "pulls_count": 296100,
       "tags_count": 10,
       "updated_at": "Dec 16, 2025 5:56 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:56 AM UTC",
@@ -108192,7 +108192,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 294400,
+      "pulls_count": 294500,
       "tags_count": 7,
       "updated_at": "Sep 11, 2024 7:31 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
@@ -108327,7 +108327,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 289600,
+      "pulls_count": 289700,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:04 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:04 AM UTC",
@@ -108405,7 +108405,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 285800,
+      "pulls_count": 286200,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108542,7 +108542,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 270300,
+      "pulls_count": 271500,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108788,7 +108788,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 264200,
+      "pulls_count": 264300,
       "tags_count": 5,
       "updated_at": "Dec 30, 2024 9:33 PM UTC",
       "updated_full_date": "Dec 30, 2024 9:33 PM UTC",
@@ -108897,7 +108897,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 248100,
+      "pulls_count": 248300,
       "tags_count": 1,
       "updated_at": "Jun 13, 2026 12:26 AM UTC",
       "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
@@ -109140,112 +109140,6 @@
       "family": "cogito"
     },
     {
-      "id": "marco-o1",
-      "name": "marco-o1",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "An open large reasoning model for real-world solutions by the Alibaba International Digital Commerce Group (AIDC-AI).",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/marco-o1",
-      "tags_page_url": "https://ollama.com/library/marco-o1/tags",
-      "badges": [
-        "7b"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 217200,
-      "tags_count": 5,
-      "updated_at": "Dec 4, 2024 8:14 AM UTC",
-      "updated_full_date": "Dec 4, 2024 8:14 AM UTC",
-      "updated_date_key": 202412040814,
-      "is_cloud": false,
-      "default_tag": "marco-o1:latest",
-      "variants": [
-        {
-          "tag": "marco-o1:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 5046586572,
-          "size_formatted": "4.7GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "4752e62baa0a",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "marco-o1:7b",
-          "name": "7b",
-          "parameter_size": "7B",
-          "quantization": "Default",
-          "size_bytes": 5046586572,
-          "size_formatted": "4.7GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "4752e62baa0a",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "marco-o1:7b-q4_K_M",
-          "name": "7b-q4_K_M",
-          "parameter_size": "7B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 5046586572,
-          "size_formatted": "4.7GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "4752e62baa0a",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "marco-o1:7b-q8_0",
-          "name": "7b-q8_0",
-          "parameter_size": "7B",
-          "quantization": "Q8_0",
-          "size_bytes": 8697308774,
-          "size_formatted": "8.1GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "45f9391dde04",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "marco-o1:7b-fp16",
-          "name": "7b-fp16",
-          "parameter_size": "7B",
-          "quantization": "FP16",
-          "size_bytes": 16106127360,
-          "size_formatted": "15GB",
-          "context_length": 32768,
-          "context_formatted": "32K",
-          "input_type": "Text",
-          "digest": "c911a6aaee29",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "nemotron-3.5-lightning",
       "name": "nemotron-3.5-lightning",
       "source": "ollama_library",
@@ -109268,7 +109162,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 216300,
+      "pulls_count": 217700,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109438,6 +109332,112 @@
       "family": ""
     },
     {
+      "id": "marco-o1",
+      "name": "marco-o1",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "An open large reasoning model for real-world solutions by the Alibaba International Digital Commerce Group (AIDC-AI).",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/marco-o1",
+      "tags_page_url": "https://ollama.com/library/marco-o1/tags",
+      "badges": [
+        "7b"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 217200,
+      "tags_count": 5,
+      "updated_at": "Dec 4, 2024 8:14 AM UTC",
+      "updated_full_date": "Dec 4, 2024 8:14 AM UTC",
+      "updated_date_key": 202412040814,
+      "is_cloud": false,
+      "default_tag": "marco-o1:latest",
+      "variants": [
+        {
+          "tag": "marco-o1:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 5046586572,
+          "size_formatted": "4.7GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "4752e62baa0a",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "marco-o1:7b",
+          "name": "7b",
+          "parameter_size": "7B",
+          "quantization": "Default",
+          "size_bytes": 5046586572,
+          "size_formatted": "4.7GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "4752e62baa0a",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "marco-o1:7b-q4_K_M",
+          "name": "7b-q4_K_M",
+          "parameter_size": "7B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 5046586572,
+          "size_formatted": "4.7GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "4752e62baa0a",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "marco-o1:7b-q8_0",
+          "name": "7b-q8_0",
+          "parameter_size": "7B",
+          "quantization": "Q8_0",
+          "size_bytes": 8697308774,
+          "size_formatted": "8.1GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "45f9391dde04",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "marco-o1:7b-fp16",
+          "name": "7b-fp16",
+          "parameter_size": "7B",
+          "quantization": "FP16",
+          "size_bytes": 16106127360,
+          "size_formatted": "15GB",
+          "context_length": 32768,
+          "context_formatted": "32K",
+          "input_type": "Text",
+          "digest": "c911a6aaee29",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "medgemma1.5",
       "name": "medgemma1.5",
       "source": "ollama_library",
@@ -109459,7 +109459,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 209800,
+      "pulls_count": 209900,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109566,7 +109566,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 208000,
+      "pulls_count": 208100,
       "tags_count": 5,
       "updated_at": "Feb 28, 2025 9:28 PM UTC",
       "updated_full_date": "Feb 28, 2025 9:28 PM UTC",
@@ -109673,7 +109673,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 197700,
+      "pulls_count": 197900,
       "tags_count": 4,
       "updated_at": "Dec 18, 2025 7:03 AM UTC",
       "updated_full_date": "Dec 18, 2025 7:03 AM UTC",
@@ -109767,7 +109767,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 188300,
+      "pulls_count": 189500,
       "tags_count": 5,
       "updated_at": "May 31, 2026 4:16 AM UTC",
       "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -109875,7 +109875,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 179100,
+      "pulls_count": 179500,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110000,7 +110000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 176600,
+      "pulls_count": 177100,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -110051,7 +110051,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 171000,
+      "pulls_count": 171200,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -110202,7 +110202,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 160800,
+      "pulls_count": 160900,
       "tags_count": 3,
       "updated_at": "Oct 29, 2025 2:04 AM UTC",
       "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
@@ -110282,7 +110282,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 152100,
+      "pulls_count": 152200,
       "tags_count": 3,
       "updated_at": "Mar 20, 2026 8:10 PM UTC",
       "updated_full_date": "Mar 20, 2026 8:10 PM UTC",
@@ -110362,7 +110362,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 131200,
+      "pulls_count": 131500,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -110413,7 +110413,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 125400,
+      "pulls_count": 125700,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -110527,58 +110527,6 @@
       "family": ""
     },
     {
-      "id": "nemotron-3-ultra",
-      "name": "nemotron-3-ultra",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/nemotron-3-ultra",
-      "tags_page_url": "https://ollama.com/library/nemotron-3-ultra/tags",
-      "badges": [
-        "tools",
-        "thinking",
-        "cloud"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": false,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 118900,
-      "tags_count": 1,
-      "updated_at": "Jun 4, 2026 12:00 AM UTC",
-      "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
-      "updated_date_key": 202606040000,
-      "is_cloud": true,
-      "default_tag": "nemotron-3-ultra:cloud",
-      "variants": [
-        {
-          "tag": "nemotron-3-ultra:cloud",
-          "name": "cloud",
-          "parameter_size": "",
-          "quantization": "Cloud",
-          "size_bytes": 0,
-          "size_formatted": "High Usage",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "802a2bec181a",
-          "updated_at": "4 months ago",
-          "is_cloud": true
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "NVIDIA",
-      "publisher": "NVIDIA",
-      "family": "nemotron"
-    },
-    {
       "id": "granite4.2",
       "name": "granite4.2",
       "source": "ollama_library",
@@ -110601,7 +110549,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 118400,
+      "pulls_count": 119700,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111303,6 +111251,58 @@
       "family": "granite"
     },
     {
+      "id": "nemotron-3-ultra",
+      "name": "nemotron-3-ultra",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/nemotron-3-ultra",
+      "tags_page_url": "https://ollama.com/library/nemotron-3-ultra/tags",
+      "badges": [
+        "tools",
+        "thinking",
+        "cloud"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": false,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 119400,
+      "tags_count": 1,
+      "updated_at": "Jun 4, 2026 12:00 AM UTC",
+      "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
+      "updated_date_key": 202606040000,
+      "is_cloud": true,
+      "default_tag": "nemotron-3-ultra:cloud",
+      "variants": [
+        {
+          "tag": "nemotron-3-ultra:cloud",
+          "name": "cloud",
+          "parameter_size": "",
+          "quantization": "Cloud",
+          "size_bytes": 0,
+          "size_formatted": "High Usage",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "802a2bec181a",
+          "updated_at": "4 months ago",
+          "is_cloud": true
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "NVIDIA",
+      "publisher": "NVIDIA",
+      "family": "nemotron"
+    },
+    {
       "id": "kimi-k3",
       "name": "kimi-k3",
       "source": "ollama_library",
@@ -111326,7 +111326,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 99600,
+      "pulls_count": 99900,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -111378,7 +111378,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 84700,
+      "pulls_count": 85400,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111408,56 +111408,6 @@
       "family": "glm"
     },
     {
-      "id": "deepseek-v4.1-flash",
-      "name": "deepseek-v4.1-flash",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "DeepSeek-V4.1-Flash is an advanced tool designed to enhance search capabilities, providing users with faster and more accurate results.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/deepseek-v4.1-flash",
-      "tags_page_url": "https://ollama.com/library/deepseek-v4.1-flash/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "thinking",
-        "cloud"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 74600,
-      "tags_count": 1,
-      "updated_at": "Sep 10, 2026 3:00 AM UTC",
-      "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
-      "updated_date_key": 202609100300,
-      "is_cloud": true,
-      "default_tag": "deepseek-v4.1-flash:cloud",
-      "variants": [
-        {
-          "tag": "deepseek-v4.1-flash:cloud",
-          "name": "cloud",
-          "parameter_size": "",
-          "quantization": "Cloud",
-          "size_bytes": 0,
-          "size_formatted": "Medium Usage",
-          "context_length": 1048576,
-          "context_formatted": "1M",
-          "input_type": "Image",
-          "digest": "72434d5a621f",
-          "updated_at": "4 weeks ago",
-          "is_cloud": true
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active"
-    },
-    {
       "id": "tev1",
       "name": "tev1",
       "source": "ollama_library",
@@ -111482,7 +111432,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 74300,
+      "pulls_count": 76800,
       "tags_count": 13,
       "updated_at": "Oct 1, 2026 7:39 PM UTC",
       "updated_full_date": "Oct 1, 2026 7:39 PM UTC",
@@ -111501,7 +111451,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "e19886d0d959",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111515,7 +111465,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "209d0a2808ce",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111529,7 +111479,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "e19886d0d959",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111543,7 +111493,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "9ea18bade940",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111557,7 +111507,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "c96262240cf8",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111599,7 +111549,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "b6cc5c8eef21",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111613,7 +111563,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "2a76e0606594",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111627,7 +111577,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "1b15f25c13a0",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -111677,6 +111627,56 @@
       "status": "active"
     },
     {
+      "id": "deepseek-v4.1-flash",
+      "name": "deepseek-v4.1-flash",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "DeepSeek-V4.1-Flash is an advanced tool designed to enhance search capabilities, providing users with faster and more accurate results.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/deepseek-v4.1-flash",
+      "tags_page_url": "https://ollama.com/library/deepseek-v4.1-flash/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "thinking",
+        "cloud"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 75200,
+      "tags_count": 1,
+      "updated_at": "Sep 10, 2026 3:00 AM UTC",
+      "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
+      "updated_date_key": 202609100300,
+      "is_cloud": true,
+      "default_tag": "deepseek-v4.1-flash:cloud",
+      "variants": [
+        {
+          "tag": "deepseek-v4.1-flash:cloud",
+          "name": "cloud",
+          "parameter_size": "",
+          "quantization": "Cloud",
+          "size_bytes": 0,
+          "size_formatted": "Medium Usage",
+          "context_length": 1048576,
+          "context_formatted": "1M",
+          "input_type": "Image",
+          "digest": "72434d5a621f",
+          "updated_at": "4 weeks ago",
+          "is_cloud": true
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active"
+    },
+    {
       "id": "north-mini-code-1.0",
       "name": "north-mini-code-1.0",
       "source": "ollama_library",
@@ -111698,7 +111698,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 65200,
+      "pulls_count": 65500,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -111833,7 +111833,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 62600,
+      "pulls_count": 62800,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -112052,7 +112052,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 50600,
+      "pulls_count": 50900,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -112271,7 +112271,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 33800,
+      "pulls_count": 33900,
       "tags_count": 7,
       "updated_at": "Jul 25, 2026 6:19 PM UTC",
       "updated_full_date": "Jul 25, 2026 6:19 PM UTC",
@@ -112408,7 +112408,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 32000,
+      "pulls_count": 32500,
       "tags_count": 8,
       "updated_at": "Oct 1, 2026 7:41 PM UTC",
       "updated_full_date": "Oct 1, 2026 7:41 PM UTC",
@@ -112427,7 +112427,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "726d5c990409",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -112441,7 +112441,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "726d5c990409",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -112455,7 +112455,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "a12dea71dc46",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -112469,7 +112469,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "8bed6c1082ed",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -112483,7 +112483,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "7a1e5d2a7666",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -112555,7 +112555,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 31100,
+      "pulls_count": 31200,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -112574,7 +112574,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "f82c0882cec1",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112588,7 +112588,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "2c6ebdbc4c96",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112602,7 +112602,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "474fe767d1ed",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112616,7 +112616,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "4b56e240be8d",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112630,7 +112630,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "364832eedf35",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112644,7 +112644,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "a10286f69b99",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112658,7 +112658,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "1be4061519d1",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112672,7 +112672,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "a8736da3fe78",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112686,7 +112686,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "c84f3ddf98bb",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112700,7 +112700,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "0c7c74ffa2b8",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112714,7 +112714,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "083543c1944b",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112728,7 +112728,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "eabbd076be52",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112742,7 +112742,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "b06b03b262f4",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112756,7 +112756,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "f82c0882cec1",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112770,7 +112770,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "3697077f3aa1",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -112784,7 +112784,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "554b81f96395",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         }
       ],
@@ -112821,7 +112821,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 14500,
+      "pulls_count": 16900,
       "tags_count": 17,
       "updated_at": "Oct 6, 2026 4:10 AM UTC",
       "updated_full_date": "Oct 6, 2026 4:10 AM UTC",
@@ -112910,7 +112910,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "afeb999480b2",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112924,7 +112924,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "47c561d1a77f",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112938,7 +112938,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "9e1df58d197e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112952,7 +112952,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "0a4a713f2700",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112966,7 +112966,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "fc94c176e27b",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112980,7 +112980,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "d302b84ce388",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112994,7 +112994,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "9c186596b19e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113008,7 +113008,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "4d64e128ff21",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113022,7 +113022,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "eaf989e4d334",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113036,7 +113036,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "a4efd357164f",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113050,7 +113050,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "969600645b52",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113064,7 +113064,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "54d809644cd8",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         }
       ],
@@ -113094,7 +113094,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 13000,
+      "pulls_count": 13700,
       "tags_count": 5,
       "updated_at": "Oct 4, 2026 11:27 PM UTC",
       "updated_full_date": "Oct 4, 2026 11:27 PM UTC",
@@ -113113,7 +113113,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c93c95a40022",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113127,7 +113127,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c93c95a40022",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113141,7 +113141,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "15dbbaceebaa",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -113155,7 +113155,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "bc72638064ee",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -113218,7 +113218,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9e75264870dd",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113232,7 +113232,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9e75264870dd",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113246,7 +113246,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "3f0f84ddfcf6",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -113260,7 +113260,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "7322db586141",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
