@@ -25,10 +25,10 @@
     "embedding": false
   },
   "pulls_count": 41000000,
-  "tags_count": 28,
-  "updated_at": "Oct 9, 2026 3:41 AM UTC",
-  "updated_full_date": "Oct 9, 2026 3:41 AM UTC",
-  "updated_date_key": 202610090341,
+  "tags_count": 29,
+  "updated_at": "Oct 9, 2026 3:09 PM UTC",
+  "updated_full_date": "Oct 9, 2026 3:09 PM UTC",
+  "updated_date_key": 202610091509,
   "is_cloud": false,
   "default_tag": "gemma3:latest",
   "variants": [
@@ -43,7 +43,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "68ceab7e468a",
-      "updated_at": "12 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -71,7 +71,7 @@
       "context_formatted": "32K",
       "input_type": "Text",
       "digest": "97558784bdc9",
-      "updated_at": "13 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -85,7 +85,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "68ceab7e468a",
-      "updated_at": "12 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -99,7 +99,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "b92b218582c5",
-      "updated_at": "9 hours ago",
+      "updated_at": "19 hours ago",
       "is_cloud": false
     },
     {
@@ -112,8 +112,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "a418f5838eaf",
-      "updated_at": "1 year ago",
+      "digest": "6be2e2ba6843",
+      "updated_at": "8 hours ago",
       "is_cloud": false
     },
     {
@@ -197,7 +197,7 @@
       "context_formatted": "32K",
       "input_type": "Text",
       "digest": "97558784bdc9",
-      "updated_at": "13 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -211,7 +211,7 @@
       "context_formatted": "32K",
       "input_type": "Text",
       "digest": "e3acf9b8e078",
-      "updated_at": "13 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -225,7 +225,7 @@
       "context_formatted": "32K",
       "input_type": "Text",
       "digest": "d685bd623bd3",
-      "updated_at": "12 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -239,7 +239,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "b0313423c944",
-      "updated_at": "9 hours ago",
+      "updated_at": "19 hours ago",
       "is_cloud": false
     },
     {
@@ -253,7 +253,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "68ceab7e468a",
-      "updated_at": "12 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -267,7 +267,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "69f0d5459ab0",
-      "updated_at": "12 hours ago",
+      "updated_at": "22 hours ago",
       "is_cloud": false
     },
     {
@@ -281,7 +281,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "4e0b0e7a1c0a",
-      "updated_at": "12 hours ago",
+      "updated_at": "21 hours ago",
       "is_cloud": false
     },
     {
@@ -295,7 +295,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "4e0b0e7a1c0a",
-      "updated_at": "12 hours ago",
+      "updated_at": "21 hours ago",
       "is_cloud": false
     },
     {
@@ -308,8 +308,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "5d4fa005e7bb",
-      "updated_at": "1 year ago",
+      "digest": "c615ec41b385",
+      "updated_at": "8 hours ago",
       "is_cloud": false
     },
     {
@@ -323,7 +323,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "b92b218582c5",
-      "updated_at": "9 hours ago",
+      "updated_at": "19 hours ago",
       "is_cloud": false
     },
     {
@@ -337,7 +337,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "88c2e99b4a44",
-      "updated_at": "9 hours ago",
+      "updated_at": "19 hours ago",
       "is_cloud": false
     },
     {
@@ -351,7 +351,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "36949f7228f6",
-      "updated_at": "9 hours ago",
+      "updated_at": "19 hours ago",
       "is_cloud": false
     },
     {
@@ -365,7 +365,7 @@
       "context_formatted": "128K",
       "input_type": "Image",
       "digest": "36949f7228f6",
-      "updated_at": "9 hours ago",
+      "updated_at": "19 hours ago",
       "is_cloud": false
     },
     {
@@ -378,8 +378,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "29eb0b9aeda3",
-      "updated_at": "1 year ago",
+      "digest": "a53d94b409fe",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -392,8 +392,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "a418f5838eaf",
-      "updated_at": "1 year ago",
+      "digest": "6be2e2ba6843",
+      "updated_at": "8 hours ago",
       "is_cloud": false
     },
     {
@@ -406,8 +406,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "273cbcd67032",
-      "updated_at": "1 year ago",
+      "digest": "62dc427fec6b",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     },
     {
@@ -420,8 +420,22 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "b7d58e2e179e",
-      "updated_at": "1 year ago",
+      "digest": "1bc907263cde",
+      "updated_at": "7 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "gemma3:27b-it-bf16",
+      "name": "27b-it-bf16",
+      "parameter_size": "27B",
+      "quantization": "F16",
+      "size_bytes": 59055800320,
+      "size_formatted": "55GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "1bc907263cde",
+      "updated_at": "7 hours ago",
       "is_cloud": false
     }
   ],
