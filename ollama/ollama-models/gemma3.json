@@ -25,10 +25,10 @@
     "embedding": false
   },
   "pulls_count": 41000000,
-  "tags_count": 26,
-  "updated_at": "Aug 15, 2025 8:15 AM UTC",
-  "updated_full_date": "Aug 15, 2025 8:15 AM UTC",
-  "updated_date_key": 202508150815,
+  "tags_count": 28,
+  "updated_at": "Oct 9, 2026 3:41 AM UTC",
+  "updated_full_date": "Oct 9, 2026 3:41 AM UTC",
+  "updated_date_key": 202610090341,
   "is_cloud": false,
   "default_tag": "gemma3:latest",
   "variants": [
@@ -37,13 +37,13 @@
       "name": "latest",
       "parameter_size": "",
       "quantization": "Default",
-      "size_bytes": 3543348019,
-      "size_formatted": "3.3GB",
+      "size_bytes": 3650722201,
+      "size_formatted": "3.4GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "a2af6cc3eb7f",
-      "updated_at": "1 year ago",
+      "digest": "68ceab7e468a",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -65,13 +65,13 @@
       "name": "1b",
       "parameter_size": "1B",
       "quantization": "Default",
-      "size_bytes": 854589440,
-      "size_formatted": "815MB",
+      "size_bytes": 845152256,
+      "size_formatted": "806MB",
       "context_length": 32768,
       "context_formatted": "32K",
       "input_type": "Text",
-      "digest": "8648f39daa8f",
-      "updated_at": "1 year ago",
+      "digest": "97558784bdc9",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -79,13 +79,13 @@
       "name": "4b",
       "parameter_size": "4B",
       "quantization": "Default",
-      "size_bytes": 3543348019,
-      "size_formatted": "3.3GB",
+      "size_bytes": 3650722201,
+      "size_formatted": "3.4GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "a2af6cc3eb7f",
-      "updated_at": "1 year ago",
+      "digest": "68ceab7e468a",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -93,13 +93,13 @@
       "name": "12b",
       "parameter_size": "12B",
       "quantization": "Default",
-      "size_bytes": 8697308774,
-      "size_formatted": "8.1GB",
+      "size_bytes": 8804682956,
+      "size_formatted": "8.2GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "f4031aab637d",
-      "updated_at": "1 year ago",
+      "digest": "b92b218582c5",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -191,13 +191,13 @@
       "name": "1b-it-q4_K_M",
       "parameter_size": "1B",
       "quantization": "Q4_K_M",
-      "size_bytes": 854589440,
-      "size_formatted": "815MB",
+      "size_bytes": 845152256,
+      "size_formatted": "806MB",
       "context_length": 32768,
       "context_formatted": "32K",
       "input_type": "Text",
-      "digest": "8648f39daa8f",
-      "updated_at": "1 year ago",
+      "digest": "97558784bdc9",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -210,8 +210,8 @@
       "context_length": 32768,
       "context_formatted": "32K",
       "input_type": "Text",
-      "digest": "0fdb9c7fefee",
-      "updated_at": "1 year ago",
+      "digest": "e3acf9b8e078",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -224,8 +224,8 @@
       "context_length": 32768,
       "context_formatted": "32K",
       "input_type": "Text",
-      "digest": "16d00907691b",
-      "updated_at": "1 year ago",
+      "digest": "d685bd623bd3",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -238,8 +238,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "d01ad0579247",
-      "updated_at": "1 year ago",
+      "digest": "b0313423c944",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -247,13 +247,13 @@
       "name": "4b-it-q4_K_M",
       "parameter_size": "4B",
       "quantization": "Q4_K_M",
-      "size_bytes": 3543348019,
-      "size_formatted": "3.3GB",
+      "size_bytes": 3650722201,
+      "size_formatted": "3.4GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "a2af6cc3eb7f",
-      "updated_at": "1 year ago",
+      "digest": "68ceab7e468a",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -266,8 +266,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "2376388dec16",
-      "updated_at": "1 year ago",
+      "digest": "69f0d5459ab0",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -280,8 +280,22 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "c4da438ae756",
-      "updated_at": "1 year ago",
+      "digest": "4e0b0e7a1c0a",
+      "updated_at": "4 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "gemma3:4b-it-bf16",
+      "name": "4b-it-bf16",
+      "parameter_size": "4B",
+      "quantization": "F16",
+      "size_bytes": 9234179686,
+      "size_formatted": "8.6GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "4e0b0e7a1c0a",
+      "updated_at": "4 hours ago",
       "is_cloud": false
     },
     {
@@ -303,13 +317,13 @@
       "name": "12b-it-q4_K_M",
       "parameter_size": "12B",
       "quantization": "Q4_K_M",
-      "size_bytes": 8697308774,
-      "size_formatted": "8.1GB",
+      "size_bytes": 8804682956,
+      "size_formatted": "8.2GB",
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "f4031aab637d",
-      "updated_at": "1 year ago",
+      "digest": "b92b218582c5",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -322,8 +336,8 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "997a7c2c0975",
-      "updated_at": "1 year ago",
+      "digest": "88c2e99b4a44",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -336,8 +350,22 @@
       "context_length": 131072,
       "context_formatted": "128K",
       "input_type": "Image",
-      "digest": "6b1ba564b78d",
-      "updated_at": "1 year ago",
+      "digest": "36949f7228f6",
+      "updated_at": "",
+      "is_cloud": false
+    },
+    {
+      "tag": "gemma3:12b-it-bf16",
+      "name": "12b-it-bf16",
+      "parameter_size": "12B",
+      "quantization": "F16",
+      "size_bytes": 25769803776,
+      "size_formatted": "24GB",
+      "context_length": 131072,
+      "context_formatted": "128K",
+      "input_type": "Image",
+      "digest": "36949f7228f6",
+      "updated_at": "",
       "is_cloud": false
     },
     {
