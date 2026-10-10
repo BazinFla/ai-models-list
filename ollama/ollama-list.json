@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-10-09 22:20:10 UTC",
+  "scraped_at": "2026-10-10 04:33:58 UTC",
   "total_models": 245,
   "total_active_models": 245,
   "total_deprecated_models": 2,
@@ -1378,7 +1378,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 93500000,
+      "pulls_count": 93600000,
       "tags_count": 35,
       "updated_at": "Jul 2, 2025 6:09 AM UTC",
       "updated_full_date": "Jul 2, 2025 6:09 AM UTC",
@@ -1907,7 +1907,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 88600000,
+      "pulls_count": 88700000,
       "tags_count": 3,
       "updated_at": "Feb 21, 2024 5:26 PM UTC",
       "updated_full_date": "Feb 21, 2024 5:26 PM UTC",
@@ -1987,7 +1987,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 85100000,
+      "pulls_count": 85200000,
       "tags_count": 63,
       "updated_at": "Sep 25, 2024 9:09 PM UTC",
       "updated_full_date": "Sep 25, 2024 9:09 PM UTC",
@@ -4840,7 +4840,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -4868,7 +4868,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "97558784bdc9",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -4882,7 +4882,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -4896,7 +4896,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b92b218582c5",
-          "updated_at": "19 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -4910,7 +4910,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "6be2e2ba6843",
-          "updated_at": "8 hours ago",
+          "updated_at": "14 hours ago",
           "is_cloud": false
         },
         {
@@ -4994,7 +4994,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "97558784bdc9",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5008,7 +5008,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "e3acf9b8e078",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5022,7 +5022,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d685bd623bd3",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5036,7 +5036,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b0313423c944",
-          "updated_at": "19 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5050,7 +5050,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5064,7 +5064,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "69f0d5459ab0",
-          "updated_at": "22 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5078,7 +5078,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "4e0b0e7a1c0a",
-          "updated_at": "21 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5092,7 +5092,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "4e0b0e7a1c0a",
-          "updated_at": "21 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5106,7 +5106,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "c615ec41b385",
-          "updated_at": "8 hours ago",
+          "updated_at": "14 hours ago",
           "is_cloud": false
         },
         {
@@ -5120,7 +5120,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b92b218582c5",
-          "updated_at": "19 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5134,7 +5134,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "88c2e99b4a44",
-          "updated_at": "19 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5148,7 +5148,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "36949f7228f6",
-          "updated_at": "19 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5162,7 +5162,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "36949f7228f6",
-          "updated_at": "19 hours ago",
+          "updated_at": "",
           "is_cloud": false
         },
         {
@@ -5176,7 +5176,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "a53d94b409fe",
-          "updated_at": "7 hours ago",
+          "updated_at": "13 hours ago",
           "is_cloud": false
         },
         {
@@ -5190,7 +5190,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "6be2e2ba6843",
-          "updated_at": "8 hours ago",
+          "updated_at": "14 hours ago",
           "is_cloud": false
         },
         {
@@ -5204,7 +5204,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "62dc427fec6b",
-          "updated_at": "7 hours ago",
+          "updated_at": "14 hours ago",
           "is_cloud": false
         },
         {
@@ -5218,7 +5218,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "1bc907263cde",
-          "updated_at": "7 hours ago",
+          "updated_at": "13 hours ago",
           "is_cloud": false
         },
         {
@@ -5232,7 +5232,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "1bc907263cde",
-          "updated_at": "7 hours ago",
+          "updated_at": "13 hours ago",
           "is_cloud": false
         }
       ],
@@ -8849,7 +8849,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "8cb19ff6df84",
-          "updated_at": "6 hours ago",
+          "updated_at": "12 hours ago",
           "is_cloud": false
         },
         {
@@ -8863,7 +8863,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "5b971d662d97",
-          "updated_at": "6 hours ago",
+          "updated_at": "12 hours ago",
           "is_cloud": false
         },
         {
@@ -8961,7 +8961,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "3721c8128dc2",
-          "updated_at": "6 hours ago",
+          "updated_at": "12 hours ago",
           "is_cloud": false
         },
         {
@@ -8975,7 +8975,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "c893c1170d92",
-          "updated_at": "6 hours ago",
+          "updated_at": "12 hours ago",
           "is_cloud": false
         },
         {
@@ -13823,7 +13823,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "cebff225d719",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -13879,7 +13879,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "a8ee95bc3592",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -16907,7 +16907,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "f38aa0c53da5",
-          "updated_at": "7 hours ago",
+          "updated_at": "13 hours ago",
           "is_cloud": false
         },
         {
@@ -16921,7 +16921,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "f38aa0c53da5",
-          "updated_at": "7 hours ago",
+          "updated_at": "13 hours ago",
           "is_cloud": false
         },
         {
@@ -16935,7 +16935,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "714d86958b6e",
-          "updated_at": "7 hours ago",
+          "updated_at": "13 hours ago",
           "is_cloud": false
         },
         {
@@ -52741,7 +52741,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 1600000,
+      "pulls_count": 1700000,
       "tags_count": 6,
       "updated_at": "Dec 13, 2025 6:47 AM UTC",
       "updated_full_date": "Dec 13, 2025 6:47 AM UTC",
@@ -83430,7 +83430,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "96a147f46c78",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83444,7 +83444,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "62fd2b9a2876",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83458,7 +83458,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d15ec1ea22a4",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83472,7 +83472,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "8a362799bb4c",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83486,7 +83486,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "024406c7422a",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83500,7 +83500,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "8794444548a4",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83514,7 +83514,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "7628c0eabf6e",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83528,7 +83528,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "0f6d2b5ca5e2",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83542,7 +83542,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "68d25cf334e8",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83556,7 +83556,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "4f2a05b98ad7",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83570,7 +83570,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d3a4b4169288",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83584,7 +83584,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "c74ed33532e3",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83598,7 +83598,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "8fdefc023b71",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83612,7 +83612,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "c555922ee59b",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -83626,7 +83626,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "84081f5ce595",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -88004,7 +88004,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 986400,
+      "pulls_count": 986600,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88490,7 +88490,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 975800,
+      "pulls_count": 975900,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -88990,7 +88990,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 971500,
+      "pulls_count": 971700,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -89714,7 +89714,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 961900,
+      "pulls_count": 962100,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -90437,7 +90437,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 961300,
+      "pulls_count": 961400,
       "tags_count": 9,
       "updated_at": "Apr 8, 2025 10:53 PM UTC",
       "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
@@ -90600,7 +90600,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 958600,
+      "pulls_count": 958800,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -91099,7 +91099,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 949800,
+      "pulls_count": 950000,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -91595,7 +91595,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 948200,
+      "pulls_count": 948400,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92730,7 +92730,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 932200,
+      "pulls_count": 932400,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93228,7 +93228,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 922400,
+      "pulls_count": 922500,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -93726,7 +93726,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 917900,
+      "pulls_count": 919100,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -94000,7 +94000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 916000,
+      "pulls_count": 916200,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94485,7 +94485,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 911300,
+      "pulls_count": 911400,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94830,7 +94830,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 900200,
+      "pulls_count": 900400,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -95108,7 +95108,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 894500,
+      "pulls_count": 895100,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -95271,7 +95271,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 816300,
+      "pulls_count": 816500,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95714,7 +95714,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 777000,
+      "pulls_count": 777100,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95932,7 +95932,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 740100,
+      "pulls_count": 740200,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96206,7 +96206,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 739300,
+      "pulls_count": 739400,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -96496,7 +96496,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 733300,
+      "pulls_count": 733400,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -96631,7 +96631,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 725900,
+      "pulls_count": 726000,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -96905,7 +96905,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 703000,
+      "pulls_count": 703100,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97182,7 +97182,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 675900,
+      "pulls_count": 676000,
       "tags_count": 4,
       "updated_at": "Apr 27, 2026 8:26 PM UTC",
       "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
@@ -97275,7 +97275,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 663200,
+      "pulls_count": 663400,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97437,7 +97437,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 658300,
+      "pulls_count": 658400,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -98000,7 +98000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 627700,
+      "pulls_count": 627800,
       "tags_count": 17,
       "updated_at": "Sep 9, 2024 5:16 AM UTC",
       "updated_full_date": "Sep 9, 2024 5:16 AM UTC",
@@ -98274,7 +98274,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 607300,
+      "pulls_count": 607400,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -98576,7 +98576,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 602500,
+      "pulls_count": 602600,
       "tags_count": 18,
       "updated_at": "Dec 20, 2024 1:05 AM UTC",
       "updated_full_date": "Dec 20, 2024 1:05 AM UTC",
@@ -98865,7 +98865,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 601200,
+      "pulls_count": 601300,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -99141,7 +99141,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 597000,
+      "pulls_count": 597200,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -99308,7 +99308,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 595800,
+      "pulls_count": 596500,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -99471,7 +99471,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 585800,
+      "pulls_count": 587200,
       "tags_count": 4,
       "updated_at": "May 7, 2024 9:20 PM UTC",
       "updated_full_date": "May 7, 2024 9:20 PM UTC",
@@ -99563,7 +99563,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 580700,
+      "pulls_count": 580800,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -100155,7 +100155,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 572600,
+      "pulls_count": 572800,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -100373,7 +100373,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 570700,
+      "pulls_count": 570800,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -100952,7 +100952,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 564300,
+      "pulls_count": 564400,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -101226,7 +101226,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 561500,
+      "pulls_count": 561600,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -101503,7 +101503,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 551600,
+      "pulls_count": 551700,
       "tags_count": 17,
       "updated_at": "May 14, 2024 1:46 AM UTC",
       "updated_full_date": "May 14, 2024 1:46 AM UTC",
@@ -101777,7 +101777,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 551500,
+      "pulls_count": 551600,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 10:06 PM UTC",
       "updated_full_date": "Dec 29, 2023 10:06 PM UTC",
@@ -102065,7 +102065,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 550200,
+      "pulls_count": 550300,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -102354,7 +102354,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 548300,
+      "pulls_count": 548500,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102432,7 +102432,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 544100,
+      "pulls_count": 544200,
       "tags_count": 17,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -102706,7 +102706,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 541400,
+      "pulls_count": 541500,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -102980,7 +102980,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 538900,
+      "pulls_count": 539000,
       "tags_count": 17,
       "updated_at": "Jan 29, 2024 11:52 PM UTC",
       "updated_full_date": "Jan 29, 2024 11:52 PM UTC",
@@ -103255,7 +103255,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 535200,
+      "pulls_count": 535300,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -103529,7 +103529,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 534900,
+      "pulls_count": 535000,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -104057,59 +104057,6 @@
       "family": ""
     },
     {
-      "id": "minimax-m3",
-      "name": "minimax-m3",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "MiniMax M3: Coding & Agentic Frontier. 1M context window. Native Multimodality.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/minimax-m3",
-      "tags_page_url": "https://ollama.com/library/minimax-m3/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "thinking",
-        "cloud"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 521500,
-      "tags_count": 1,
-      "updated_at": "Jun 1, 2026 1:34 AM UTC",
-      "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
-      "updated_date_key": 202606010134,
-      "is_cloud": true,
-      "default_tag": "minimax-m3:cloud",
-      "variants": [
-        {
-          "tag": "minimax-m3:cloud",
-          "name": "cloud",
-          "parameter_size": "",
-          "quantization": "Cloud",
-          "size_bytes": 0,
-          "size_formatted": "High Usage",
-          "context_length": 524288,
-          "context_formatted": "512K",
-          "input_type": "Image",
-          "digest": "d03a959f45c0",
-          "updated_at": "4 months ago",
-          "is_cloud": true
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "MiniMax",
-      "publisher": "MiniMax",
-      "family": "minimax"
-    },
-    {
       "id": "granite4.1",
       "name": "granite4.1",
       "source": "ollama_library",
@@ -104133,7 +104080,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 521400,
+      "pulls_count": 521900,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -104821,6 +104768,59 @@
       "family": "granite"
     },
     {
+      "id": "minimax-m3",
+      "name": "minimax-m3",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "MiniMax M3: Coding & Agentic Frontier. 1M context window. Native Multimodality.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/minimax-m3",
+      "tags_page_url": "https://ollama.com/library/minimax-m3/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "thinking",
+        "cloud"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 521600,
+      "tags_count": 1,
+      "updated_at": "Jun 1, 2026 1:34 AM UTC",
+      "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
+      "updated_date_key": 202606010134,
+      "is_cloud": true,
+      "default_tag": "minimax-m3:cloud",
+      "variants": [
+        {
+          "tag": "minimax-m3:cloud",
+          "name": "cloud",
+          "parameter_size": "",
+          "quantization": "Cloud",
+          "size_bytes": 0,
+          "size_formatted": "High Usage",
+          "context_length": 524288,
+          "context_formatted": "512K",
+          "input_type": "Image",
+          "digest": "d03a959f45c0",
+          "updated_at": "4 months ago",
+          "is_cloud": true
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "MiniMax",
+      "publisher": "MiniMax",
+      "family": "minimax"
+    },
+    {
       "id": "open-orca-platypus2",
       "name": "open-orca-platypus2",
       "source": "ollama_library",
@@ -105116,7 +105116,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 514400,
+      "pulls_count": 514500,
       "tags_count": 5,
       "updated_at": "Dec 9, 2025 7:48 AM UTC",
       "updated_full_date": "Dec 9, 2025 7:48 AM UTC",
@@ -105480,7 +105480,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 489800,
+      "pulls_count": 489900,
       "tags_count": 16,
       "updated_at": "Nov 17, 2023 9:54 PM UTC",
       "updated_full_date": "Nov 17, 2023 9:54 PM UTC",
@@ -105743,7 +105743,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 488700,
+      "pulls_count": 488800,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -105796,7 +105796,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 467200,
+      "pulls_count": 467300,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -106043,7 +106043,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 464500,
+      "pulls_count": 464600,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -106287,7 +106287,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 448000,
+      "pulls_count": 448400,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106353,7 +106353,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 446400,
+      "pulls_count": 446600,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106901,7 +106901,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 422500,
+      "pulls_count": 422600,
       "tags_count": 5,
       "updated_at": "May 5, 2026 11:14 PM UTC",
       "updated_full_date": "May 5, 2026 11:14 PM UTC",
@@ -107008,7 +107008,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 408300,
+      "pulls_count": 408400,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -107172,7 +107172,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 383000,
+      "pulls_count": 383200,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107295,7 +107295,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 375200,
+      "pulls_count": 375500,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107375,7 +107375,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 372100,
+      "pulls_count": 372200,
       "tags_count": 1,
       "updated_at": "Jun 16, 2026 5:39 PM UTC",
       "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
@@ -107560,7 +107560,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 361200,
+      "pulls_count": 361300,
       "tags_count": 5,
       "updated_at": "Dec 12, 2025 1:21 AM UTC",
       "updated_full_date": "Dec 12, 2025 1:21 AM UTC",
@@ -107667,7 +107667,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 344600,
+      "pulls_count": 344700,
       "tags_count": 10,
       "updated_at": "Nov 19, 2024 11:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 11:33 PM UTC",
@@ -107844,7 +107844,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 335300,
+      "pulls_count": 335400,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -107950,7 +107950,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 317800,
+      "pulls_count": 317900,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -108234,7 +108234,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 294600,
+      "pulls_count": 294700,
       "tags_count": 7,
       "updated_at": "Sep 11, 2024 7:31 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
@@ -108447,7 +108447,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 287700,
+      "pulls_count": 287900,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108584,7 +108584,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 274300,
+      "pulls_count": 274800,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108990,7 +108990,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 232800,
+      "pulls_count": 232900,
       "tags_count": 5,
       "updated_at": "Mar 13, 2025 12:39 PM UTC",
       "updated_full_date": "Mar 13, 2025 12:39 PM UTC",
@@ -109096,7 +109096,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 225800,
+      "pulls_count": 225900,
       "tags_count": 5,
       "updated_at": "Nov 19, 2025 6:22 PM UTC",
       "updated_full_date": "Nov 19, 2025 6:22 PM UTC",
@@ -109204,7 +109204,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 219900,
+      "pulls_count": 220300,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109394,7 +109394,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 217400,
+      "pulls_count": 217500,
       "tags_count": 5,
       "updated_at": "Dec 4, 2024 8:14 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:14 AM UTC",
@@ -109501,7 +109501,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 210200,
+      "pulls_count": 210300,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109608,7 +109608,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 208200,
+      "pulls_count": 208300,
       "tags_count": 5,
       "updated_at": "Feb 28, 2025 9:28 PM UTC",
       "updated_full_date": "Feb 28, 2025 9:28 PM UTC",
@@ -109715,7 +109715,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 198300,
+      "pulls_count": 198500,
       "tags_count": 4,
       "updated_at": "Dec 18, 2025 7:03 AM UTC",
       "updated_full_date": "Dec 18, 2025 7:03 AM UTC",
@@ -109809,7 +109809,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 191700,
+      "pulls_count": 192200,
       "tags_count": 5,
       "updated_at": "May 31, 2026 4:16 AM UTC",
       "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -109917,7 +109917,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 180600,
+      "pulls_count": 180800,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110042,7 +110042,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 178400,
+      "pulls_count": 178700,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -110093,7 +110093,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 171500,
+      "pulls_count": 171600,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -110244,7 +110244,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 161200,
+      "pulls_count": 161300,
       "tags_count": 3,
       "updated_at": "Oct 29, 2025 2:04 AM UTC",
       "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
@@ -110324,7 +110324,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 152400,
+      "pulls_count": 152500,
       "tags_count": 3,
       "updated_at": "Mar 20, 2026 8:10 PM UTC",
       "updated_full_date": "Mar 20, 2026 8:10 PM UTC",
@@ -110404,7 +110404,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 132400,
+      "pulls_count": 132600,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -110455,7 +110455,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 126200,
+      "pulls_count": 126400,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -110591,7 +110591,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 122100,
+      "pulls_count": 122600,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111315,7 +111315,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 120300,
+      "pulls_count": 120600,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -111368,7 +111368,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 100500,
+      "pulls_count": 100600,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -111420,7 +111420,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 87000,
+      "pulls_count": 87400,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111474,7 +111474,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 78800,
+      "pulls_count": 79200,
       "tags_count": 13,
       "updated_at": "Oct 1, 2026 7:39 PM UTC",
       "updated_full_date": "Oct 1, 2026 7:39 PM UTC",
@@ -111692,7 +111692,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 76700,
+      "pulls_count": 77000,
       "tags_count": 1,
       "updated_at": "Sep 10, 2026 3:00 AM UTC",
       "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
@@ -111711,7 +111711,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "72434d5a621f",
-          "updated_at": "4 weeks ago",
+          "updated_at": "1 month ago",
           "is_cloud": true
         }
       ],
@@ -111740,7 +111740,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 65900,
+      "pulls_count": 66000,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -111875,7 +111875,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 63500,
+      "pulls_count": 63700,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -112094,7 +112094,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 51400,
+      "pulls_count": 51500,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -112292,6 +112292,154 @@
       "family": ""
     },
     {
+      "id": "nimble",
+      "name": "nimble",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A 9B decision model from Bespoke Labs for fast, typed classification.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/nimble",
+      "tags_page_url": "https://ollama.com/library/nimble/tags",
+      "badges": [
+        "tools",
+        "decision",
+        "thinking",
+        "9b"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": false,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 34300,
+      "tags_count": 8,
+      "updated_at": "Oct 1, 2026 7:41 PM UTC",
+      "updated_full_date": "Oct 1, 2026 7:41 PM UTC",
+      "updated_date_key": 202610011941,
+      "is_cloud": false,
+      "default_tag": "nimble:latest",
+      "variants": [
+        {
+          "tag": "nimble:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 9985798963,
+          "size_formatted": "9.3GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "726d5c990409",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b",
+          "name": "9b",
+          "parameter_size": "9B",
+          "quantization": "Default",
+          "size_bytes": 9985798963,
+          "size_formatted": "9.3GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "726d5c990409",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-mlx-bf16",
+          "name": "9b-mlx-bf16",
+          "parameter_size": "9B",
+          "quantization": "F16",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "a12dea71dc46",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-mxfp8",
+          "name": "9b-mxfp8",
+          "parameter_size": "9B",
+          "quantization": "Default",
+          "size_bytes": 9985798963,
+          "size_formatted": "9.3GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "8bed6c1082ed",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-nvfp4",
+          "name": "9b-nvfp4",
+          "parameter_size": "9B",
+          "quantization": "Default",
+          "size_bytes": 7408818585,
+          "size_formatted": "6.9GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "7a1e5d2a7666",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-q4_K_M",
+          "name": "9b-q4_K_M",
+          "parameter_size": "9B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "572f1f4c801d",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-q8_0",
+          "name": "9b-q8_0",
+          "parameter_size": "9B",
+          "quantization": "Q8_0",
+          "size_bytes": 10200547328,
+          "size_formatted": "9.5GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "24e550a16a70",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nimble:9b-bf16",
+          "name": "9b-bf16",
+          "parameter_size": "9B",
+          "quantization": "F16",
+          "size_bytes": 19327352832,
+          "size_formatted": "18GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Text",
+          "digest": "adfcdbb4070d",
+          "updated_at": "1 week ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active"
+    },
+    {
       "id": "laguna-xs.2",
       "name": "laguna-xs.2",
       "source": "ollama_library",
@@ -112427,154 +112575,6 @@
       "family": ""
     },
     {
-      "id": "nimble",
-      "name": "nimble",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A 9B decision model from Bespoke Labs for fast, typed classification.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/nimble",
-      "tags_page_url": "https://ollama.com/library/nimble/tags",
-      "badges": [
-        "tools",
-        "decision",
-        "thinking",
-        "9b"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": false,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 33900,
-      "tags_count": 8,
-      "updated_at": "Oct 1, 2026 7:41 PM UTC",
-      "updated_full_date": "Oct 1, 2026 7:41 PM UTC",
-      "updated_date_key": 202610011941,
-      "is_cloud": false,
-      "default_tag": "nimble:latest",
-      "variants": [
-        {
-          "tag": "nimble:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 9985798963,
-          "size_formatted": "9.3GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "726d5c990409",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b",
-          "name": "9b",
-          "parameter_size": "9B",
-          "quantization": "Default",
-          "size_bytes": 9985798963,
-          "size_formatted": "9.3GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "726d5c990409",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-mlx-bf16",
-          "name": "9b-mlx-bf16",
-          "parameter_size": "9B",
-          "quantization": "F16",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "a12dea71dc46",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-mxfp8",
-          "name": "9b-mxfp8",
-          "parameter_size": "9B",
-          "quantization": "Default",
-          "size_bytes": 9985798963,
-          "size_formatted": "9.3GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "8bed6c1082ed",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-nvfp4",
-          "name": "9b-nvfp4",
-          "parameter_size": "9B",
-          "quantization": "Default",
-          "size_bytes": 7408818585,
-          "size_formatted": "6.9GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "7a1e5d2a7666",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-q4_K_M",
-          "name": "9b-q4_K_M",
-          "parameter_size": "9B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "572f1f4c801d",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-q8_0",
-          "name": "9b-q8_0",
-          "parameter_size": "9B",
-          "quantization": "Q8_0",
-          "size_bytes": 10200547328,
-          "size_formatted": "9.5GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "24e550a16a70",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nimble:9b-bf16",
-          "name": "9b-bf16",
-          "parameter_size": "9B",
-          "quantization": "F16",
-          "size_bytes": 19327352832,
-          "size_formatted": "18GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Text",
-          "digest": "adfcdbb4070d",
-          "updated_at": "1 week ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active"
-    },
-    {
       "id": "granite4.1-guardian",
       "name": "granite4.1-guardian",
       "source": "ollama_library",
@@ -112597,7 +112597,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 31500,
+      "pulls_count": 31600,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -112863,7 +112863,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 21400,
+      "pulls_count": 22200,
       "tags_count": 17,
       "updated_at": "Oct 6, 2026 4:10 AM UTC",
       "updated_full_date": "Oct 6, 2026 4:10 AM UTC",
@@ -112882,7 +112882,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "969600645b52",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112896,7 +112896,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "9e1df58d197e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112910,7 +112910,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "d302b84ce388",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112924,7 +112924,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "eaf989e4d334",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -112938,7 +112938,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "969600645b52",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -113136,7 +113136,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 14800,
+      "pulls_count": 15100,
       "tags_count": 5,
       "updated_at": "Oct 4, 2026 11:27 PM UTC",
       "updated_full_date": "Oct 4, 2026 11:27 PM UTC",
@@ -113155,7 +113155,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c93c95a40022",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -113169,7 +113169,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c93c95a40022",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -113260,7 +113260,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9e75264870dd",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -113274,7 +113274,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9e75264870dd",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
