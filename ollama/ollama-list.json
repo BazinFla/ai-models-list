@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-10-10 21:13:54 UTC",
+  "scraped_at": "2026-10-11 04:18:17 UTC",
   "total_models": 245,
   "total_active_models": 245,
   "total_deprecated_models": 2,
@@ -1907,7 +1907,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 88700000,
+      "pulls_count": 88800000,
       "tags_count": 3,
       "updated_at": "Feb 21, 2024 5:26 PM UTC",
       "updated_full_date": "Feb 21, 2024 5:26 PM UTC",
@@ -4840,7 +4840,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -4868,7 +4868,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "97558784bdc9",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -4882,7 +4882,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -4896,7 +4896,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b92b218582c5",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -4994,7 +4994,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "97558784bdc9",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5008,7 +5008,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "e3acf9b8e078",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5022,7 +5022,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d685bd623bd3",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5036,7 +5036,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b0313423c944",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5050,7 +5050,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5064,7 +5064,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "69f0d5459ab0",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5078,7 +5078,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "4e0b0e7a1c0a",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5092,7 +5092,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "4e0b0e7a1c0a",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5120,7 +5120,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b92b218582c5",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5134,7 +5134,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "88c2e99b4a44",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5148,7 +5148,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "36949f7228f6",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -5162,7 +5162,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "36949f7228f6",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -13823,7 +13823,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "cebff225d719",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -13879,7 +13879,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "a8ee95bc3592",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -18629,7 +18629,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 8100000,
+      "pulls_count": 8200000,
       "tags_count": 3,
       "updated_at": "Feb 2, 2026 11:29 PM UTC",
       "updated_full_date": "Feb 2, 2026 11:29 PM UTC",
@@ -63057,7 +63057,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 1300000,
+      "pulls_count": 1400000,
       "tags_count": 17,
       "updated_at": "Sep 3, 2024 9:32 PM UTC",
       "updated_full_date": "Sep 3, 2024 9:32 PM UTC",
@@ -78331,7 +78331,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "46f211c3d866",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78345,7 +78345,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "494147e06bf9",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78359,7 +78359,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "46f211c3d866",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78373,7 +78373,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "4f4a8f765204",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78387,7 +78387,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "ba60616a0c42",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78401,7 +78401,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "b78caaa936b2",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78415,7 +78415,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "56573dbb7522",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78429,7 +78429,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "9ef1b1d8bcf1",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78443,7 +78443,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "472f17649b81",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78457,7 +78457,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "c704818a1eb7",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78471,7 +78471,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "f00008beff55",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78485,7 +78485,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "addf16c29474",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78499,7 +78499,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "b50f55fc799b",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78513,7 +78513,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "0d2095859cf0",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78527,7 +78527,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "ce0d5502e1e3",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78541,7 +78541,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "fa99080590a2",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78555,7 +78555,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "494147e06bf9",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78569,7 +78569,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "d72f84e54012",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78583,7 +78583,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "48bd36a8a40c",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78597,7 +78597,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "d1fa14fbd1a6",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78611,7 +78611,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "0043e6c0f561",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78625,7 +78625,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "bea5c2385dc2",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78639,7 +78639,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "d8d7fb8dfa56",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78653,7 +78653,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "dbdbb468940f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78667,7 +78667,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "7e8d75f07310",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78681,7 +78681,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "46f211c3d866",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78695,7 +78695,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "d3622397e2ce",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78709,7 +78709,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "f32c583fc2dd",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78723,7 +78723,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "adfedf090c4a",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78737,7 +78737,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "38e0f1d13795",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78751,7 +78751,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "ca512b2c0abf",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78765,7 +78765,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "5cc118047fb2",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -78779,7 +78779,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "6945df9ed1fe",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         }
       ],
@@ -88004,7 +88004,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 987100,
+      "pulls_count": 987200,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88490,7 +88490,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 976500,
+      "pulls_count": 976600,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -88990,7 +88990,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 972400,
+      "pulls_count": 972500,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -89714,7 +89714,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 962800,
+      "pulls_count": 962900,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -89733,7 +89733,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "c82cacd5af5e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89747,7 +89747,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "5aad5044d142",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89761,7 +89761,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "c82cacd5af5e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89775,7 +89775,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "a5d7e17031b4",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89789,7 +89789,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "8fe6125835d8",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89803,7 +89803,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "ed1adf76cf49",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89817,7 +89817,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "8792c0fdb69d",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89831,7 +89831,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "6e1f85ff56c4",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89845,7 +89845,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "8c75ad5241ba",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89859,7 +89859,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "8079392bcbe5",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89873,7 +89873,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "460e97ad8fe1",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89887,7 +89887,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "5aad5044d142",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89901,7 +89901,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "f0ccd970270f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89915,7 +89915,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "86dd3e901f29",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89929,7 +89929,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "e87b5af5b923",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89943,7 +89943,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "29b311ed2d95",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89957,7 +89957,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "d6bc266fff20",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89971,7 +89971,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "4e23a11d17c8",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89985,7 +89985,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "edaf3b7bd2ea",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -89999,7 +89999,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "4705089a2870",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90013,7 +90013,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "59f3cd1ead5e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90027,7 +90027,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "1ee83e818fb1",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90055,7 +90055,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "672a383489f4",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90069,7 +90069,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "423d2aeca52c",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90097,7 +90097,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "c82cacd5af5e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90111,7 +90111,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "75f32f5d1b35",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90125,7 +90125,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "43e40f2b8a24",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90181,7 +90181,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "14c1959c8e4f",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90265,7 +90265,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "dd3ba9bf896e",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90307,7 +90307,7 @@
           "context_formatted": "8K",
           "input_type": "Text",
           "digest": "a5d7e17031b4",
-          "updated_at": "1 year ago",
+          "updated_at": "2 years ago",
           "is_cloud": false
         },
         {
@@ -90600,7 +90600,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 959300,
+      "pulls_count": 959500,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -91099,7 +91099,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 950500,
+      "pulls_count": 950600,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -91595,7 +91595,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 949300,
+      "pulls_count": 949500,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92654,7 +92654,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 946900,
+      "pulls_count": 947000,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:05 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:05 AM UTC",
@@ -92730,7 +92730,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 932900,
+      "pulls_count": 933000,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93228,7 +93228,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 927300,
+      "pulls_count": 930600,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -93471,7 +93471,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "c3544390282f",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         }
       ],
@@ -93502,7 +93502,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 923000,
+      "pulls_count": 923100,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -94000,7 +94000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 916600,
+      "pulls_count": 916800,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94485,7 +94485,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 911900,
+      "pulls_count": 912000,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94830,7 +94830,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 900700,
+      "pulls_count": 900800,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -95108,7 +95108,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 897000,
+      "pulls_count": 897400,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -95271,7 +95271,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 817000,
+      "pulls_count": 817100,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95606,7 +95606,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 797400,
+      "pulls_count": 797500,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -95714,7 +95714,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 777300,
+      "pulls_count": 777400,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95932,7 +95932,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 740500,
+      "pulls_count": 740600,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96206,7 +96206,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 739700,
+      "pulls_count": 739800,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -96496,7 +96496,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 733600,
+      "pulls_count": 733700,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -96631,7 +96631,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 726400,
+      "pulls_count": 726500,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -96905,7 +96905,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 703400,
+      "pulls_count": 703500,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97182,7 +97182,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 676200,
+      "pulls_count": 676300,
       "tags_count": 4,
       "updated_at": "Apr 27, 2026 8:26 PM UTC",
       "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
@@ -97275,7 +97275,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 663900,
+      "pulls_count": 664000,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -98000,7 +98000,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 628100,
+      "pulls_count": 628200,
       "tags_count": 17,
       "updated_at": "Sep 9, 2024 5:16 AM UTC",
       "updated_full_date": "Sep 9, 2024 5:16 AM UTC",
@@ -98274,7 +98274,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 607700,
+      "pulls_count": 607800,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -98865,7 +98865,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 601600,
+      "pulls_count": 601700,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -99142,7 +99142,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 599400,
+      "pulls_count": 600400,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -99284,6 +99284,99 @@
       "family": ""
     },
     {
+      "id": "llava-phi3",
+      "name": "llava-phi3",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
+      "category": "Vision & Multimodal",
+      "page_url": "https://ollama.com/library/llava-phi3",
+      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
+      "badges": [
+        "vision",
+        "3.8b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": true,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 599300,
+      "tags_count": 4,
+      "updated_at": "May 7, 2024 9:20 PM UTC",
+      "updated_full_date": "May 7, 2024 9:20 PM UTC",
+      "updated_date_key": 202405072120,
+      "is_cloud": false,
+      "default_tag": "llava-phi3:latest",
+      "variants": [
+        {
+          "tag": "llava-phi3:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b",
+          "name": "3.8b",
+          "parameter_size": "3.8B",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-q4_0",
+          "name": "3.8b-mini-q4_0",
+          "parameter_size": "3.8B",
+          "quantization": "Q4_0",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-fp16",
+          "name": "3.8b-mini-fp16",
+          "parameter_size": "3.8B",
+          "quantization": "FP16",
+          "size_bytes": 8912057139,
+          "size_formatted": "8.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "39ed50ad5b22",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "qwen3-next",
       "name": "qwen3-next",
       "source": "ollama_library",
@@ -99306,7 +99399,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 597700,
+      "pulls_count": 597800,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -99450,99 +99543,6 @@
       "homepage": ""
     },
     {
-      "id": "llava-phi3",
-      "name": "llava-phi3",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
-      "category": "Vision & Multimodal",
-      "page_url": "https://ollama.com/library/llava-phi3",
-      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
-      "badges": [
-        "vision",
-        "3.8b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": true,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 595800,
-      "tags_count": 4,
-      "updated_at": "May 7, 2024 9:20 PM UTC",
-      "updated_full_date": "May 7, 2024 9:20 PM UTC",
-      "updated_date_key": 202405072120,
-      "is_cloud": false,
-      "default_tag": "llava-phi3:latest",
-      "variants": [
-        {
-          "tag": "llava-phi3:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b",
-          "name": "3.8b",
-          "parameter_size": "3.8B",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-q4_0",
-          "name": "3.8b-mini-q4_0",
-          "parameter_size": "3.8B",
-          "quantization": "Q4_0",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-fp16",
-          "name": "3.8b-mini-fp16",
-          "parameter_size": "3.8B",
-          "quantization": "FP16",
-          "size_bytes": 8912057139,
-          "size_formatted": "8.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "39ed50ad5b22",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "megadolphin",
       "name": "megadolphin",
       "source": "ollama_library",
@@ -99563,7 +99563,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 581100,
+      "pulls_count": 581200,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -100155,7 +100155,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 573300,
+      "pulls_count": 573400,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -100373,7 +100373,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 571100,
+      "pulls_count": 571200,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -100952,7 +100952,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 564900,
+      "pulls_count": 565000,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -101226,7 +101226,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 562000,
+      "pulls_count": 562100,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -101503,7 +101503,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 552000,
+      "pulls_count": 552100,
       "tags_count": 17,
       "updated_at": "May 14, 2024 1:46 AM UTC",
       "updated_full_date": "May 14, 2024 1:46 AM UTC",
@@ -102354,7 +102354,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 549000,
+      "pulls_count": 549200,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102432,7 +102432,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 544500,
+      "pulls_count": 544600,
       "tags_count": 17,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -102706,7 +102706,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 541800,
+      "pulls_count": 541900,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -103255,7 +103255,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 535500,
+      "pulls_count": 535600,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -103529,7 +103529,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 535300,
+      "pulls_count": 535400,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -103803,7 +103803,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 529200,
+      "pulls_count": 529300,
       "tags_count": 17,
       "updated_at": "Oct 28, 2023 7:41 PM UTC",
       "updated_full_date": "Oct 28, 2023 7:41 PM UTC",
@@ -104080,7 +104080,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 524200,
+      "pulls_count": 524900,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -104791,7 +104791,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 521900,
+      "pulls_count": 522000,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -104841,7 +104841,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 521200,
+      "pulls_count": 521300,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -105222,7 +105222,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 511100,
+      "pulls_count": 511200,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -105743,7 +105743,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 489200,
+      "pulls_count": 489400,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -106043,7 +106043,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 465000,
+      "pulls_count": 465200,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -106287,7 +106287,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 449400,
+      "pulls_count": 449600,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106353,7 +106353,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 447200,
+      "pulls_count": 447500,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106516,7 +106516,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 428800,
+      "pulls_count": 428900,
       "tags_count": 9,
       "updated_at": "Feb 21, 2025 3:28 PM UTC",
       "updated_full_date": "Feb 21, 2025 3:28 PM UTC",
@@ -106680,7 +106680,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 424100,
+      "pulls_count": 424200,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -106901,7 +106901,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 422900,
+      "pulls_count": 423000,
       "tags_count": 5,
       "updated_at": "May 5, 2026 11:14 PM UTC",
       "updated_full_date": "May 5, 2026 11:14 PM UTC",
@@ -107008,7 +107008,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 408800,
+      "pulls_count": 408900,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -107172,7 +107172,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 383600,
+      "pulls_count": 383800,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107295,7 +107295,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 377000,
+      "pulls_count": 377600,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107425,7 +107425,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 372000,
+      "pulls_count": 372100,
       "tags_count": 7,
       "updated_at": "Apr 16, 2024 4:18 AM UTC",
       "updated_full_date": "Apr 16, 2024 4:18 AM UTC",
@@ -107844,7 +107844,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 335800,
+      "pulls_count": 335900,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -107950,7 +107950,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 318200,
+      "pulls_count": 318300,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -108234,7 +108234,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 294800,
+      "pulls_count": 294900,
       "tags_count": 7,
       "updated_at": "Sep 11, 2024 7:31 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
@@ -108447,7 +108447,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 288700,
+      "pulls_count": 288900,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108584,7 +108584,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 276700,
+      "pulls_count": 277500,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108830,7 +108830,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 264600,
+      "pulls_count": 264700,
       "tags_count": 5,
       "updated_at": "Dec 30, 2024 9:33 PM UTC",
       "updated_full_date": "Dec 30, 2024 9:33 PM UTC",
@@ -108939,7 +108939,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 249000,
+      "pulls_count": 249100,
       "tags_count": 1,
       "updated_at": "Jun 13, 2026 12:26 AM UTC",
       "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
@@ -108958,7 +108958,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "eda07a659237",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": true
         }
       ],
@@ -108990,7 +108990,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 233000,
+      "pulls_count": 233100,
       "tags_count": 5,
       "updated_at": "Mar 13, 2025 12:39 PM UTC",
       "updated_full_date": "Mar 13, 2025 12:39 PM UTC",
@@ -109204,7 +109204,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 221700,
+      "pulls_count": 222100,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109501,7 +109501,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 210600,
+      "pulls_count": 210700,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109809,7 +109809,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 193600,
+      "pulls_count": 194100,
       "tags_count": 5,
       "updated_at": "May 31, 2026 4:16 AM UTC",
       "updated_full_date": "May 31, 2026 4:16 AM UTC",
@@ -109917,7 +109917,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 182200,
+      "pulls_count": 182500,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110042,7 +110042,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 179500,
+      "pulls_count": 179800,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -110093,7 +110093,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 172000,
+      "pulls_count": 172100,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -110244,7 +110244,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 161400,
+      "pulls_count": 161500,
       "tags_count": 3,
       "updated_at": "Oct 29, 2025 2:04 AM UTC",
       "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
@@ -110324,7 +110324,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 152600,
+      "pulls_count": 152700,
       "tags_count": 3,
       "updated_at": "Mar 20, 2026 8:10 PM UTC",
       "updated_full_date": "Mar 20, 2026 8:10 PM UTC",
@@ -110455,7 +110455,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 127000,
+      "pulls_count": 127300,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -110591,7 +110591,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 125100,
+      "pulls_count": 126200,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111315,7 +111315,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 121300,
+      "pulls_count": 121500,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -111368,7 +111368,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 101100,
+      "pulls_count": 101300,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -111420,7 +111420,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 88400,
+      "pulls_count": 88800,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111474,7 +111474,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 80800,
+      "pulls_count": 81700,
       "tags_count": 13,
       "updated_at": "Oct 1, 2026 7:39 PM UTC",
       "updated_full_date": "Oct 1, 2026 7:39 PM UTC",
@@ -111692,7 +111692,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 78000,
+      "pulls_count": 78400,
       "tags_count": 1,
       "updated_at": "Sep 10, 2026 3:00 AM UTC",
       "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
@@ -111740,7 +111740,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 66500,
+      "pulls_count": 66800,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -111875,7 +111875,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 64300,
+      "pulls_count": 64500,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -112094,7 +112094,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 52000,
+      "pulls_count": 52100,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -112315,7 +112315,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 35500,
+      "pulls_count": 36000,
       "tags_count": 8,
       "updated_at": "Oct 1, 2026 7:41 PM UTC",
       "updated_full_date": "Oct 1, 2026 7:41 PM UTC",
@@ -112461,7 +112461,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 34300,
+      "pulls_count": 34400,
       "tags_count": 7,
       "updated_at": "Jul 25, 2026 6:19 PM UTC",
       "updated_full_date": "Jul 25, 2026 6:19 PM UTC",
@@ -112597,7 +112597,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 32000,
+      "pulls_count": 32200,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -112863,7 +112863,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 25200,
+      "pulls_count": 26300,
       "tags_count": 17,
       "updated_at": "Oct 6, 2026 4:10 AM UTC",
       "updated_full_date": "Oct 6, 2026 4:10 AM UTC",
@@ -112882,7 +112882,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "969600645b52",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -112896,7 +112896,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "9e1df58d197e",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -112910,7 +112910,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "d302b84ce388",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -112924,7 +112924,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "eaf989e4d334",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -112938,7 +112938,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "969600645b52",
-          "updated_at": "4 days ago",
+          "updated_at": "5 days ago",
           "is_cloud": false
         },
         {
@@ -113136,7 +113136,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 16000,
+      "pulls_count": 16400,
       "tags_count": 5,
       "updated_at": "Oct 4, 2026 11:27 PM UTC",
       "updated_full_date": "Oct 4, 2026 11:27 PM UTC",
@@ -113155,7 +113155,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c93c95a40022",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -113169,7 +113169,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c93c95a40022",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -113241,7 +113241,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 10300,
+      "pulls_count": 10600,
       "tags_count": 7,
       "updated_at": "Oct 4, 2026 11:22 PM UTC",
       "updated_full_date": "Oct 4, 2026 11:22 PM UTC",
@@ -113260,7 +113260,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9e75264870dd",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
@@ -113274,7 +113274,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9e75264870dd",
-          "updated_at": "5 days ago",
+          "updated_at": "6 days ago",
           "is_cloud": false
         },
         {
