@@ -22,11 +22,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 41500,
+  "pulls_count": 41900,
   "tags_count": 8,
-  "updated_at": "Oct 1, 2026 7:41 PM UTC",
-  "updated_full_date": "Oct 1, 2026 7:41 PM UTC",
-  "updated_date_key": 202610011941,
+  "updated_at": "Oct 14, 2026 2:23 AM UTC",
+  "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
+  "updated_date_key": 202610140223,
   "is_cloud": false,
   "default_tag": "nimble:latest",
   "variants": [
@@ -40,8 +40,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "726d5c990409",
-      "updated_at": "1 week ago",
+      "digest": "5745f025fbe6",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -54,8 +54,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "726d5c990409",
-      "updated_at": "1 week ago",
+      "digest": "5745f025fbe6",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -110,8 +110,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "572f1f4c801d",
-      "updated_at": "2 weeks ago",
+      "digest": "d99f22c363ce",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -124,8 +124,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "24e550a16a70",
-      "updated_at": "2 weeks ago",
+      "digest": "6aa3fde96874",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -138,8 +138,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "adfcdbb4070d",
-      "updated_at": "2 weeks ago",
+      "digest": "8c5f1ee46d2b",
+      "updated_at": "",
       "is_cloud": false
     }
   ],
