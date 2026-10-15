@@ -25,11 +25,11 @@
     "code": false,
     "embedding": true
   },
-  "pulls_count": 44900,
-  "tags_count": 17,
-  "updated_at": "Oct 6, 2026 4:10 AM UTC",
-  "updated_full_date": "Oct 6, 2026 4:10 AM UTC",
-  "updated_date_key": 202610060410,
+  "pulls_count": 46300,
+  "tags_count": 21,
+  "updated_at": "Oct 15, 2026 5:40 AM UTC",
+  "updated_full_date": "Oct 15, 2026 5:40 AM UTC",
+  "updated_date_key": 202610150540,
   "is_cloud": false,
   "default_tag": "embeddinggemma-2:latest",
   "variants": [
@@ -43,8 +43,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "969600645b52",
-      "updated_at": "1 week ago",
+      "digest": "1f30cabe5af7",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -52,13 +52,13 @@
       "name": "270m",
       "parameter_size": "270M",
       "quantization": "Default",
-      "size_bytes": 396361728,
-      "size_formatted": "378MB",
+      "size_bytes": 318767104,
+      "size_formatted": "304MB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "9e1df58d197e",
-      "updated_at": "1 week ago",
+      "digest": "ff630aa67948",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -66,13 +66,13 @@
       "name": "440m",
       "parameter_size": "440M",
       "quantization": "Default",
-      "size_bytes": 748683264,
-      "size_formatted": "714MB",
+      "size_bytes": 703594496,
+      "size_formatted": "671MB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "d302b84ce388",
-      "updated_at": "1 week ago",
+      "digest": "b750e83c282e",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -80,13 +80,13 @@
       "name": "570m",
       "parameter_size": "570M",
       "quantization": "Default",
-      "size_bytes": 1038090240,
-      "size_formatted": "990MB",
+      "size_bytes": 962592768,
+      "size_formatted": "918MB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "eaf989e4d334",
-      "updated_at": "1 week ago",
+      "digest": "74f652944b2b",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -99,8 +99,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "969600645b52",
-      "updated_at": "1 week ago",
+      "digest": "1f30cabe5af7",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -146,6 +146,20 @@
       "is_cloud": false
     },
     {
+      "tag": "embeddinggemma-2:270m-q8_0-text",
+      "name": "270m-q8_0-text",
+      "parameter_size": "270M",
+      "quantization": "Q8_0",
+      "size_bytes": 318767104,
+      "size_formatted": "304MB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "c21dd30c1e38",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
       "tag": "embeddinggemma-2:440m-bf16-text-vision",
       "name": "440m-bf16-text-vision",
       "parameter_size": "440M",
@@ -185,6 +199,20 @@
       "input_type": "Image",
       "digest": "d302b84ce388",
       "updated_at": "1 week ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "embeddinggemma-2:440m-q8_0-text-vision",
+      "name": "440m-q8_0-text-vision",
+      "parameter_size": "440M",
+      "quantization": "Q8_0",
+      "size_bytes": 703594496,
+      "size_formatted": "671MB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "7d8dc01c0a05",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -230,6 +258,20 @@
       "is_cloud": false
     },
     {
+      "tag": "embeddinggemma-2:570m-q8_0-text-audio",
+      "name": "570m-q8_0-text-audio",
+      "parameter_size": "570M",
+      "quantization": "Q8_0",
+      "size_bytes": 962592768,
+      "size_formatted": "918MB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "899c39804f83",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
       "tag": "embeddinggemma-2:740m-mxfp8",
       "name": "740m-mxfp8",
       "parameter_size": "740M",
@@ -255,6 +297,20 @@
       "input_type": "Image",
       "digest": "969600645b52",
       "updated_at": "1 week ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "embeddinggemma-2:740m-q8_0",
+      "name": "740m-q8_0",
+      "parameter_size": "740M",
+      "quantization": "Q8_0",
+      "size_bytes": 1395864371,
+      "size_formatted": "1.3GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "f4981a15b998",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {

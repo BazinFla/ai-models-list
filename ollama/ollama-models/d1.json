@@ -1,0 +1,76 @@
+{
+  "id": "d1",
+  "name": "d1",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "d1 is a 3B decision model from Liquid AI, built on LFM2.5-VL-3B",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/d1",
+  "tags_page_url": "https://ollama.com/library/d1/tags",
+  "badges": [
+    "vision",
+    "3b"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": false,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 10800,
+  "tags_count": 3,
+  "updated_at": "Oct 15, 2026 4:56 AM UTC",
+  "updated_full_date": "Oct 15, 2026 4:56 AM UTC",
+  "updated_date_key": 202610150456,
+  "is_cloud": false,
+  "default_tag": "d1:latest",
+  "variants": [
+    {
+      "tag": "d1:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 3972844748,
+      "size_formatted": "3.7GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Image",
+      "digest": "8c2d9ddae441",
+      "updated_at": "6 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1:3b",
+      "name": "3b",
+      "parameter_size": "3B",
+      "quantization": "Default",
+      "size_bytes": 3972844748,
+      "size_formatted": "3.7GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Image",
+      "digest": "8c2d9ddae441",
+      "updated_at": "6 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1:3b-q8_0",
+      "name": "3b-q8_0",
+      "parameter_size": "3B",
+      "quantization": "Q8_0",
+      "size_bytes": 3972844748,
+      "size_formatted": "3.7GB",
+      "context_length": 32768,
+      "context_formatted": "32K",
+      "input_type": "Image",
+      "digest": "8c2d9ddae441",
+      "updated_at": "6 hours ago",
+      "is_cloud": false
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}
