@@ -1,0 +1,77 @@
+{
+  "id": "nemotron-3.5-bolt",
+  "name": "nemotron-3.5-bolt",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Nemotron 3.5 Bolt is NVIDIA’s compact vision-language model for local coding, reasoning, and tool use.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/nemotron-3.5-bolt",
+  "tags_page_url": "https://ollama.com/library/nemotron-3.5-bolt/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 231,
+  "tags_count": 3,
+  "updated_at": "Oct 15, 2026 4:40 PM UTC",
+  "updated_full_date": "Oct 15, 2026 4:40 PM UTC",
+  "updated_date_key": 202610151640,
+  "is_cloud": false,
+  "default_tag": "nemotron-3.5-bolt:latest",
+  "variants": [
+    {
+      "tag": "nemotron-3.5-bolt:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 26843545600,
+      "size_formatted": "25GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "d6d3deeca271",
+      "updated_at": "4 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron-3.5-bolt:74b-a9b",
+      "name": "74b-a9b",
+      "parameter_size": "74B",
+      "quantization": "Default",
+      "size_bytes": 26843545600,
+      "size_formatted": "25GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "d6d3deeca271",
+      "updated_at": "4 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "nemotron-3.5-bolt:74b-a9b-iq2",
+      "name": "74b-a9b-iq2",
+      "parameter_size": "74B",
+      "quantization": "Default",
+      "size_bytes": 26843545600,
+      "size_formatted": "25GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Image",
+      "digest": "d6d3deeca271",
+      "updated_at": "4 hours ago",
+      "is_cloud": false
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}

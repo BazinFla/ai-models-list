@@ -1,0 +1,50 @@
+{
+  "id": "muse-spark-open",
+  "name": "muse-spark-open",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Muse Spark Open is a natively multimodal model with 816B total parameters (42B active) and a 1M-token context window. Built for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/muse-spark-open",
+  "tags_page_url": "https://ollama.com/library/muse-spark-open/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 48,
+  "tags_count": 1,
+  "updated_at": "Oct 15, 2026 9:00 AM UTC",
+  "updated_full_date": "Oct 15, 2026 9:00 AM UTC",
+  "updated_date_key": 202610150900,
+  "is_cloud": true,
+  "default_tag": "muse-spark-open:cloud",
+  "variants": [
+    {
+      "tag": "muse-spark-open:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "High Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Image",
+      "digest": "de22cf2fe991",
+      "updated_at": "12 hours ago",
+      "is_cloud": true
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}

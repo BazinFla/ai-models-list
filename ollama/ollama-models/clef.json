@@ -11,6 +11,7 @@
   "badges": [
     "vision",
     "decision",
+    "cloud",
     "27b"
   ],
   "capabilities": {
@@ -21,12 +22,12 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 16300,
-  "tags_count": 7,
+  "pulls_count": 16500,
+  "tags_count": 9,
   "updated_at": "Oct 14, 2026 2:23 AM UTC",
   "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
   "updated_date_key": 202610140223,
-  "is_cloud": false,
+  "is_cloud": true,
   "default_tag": "clef:latest",
   "variants": [
     {
@@ -44,6 +45,20 @@
       "is_cloud": false
     },
     {
+      "tag": "clef:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Low Usage",
+      "context_length": 65536,
+      "context_formatted": "64K",
+      "input_type": "Image",
+      "digest": "5896d5380b6c",
+      "updated_at": "1 week ago",
+      "is_cloud": true
+    },
+    {
       "tag": "clef:27b",
       "name": "27b",
       "parameter_size": "27B",
@@ -56,6 +71,20 @@
       "digest": "fdd5939e1bd9",
       "updated_at": "",
       "is_cloud": false
+    },
+    {
+      "tag": "clef:27b-cloud",
+      "name": "27b-cloud",
+      "parameter_size": "27B",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Low Usage",
+      "context_length": 65536,
+      "context_formatted": "64K",
+      "input_type": "Image",
+      "digest": "5896d5380b6c",
+      "updated_at": "1 week ago",
+      "is_cloud": true
     },
     {
       "tag": "clef:27b-mlx-bf16",
