@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-10-15 20:59:05 UTC",
+  "scraped_at": "2026-10-16 03:21:34 UTC",
   "total_models": 253,
   "total_active_models": 253,
   "total_deprecated_models": 2,
@@ -2915,7 +2915,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 42500000,
+      "pulls_count": 42600000,
       "tags_count": 133,
       "updated_at": "Sep 19, 2024 4:42 PM UTC",
       "updated_full_date": "Sep 19, 2024 4:42 PM UTC",
@@ -4840,7 +4840,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -4868,7 +4868,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "97558784bdc9",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -4882,7 +4882,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -4896,7 +4896,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b92b218582c5",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -4994,7 +4994,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "97558784bdc9",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5008,7 +5008,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "e3acf9b8e078",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5022,7 +5022,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d685bd623bd3",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5036,7 +5036,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b0313423c944",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5050,7 +5050,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "68ceab7e468a",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5064,7 +5064,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "69f0d5459ab0",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5078,7 +5078,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "4e0b0e7a1c0a",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5092,7 +5092,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "4e0b0e7a1c0a",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5120,7 +5120,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "b92b218582c5",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5134,7 +5134,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "88c2e99b4a44",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5148,7 +5148,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "36949f7228f6",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -5162,7 +5162,7 @@
           "context_formatted": "128K",
           "input_type": "Image",
           "digest": "36949f7228f6",
-          "updated_at": "6 days ago",
+          "updated_at": "1 week ago",
           "is_cloud": false
         },
         {
@@ -9227,7 +9227,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "9a4c87d0c8bc",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -15476,7 +15476,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 15100000,
+      "pulls_count": 15200000,
       "tags_count": 98,
       "updated_at": "Feb 1, 2024 8:41 AM UTC",
       "updated_full_date": "Feb 1, 2024 8:41 AM UTC",
@@ -25962,7 +25962,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "80152c7d70ac",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -25976,7 +25976,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f67bf4af46fe",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -26172,7 +26172,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "53003244b9b5",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -26186,7 +26186,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "7205d1bdb4c2",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -35633,7 +35633,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "e118e4d12a70",
-          "updated_at": "2 weeks ago",
+          "updated_at": "3 weeks ago",
           "is_cloud": false
         },
         {
@@ -35647,7 +35647,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "e118e4d12a70",
-          "updated_at": "2 weeks ago",
+          "updated_at": "3 weeks ago",
           "is_cloud": false
         },
         {
@@ -49942,7 +49942,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 1800000,
+      "pulls_count": 1900000,
       "tags_count": 6,
       "updated_at": "Dec 13, 2025 6:47 AM UTC",
       "updated_full_date": "Dec 13, 2025 6:47 AM UTC",
@@ -81235,506 +81235,6 @@
       "family": "phi"
     },
     {
-      "id": "granite3-dense",
-      "name": "granite3-dense",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.",
-      "category": "Code & Programming",
-      "page_url": "https://ollama.com/library/granite3-dense",
-      "tags_page_url": "https://ollama.com/library/granite3-dense/tags",
-      "badges": [
-        "tools",
-        "2b",
-        "8b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": true,
-        "code": true,
-        "embedding": false
-      },
-      "pulls_count": 1100000,
-      "tags_count": 33,
-      "updated_at": "Nov 19, 2024 10:35 PM UTC",
-      "updated_full_date": "Nov 19, 2024 10:35 PM UTC",
-      "updated_date_key": 202411192235,
-      "is_cloud": false,
-      "default_tag": "granite3-dense:latest",
-      "variants": [
-        {
-          "tag": "granite3-dense:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "5c2e6f3112f4",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b",
-          "name": "2b",
-          "parameter_size": "2B",
-          "quantization": "Default",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "5c2e6f3112f4",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b",
-          "name": "8b",
-          "parameter_size": "8B",
-          "quantization": "Default",
-          "size_bytes": 5261334937,
-          "size_formatted": "4.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "199456d876ee",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q2_K",
-          "name": "2b-instruct-q2_K",
-          "parameter_size": "2B",
-          "quantization": "Q2_K",
-          "size_bytes": 1073741824,
-          "size_formatted": "1.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "2261d92d6175",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q3_K_S",
-          "name": "2b-instruct-q3_K_S",
-          "parameter_size": "2B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 1288490188,
-          "size_formatted": "1.2GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "7c6af70b9f11",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q3_K_M",
-          "name": "2b-instruct-q3_K_M",
-          "parameter_size": "2B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 1395864371,
-          "size_formatted": "1.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "c08ae454856c",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q3_K_L",
-          "name": "2b-instruct-q3_K_L",
-          "parameter_size": "2B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 1503238553,
-          "size_formatted": "1.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "201ccf1522e8",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q4_0",
-          "name": "2b-instruct-q4_0",
-          "parameter_size": "2B",
-          "quantization": "Q4_0",
-          "size_bytes": 1610612736,
-          "size_formatted": "1.5GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "dd4a07b9e1b7",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q4_1",
-          "name": "2b-instruct-q4_1",
-          "parameter_size": "2B",
-          "quantization": "Q4_1",
-          "size_bytes": 1825361100,
-          "size_formatted": "1.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "e12ad0fad2ad",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q4_K_S",
-          "name": "2b-instruct-q4_K_S",
-          "parameter_size": "2B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 1610612736,
-          "size_formatted": "1.5GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "0f87f54eb387",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q4_K_M",
-          "name": "2b-instruct-q4_K_M",
-          "parameter_size": "2B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "5c2e6f3112f4",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q5_0",
-          "name": "2b-instruct-q5_0",
-          "parameter_size": "2B",
-          "quantization": "Q5_0",
-          "size_bytes": 1932735283,
-          "size_formatted": "1.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "db3fbcdec89b",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q5_1",
-          "name": "2b-instruct-q5_1",
-          "parameter_size": "2B",
-          "quantization": "Q5_1",
-          "size_bytes": 2147483648,
-          "size_formatted": "2.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "bc5ed577d64f",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q5_K_S",
-          "name": "2b-instruct-q5_K_S",
-          "parameter_size": "2B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 1932735283,
-          "size_formatted": "1.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "be9d8efefd30",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q5_K_M",
-          "name": "2b-instruct-q5_K_M",
-          "parameter_size": "2B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 2040109465,
-          "size_formatted": "1.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "dcace13d6d34",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q6_K",
-          "name": "2b-instruct-q6_K",
-          "parameter_size": "2B",
-          "quantization": "Q6_K",
-          "size_bytes": 2362232012,
-          "size_formatted": "2.2GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "7f374efdad9b",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-q8_0",
-          "name": "2b-instruct-q8_0",
-          "parameter_size": "2B",
-          "quantization": "Q8_0",
-          "size_bytes": 3006477107,
-          "size_formatted": "2.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "f35cd2e1e433",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:2b-instruct-fp16",
-          "name": "2b-instruct-fp16",
-          "parameter_size": "2B",
-          "quantization": "FP16",
-          "size_bytes": 5690831667,
-          "size_formatted": "5.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "24e5c0a35f78",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q2_K",
-          "name": "8b-instruct-q2_K",
-          "parameter_size": "8B",
-          "quantization": "Q2_K",
-          "size_bytes": 3328599654,
-          "size_formatted": "3.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "2ea57f8bc8fd",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q3_K_S",
-          "name": "8b-instruct-q3_K_S",
-          "parameter_size": "8B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 3865470566,
-          "size_formatted": "3.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "4c5f0dba11a8",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q3_K_M",
-          "name": "8b-instruct-q3_K_M",
-          "parameter_size": "8B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 4294967296,
-          "size_formatted": "4.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "c1a94d47b25c",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q3_K_L",
-          "name": "8b-instruct-q3_K_L",
-          "parameter_size": "8B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 4617089843,
-          "size_formatted": "4.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "c74b04a2513f",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q4_0",
-          "name": "8b-instruct-q4_0",
-          "parameter_size": "8B",
-          "quantization": "Q4_0",
-          "size_bytes": 5046586572,
-          "size_formatted": "4.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "16473222519f",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q4_1",
-          "name": "8b-instruct-q4_1",
-          "parameter_size": "8B",
-          "quantization": "Q4_1",
-          "size_bytes": 5476083302,
-          "size_formatted": "5.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "8a47472a11f2",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q4_K_S",
-          "name": "8b-instruct-q4_K_S",
-          "parameter_size": "8B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 5046586572,
-          "size_formatted": "4.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "8fc1ce76b8f2",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q4_K_M",
-          "name": "8b-instruct-q4_K_M",
-          "parameter_size": "8B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 5261334937,
-          "size_formatted": "4.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "199456d876ee",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q5_0",
-          "name": "8b-instruct-q5_0",
-          "parameter_size": "8B",
-          "quantization": "Q5_0",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "449cddb1864d",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q5_1",
-          "name": "8b-instruct-q5_1",
-          "parameter_size": "8B",
-          "quantization": "Q5_1",
-          "size_bytes": 6549825126,
-          "size_formatted": "6.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "ae4ab94be005",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q5_K_S",
-          "name": "8b-instruct-q5_K_S",
-          "parameter_size": "8B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "49055e666925",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q5_K_M",
-          "name": "8b-instruct-q5_K_M",
-          "parameter_size": "8B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 6227702579,
-          "size_formatted": "5.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "e85361d1973c",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q6_K",
-          "name": "8b-instruct-q6_K",
-          "parameter_size": "8B",
-          "quantization": "Q6_K",
-          "size_bytes": 7194070220,
-          "size_formatted": "6.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "ec258d53940b",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-q8_0",
-          "name": "8b-instruct-q8_0",
-          "parameter_size": "8B",
-          "quantization": "Q8_0",
-          "size_bytes": 9341553868,
-          "size_formatted": "8.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "f1466e70a7be",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "granite3-dense:8b-instruct-fp16",
-          "name": "8b-instruct-fp16",
-          "parameter_size": "8B",
-          "quantization": "FP16",
-          "size_bytes": 17179869184,
-          "size_formatted": "16GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "d3a4062e339e",
-          "updated_at": "1 year ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "IBM",
-      "publisher": "IBM Research",
-      "family": "granite"
-    },
-    {
       "id": "aya-expanse",
       "name": "aya-expanse",
       "source": "ollama_library",
@@ -82233,6 +81733,506 @@
       "creator": "",
       "publisher": "",
       "family": ""
+    },
+    {
+      "id": "granite3-dense",
+      "name": "granite3-dense",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.",
+      "category": "Code & Programming",
+      "page_url": "https://ollama.com/library/granite3-dense",
+      "tags_page_url": "https://ollama.com/library/granite3-dense/tags",
+      "badges": [
+        "tools",
+        "2b",
+        "8b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": true,
+        "code": true,
+        "embedding": false
+      },
+      "pulls_count": 1100000,
+      "tags_count": 33,
+      "updated_at": "Nov 19, 2024 10:35 PM UTC",
+      "updated_full_date": "Nov 19, 2024 10:35 PM UTC",
+      "updated_date_key": 202411192235,
+      "is_cloud": false,
+      "default_tag": "granite3-dense:latest",
+      "variants": [
+        {
+          "tag": "granite3-dense:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "5c2e6f3112f4",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b",
+          "name": "2b",
+          "parameter_size": "2B",
+          "quantization": "Default",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "5c2e6f3112f4",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b",
+          "name": "8b",
+          "parameter_size": "8B",
+          "quantization": "Default",
+          "size_bytes": 5261334937,
+          "size_formatted": "4.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "199456d876ee",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q2_K",
+          "name": "2b-instruct-q2_K",
+          "parameter_size": "2B",
+          "quantization": "Q2_K",
+          "size_bytes": 1073741824,
+          "size_formatted": "1.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "2261d92d6175",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q3_K_S",
+          "name": "2b-instruct-q3_K_S",
+          "parameter_size": "2B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 1288490188,
+          "size_formatted": "1.2GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "7c6af70b9f11",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q3_K_M",
+          "name": "2b-instruct-q3_K_M",
+          "parameter_size": "2B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 1395864371,
+          "size_formatted": "1.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "c08ae454856c",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q3_K_L",
+          "name": "2b-instruct-q3_K_L",
+          "parameter_size": "2B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 1503238553,
+          "size_formatted": "1.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "201ccf1522e8",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q4_0",
+          "name": "2b-instruct-q4_0",
+          "parameter_size": "2B",
+          "quantization": "Q4_0",
+          "size_bytes": 1610612736,
+          "size_formatted": "1.5GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "dd4a07b9e1b7",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q4_1",
+          "name": "2b-instruct-q4_1",
+          "parameter_size": "2B",
+          "quantization": "Q4_1",
+          "size_bytes": 1825361100,
+          "size_formatted": "1.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "e12ad0fad2ad",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q4_K_S",
+          "name": "2b-instruct-q4_K_S",
+          "parameter_size": "2B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 1610612736,
+          "size_formatted": "1.5GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "0f87f54eb387",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q4_K_M",
+          "name": "2b-instruct-q4_K_M",
+          "parameter_size": "2B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "5c2e6f3112f4",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q5_0",
+          "name": "2b-instruct-q5_0",
+          "parameter_size": "2B",
+          "quantization": "Q5_0",
+          "size_bytes": 1932735283,
+          "size_formatted": "1.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "db3fbcdec89b",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q5_1",
+          "name": "2b-instruct-q5_1",
+          "parameter_size": "2B",
+          "quantization": "Q5_1",
+          "size_bytes": 2147483648,
+          "size_formatted": "2.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "bc5ed577d64f",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q5_K_S",
+          "name": "2b-instruct-q5_K_S",
+          "parameter_size": "2B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 1932735283,
+          "size_formatted": "1.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "be9d8efefd30",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q5_K_M",
+          "name": "2b-instruct-q5_K_M",
+          "parameter_size": "2B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 2040109465,
+          "size_formatted": "1.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "dcace13d6d34",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q6_K",
+          "name": "2b-instruct-q6_K",
+          "parameter_size": "2B",
+          "quantization": "Q6_K",
+          "size_bytes": 2362232012,
+          "size_formatted": "2.2GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "7f374efdad9b",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-q8_0",
+          "name": "2b-instruct-q8_0",
+          "parameter_size": "2B",
+          "quantization": "Q8_0",
+          "size_bytes": 3006477107,
+          "size_formatted": "2.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "f35cd2e1e433",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:2b-instruct-fp16",
+          "name": "2b-instruct-fp16",
+          "parameter_size": "2B",
+          "quantization": "FP16",
+          "size_bytes": 5690831667,
+          "size_formatted": "5.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "24e5c0a35f78",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q2_K",
+          "name": "8b-instruct-q2_K",
+          "parameter_size": "8B",
+          "quantization": "Q2_K",
+          "size_bytes": 3328599654,
+          "size_formatted": "3.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "2ea57f8bc8fd",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q3_K_S",
+          "name": "8b-instruct-q3_K_S",
+          "parameter_size": "8B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 3865470566,
+          "size_formatted": "3.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "4c5f0dba11a8",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q3_K_M",
+          "name": "8b-instruct-q3_K_M",
+          "parameter_size": "8B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 4294967296,
+          "size_formatted": "4.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "c1a94d47b25c",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q3_K_L",
+          "name": "8b-instruct-q3_K_L",
+          "parameter_size": "8B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 4617089843,
+          "size_formatted": "4.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "c74b04a2513f",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q4_0",
+          "name": "8b-instruct-q4_0",
+          "parameter_size": "8B",
+          "quantization": "Q4_0",
+          "size_bytes": 5046586572,
+          "size_formatted": "4.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "16473222519f",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q4_1",
+          "name": "8b-instruct-q4_1",
+          "parameter_size": "8B",
+          "quantization": "Q4_1",
+          "size_bytes": 5476083302,
+          "size_formatted": "5.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "8a47472a11f2",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q4_K_S",
+          "name": "8b-instruct-q4_K_S",
+          "parameter_size": "8B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 5046586572,
+          "size_formatted": "4.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "8fc1ce76b8f2",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q4_K_M",
+          "name": "8b-instruct-q4_K_M",
+          "parameter_size": "8B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 5261334937,
+          "size_formatted": "4.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "199456d876ee",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q5_0",
+          "name": "8b-instruct-q5_0",
+          "parameter_size": "8B",
+          "quantization": "Q5_0",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "449cddb1864d",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q5_1",
+          "name": "8b-instruct-q5_1",
+          "parameter_size": "8B",
+          "quantization": "Q5_1",
+          "size_bytes": 6549825126,
+          "size_formatted": "6.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "ae4ab94be005",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q5_K_S",
+          "name": "8b-instruct-q5_K_S",
+          "parameter_size": "8B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "49055e666925",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q5_K_M",
+          "name": "8b-instruct-q5_K_M",
+          "parameter_size": "8B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 6227702579,
+          "size_formatted": "5.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "e85361d1973c",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q6_K",
+          "name": "8b-instruct-q6_K",
+          "parameter_size": "8B",
+          "quantization": "Q6_K",
+          "size_bytes": 7194070220,
+          "size_formatted": "6.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "ec258d53940b",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-q8_0",
+          "name": "8b-instruct-q8_0",
+          "parameter_size": "8B",
+          "quantization": "Q8_0",
+          "size_bytes": 9341553868,
+          "size_formatted": "8.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "f1466e70a7be",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "granite3-dense:8b-instruct-fp16",
+          "name": "8b-instruct-fp16",
+          "parameter_size": "8B",
+          "quantization": "FP16",
+          "size_bytes": 17179869184,
+          "size_formatted": "16GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "d3a4062e339e",
+          "updated_at": "1 year ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "IBM",
+      "publisher": "IBM Research",
+      "family": "granite"
     },
     {
       "id": "xwinlm",
@@ -88033,7 +88033,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 990300,
+      "pulls_count": 990400,
       "tags_count": 32,
       "updated_at": "Dec 18, 2023 3:00 AM UTC",
       "updated_full_date": "Dec 18, 2023 3:00 AM UTC",
@@ -88517,7 +88517,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 984700,
+      "pulls_count": 988200,
       "tags_count": 17,
       "updated_at": "Oct 11, 2023 10:00 PM UTC",
       "updated_full_date": "Oct 11, 2023 10:00 PM UTC",
@@ -88793,7 +88793,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 979900,
+      "pulls_count": 980000,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -89293,7 +89293,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 976800,
+      "pulls_count": 976900,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -90017,7 +90017,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 967500,
+      "pulls_count": 967700,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -90740,7 +90740,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 963700,
+      "pulls_count": 963800,
       "tags_count": 9,
       "updated_at": "Apr 8, 2025 10:53 PM UTC",
       "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
@@ -90903,7 +90903,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 962800,
+      "pulls_count": 963000,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -91399,7 +91399,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 954600,
+      "pulls_count": 954800,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92458,7 +92458,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 953700,
+      "pulls_count": 953900,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -92957,7 +92957,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 948800,
+      "pulls_count": 948900,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:05 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:05 AM UTC",
@@ -93033,7 +93033,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 936100,
+      "pulls_count": 936200,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93531,7 +93531,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 926100,
+      "pulls_count": 926200,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -94029,7 +94029,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 919600,
+      "pulls_count": 919800,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94514,7 +94514,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 914500,
+      "pulls_count": 914700,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -94862,7 +94862,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 911200,
+      "pulls_count": 912200,
       "tags_count": 9,
       "updated_at": "Mar 16, 2026 3:34 PM UTC",
       "updated_full_date": "Mar 16, 2026 3:34 PM UTC",
@@ -95025,7 +95025,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 902900,
+      "pulls_count": 903000,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -95300,7 +95300,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 819900,
+      "pulls_count": 820100,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95635,7 +95635,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 799300,
+      "pulls_count": 799400,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -95743,7 +95743,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 779700,
+      "pulls_count": 779900,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -95961,7 +95961,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 742400,
+      "pulls_count": 742500,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 6:00 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:00 AM UTC",
@@ -96235,7 +96235,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 742100,
+      "pulls_count": 742200,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -96525,7 +96525,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 735900,
+      "pulls_count": 736100,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -96660,7 +96660,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 728800,
+      "pulls_count": 729000,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -96934,7 +96934,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 705500,
+      "pulls_count": 705600,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97211,7 +97211,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 680400,
+      "pulls_count": 680500,
       "tags_count": 4,
       "updated_at": "Apr 27, 2026 8:26 PM UTC",
       "updated_full_date": "Apr 27, 2026 8:26 PM UTC",
@@ -97304,7 +97304,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 667300,
+      "pulls_count": 667500,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97446,6 +97446,99 @@
       "family": ""
     },
     {
+      "id": "llava-phi3",
+      "name": "llava-phi3",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
+      "category": "Vision & Multimodal",
+      "page_url": "https://ollama.com/library/llava-phi3",
+      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
+      "badges": [
+        "vision",
+        "3.8b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": true,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 662700,
+      "tags_count": 4,
+      "updated_at": "May 7, 2024 9:20 PM UTC",
+      "updated_full_date": "May 7, 2024 9:20 PM UTC",
+      "updated_date_key": 202405072120,
+      "is_cloud": false,
+      "default_tag": "llava-phi3:latest",
+      "variants": [
+        {
+          "tag": "llava-phi3:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b",
+          "name": "3.8b",
+          "parameter_size": "3.8B",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-q4_0",
+          "name": "3.8b-mini-q4_0",
+          "parameter_size": "3.8B",
+          "quantization": "Q4_0",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-fp16",
+          "name": "3.8b-mini-fp16",
+          "parameter_size": "3.8B",
+          "quantization": "FP16",
+          "size_bytes": 8912057139,
+          "size_formatted": "8.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "39ed50ad5b22",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "wizardlm-uncensored",
       "name": "wizardlm-uncensored",
       "source": "ollama_library",
@@ -97466,7 +97559,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 661000,
+      "pulls_count": 661100,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -97723,99 +97816,6 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "b972b4fcf399",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
-      "id": "llava-phi3",
-      "name": "llava-phi3",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
-      "category": "Vision & Multimodal",
-      "page_url": "https://ollama.com/library/llava-phi3",
-      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
-      "badges": [
-        "vision",
-        "3.8b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": true,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 658900,
-      "tags_count": 4,
-      "updated_at": "May 7, 2024 9:20 PM UTC",
-      "updated_full_date": "May 7, 2024 9:20 PM UTC",
-      "updated_date_key": 202405072120,
-      "is_cloud": false,
-      "default_tag": "llava-phi3:latest",
-      "variants": [
-        {
-          "tag": "llava-phi3:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b",
-          "name": "3.8b",
-          "parameter_size": "3.8B",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-q4_0",
-          "name": "3.8b-mini-q4_0",
-          "parameter_size": "3.8B",
-          "quantization": "Q4_0",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-fp16",
-          "name": "3.8b-mini-fp16",
-          "parameter_size": "3.8B",
-          "quantization": "FP16",
-          "size_bytes": 8912057139,
-          "size_formatted": "8.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "39ed50ad5b22",
           "updated_at": "2 years ago",
           "is_cloud": false
         }
@@ -98399,7 +98399,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 628100,
+      "pulls_count": 629000,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -98561,7 +98561,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 609900,
+      "pulls_count": 610000,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -99152,7 +99152,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 604000,
+      "pulls_count": 604200,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -99428,7 +99428,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 601300,
+      "pulls_count": 601400,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -99592,7 +99592,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 583100,
+      "pulls_count": 583200,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -99894,7 +99894,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 581000,
+      "pulls_count": 581100,
       "tags_count": 18,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -100184,7 +100184,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 577600,
+      "pulls_count": 577900,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -100402,7 +100402,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 573200,
+      "pulls_count": 573300,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -100693,7 +100693,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 570000,
+      "pulls_count": 570100,
       "tags_count": 18,
       "updated_at": "Dec 5, 2023 11:59 PM UTC",
       "updated_full_date": "Dec 5, 2023 11:59 PM UTC",
@@ -100981,7 +100981,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 568400,
+      "pulls_count": 568600,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -101255,7 +101255,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 564100,
+      "pulls_count": 564200,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -101512,6 +101512,280 @@
       "family": "mathstral"
     },
     {
+      "id": "falcon2",
+      "name": "falcon2",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/falcon2",
+      "tags_page_url": "https://ollama.com/library/falcon2/tags",
+      "badges": [
+        "11b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 554000,
+      "tags_count": 17,
+      "updated_at": "May 14, 2024 1:46 AM UTC",
+      "updated_full_date": "May 14, 2024 1:46 AM UTC",
+      "updated_date_key": 202405140146,
+      "is_cloud": false,
+      "default_tag": "falcon2:latest",
+      "variants": [
+        {
+          "tag": "falcon2:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 6871947673,
+          "size_formatted": "6.4GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "d8c09dbc67c3",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b",
+          "name": "11b",
+          "parameter_size": "11B",
+          "quantization": "Default",
+          "size_bytes": 6871947673,
+          "size_formatted": "6.4GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "d8c09dbc67c3",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q2_K",
+          "name": "11b-q2_K",
+          "parameter_size": "11B",
+          "quantization": "Q2_K",
+          "size_bytes": 4617089843,
+          "size_formatted": "4.3GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "4051a7ef69a1",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q3_K_S",
+          "name": "11b-q3_K_S",
+          "parameter_size": "11B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 5261334937,
+          "size_formatted": "4.9GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "7e025ac717fb",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q3_K_M",
+          "name": "11b-q3_K_M",
+          "parameter_size": "11B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 5798205849,
+          "size_formatted": "5.4GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "6650bb4b1a0e",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q3_K_L",
+          "name": "11b-q3_K_L",
+          "parameter_size": "11B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 6227702579,
+          "size_formatted": "5.8GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "63a1a26d3ddc",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q4_0",
+          "name": "11b-q4_0",
+          "parameter_size": "11B",
+          "quantization": "Q4_0",
+          "size_bytes": 6871947673,
+          "size_formatted": "6.4GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "d8c09dbc67c3",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q4_1",
+          "name": "11b-q4_1",
+          "parameter_size": "11B",
+          "quantization": "Q4_1",
+          "size_bytes": 7623566950,
+          "size_formatted": "7.1GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "8e785c2d36e0",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q4_K_S",
+          "name": "11b-q4_K_S",
+          "parameter_size": "11B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 6871947673,
+          "size_formatted": "6.4GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "57c340e36421",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q4_K_M",
+          "name": "11b-q4_K_M",
+          "parameter_size": "11B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 7301444403,
+          "size_formatted": "6.8GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "6aadb586b79f",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q5_0",
+          "name": "11b-q5_0",
+          "parameter_size": "11B",
+          "quantization": "Q5_0",
+          "size_bytes": 8267812044,
+          "size_formatted": "7.7GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "634fd8a33a16",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q5_1",
+          "name": "11b-q5_1",
+          "parameter_size": "11B",
+          "quantization": "Q5_1",
+          "size_bytes": 9019431321,
+          "size_formatted": "8.4GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "227312808fcc",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q5_K_S",
+          "name": "11b-q5_K_S",
+          "parameter_size": "11B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 8267812044,
+          "size_formatted": "7.7GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "c29ab1d2a69a",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q5_K_M",
+          "name": "11b-q5_K_M",
+          "parameter_size": "11B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 8804682956,
+          "size_formatted": "8.2GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "d47cbd539ec7",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q6_K",
+          "name": "11b-q6_K",
+          "parameter_size": "11B",
+          "quantization": "Q6_K",
+          "size_bytes": 9878424780,
+          "size_formatted": "9.2GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "326a76087a5d",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-q8_0",
+          "name": "11b-q8_0",
+          "parameter_size": "11B",
+          "quantization": "Q8_0",
+          "size_bytes": 12884901888,
+          "size_formatted": "12GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "2d49820d6bb5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "falcon2:11b-fp16",
+          "name": "11b-fp16",
+          "parameter_size": "11B",
+          "quantization": "FP16",
+          "size_bytes": 23622320128,
+          "size_formatted": "22GB",
+          "context_length": 2048,
+          "context_formatted": "2K",
+          "input_type": "Text",
+          "digest": "1f71755ad500",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "notus",
       "name": "notus",
       "source": "ollama_library",
@@ -101532,7 +101806,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 553900,
+      "pulls_count": 554000,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 10:06 PM UTC",
       "updated_full_date": "Dec 29, 2023 10:06 PM UTC",
@@ -101800,280 +102074,6 @@
       "family": ""
     },
     {
-      "id": "falcon2",
-      "name": "falcon2",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/falcon2",
-      "tags_page_url": "https://ollama.com/library/falcon2/tags",
-      "badges": [
-        "11b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 553900,
-      "tags_count": 17,
-      "updated_at": "May 14, 2024 1:46 AM UTC",
-      "updated_full_date": "May 14, 2024 1:46 AM UTC",
-      "updated_date_key": 202405140146,
-      "is_cloud": false,
-      "default_tag": "falcon2:latest",
-      "variants": [
-        {
-          "tag": "falcon2:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 6871947673,
-          "size_formatted": "6.4GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "d8c09dbc67c3",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b",
-          "name": "11b",
-          "parameter_size": "11B",
-          "quantization": "Default",
-          "size_bytes": 6871947673,
-          "size_formatted": "6.4GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "d8c09dbc67c3",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q2_K",
-          "name": "11b-q2_K",
-          "parameter_size": "11B",
-          "quantization": "Q2_K",
-          "size_bytes": 4617089843,
-          "size_formatted": "4.3GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "4051a7ef69a1",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q3_K_S",
-          "name": "11b-q3_K_S",
-          "parameter_size": "11B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 5261334937,
-          "size_formatted": "4.9GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "7e025ac717fb",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q3_K_M",
-          "name": "11b-q3_K_M",
-          "parameter_size": "11B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 5798205849,
-          "size_formatted": "5.4GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "6650bb4b1a0e",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q3_K_L",
-          "name": "11b-q3_K_L",
-          "parameter_size": "11B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 6227702579,
-          "size_formatted": "5.8GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "63a1a26d3ddc",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q4_0",
-          "name": "11b-q4_0",
-          "parameter_size": "11B",
-          "quantization": "Q4_0",
-          "size_bytes": 6871947673,
-          "size_formatted": "6.4GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "d8c09dbc67c3",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q4_1",
-          "name": "11b-q4_1",
-          "parameter_size": "11B",
-          "quantization": "Q4_1",
-          "size_bytes": 7623566950,
-          "size_formatted": "7.1GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "8e785c2d36e0",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q4_K_S",
-          "name": "11b-q4_K_S",
-          "parameter_size": "11B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 6871947673,
-          "size_formatted": "6.4GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "57c340e36421",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q4_K_M",
-          "name": "11b-q4_K_M",
-          "parameter_size": "11B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 7301444403,
-          "size_formatted": "6.8GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "6aadb586b79f",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q5_0",
-          "name": "11b-q5_0",
-          "parameter_size": "11B",
-          "quantization": "Q5_0",
-          "size_bytes": 8267812044,
-          "size_formatted": "7.7GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "634fd8a33a16",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q5_1",
-          "name": "11b-q5_1",
-          "parameter_size": "11B",
-          "quantization": "Q5_1",
-          "size_bytes": 9019431321,
-          "size_formatted": "8.4GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "227312808fcc",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q5_K_S",
-          "name": "11b-q5_K_S",
-          "parameter_size": "11B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 8267812044,
-          "size_formatted": "7.7GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "c29ab1d2a69a",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q5_K_M",
-          "name": "11b-q5_K_M",
-          "parameter_size": "11B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 8804682956,
-          "size_formatted": "8.2GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "d47cbd539ec7",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q6_K",
-          "name": "11b-q6_K",
-          "parameter_size": "11B",
-          "quantization": "Q6_K",
-          "size_bytes": 9878424780,
-          "size_formatted": "9.2GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "326a76087a5d",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-q8_0",
-          "name": "11b-q8_0",
-          "parameter_size": "11B",
-          "quantization": "Q8_0",
-          "size_bytes": 12884901888,
-          "size_formatted": "12GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "2d49820d6bb5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "falcon2:11b-fp16",
-          "name": "11b-fp16",
-          "parameter_size": "11B",
-          "quantization": "FP16",
-          "size_bytes": 23622320128,
-          "size_formatted": "22GB",
-          "context_length": 2048,
-          "context_formatted": "2K",
-          "input_type": "Text",
-          "digest": "1f71755ad500",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "deepseek-ocr",
       "name": "deepseek-ocr",
       "source": "ollama_library",
@@ -102095,7 +102095,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 553500,
+      "pulls_count": 553700,
       "tags_count": 3,
       "updated_at": "Nov 19, 2025 8:26 PM UTC",
       "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
@@ -102173,7 +102173,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 552600,
+      "pulls_count": 552700,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -102441,280 +102441,6 @@
       "family": ""
     },
     {
-      "id": "stablelm-zephyr",
-      "name": "stablelm-zephyr",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A lightweight chat model allowing accurate, and responsive output without requiring high-end hardware.",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/stablelm-zephyr",
-      "tags_page_url": "https://ollama.com/library/stablelm-zephyr/tags",
-      "badges": [
-        "3b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 546400,
-      "tags_count": 17,
-      "updated_at": "Dec 27, 2023 8:51 PM UTC",
-      "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
-      "updated_date_key": 202312272051,
-      "is_cloud": false,
-      "default_tag": "stablelm-zephyr:latest",
-      "variants": [
-        {
-          "tag": "stablelm-zephyr:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "0a108dbd846e",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b",
-          "name": "3b",
-          "parameter_size": "3B",
-          "quantization": "Default",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "0a108dbd846e",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q2_K",
-          "name": "3b-q2_K",
-          "parameter_size": "3B",
-          "quantization": "Q2_K",
-          "size_bytes": 1288490188,
-          "size_formatted": "1.2GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "5bac743c919f",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q3_K_S",
-          "name": "3b-q3_K_S",
-          "parameter_size": "3B",
-          "quantization": "Q3_K_S",
-          "size_bytes": 1395864371,
-          "size_formatted": "1.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "e3701c5f77dc",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q3_K_M",
-          "name": "3b-q3_K_M",
-          "parameter_size": "3B",
-          "quantization": "Q3_K_M",
-          "size_bytes": 1503238553,
-          "size_formatted": "1.4GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "c7711232e7f3",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q3_K_L",
-          "name": "3b-q3_K_L",
-          "parameter_size": "3B",
-          "quantization": "Q3_K_L",
-          "size_bytes": 1610612736,
-          "size_formatted": "1.5GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "e1c8dc5c8d34",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q4_0",
-          "name": "3b-q4_0",
-          "parameter_size": "3B",
-          "quantization": "Q4_0",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "0a108dbd846e",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q4_1",
-          "name": "3b-q4_1",
-          "parameter_size": "3B",
-          "quantization": "Q4_1",
-          "size_bytes": 1932735283,
-          "size_formatted": "1.8GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "cd0ff50645c6",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q4_K_S",
-          "name": "3b-q4_K_S",
-          "parameter_size": "3B",
-          "quantization": "Q4_K_S",
-          "size_bytes": 1717986918,
-          "size_formatted": "1.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "582279ce4228",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q4_K_M",
-          "name": "3b-q4_K_M",
-          "parameter_size": "3B",
-          "quantization": "Q4_K_M",
-          "size_bytes": 1825361100,
-          "size_formatted": "1.7GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "309d69b91219",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q5_0",
-          "name": "3b-q5_0",
-          "parameter_size": "3B",
-          "quantization": "Q5_0",
-          "size_bytes": 2040109465,
-          "size_formatted": "1.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "edeb9aa03418",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q5_1",
-          "name": "3b-q5_1",
-          "parameter_size": "3B",
-          "quantization": "Q5_1",
-          "size_bytes": 2254857830,
-          "size_formatted": "2.1GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "eabd69d2ce14",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q5_K_S",
-          "name": "3b-q5_K_S",
-          "parameter_size": "3B",
-          "quantization": "Q5_K_S",
-          "size_bytes": 2040109465,
-          "size_formatted": "1.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "71033947149d",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q5_K_M",
-          "name": "3b-q5_K_M",
-          "parameter_size": "3B",
-          "quantization": "Q5_K_M",
-          "size_bytes": 2147483648,
-          "size_formatted": "2.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "d8f94059df64",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q6_K",
-          "name": "3b-q6_K",
-          "parameter_size": "3B",
-          "quantization": "Q6_K",
-          "size_bytes": 2469606195,
-          "size_formatted": "2.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "686dc198f785",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-q8_0",
-          "name": "3b-q8_0",
-          "parameter_size": "3B",
-          "quantization": "Q8_0",
-          "size_bytes": 3221225472,
-          "size_formatted": "3.0GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "8e11ffa757f3",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "stablelm-zephyr:3b-fp16",
-          "name": "3b-fp16",
-          "parameter_size": "3B",
-          "quantization": "FP16",
-          "size_bytes": 6012954214,
-          "size_formatted": "5.6GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "2d27f99af6a5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "granite4.1",
       "name": "granite4.1",
       "source": "ollama_library",
@@ -102738,7 +102464,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 545900,
+      "pulls_count": 546600,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -103426,6 +103152,280 @@
       "family": "granite"
     },
     {
+      "id": "stablelm-zephyr",
+      "name": "stablelm-zephyr",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A lightweight chat model allowing accurate, and responsive output without requiring high-end hardware.",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/stablelm-zephyr",
+      "tags_page_url": "https://ollama.com/library/stablelm-zephyr/tags",
+      "badges": [
+        "3b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 546400,
+      "tags_count": 17,
+      "updated_at": "Dec 27, 2023 8:51 PM UTC",
+      "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
+      "updated_date_key": 202312272051,
+      "is_cloud": false,
+      "default_tag": "stablelm-zephyr:latest",
+      "variants": [
+        {
+          "tag": "stablelm-zephyr:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "0a108dbd846e",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b",
+          "name": "3b",
+          "parameter_size": "3B",
+          "quantization": "Default",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "0a108dbd846e",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q2_K",
+          "name": "3b-q2_K",
+          "parameter_size": "3B",
+          "quantization": "Q2_K",
+          "size_bytes": 1288490188,
+          "size_formatted": "1.2GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "5bac743c919f",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q3_K_S",
+          "name": "3b-q3_K_S",
+          "parameter_size": "3B",
+          "quantization": "Q3_K_S",
+          "size_bytes": 1395864371,
+          "size_formatted": "1.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "e3701c5f77dc",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q3_K_M",
+          "name": "3b-q3_K_M",
+          "parameter_size": "3B",
+          "quantization": "Q3_K_M",
+          "size_bytes": 1503238553,
+          "size_formatted": "1.4GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "c7711232e7f3",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q3_K_L",
+          "name": "3b-q3_K_L",
+          "parameter_size": "3B",
+          "quantization": "Q3_K_L",
+          "size_bytes": 1610612736,
+          "size_formatted": "1.5GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "e1c8dc5c8d34",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q4_0",
+          "name": "3b-q4_0",
+          "parameter_size": "3B",
+          "quantization": "Q4_0",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "0a108dbd846e",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q4_1",
+          "name": "3b-q4_1",
+          "parameter_size": "3B",
+          "quantization": "Q4_1",
+          "size_bytes": 1932735283,
+          "size_formatted": "1.8GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "cd0ff50645c6",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q4_K_S",
+          "name": "3b-q4_K_S",
+          "parameter_size": "3B",
+          "quantization": "Q4_K_S",
+          "size_bytes": 1717986918,
+          "size_formatted": "1.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "582279ce4228",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q4_K_M",
+          "name": "3b-q4_K_M",
+          "parameter_size": "3B",
+          "quantization": "Q4_K_M",
+          "size_bytes": 1825361100,
+          "size_formatted": "1.7GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "309d69b91219",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q5_0",
+          "name": "3b-q5_0",
+          "parameter_size": "3B",
+          "quantization": "Q5_0",
+          "size_bytes": 2040109465,
+          "size_formatted": "1.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "edeb9aa03418",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q5_1",
+          "name": "3b-q5_1",
+          "parameter_size": "3B",
+          "quantization": "Q5_1",
+          "size_bytes": 2254857830,
+          "size_formatted": "2.1GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "eabd69d2ce14",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q5_K_S",
+          "name": "3b-q5_K_S",
+          "parameter_size": "3B",
+          "quantization": "Q5_K_S",
+          "size_bytes": 2040109465,
+          "size_formatted": "1.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "71033947149d",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q5_K_M",
+          "name": "3b-q5_K_M",
+          "parameter_size": "3B",
+          "quantization": "Q5_K_M",
+          "size_bytes": 2147483648,
+          "size_formatted": "2.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "d8f94059df64",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q6_K",
+          "name": "3b-q6_K",
+          "parameter_size": "3B",
+          "quantization": "Q6_K",
+          "size_bytes": 2469606195,
+          "size_formatted": "2.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "686dc198f785",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-q8_0",
+          "name": "3b-q8_0",
+          "parameter_size": "3B",
+          "quantization": "Q8_0",
+          "size_bytes": 3221225472,
+          "size_formatted": "3.0GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "8e11ffa757f3",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "stablelm-zephyr:3b-fp16",
+          "name": "3b-fp16",
+          "parameter_size": "3B",
+          "quantization": "FP16",
+          "size_bytes": 6012954214,
+          "size_formatted": "5.6GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "2d27f99af6a5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "bespoke-minicheck",
       "name": "bespoke-minicheck",
       "source": "ollama_library",
@@ -103446,7 +103446,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 543900,
+      "pulls_count": 544000,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -103720,7 +103720,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 541200,
+      "pulls_count": 541300,
       "tags_count": 17,
       "updated_at": "Jan 29, 2024 11:52 PM UTC",
       "updated_full_date": "Jan 29, 2024 11:52 PM UTC",
@@ -103995,7 +103995,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 537900,
+      "pulls_count": 538000,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -104269,7 +104269,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 537200,
+      "pulls_count": 537300,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -104543,7 +104543,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 531000,
+      "pulls_count": 531100,
       "tags_count": 17,
       "updated_at": "Oct 28, 2023 7:41 PM UTC",
       "updated_full_date": "Oct 28, 2023 7:41 PM UTC",
@@ -104820,7 +104820,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 523700,
+      "pulls_count": 523800,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -104870,7 +104870,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 523000,
+      "pulls_count": 523100,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -105251,7 +105251,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 513200,
+      "pulls_count": 513400,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -105509,7 +105509,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 492400,
+      "pulls_count": 492500,
       "tags_count": 16,
       "updated_at": "Nov 17, 2023 9:54 PM UTC",
       "updated_full_date": "Nov 17, 2023 9:54 PM UTC",
@@ -105772,7 +105772,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 491600,
+      "pulls_count": 491700,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -105825,7 +105825,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 470500,
+      "pulls_count": 470600,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -106072,7 +106072,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 468300,
+      "pulls_count": 468500,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -106152,7 +106152,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 466100,
+      "pulls_count": 466200,
       "tags_count": 9,
       "updated_at": "Feb 26, 2025 5:48 AM UTC",
       "updated_full_date": "Feb 26, 2025 5:48 AM UTC",
@@ -106316,7 +106316,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 456200,
+      "pulls_count": 456600,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106382,7 +106382,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 452000,
+      "pulls_count": 452200,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106710,7 +106710,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 427500,
+      "pulls_count": 427700,
       "tags_count": 5,
       "updated_at": "May 5, 2026 11:14 PM UTC",
       "updated_full_date": "May 5, 2026 11:14 PM UTC",
@@ -106818,7 +106818,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 425800,
+      "pulls_count": 425900,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -107037,7 +107037,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 411100,
+      "pulls_count": 411200,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -107202,7 +107202,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 391100,
+      "pulls_count": 392500,
       "tags_count": 3,
       "updated_at": "Aug 19, 2026 6:06 PM UTC",
       "updated_full_date": "Aug 19, 2026 6:06 PM UTC",
@@ -107282,7 +107282,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 389100,
+      "pulls_count": 389500,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107404,7 +107404,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 373600,
+      "pulls_count": 373700,
       "tags_count": 1,
       "updated_at": "Jun 16, 2026 5:39 PM UTC",
       "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
@@ -107454,7 +107454,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 373400,
+      "pulls_count": 373500,
       "tags_count": 7,
       "updated_at": "Apr 16, 2024 4:18 AM UTC",
       "updated_full_date": "Apr 16, 2024 4:18 AM UTC",
@@ -107589,7 +107589,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 363300,
+      "pulls_count": 363500,
       "tags_count": 5,
       "updated_at": "Dec 12, 2025 1:21 AM UTC",
       "updated_full_date": "Dec 12, 2025 1:21 AM UTC",
@@ -107696,7 +107696,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 346700,
+      "pulls_count": 346800,
       "tags_count": 10,
       "updated_at": "Nov 19, 2024 11:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 11:33 PM UTC",
@@ -107873,7 +107873,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 337800,
+      "pulls_count": 337900,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -108087,7 +108087,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 298900,
+      "pulls_count": 299000,
       "tags_count": 10,
       "updated_at": "Dec 16, 2025 5:56 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:56 AM UTC",
@@ -108243,140 +108243,6 @@
       "family": ""
     },
     {
-      "id": "deepseek-v2.5",
-      "name": "deepseek-v2.5",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "An upgraded version of DeekSeek-V2  that integrates the general and coding abilities of both DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.",
-      "category": "General LLM",
-      "page_url": "https://ollama.com/library/deepseek-v2.5",
-      "tags_page_url": "https://ollama.com/library/deepseek-v2.5/tags",
-      "badges": [
-        "236b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 296500,
-      "tags_count": 7,
-      "updated_at": "Sep 11, 2024 7:31 PM UTC",
-      "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
-      "updated_date_key": 202409111931,
-      "is_cloud": false,
-      "default_tag": "deepseek-v2.5:latest",
-      "variants": [
-        {
-          "tag": "deepseek-v2.5:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 142807662592,
-          "size_formatted": "133GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "409b2dd8a3c4",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-v2.5:236b",
-          "name": "236b",
-          "parameter_size": "236B",
-          "quantization": "Default",
-          "size_bytes": 142807662592,
-          "size_formatted": "133GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "409b2dd8a3c4",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-v2.5:236b-q4_0",
-          "name": "236b-q4_0",
-          "parameter_size": "236B",
-          "quantization": "Q4_0",
-          "size_bytes": 142807662592,
-          "size_formatted": "133GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "409b2dd8a3c4",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-v2.5:236b-q4_1",
-          "name": "236b-q4_1",
-          "parameter_size": "236B",
-          "quantization": "Q4_1",
-          "size_bytes": 158913789952,
-          "size_formatted": "148GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "b1618a20b8b5",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-v2.5:236b-q5_0",
-          "name": "236b-q5_0",
-          "parameter_size": "236B",
-          "quantization": "Q5_0",
-          "size_bytes": 173946175488,
-          "size_formatted": "162GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "9de079142600",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-v2.5:236b-q5_1",
-          "name": "236b-q5_1",
-          "parameter_size": "236B",
-          "quantization": "Q5_1",
-          "size_bytes": 190052302848,
-          "size_formatted": "177GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "f774fdfffbea",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-v2.5:236b-q8_0",
-          "name": "236b-q8_0",
-          "parameter_size": "236B",
-          "quantization": "Q8_0",
-          "size_bytes": 269509197824,
-          "size_formatted": "251GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Text",
-          "digest": "481aed89b609",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "DeepSeek",
-      "publisher": "DeepSeek AI",
-      "family": "DeepSeek_v2"
-    },
-    {
       "id": "alfred",
       "name": "alfred",
       "source": "ollama_library",
@@ -108397,7 +108263,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 296300,
+      "pulls_count": 296700,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108511,6 +108377,140 @@
       "family": ""
     },
     {
+      "id": "deepseek-v2.5",
+      "name": "deepseek-v2.5",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "An upgraded version of DeekSeek-V2  that integrates the general and coding abilities of both DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.",
+      "category": "General LLM",
+      "page_url": "https://ollama.com/library/deepseek-v2.5",
+      "tags_page_url": "https://ollama.com/library/deepseek-v2.5/tags",
+      "badges": [
+        "236b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 296600,
+      "tags_count": 7,
+      "updated_at": "Sep 11, 2024 7:31 PM UTC",
+      "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
+      "updated_date_key": 202409111931,
+      "is_cloud": false,
+      "default_tag": "deepseek-v2.5:latest",
+      "variants": [
+        {
+          "tag": "deepseek-v2.5:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 142807662592,
+          "size_formatted": "133GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "409b2dd8a3c4",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-v2.5:236b",
+          "name": "236b",
+          "parameter_size": "236B",
+          "quantization": "Default",
+          "size_bytes": 142807662592,
+          "size_formatted": "133GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "409b2dd8a3c4",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-v2.5:236b-q4_0",
+          "name": "236b-q4_0",
+          "parameter_size": "236B",
+          "quantization": "Q4_0",
+          "size_bytes": 142807662592,
+          "size_formatted": "133GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "409b2dd8a3c4",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-v2.5:236b-q4_1",
+          "name": "236b-q4_1",
+          "parameter_size": "236B",
+          "quantization": "Q4_1",
+          "size_bytes": 158913789952,
+          "size_formatted": "148GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "b1618a20b8b5",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-v2.5:236b-q5_0",
+          "name": "236b-q5_0",
+          "parameter_size": "236B",
+          "quantization": "Q5_0",
+          "size_bytes": 173946175488,
+          "size_formatted": "162GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "9de079142600",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-v2.5:236b-q5_1",
+          "name": "236b-q5_1",
+          "parameter_size": "236B",
+          "quantization": "Q5_1",
+          "size_bytes": 190052302848,
+          "size_formatted": "177GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "f774fdfffbea",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-v2.5:236b-q8_0",
+          "name": "236b-q8_0",
+          "parameter_size": "236B",
+          "quantization": "Q8_0",
+          "size_bytes": 269509197824,
+          "size_formatted": "251GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Text",
+          "digest": "481aed89b609",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_v2"
+    },
+    {
       "id": "muse-glimmer",
       "name": "muse-glimmer",
       "source": "ollama_library",
@@ -108534,7 +108534,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 295500,
+      "pulls_count": 296200,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108781,7 +108781,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 291600,
+      "pulls_count": 291800,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:04 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:04 AM UTC",
@@ -108859,7 +108859,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 265700,
+      "pulls_count": 265800,
       "tags_count": 5,
       "updated_at": "Dec 30, 2024 9:33 PM UTC",
       "updated_full_date": "Dec 30, 2024 9:33 PM UTC",
@@ -109020,7 +109020,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 235000,
+      "pulls_count": 235500,
       "tags_count": 11,
       "updated_at": "Aug 31, 2026 9:05 PM UTC",
       "updated_full_date": "Aug 31, 2026 9:05 PM UTC",
@@ -109211,7 +109211,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 234400,
+      "pulls_count": 234500,
       "tags_count": 5,
       "updated_at": "Mar 13, 2025 12:39 PM UTC",
       "updated_full_date": "Mar 13, 2025 12:39 PM UTC",
@@ -109317,7 +109317,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 227300,
+      "pulls_count": 227400,
       "tags_count": 5,
       "updated_at": "Nov 19, 2025 6:22 PM UTC",
       "updated_full_date": "Nov 19, 2025 6:22 PM UTC",
@@ -109530,7 +109530,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 212500,
+      "pulls_count": 212600,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -109639,7 +109639,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 209800,
+      "pulls_count": 210700,
       "tags_count": 10,
       "updated_at": "Oct 15, 2026 6:20 AM UTC",
       "updated_full_date": "Oct 15, 2026 6:20 AM UTC",
@@ -109686,7 +109686,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "00a755688d0f",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -109742,7 +109742,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "ce54a54c2ce7",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -109756,7 +109756,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "00a755688d0f",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -109770,7 +109770,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "26bdb85d5401",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         },
         {
@@ -109784,7 +109784,7 @@
           "context_formatted": "128K",
           "input_type": "Text",
           "digest": "92403fbc4a1f",
-          "updated_at": "15 hours ago",
+          "updated_at": "21 hours ago",
           "is_cloud": false
         }
       ],
@@ -109923,7 +109923,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 200900,
+      "pulls_count": 201000,
       "tags_count": 4,
       "updated_at": "Dec 18, 2025 7:03 AM UTC",
       "updated_full_date": "Dec 18, 2025 7:03 AM UTC",
@@ -110017,7 +110017,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 189200,
+      "pulls_count": 189600,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110142,7 +110142,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 185500,
+      "pulls_count": 185700,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -110193,7 +110193,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 174500,
+      "pulls_count": 174600,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -110344,7 +110344,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 164000,
+      "pulls_count": 164200,
       "tags_count": 3,
       "updated_at": "Oct 29, 2025 2:04 AM UTC",
       "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
@@ -110504,7 +110504,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 145100,
+      "pulls_count": 146300,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -111228,7 +111228,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 136700,
+      "pulls_count": 136900,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -111279,7 +111279,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 132500,
+      "pulls_count": 132800,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -111416,7 +111416,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 131400,
+      "pulls_count": 131700,
       "tags_count": 1,
       "updated_at": "Sep 10, 2026 3:00 AM UTC",
       "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
@@ -111465,7 +111465,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 126200,
+      "pulls_count": 126400,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -111518,7 +111518,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 104100,
+      "pulls_count": 104200,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -111570,7 +111570,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 96800,
+      "pulls_count": 97200,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111624,7 +111624,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 94600,
+      "pulls_count": 95100,
       "tags_count": 13,
       "updated_at": "Oct 14, 2026 2:24 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:24 AM UTC",
@@ -111643,7 +111643,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "3ea3be2f2026",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111657,7 +111657,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "cb16f3186b07",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111671,7 +111671,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "3ea3be2f2026",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111713,7 +111713,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "abc31fdb0bf5",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111727,7 +111727,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "e3e061c8b4e6",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111783,7 +111783,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "608e3a13eec3",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111797,7 +111797,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "7954dce22bc6",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -111811,7 +111811,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "4eb03a01d788",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         }
       ],
@@ -111840,7 +111840,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 71700,
+      "pulls_count": 71900,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -111859,7 +111859,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "d8b269ad5c7c",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -111873,7 +111873,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "d8b269ad5c7c",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -111887,7 +111887,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "b6c144236e03",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -111901,7 +111901,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "e1265bf9e834",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -111915,7 +111915,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "82b3f0ab2d1c",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -111929,7 +111929,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "83c9952930e0",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         },
         {
@@ -111943,7 +111943,7 @@
           "context_formatted": "488K",
           "input_type": "Text",
           "digest": "70520154ae45",
-          "updated_at": "3 months ago",
+          "updated_at": "4 months ago",
           "is_cloud": false
         }
       ],
@@ -111975,7 +111975,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 70400,
+      "pulls_count": 70500,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -112194,7 +112194,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 55100,
+      "pulls_count": 55200,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -112418,7 +112418,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 48100,
+      "pulls_count": 49100,
       "tags_count": 21,
       "updated_at": "Oct 15, 2026 5:40 AM UTC",
       "updated_full_date": "Oct 15, 2026 5:40 AM UTC",
@@ -112437,7 +112437,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "1f30cabe5af7",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112451,7 +112451,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "ff630aa67948",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112465,7 +112465,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "b750e83c282e",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112479,7 +112479,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "74f652944b2b",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112493,7 +112493,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "1f30cabe5af7",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112549,7 +112549,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "c21dd30c1e38",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112605,7 +112605,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "7d8dc01c0a05",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112661,7 +112661,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "899c39804f83",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112703,7 +112703,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f4981a15b998",
-          "updated_at": "15 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -112748,7 +112748,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 45400,
+      "pulls_count": 45900,
       "tags_count": 8,
       "updated_at": "Oct 14, 2026 2:23 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
@@ -112767,7 +112767,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "5745f025fbe6",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -112781,7 +112781,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "5745f025fbe6",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -112837,7 +112837,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "d99f22c363ce",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -112851,7 +112851,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "6aa3fde96874",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -112865,7 +112865,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "8c5f1ee46d2b",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         }
       ],
@@ -112895,7 +112895,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 37100,
+      "pulls_count": 37200,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -113156,7 +113156,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 36000,
+      "pulls_count": 36100,
       "tags_count": 7,
       "updated_at": "Jul 25, 2026 6:19 PM UTC",
       "updated_full_date": "Jul 25, 2026 6:19 PM UTC",
@@ -113292,7 +113292,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 23700,
+      "pulls_count": 24100,
       "tags_count": 5,
       "updated_at": "Oct 14, 2026 2:23 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
@@ -113311,7 +113311,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "8f7e6863135c",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -113325,7 +113325,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "8f7e6863135c",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -113339,7 +113339,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "15dbbaceebaa",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -113353,7 +113353,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "bc72638064ee",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -113367,7 +113367,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "73e026ff389b",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         }
       ],
@@ -113398,7 +113398,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 16500,
+      "pulls_count": 16800,
       "tags_count": 9,
       "updated_at": "Oct 14, 2026 2:23 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
@@ -113417,7 +113417,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "fdd5939e1bd9",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -113445,7 +113445,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "fdd5939e1bd9",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -113473,7 +113473,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "3f0f84ddfcf6",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -113487,7 +113487,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "7322db586141",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -113501,7 +113501,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "d1f6eb2a43fa",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -113515,7 +113515,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "7885241a86db",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         },
         {
@@ -113529,7 +113529,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "b3d9f9fe2a55",
-          "updated_at": "",
+          "updated_at": "2 days ago",
           "is_cloud": false
         }
       ],
@@ -113558,7 +113558,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 11400,
+      "pulls_count": 11700,
       "tags_count": 3,
       "updated_at": "Oct 15, 2026 4:56 AM UTC",
       "updated_full_date": "Oct 15, 2026 4:56 AM UTC",
@@ -113577,7 +113577,7 @@
           "context_formatted": "32K",
           "input_type": "Image",
           "digest": "8c2d9ddae441",
-          "updated_at": "16 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -113591,7 +113591,7 @@
           "context_formatted": "32K",
           "input_type": "Image",
           "digest": "8c2d9ddae441",
-          "updated_at": "16 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -113605,7 +113605,7 @@
           "context_formatted": "32K",
           "input_type": "Image",
           "digest": "8c2d9ddae441",
-          "updated_at": "16 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         }
       ],
@@ -113636,7 +113636,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 10300,
+      "pulls_count": 10500,
       "tags_count": 8,
       "updated_at": "Oct 13, 2026 12:39 AM UTC",
       "updated_full_date": "Oct 13, 2026 12:39 AM UTC",
@@ -113655,7 +113655,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "4f30b1db22d3",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113669,7 +113669,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "4f30b1db22d3",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113683,7 +113683,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "11dce4c7532f",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113697,7 +113697,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d14c05dc038c",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113711,7 +113711,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "a11fb440f1e6",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113725,7 +113725,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "88cbbd22b816",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113739,7 +113739,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "6f0e87f39800",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113753,7 +113753,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "1873ffdc0e99",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         }
       ],
@@ -113939,7 +113939,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "d31165461ae8",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113953,7 +113953,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "f8bb3dfed81d",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113967,7 +113967,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "e414a229c2b8",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113981,7 +113981,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "458360f7747d",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -113995,7 +113995,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "7044de0996a2",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114009,7 +114009,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "d31165461ae8",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114023,7 +114023,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "b397feb9fd33",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114037,7 +114037,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "4f5575ee2df2",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         }
       ],
@@ -114085,7 +114085,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "fd88a2b3ab3f",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114099,7 +114099,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "fd88a2b3ab3f",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114113,7 +114113,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "d7afa63135f6",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114127,7 +114127,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "fd88a2b3ab3f",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114141,7 +114141,7 @@
           "context_formatted": "4K",
           "input_type": "Text",
           "digest": "c92a6f466917",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         }
       ],
@@ -114170,7 +114170,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 696,
+      "pulls_count": 0,
       "tags_count": 3,
       "updated_at": "Oct 15, 2026 4:56 AM UTC",
       "updated_full_date": "Oct 15, 2026 4:56 AM UTC",
@@ -114189,7 +114189,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f3950da72565",
-          "updated_at": "16 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -114203,7 +114203,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f3950da72565",
-          "updated_at": "16 hours ago",
+          "updated_at": "22 hours ago",
           "is_cloud": false
         },
         {
@@ -114217,7 +114217,84 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f3950da72565",
-          "updated_at": "16 hours ago",
+          "updated_at": "22 hours ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active"
+    },
+    {
+      "id": "nemotron-3.5-bolt",
+      "name": "nemotron-3.5-bolt",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Nemotron 3.5 Bolt is NVIDIA’s compact vision-language model for local coding, reasoning, and tool use.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/nemotron-3.5-bolt",
+      "tags_page_url": "https://ollama.com/library/nemotron-3.5-bolt/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 704,
+      "tags_count": 3,
+      "updated_at": "Oct 15, 2026 4:40 PM UTC",
+      "updated_full_date": "Oct 15, 2026 4:40 PM UTC",
+      "updated_date_key": 202610151640,
+      "is_cloud": false,
+      "default_tag": "nemotron-3.5-bolt:latest",
+      "variants": [
+        {
+          "tag": "nemotron-3.5-bolt:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 26843545600,
+          "size_formatted": "25GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "d6d3deeca271",
+          "updated_at": "11 hours ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nemotron-3.5-bolt:74b-a9b",
+          "name": "74b-a9b",
+          "parameter_size": "74B",
+          "quantization": "Default",
+          "size_bytes": 26843545600,
+          "size_formatted": "25GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "d6d3deeca271",
+          "updated_at": "11 hours ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "nemotron-3.5-bolt:74b-a9b-iq2",
+          "name": "74b-a9b-iq2",
+          "parameter_size": "74B",
+          "quantization": "Default",
+          "size_bytes": 26843545600,
+          "size_formatted": "25GB",
+          "context_length": 262144,
+          "context_formatted": "256K",
+          "input_type": "Image",
+          "digest": "d6d3deeca271",
+          "updated_at": "11 hours ago",
           "is_cloud": false
         }
       ],
@@ -114248,7 +114325,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 288,
+      "pulls_count": 698,
       "tags_count": 9,
       "updated_at": "Oct 15, 2026 5:36 PM UTC",
       "updated_full_date": "Oct 15, 2026 5:36 PM UTC",
@@ -114267,7 +114344,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "d84f81c512c4",
-          "updated_at": "4 hours ago",
+          "updated_at": "10 hours ago",
           "is_cloud": false
         },
         {
@@ -114281,7 +114358,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "d84f81c512c4",
-          "updated_at": "4 hours ago",
+          "updated_at": "10 hours ago",
           "is_cloud": false
         },
         {
@@ -114295,7 +114372,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "d84f81c512c4",
-          "updated_at": "4 hours ago",
+          "updated_at": "10 hours ago",
           "is_cloud": false
         },
         {
@@ -114309,7 +114386,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "45c225544aa0",
-          "updated_at": "3 hours ago",
+          "updated_at": "10 hours ago",
           "is_cloud": false
         },
         {
@@ -114323,7 +114400,7 @@
           "context_formatted": "",
           "input_type": "Image",
           "digest": "93aa29b11e26",
-          "updated_at": "4 hours ago",
+          "updated_at": "10 hours ago",
           "is_cloud": false
         },
         {
@@ -114337,7 +114414,7 @@
           "context_formatted": "",
           "input_type": "Image",
           "digest": "dda000e80902",
-          "updated_at": "4 hours ago",
+          "updated_at": "11 hours ago",
           "is_cloud": false
         },
         {
@@ -114351,7 +114428,7 @@
           "context_formatted": "",
           "input_type": "Image",
           "digest": "aba4cee1e75e",
-          "updated_at": "4 hours ago",
+          "updated_at": "10 hours ago",
           "is_cloud": false
         },
         {
@@ -114365,7 +114442,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "8a58f3e60082",
-          "updated_at": "4 hours ago",
+          "updated_at": "11 hours ago",
           "is_cloud": false
         },
         {
@@ -114379,84 +114456,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "b8269ff2e3e0",
-          "updated_at": "4 hours ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active"
-    },
-    {
-      "id": "nemotron-3.5-bolt",
-      "name": "nemotron-3.5-bolt",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Nemotron 3.5 Bolt is NVIDIA’s compact vision-language model for local coding, reasoning, and tool use.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/nemotron-3.5-bolt",
-      "tags_page_url": "https://ollama.com/library/nemotron-3.5-bolt/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 231,
-      "tags_count": 3,
-      "updated_at": "Oct 15, 2026 4:40 PM UTC",
-      "updated_full_date": "Oct 15, 2026 4:40 PM UTC",
-      "updated_date_key": 202610151640,
-      "is_cloud": false,
-      "default_tag": "nemotron-3.5-bolt:latest",
-      "variants": [
-        {
-          "tag": "nemotron-3.5-bolt:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 26843545600,
-          "size_formatted": "25GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "d6d3deeca271",
-          "updated_at": "4 hours ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nemotron-3.5-bolt:74b-a9b",
-          "name": "74b-a9b",
-          "parameter_size": "74B",
-          "quantization": "Default",
-          "size_bytes": 26843545600,
-          "size_formatted": "25GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "d6d3deeca271",
-          "updated_at": "4 hours ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "nemotron-3.5-bolt:74b-a9b-iq2",
-          "name": "74b-a9b-iq2",
-          "parameter_size": "74B",
-          "quantization": "Default",
-          "size_bytes": 26843545600,
-          "size_formatted": "25GB",
-          "context_length": 262144,
-          "context_formatted": "256K",
-          "input_type": "Image",
-          "digest": "d6d3deeca271",
-          "updated_at": "4 hours ago",
+          "updated_at": "11 hours ago",
           "is_cloud": false
         }
       ],
@@ -114487,7 +114487,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 48,
+      "pulls_count": 460,
       "tags_count": 1,
       "updated_at": "Oct 15, 2026 9:00 AM UTC",
       "updated_full_date": "Oct 15, 2026 9:00 AM UTC",
@@ -114506,7 +114506,7 @@
           "context_formatted": "1M",
           "input_type": "Image",
           "digest": "de22cf2fe991",
-          "updated_at": "12 hours ago",
+          "updated_at": "18 hours ago",
           "is_cloud": true
         }
       ],
