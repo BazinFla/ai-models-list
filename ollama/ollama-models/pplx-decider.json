@@ -23,9 +23,9 @@
   },
   "pulls_count": 0,
   "tags_count": 6,
-  "updated_at": "Oct 16, 2026 11:19 PM UTC",
-  "updated_full_date": "Oct 16, 2026 11:19 PM UTC",
-  "updated_date_key": 202610162319,
+  "updated_at": "Oct 17, 2026 6:01 PM UTC",
+  "updated_full_date": "Oct 17, 2026 6:01 PM UTC",
+  "updated_date_key": 202610171801,
   "is_cloud": false,
   "default_tag": "pplx-decider:latest",
   "variants": [
@@ -67,8 +67,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "324e158a5b38",
-      "updated_at": "16 hours ago",
+      "digest": "74a118a0fe81",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -81,8 +81,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "90f1593f7fb6",
-      "updated_at": "16 hours ago",
+      "digest": "3bc5ea1dd54b",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -90,13 +90,13 @@
       "name": "27b-nvfp4",
       "parameter_size": "27B",
       "quantization": "Default",
-      "size_bytes": 21474836480,
-      "size_formatted": "20GB",
+      "size_bytes": 20401094656,
+      "size_formatted": "19GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "b9e7a46849ee",
-      "updated_at": "16 hours ago",
+      "digest": "3cc88dab60b5",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
