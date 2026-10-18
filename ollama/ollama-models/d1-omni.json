@@ -1,0 +1,90 @@
+{
+  "id": "d1-omni",
+  "name": "d1-omni",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "d1-omni is a multimodal 600M decision model from Liquid AI",
+  "category": "Vision & Multimodal",
+  "page_url": "https://ollama.com/library/d1-omni",
+  "tags_page_url": "https://ollama.com/library/d1-omni/tags",
+  "badges": [
+    "vision",
+    "600m"
+  ],
+  "capabilities": {
+    "think": false,
+    "vision": true,
+    "audio": true,
+    "tools": false,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 212,
+  "tags_count": 4,
+  "updated_at": "Oct 17, 2026 10:32 PM UTC",
+  "updated_full_date": "Oct 17, 2026 10:32 PM UTC",
+  "updated_date_key": 202610172232,
+  "is_cloud": false,
+  "default_tag": "d1-omni:latest",
+  "variants": [
+    {
+      "tag": "d1-omni:latest",
+      "name": "latest",
+      "parameter_size": "",
+      "quantization": "Default",
+      "size_bytes": 891289600,
+      "size_formatted": "850MB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "1ba59f63e836",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1-omni:600m",
+      "name": "600m",
+      "parameter_size": "600M",
+      "quantization": "Default",
+      "size_bytes": 891289600,
+      "size_formatted": "850MB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "1ba59f63e836",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1-omni:600m-q8_0",
+      "name": "600m-q8_0",
+      "parameter_size": "600M",
+      "quantization": "Q8_0",
+      "size_bytes": 891289600,
+      "size_formatted": "850MB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "1ba59f63e836",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1-omni:600m-bf16",
+      "name": "600m-bf16",
+      "parameter_size": "600M",
+      "quantization": "F16",
+      "size_bytes": 1288490188,
+      "size_formatted": "1.2GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "c1e95fce6627",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}

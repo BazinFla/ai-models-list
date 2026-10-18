@@ -4,7 +4,7 @@
   "source": "ollama_library",
   "is_official": true,
   "namespace": "library",
-  "description": "DeepSeek-V4.1-Flash is an advanced tool designed to enhance search capabilities, providing users with faster and more accurate results.",
+  "description": "Designed for greater capability, faster inference, higher throughput, and scaling to larger models.",
   "category": "Reasoning",
   "page_url": "https://ollama.com/library/deepseek-v4.1-flash",
   "tags_page_url": "https://ollama.com/library/deepseek-v4.1-flash/tags",
@@ -22,11 +22,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 133800,
-  "tags_count": 1,
-  "updated_at": "Sep 10, 2026 3:00 AM UTC",
-  "updated_full_date": "Sep 10, 2026 3:00 AM UTC",
-  "updated_date_key": 202609100300,
+  "pulls_count": 139800,
+  "tags_count": 2,
+  "updated_at": "Sep 11, 2026 12:03 AM UTC",
+  "updated_full_date": "Sep 11, 2026 12:03 AM UTC",
+  "updated_date_key": 202609110003,
   "is_cloud": true,
   "default_tag": "deepseek-v4.1-flash:cloud",
   "variants": [
@@ -41,6 +41,20 @@
       "context_formatted": "1M",
       "input_type": "Image",
       "digest": "72434d5a621f",
+      "updated_at": "1 month ago",
+      "is_cloud": true
+    },
+    {
+      "tag": "deepseek-v4.1-flash:1017-cloud",
+      "name": "1017-cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Medium Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Image",
+      "digest": "567966df89fe",
       "updated_at": "1 month ago",
       "is_cloud": true
     }

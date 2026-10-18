@@ -20,10 +20,10 @@
     "embedding": false
   },
   "pulls_count": 0,
-  "tags_count": 8,
-  "updated_at": "Oct 13, 2026 12:54 AM UTC",
-  "updated_full_date": "Oct 13, 2026 12:54 AM UTC",
-  "updated_date_key": 202610130054,
+  "tags_count": 16,
+  "updated_at": "Oct 17, 2026 10:28 PM UTC",
+  "updated_full_date": "Oct 17, 2026 10:28 PM UTC",
+  "updated_date_key": 202610172228,
   "is_cloud": false,
   "default_tag": "kev:latest",
   "variants": [
@@ -32,13 +32,13 @@
       "name": "latest",
       "parameter_size": "",
       "quantization": "Default",
-      "size_bytes": 7194070220,
-      "size_formatted": "6.7GB",
+      "size_bytes": 6012954214,
+      "size_formatted": "5.6GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "d31165461ae8",
-      "updated_at": "4 days ago",
+      "digest": "079f29347a00",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -52,7 +52,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "f8bb3dfed81d",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
       "is_cloud": false
     },
     {
@@ -66,7 +66,35 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "e414a229c2b8",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:0.8b-q8_0",
+      "name": "0.8b-q8_0",
+      "parameter_size": "0.8B",
+      "quantization": "Q8_0",
+      "size_bytes": 851443712,
+      "size_formatted": "812MB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "a2f47e09befb",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:0.8b-bf16",
+      "name": "0.8b-bf16",
+      "parameter_size": "0.8B",
+      "quantization": "F16",
+      "size_bytes": 1610612736,
+      "size_formatted": "1.5GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "5ee097410a63",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -80,7 +108,49 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "458360f7747d",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:4b-q4_K_M",
+      "name": "4b-q4_K_M",
+      "parameter_size": "4B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 2899102924,
+      "size_formatted": "2.7GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "818b6cdb957c",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:4b-q8_0",
+      "name": "4b-q8_0",
+      "parameter_size": "4B",
+      "quantization": "Q8_0",
+      "size_bytes": 4831838208,
+      "size_formatted": "4.5GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "46203beabf65",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:4b-bf16",
+      "name": "4b-bf16",
+      "parameter_size": "4B",
+      "quantization": "F16",
+      "size_bytes": 9019431321,
+      "size_formatted": "8.4GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "8406d8a74261",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -94,7 +164,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "7044de0996a2",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
       "is_cloud": false
     },
     {
@@ -108,7 +178,49 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "d31165461ae8",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:9b-q4_K_M",
+      "name": "9b-q4_K_M",
+      "parameter_size": "9B",
+      "quantization": "Q4_K_M",
+      "size_bytes": 6012954214,
+      "size_formatted": "5.6GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "96375189a97f",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:9b-q8_0",
+      "name": "9b-q8_0",
+      "parameter_size": "9B",
+      "quantization": "Q8_0",
+      "size_bytes": 10200547328,
+      "size_formatted": "9.5GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "446718ead956",
+      "updated_at": "5 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "kev:9b-bf16",
+      "name": "9b-bf16",
+      "parameter_size": "9B",
+      "quantization": "F16",
+      "size_bytes": 19327352832,
+      "size_formatted": "18GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "925e229ef61d",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -122,7 +234,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "b397feb9fd33",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
       "is_cloud": false
     },
     {
@@ -136,7 +248,7 @@
       "context_formatted": "256K",
       "input_type": "Text",
       "digest": "4f5575ee2df2",
-      "updated_at": "4 days ago",
+      "updated_at": "5 days ago",
       "is_cloud": false
     }
   ],

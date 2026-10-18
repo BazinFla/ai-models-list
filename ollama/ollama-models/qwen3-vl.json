@@ -29,9 +29,9 @@
   },
   "pulls_count": 6700000,
   "tags_count": 57,
-  "updated_at": "Oct 29, 2025 10:19 PM UTC",
-  "updated_full_date": "Oct 29, 2025 10:19 PM UTC",
-  "updated_date_key": 202510292219,
+  "updated_at": "Oct 18, 2026 12:51 AM UTC",
+  "updated_full_date": "Oct 18, 2026 12:51 AM UTC",
+  "updated_date_key": 202610180051,
   "is_cloud": false,
   "default_tag": "qwen3-vl:latest",
   "variants": [
@@ -143,8 +143,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "ea422f1e7365",
-      "updated_at": "11 months ago",
+      "digest": "afc393e3572c",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -157,8 +157,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "ea422f1e7365",
-      "updated_at": "11 months ago",
+      "digest": "afc393e3572c",
+      "updated_at": "5 hours ago",
       "is_cloud": false
     },
     {
@@ -166,13 +166,13 @@
       "name": "2b-instruct-q8_0",
       "parameter_size": "2B",
       "quantization": "Q8_0",
-      "size_bytes": 2791728742,
-      "size_formatted": "2.6GB",
+      "size_bytes": 2899102924,
+      "size_formatted": "2.7GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "9674b2259d72",
-      "updated_at": "11 months ago",
+      "digest": "bb9716d180ca",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -185,8 +185,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "fc3633fe6782",
-      "updated_at": "11 months ago",
+      "digest": "d56a9315c759",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -241,8 +241,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "0d2c70920874",
-      "updated_at": "11 months ago",
+      "digest": "d96475298d77",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
