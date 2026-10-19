@@ -29,9 +29,9 @@
   },
   "pulls_count": 6700000,
   "tags_count": 57,
-  "updated_at": "Oct 18, 2026 12:51 AM UTC",
-  "updated_full_date": "Oct 18, 2026 12:51 AM UTC",
-  "updated_date_key": 202610180051,
+  "updated_at": "Oct 19, 2026 9:40 PM UTC",
+  "updated_full_date": "Oct 19, 2026 9:40 PM UTC",
+  "updated_date_key": 202610192140,
   "is_cloud": false,
   "default_tag": "qwen3-vl:latest",
   "variants": [
@@ -40,13 +40,13 @@
       "name": "latest",
       "parameter_size": "",
       "quantization": "Default",
-      "size_bytes": 6549825126,
-      "size_formatted": "6.1GB",
+      "size_bytes": 6657199308,
+      "size_formatted": "6.2GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "901cae732162",
-      "updated_at": "11 months ago",
+      "digest": "9cf69da2b16d",
+      "updated_at": "47 minutes ago",
       "is_cloud": false
     },
     {
@@ -73,8 +73,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "1343d82ebee3",
-      "updated_at": "11 months ago",
+      "digest": "a1b29c246319",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -82,13 +82,13 @@
       "name": "8b",
       "parameter_size": "8B",
       "quantization": "Default",
-      "size_bytes": 6549825126,
-      "size_formatted": "6.1GB",
+      "size_bytes": 6657199308,
+      "size_formatted": "6.2GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "901cae732162",
-      "updated_at": "11 months ago",
+      "digest": "9cf69da2b16d",
+      "updated_at": "47 minutes ago",
       "is_cloud": false
     },
     {
@@ -144,7 +144,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "afc393e3572c",
-      "updated_at": "",
+      "updated_at": "2 days ago",
       "is_cloud": false
     },
     {
@@ -158,7 +158,7 @@
       "context_formatted": "256K",
       "input_type": "Image",
       "digest": "afc393e3572c",
-      "updated_at": "",
+      "updated_at": "2 days ago",
       "is_cloud": false
     },
     {
@@ -255,8 +255,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "ee4b975b58c1",
-      "updated_at": "11 months ago",
+      "digest": "84f7ed8042fa",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -269,8 +269,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "ee4b975b58c1",
-      "updated_at": "11 months ago",
+      "digest": "84f7ed8042fa",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -283,8 +283,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "3c4e71051a81",
-      "updated_at": "11 months ago",
+      "digest": "c6aab124f79d",
+      "updated_at": "3 hours ago",
       "is_cloud": false
     },
     {
@@ -297,8 +297,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "a074ff293a12",
-      "updated_at": "11 months ago",
+      "digest": "1d2c81ea69a0",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -311,8 +311,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "1343d82ebee3",
-      "updated_at": "11 months ago",
+      "digest": "a1b29c246319",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -325,8 +325,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "1343d82ebee3",
-      "updated_at": "11 months ago",
+      "digest": "a1b29c246319",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -339,8 +339,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "5b16d3ac6a65",
-      "updated_at": "11 months ago",
+      "digest": "7c5fc8e42c4b",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -353,8 +353,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "b04bc96a3a84",
-      "updated_at": "11 months ago",
+      "digest": "4f6e0036791d",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -362,13 +362,13 @@
       "name": "8b-instruct",
       "parameter_size": "8B",
       "quantization": "Default",
-      "size_bytes": 6549825126,
-      "size_formatted": "6.1GB",
+      "size_bytes": 6657199308,
+      "size_formatted": "6.2GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "0533d74300e4",
-      "updated_at": "11 months ago",
+      "digest": "70e58e37beb1",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -376,13 +376,13 @@
       "name": "8b-instruct-q4_K_M",
       "parameter_size": "8B",
       "quantization": "Q4_K_M",
-      "size_bytes": 6549825126,
-      "size_formatted": "6.1GB",
+      "size_bytes": 6657199308,
+      "size_formatted": "6.2GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "0533d74300e4",
-      "updated_at": "11 months ago",
+      "digest": "70e58e37beb1",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -390,13 +390,13 @@
       "name": "8b-instruct-q8_0",
       "parameter_size": "8B",
       "quantization": "Q8_0",
-      "size_bytes": 10522669875,
-      "size_formatted": "9.8GB",
+      "size_bytes": 10630044057,
+      "size_formatted": "9.9GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "eff3eb825b32",
-      "updated_at": "11 months ago",
+      "digest": "cc61569a6185",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -409,8 +409,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "55aa31bad4e2",
-      "updated_at": "11 months ago",
+      "digest": "6827d8f39c2f",
+      "updated_at": "",
       "is_cloud": false
     },
     {
@@ -418,13 +418,13 @@
       "name": "8b-thinking",
       "parameter_size": "8B",
       "quantization": "Default",
-      "size_bytes": 6549825126,
-      "size_formatted": "6.1GB",
+      "size_bytes": 6657199308,
+      "size_formatted": "6.2GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "901cae732162",
-      "updated_at": "11 months ago",
+      "digest": "9cf69da2b16d",
+      "updated_at": "47 minutes ago",
       "is_cloud": false
     },
     {
@@ -432,13 +432,13 @@
       "name": "8b-thinking-q4_K_M",
       "parameter_size": "8B",
       "quantization": "Q4_K_M",
-      "size_bytes": 6549825126,
-      "size_formatted": "6.1GB",
+      "size_bytes": 6657199308,
+      "size_formatted": "6.2GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "901cae732162",
-      "updated_at": "11 months ago",
+      "digest": "9cf69da2b16d",
+      "updated_at": "47 minutes ago",
       "is_cloud": false
     },
     {
@@ -446,13 +446,13 @@
       "name": "8b-thinking-q8_0",
       "parameter_size": "8B",
       "quantization": "Q8_0",
-      "size_bytes": 10522669875,
-      "size_formatted": "9.8GB",
+      "size_bytes": 10630044057,
+      "size_formatted": "9.9GB",
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "9e9bbfc77186",
-      "updated_at": "11 months ago",
+      "digest": "724ab990556e",
+      "updated_at": "29 minutes ago",
       "is_cloud": false
     },
     {
@@ -465,8 +465,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "a86052dd9262",
-      "updated_at": "11 months ago",
+      "digest": "b3f81e664aa5",
+      "updated_at": "22 minutes ago",
       "is_cloud": false
     },
     {
