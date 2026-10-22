@@ -23,9 +23,9 @@
   },
   "pulls_count": 0,
   "tags_count": 7,
-  "updated_at": "Oct 21, 2026 9:46 PM UTC",
-  "updated_full_date": "Oct 21, 2026 9:46 PM UTC",
-  "updated_date_key": 202610212146,
+  "updated_at": "Oct 22, 2026 7:36 PM UTC",
+  "updated_full_date": "Oct 22, 2026 7:36 PM UTC",
+  "updated_date_key": 202610221936,
   "is_cloud": false,
   "default_tag": "flint:latest",
   "variants": [
@@ -39,8 +39,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "905c74dfd56b",
-      "updated_at": "19 hours ago",
+      "digest": "2a087bdb088a",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -53,8 +53,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "905c74dfd56b",
-      "updated_at": "19 hours ago",
+      "digest": "2a087bdb088a",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -67,8 +67,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "905c74dfd56b",
-      "updated_at": "19 hours ago",
+      "digest": "2a087bdb088a",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -81,22 +81,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "39fc172e198d",
-      "updated_at": "19 hours ago",
-      "is_cloud": false
-    },
-    {
-      "tag": "flint:40b-a2b-qat-int4",
-      "name": "40b-a2b-qat-int4",
-      "parameter_size": "40B",
-      "quantization": "Default",
-      "size_bytes": 24696061952,
-      "size_formatted": "23GB",
-      "context_length": 262144,
-      "context_formatted": "256K",
-      "input_type": "Text",
-      "digest": "a503b9032955",
-      "updated_at": "",
+      "digest": "9543f736310d",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -109,8 +95,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "f7d42a0a1137",
-      "updated_at": "19 hours ago",
+      "digest": "10f49bd042a0",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     },
     {
@@ -123,8 +109,22 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Text",
-      "digest": "105775bdd1a7",
-      "updated_at": "",
+      "digest": "3d2f527c0ef3",
+      "updated_at": "2 hours ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "flint:40b-a2b-qat-int4",
+      "name": "40b-a2b-qat-int4",
+      "parameter_size": "40B",
+      "quantization": "Default",
+      "size_bytes": 24696061952,
+      "size_formatted": "23GB",
+      "context_length": 262144,
+      "context_formatted": "256K",
+      "input_type": "Text",
+      "digest": "9891844f06a2",
+      "updated_at": "2 hours ago",
       "is_cloud": false
     }
   ],
