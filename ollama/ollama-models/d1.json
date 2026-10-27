@@ -10,6 +10,8 @@
   "tags_page_url": "https://ollama.com/library/d1/tags",
   "badges": [
     "vision",
+    "decision",
+    "2b",
     "3b"
   ],
   "capabilities": {
@@ -20,11 +22,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 21500,
-  "tags_count": 3,
-  "updated_at": "Oct 15, 2026 4:56 AM UTC",
-  "updated_full_date": "Oct 15, 2026 4:56 AM UTC",
-  "updated_date_key": 202610150456,
+  "pulls_count": 21700,
+  "tags_count": 7,
+  "updated_at": "Oct 27, 2026 4:56 PM UTC",
+  "updated_full_date": "Oct 27, 2026 4:56 PM UTC",
+  "updated_date_key": 202610271656,
   "is_cloud": false,
   "default_tag": "d1:latest",
   "variants": [
@@ -43,6 +45,20 @@
       "is_cloud": false
     },
     {
+      "tag": "d1:2b",
+      "name": "2b",
+      "parameter_size": "2B",
+      "quantization": "Default",
+      "size_bytes": 4187593113,
+      "size_formatted": "3.9GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "a3b89e90e6a3",
+      "updated_at": "35 minutes ago",
+      "is_cloud": false
+    },
+    {
       "tag": "d1:3b",
       "name": "3b",
       "parameter_size": "3B",
@@ -54,6 +70,48 @@
       "input_type": "Image",
       "digest": "8c2d9ddae441",
       "updated_at": "1 week ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1:2b-mlx-bf16",
+      "name": "2b-mlx-bf16",
+      "parameter_size": "2B",
+      "quantization": "F16",
+      "size_bytes": 4187593113,
+      "size_formatted": "3.9GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "a3b89e90e6a3",
+      "updated_at": "35 minutes ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1:2b-mxfp8",
+      "name": "2b-mxfp8",
+      "parameter_size": "2B",
+      "quantization": "Default",
+      "size_bytes": 2576980377,
+      "size_formatted": "2.4GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "52dfb1fc6ba6",
+      "updated_at": "35 minutes ago",
+      "is_cloud": false
+    },
+    {
+      "tag": "d1:2b-nvfp4",
+      "name": "2b-nvfp4",
+      "parameter_size": "2B",
+      "quantization": "Default",
+      "size_bytes": 1825361100,
+      "size_formatted": "1.7GB",
+      "context_length": 128000,
+      "context_formatted": "125K",
+      "input_type": "Image",
+      "digest": "82c19b76395a",
+      "updated_at": "35 minutes ago",
       "is_cloud": false
     },
     {
