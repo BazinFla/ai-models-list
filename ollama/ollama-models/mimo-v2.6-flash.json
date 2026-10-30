@@ -1,0 +1,50 @@
+{
+  "id": "mimo-v2.6-flash",
+  "name": "mimo-v2.6-flash",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "Xiaomi's efficiency-balanced MiMo-V2.6 checkpoint, with 309B total parameters, 15B active, omnimodal input, and a 1M token context.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/mimo-v2.6-flash",
+  "tags_page_url": "https://ollama.com/library/mimo-v2.6-flash/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 27,
+  "tags_count": 1,
+  "updated_at": "Sep 22, 2026 4:00 PM UTC",
+  "updated_full_date": "Sep 22, 2026 4:00 PM UTC",
+  "updated_date_key": 202609221600,
+  "is_cloud": true,
+  "default_tag": "mimo-v2.6-flash:cloud",
+  "variants": [
+    {
+      "tag": "mimo-v2.6-flash:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Medium Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Image",
+      "digest": "dfb2d9fd3ac8",
+      "updated_at": "1 month ago",
+      "is_cloud": true
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}

@@ -22,11 +22,11 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 5300000,
+  "pulls_count": 5400000,
   "tags_count": 13,
-  "updated_at": "Oct 26, 2026 11:22 PM UTC",
-  "updated_full_date": "Oct 26, 2026 11:22 PM UTC",
-  "updated_date_key": 202610262322,
+  "updated_at": "Oct 30, 2026 4:01 PM UTC",
+  "updated_full_date": "Oct 30, 2026 4:01 PM UTC",
+  "updated_date_key": 202610301601,
   "is_cloud": false,
   "default_tag": "qwen3.8:latest",
   "variants": [
@@ -68,8 +68,8 @@
       "context_length": 262144,
       "context_formatted": "256K",
       "input_type": "Image",
-      "digest": "01e7d6014498",
-      "updated_at": "3 days ago",
+      "digest": "34a4a4b5084f",
+      "updated_at": "6 hours ago",
       "is_cloud": false
     },
     {
