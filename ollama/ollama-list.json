@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "scraped_at": "2026-11-01 21:44:51 UTC",
+  "scraped_at": "2026-11-02 04:41:25 UTC",
   "total_models": 266,
   "total_active_models": 266,
   "total_deprecated_models": 2,
@@ -2915,7 +2915,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 44300000,
+      "pulls_count": 44400000,
       "tags_count": 133,
       "updated_at": "Sep 19, 2024 4:42 PM UTC",
       "updated_full_date": "Sep 19, 2024 4:42 PM UTC",
@@ -8704,7 +8704,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 28300000,
+      "pulls_count": 28400000,
       "tags_count": 51,
       "updated_at": "Oct 12, 2026 10:18 PM UTC",
       "updated_full_date": "Oct 12, 2026 10:18 PM UTC",
@@ -9297,7 +9297,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "c382fbfbc73b",
-          "updated_at": "6 months ago",
+          "updated_at": "7 months ago",
           "is_cloud": true
         },
         {
@@ -10455,7 +10455,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 24000000,
+      "pulls_count": 24100000,
       "tags_count": 72,
       "updated_at": "Oct 13, 2026 5:35 PM UTC",
       "updated_full_date": "Oct 13, 2026 5:35 PM UTC",
@@ -28566,7 +28566,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "86b2d171ce90",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -28594,7 +28594,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "86b2d171ce90",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -28818,7 +28818,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "86b2d171ce90",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -28986,7 +28986,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "4a5e082f2bd3",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -29042,7 +29042,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "4a5e082f2bd3",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         }
       ],
@@ -32866,7 +32866,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 5500000,
+      "pulls_count": 5600000,
       "tags_count": 13,
       "updated_at": "Oct 30, 2026 4:01 PM UTC",
       "updated_full_date": "Oct 30, 2026 4:01 PM UTC",
@@ -71179,6 +71179,56 @@
       "family": ""
     },
     {
+      "id": "nomic-embed-text-v2-moe",
+      "name": "nomic-embed-text-v2-moe",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.",
+      "category": "Embeddings & Search",
+      "page_url": "https://ollama.com/library/nomic-embed-text-v2-moe",
+      "tags_page_url": "https://ollama.com/library/nomic-embed-text-v2-moe/tags",
+      "badges": [
+        "embedding"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": false,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": true
+      },
+      "pulls_count": 1200000,
+      "tags_count": 1,
+      "updated_at": "Dec 10, 2025 10:09 PM UTC",
+      "updated_full_date": "Dec 10, 2025 10:09 PM UTC",
+      "updated_date_key": 202512102209,
+      "is_cloud": false,
+      "default_tag": "nomic-embed-text-v2-moe:latest",
+      "variants": [
+        {
+          "tag": "nomic-embed-text-v2-moe:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 1004535808,
+          "size_formatted": "958MB",
+          "context_length": 512,
+          "context_formatted": "512",
+          "input_type": "Text",
+          "digest": "ff9c2f10ef5e",
+          "updated_at": "10 months ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "Nomic AI",
+      "publisher": "Nomic AI",
+      "family": "nomic"
+    },
+    {
       "id": "falcon",
       "name": "falcon",
       "source": "ollama_library",
@@ -71747,56 +71797,6 @@
       "creator": "",
       "publisher": "",
       "family": ""
-    },
-    {
-      "id": "nomic-embed-text-v2-moe",
-      "name": "nomic-embed-text-v2-moe",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.",
-      "category": "Embeddings & Search",
-      "page_url": "https://ollama.com/library/nomic-embed-text-v2-moe",
-      "tags_page_url": "https://ollama.com/library/nomic-embed-text-v2-moe/tags",
-      "badges": [
-        "embedding"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": false,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": true
-      },
-      "pulls_count": 1200000,
-      "tags_count": 1,
-      "updated_at": "Dec 10, 2025 10:09 PM UTC",
-      "updated_full_date": "Dec 10, 2025 10:09 PM UTC",
-      "updated_date_key": 202512102209,
-      "is_cloud": false,
-      "default_tag": "nomic-embed-text-v2-moe:latest",
-      "variants": [
-        {
-          "tag": "nomic-embed-text-v2-moe:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 1004535808,
-          "size_formatted": "958MB",
-          "context_length": 512,
-          "context_formatted": "512",
-          "input_type": "Text",
-          "digest": "ff9c2f10ef5e",
-          "updated_at": "10 months ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "Nomic AI",
-      "publisher": "Nomic AI",
-      "family": "nomic"
     },
     {
       "id": "openthinker",
@@ -88807,7 +88807,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 994100,
+      "pulls_count": 994300,
       "tags_count": 33,
       "updated_at": "Nov 19, 2024 10:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 10:33 PM UTC",
@@ -89307,7 +89307,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 994100,
+      "pulls_count": 994200,
       "tags_count": 49,
       "updated_at": "Oct 29, 2023 9:57 PM UTC",
       "updated_full_date": "Oct 29, 2023 9:57 PM UTC",
@@ -90031,7 +90031,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 987700,
+      "pulls_count": 987800,
       "tags_count": 49,
       "updated_at": "Oct 11, 2024 5:58 AM UTC",
       "updated_full_date": "Oct 11, 2024 5:58 AM UTC",
@@ -90754,7 +90754,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 978200,
+      "pulls_count": 978400,
       "tags_count": 33,
       "updated_at": "Nov 22, 2023 10:13 PM UTC",
       "updated_full_date": "Nov 22, 2023 10:13 PM UTC",
@@ -91253,7 +91253,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 976700,
+      "pulls_count": 977000,
       "tags_count": 9,
       "updated_at": "Apr 8, 2025 10:53 PM UTC",
       "updated_full_date": "Apr 8, 2025 10:53 PM UTC",
@@ -91413,7 +91413,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 974900,
+      "pulls_count": 975000,
       "tags_count": 73,
       "updated_at": "Oct 30, 2023 2:54 AM UTC",
       "updated_full_date": "Oct 30, 2023 2:54 AM UTC",
@@ -92475,7 +92475,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 971000,
+      "pulls_count": 971900,
       "tags_count": 20,
       "updated_at": "Oct 17, 2026 8:28 PM UTC",
       "updated_full_date": "Oct 17, 2026 8:28 PM UTC",
@@ -92792,7 +92792,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 968600,
+      "pulls_count": 968800,
       "tags_count": 33,
       "updated_at": "Sep 11, 2024 7:13 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:13 PM UTC",
@@ -93291,7 +93291,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 958700,
+      "pulls_count": 958900,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:05 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:05 AM UTC",
@@ -93367,7 +93367,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 948400,
+      "pulls_count": 948600,
       "tags_count": 33,
       "updated_at": "Jan 9, 2024 3:30 AM UTC",
       "updated_full_date": "Jan 9, 2024 3:30 AM UTC",
@@ -93845,6 +93845,99 @@
       "family": "llama"
     },
     {
+      "id": "llava-phi3",
+      "name": "llava-phi3",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
+      "category": "Vision & Multimodal",
+      "page_url": "https://ollama.com/library/llava-phi3",
+      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
+      "badges": [
+        "vision",
+        "3.8b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": true,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 940700,
+      "tags_count": 4,
+      "updated_at": "May 7, 2024 9:20 PM UTC",
+      "updated_full_date": "May 7, 2024 9:20 PM UTC",
+      "updated_date_key": 202405072120,
+      "is_cloud": false,
+      "default_tag": "llava-phi3:latest",
+      "variants": [
+        {
+          "tag": "llava-phi3:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b",
+          "name": "3.8b",
+          "parameter_size": "3.8B",
+          "quantization": "Default",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-q4_0",
+          "name": "3.8b-mini-q4_0",
+          "parameter_size": "3.8B",
+          "quantization": "Q4_0",
+          "size_bytes": 3113851289,
+          "size_formatted": "2.9GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "c7edd7b87593",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "llava-phi3:3.8b-mini-fp16",
+          "name": "3.8b-mini-fp16",
+          "parameter_size": "3.8B",
+          "quantization": "FP16",
+          "size_bytes": 8912057139,
+          "size_formatted": "8.3GB",
+          "context_length": 4096,
+          "context_formatted": "4K",
+          "input_type": "Image",
+          "digest": "39ed50ad5b22",
+          "updated_at": "2 years ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "",
+      "publisher": "",
+      "family": ""
+    },
+    {
       "id": "yarn-mistral",
       "name": "yarn-mistral",
       "source": "ollama_library",
@@ -93865,7 +93958,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 938000,
+      "pulls_count": 938100,
       "tags_count": 33,
       "updated_at": "Nov 4, 2023 4:20 AM UTC",
       "updated_full_date": "Nov 4, 2023 4:20 AM UTC",
@@ -94343,99 +94436,6 @@
       "family": ""
     },
     {
-      "id": "llava-phi3",
-      "name": "llava-phi3",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
-      "category": "Vision & Multimodal",
-      "page_url": "https://ollama.com/library/llava-phi3",
-      "tags_page_url": "https://ollama.com/library/llava-phi3/tags",
-      "badges": [
-        "vision",
-        "3.8b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": true,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 935500,
-      "tags_count": 4,
-      "updated_at": "May 7, 2024 9:20 PM UTC",
-      "updated_full_date": "May 7, 2024 9:20 PM UTC",
-      "updated_date_key": 202405072120,
-      "is_cloud": false,
-      "default_tag": "llava-phi3:latest",
-      "variants": [
-        {
-          "tag": "llava-phi3:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b",
-          "name": "3.8b",
-          "parameter_size": "3.8B",
-          "quantization": "Default",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-q4_0",
-          "name": "3.8b-mini-q4_0",
-          "parameter_size": "3.8B",
-          "quantization": "Q4_0",
-          "size_bytes": 3113851289,
-          "size_formatted": "2.9GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "c7edd7b87593",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "llava-phi3:3.8b-mini-fp16",
-          "name": "3.8b-mini-fp16",
-          "parameter_size": "3.8B",
-          "quantization": "FP16",
-          "size_bytes": 8912057139,
-          "size_formatted": "8.3GB",
-          "context_length": 4096,
-          "context_formatted": "4K",
-          "input_type": "Image",
-          "digest": "39ed50ad5b22",
-          "updated_at": "2 years ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "",
-      "publisher": "",
-      "family": ""
-    },
-    {
       "id": "nexusraven",
       "name": "nexusraven",
       "source": "ollama_library",
@@ -94456,7 +94456,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 931400,
+      "pulls_count": 931500,
       "tags_count": 32,
       "updated_at": "Jan 17, 2024 7:53 PM UTC",
       "updated_full_date": "Jan 17, 2024 7:53 PM UTC",
@@ -94941,7 +94941,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 924600,
+      "pulls_count": 924800,
       "tags_count": 22,
       "updated_at": "Dec 5, 2023 6:31 PM UTC",
       "updated_full_date": "Dec 5, 2023 6:31 PM UTC",
@@ -95286,7 +95286,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 914300,
+      "pulls_count": 914400,
       "tags_count": 17,
       "updated_at": "Dec 13, 2023 7:04 PM UTC",
       "updated_full_date": "Dec 13, 2023 7:04 PM UTC",
@@ -95561,7 +95561,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 834200,
+      "pulls_count": 834400,
       "tags_count": 21,
       "updated_at": "Aug 31, 2024 7:16 AM UTC",
       "updated_full_date": "Aug 31, 2024 7:16 AM UTC",
@@ -95896,7 +95896,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 807700,
+      "pulls_count": 807800,
       "tags_count": 5,
       "updated_at": "Apr 7, 2025 4:59 PM UTC",
       "updated_full_date": "Apr 7, 2025 4:59 PM UTC",
@@ -96004,7 +96004,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 789700,
+      "pulls_count": 789900,
       "tags_count": 13,
       "updated_at": "Mar 19, 2025 5:04 PM UTC",
       "updated_full_date": "Mar 19, 2025 5:04 PM UTC",
@@ -96222,7 +96222,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 751000,
+      "pulls_count": 751100,
       "tags_count": 18,
       "updated_at": "Jan 30, 2024 9:39 AM UTC",
       "updated_full_date": "Jan 30, 2024 9:39 AM UTC",
@@ -96786,7 +96786,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 746600,
+      "pulls_count": 746800,
       "tags_count": 7,
       "updated_at": "Sep 27, 2025 12:46 AM UTC",
       "updated_full_date": "Sep 27, 2025 12:46 AM UTC",
@@ -96921,7 +96921,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 738300,
+      "pulls_count": 738400,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 8:21 PM UTC",
       "updated_full_date": "Sep 18, 2024 8:21 PM UTC",
@@ -97198,7 +97198,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 723400,
+      "pulls_count": 724400,
       "tags_count": 9,
       "updated_at": "Jun 27, 2026 8:45 PM UTC",
       "updated_full_date": "Jun 27, 2026 8:45 PM UTC",
@@ -97364,7 +97364,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 720100,
+      "pulls_count": 721700,
       "tags_count": 9,
       "updated_at": "Oct 18, 2026 9:14 PM UTC",
       "updated_full_date": "Oct 18, 2026 9:14 PM UTC",
@@ -97526,7 +97526,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 713600,
+      "pulls_count": 713700,
       "tags_count": 17,
       "updated_at": "Jul 9, 2024 1:33 AM UTC",
       "updated_full_date": "Jul 9, 2024 1:33 AM UTC",
@@ -97801,7 +97801,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 680700,
+      "pulls_count": 680900,
       "tags_count": 9,
       "updated_at": "Nov 18, 2024 7:31 AM UTC",
       "updated_full_date": "Nov 18, 2024 7:31 AM UTC",
@@ -97963,7 +97963,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 669400,
+      "pulls_count": 669500,
       "tags_count": 18,
       "updated_at": "Oct 28, 2023 3:29 PM UTC",
       "updated_full_date": "Oct 28, 2023 3:29 PM UTC",
@@ -98252,7 +98252,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 647700,
+      "pulls_count": 647800,
       "tags_count": 17,
       "updated_at": "Oct 16, 2024 11:10 PM UTC",
       "updated_full_date": "Oct 16, 2024 11:10 PM UTC",
@@ -98504,6 +98504,85 @@
       "creator": "NVIDIA",
       "publisher": "NVIDIA",
       "family": "nemotron"
+    },
+    {
+      "id": "deepseek-ocr",
+      "name": "deepseek-ocr",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.",
+      "category": "Vision & Multimodal",
+      "page_url": "https://ollama.com/library/deepseek-ocr",
+      "tags_page_url": "https://ollama.com/library/deepseek-ocr/tags",
+      "badges": [
+        "vision",
+        "3b"
+      ],
+      "capabilities": {
+        "think": false,
+        "vision": true,
+        "audio": false,
+        "tools": false,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 638400,
+      "tags_count": 3,
+      "updated_at": "Nov 19, 2025 8:26 PM UTC",
+      "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
+      "updated_date_key": 202511192026,
+      "is_cloud": false,
+      "default_tag": "deepseek-ocr:latest",
+      "variants": [
+        {
+          "tag": "deepseek-ocr:latest",
+          "name": "latest",
+          "parameter_size": "",
+          "quantization": "Default",
+          "size_bytes": 7194070220,
+          "size_formatted": "6.7GB",
+          "context_length": 8192,
+          "context_formatted": "8K",
+          "input_type": "Image",
+          "digest": "0e7b018b8a22",
+          "updated_at": "11 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-ocr:3b",
+          "name": "3b",
+          "parameter_size": "3B",
+          "quantization": "Default",
+          "size_bytes": 7194070220,
+          "size_formatted": "6.7GB",
+          "context_length": 8192,
+          "context_formatted": "8K",
+          "input_type": "Image",
+          "digest": "0e7b018b8a22",
+          "updated_at": "11 months ago",
+          "is_cloud": false
+        },
+        {
+          "tag": "deepseek-ocr:3b-bf16",
+          "name": "3b-bf16",
+          "parameter_size": "3B",
+          "quantization": "F16",
+          "size_bytes": 7194070220,
+          "size_formatted": "6.7GB",
+          "context_length": 8192,
+          "context_formatted": "8K",
+          "input_type": "Image",
+          "digest": "0e7b018b8a22",
+          "updated_at": "11 months ago",
+          "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active",
+      "creator": "DeepSeek",
+      "publisher": "DeepSeek AI",
+      "family": "DeepSeek_ocr"
     },
     {
       "id": "reflection",
@@ -98780,85 +98859,6 @@
       "family": ""
     },
     {
-      "id": "deepseek-ocr",
-      "name": "deepseek-ocr",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.",
-      "category": "Vision & Multimodal",
-      "page_url": "https://ollama.com/library/deepseek-ocr",
-      "tags_page_url": "https://ollama.com/library/deepseek-ocr/tags",
-      "badges": [
-        "vision",
-        "3b"
-      ],
-      "capabilities": {
-        "think": false,
-        "vision": true,
-        "audio": false,
-        "tools": false,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 635600,
-      "tags_count": 3,
-      "updated_at": "Nov 19, 2025 8:26 PM UTC",
-      "updated_full_date": "Nov 19, 2025 8:26 PM UTC",
-      "updated_date_key": 202511192026,
-      "is_cloud": false,
-      "default_tag": "deepseek-ocr:latest",
-      "variants": [
-        {
-          "tag": "deepseek-ocr:latest",
-          "name": "latest",
-          "parameter_size": "",
-          "quantization": "Default",
-          "size_bytes": 7194070220,
-          "size_formatted": "6.7GB",
-          "context_length": 8192,
-          "context_formatted": "8K",
-          "input_type": "Image",
-          "digest": "0e7b018b8a22",
-          "updated_at": "11 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-ocr:3b",
-          "name": "3b",
-          "parameter_size": "3B",
-          "quantization": "Default",
-          "size_bytes": 7194070220,
-          "size_formatted": "6.7GB",
-          "context_length": 8192,
-          "context_formatted": "8K",
-          "input_type": "Image",
-          "digest": "0e7b018b8a22",
-          "updated_at": "11 months ago",
-          "is_cloud": false
-        },
-        {
-          "tag": "deepseek-ocr:3b-bf16",
-          "name": "3b-bf16",
-          "parameter_size": "3B",
-          "quantization": "F16",
-          "size_bytes": 7194070220,
-          "size_formatted": "6.7GB",
-          "context_length": 8192,
-          "context_formatted": "8K",
-          "input_type": "Image",
-          "digest": "0e7b018b8a22",
-          "updated_at": "11 months ago",
-          "is_cloud": false
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active",
-      "creator": "DeepSeek",
-      "publisher": "DeepSeek AI",
-      "family": "DeepSeek_ocr"
-    },
-    {
       "id": "codeup",
       "name": "codeup",
       "source": "ollama_library",
@@ -98879,7 +98879,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 618000,
+      "pulls_count": 618100,
       "tags_count": 19,
       "updated_at": "Oct 29, 2023 6:38 AM UTC",
       "updated_full_date": "Oct 29, 2023 6:38 AM UTC",
@@ -99182,7 +99182,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 612900,
+      "pulls_count": 613100,
       "tags_count": 17,
       "updated_at": "Nov 15, 2024 11:37 PM UTC",
       "updated_full_date": "Nov 15, 2024 11:37 PM UTC",
@@ -99456,7 +99456,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 612200,
+      "pulls_count": 612300,
       "tags_count": 18,
       "updated_at": "Dec 20, 2024 1:05 AM UTC",
       "updated_full_date": "Dec 20, 2024 1:05 AM UTC",
@@ -99746,7 +99746,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 609500,
+      "pulls_count": 609700,
       "tags_count": 9,
       "updated_at": "Dec 5, 2025 4:37 AM UTC",
       "updated_full_date": "Dec 5, 2025 4:37 AM UTC",
@@ -99913,7 +99913,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 597800,
+      "pulls_count": 598400,
       "tags_count": 48,
       "updated_at": "May 19, 2026 9:58 PM UTC",
       "updated_full_date": "May 19, 2026 9:58 PM UTC",
@@ -100623,7 +100623,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 595500,
+      "pulls_count": 595900,
       "tags_count": 13,
       "updated_at": "Dec 10, 2024 8:03 AM UTC",
       "updated_full_date": "Dec 10, 2024 8:03 AM UTC",
@@ -100841,7 +100841,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 590600,
+      "pulls_count": 590700,
       "tags_count": 19,
       "updated_at": "Jan 11, 2024 1:25 AM UTC",
       "updated_full_date": "Jan 11, 2024 1:25 AM UTC",
@@ -101143,7 +101143,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 590000,
+      "pulls_count": 590100,
       "tags_count": 18,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -101431,7 +101431,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 581100,
+      "pulls_count": 581200,
       "tags_count": 18,
       "updated_at": "Sep 18, 2024 10:27 PM UTC",
       "updated_full_date": "Sep 18, 2024 10:27 PM UTC",
@@ -101722,7 +101722,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 581000,
+      "pulls_count": 581200,
       "tags_count": 17,
       "updated_at": "Jul 22, 2024 11:54 PM UTC",
       "updated_full_date": "Jul 22, 2024 11:54 PM UTC",
@@ -101996,7 +101996,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 577800,
+      "pulls_count": 577900,
       "tags_count": 18,
       "updated_at": "Dec 5, 2023 11:59 PM UTC",
       "updated_full_date": "Dec 5, 2023 11:59 PM UTC",
@@ -102284,7 +102284,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 574400,
+      "pulls_count": 574700,
       "tags_count": 17,
       "updated_at": "Jul 16, 2024 5:04 PM UTC",
       "updated_full_date": "Jul 16, 2024 5:04 PM UTC",
@@ -102561,7 +102561,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 563000,
+      "pulls_count": 563100,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 10:06 PM UTC",
       "updated_full_date": "Dec 29, 2023 10:06 PM UTC",
@@ -102849,7 +102849,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 561300,
+      "pulls_count": 561400,
       "tags_count": 17,
       "updated_at": "May 14, 2024 1:46 AM UTC",
       "updated_full_date": "May 14, 2024 1:46 AM UTC",
@@ -103123,7 +103123,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 560000,
+      "pulls_count": 560100,
       "tags_count": 18,
       "updated_at": "Dec 29, 2023 3:35 AM UTC",
       "updated_full_date": "Dec 29, 2023 3:35 AM UTC",
@@ -103411,7 +103411,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 555700,
+      "pulls_count": 555900,
       "tags_count": 17,
       "updated_at": "Dec 27, 2023 8:51 PM UTC",
       "updated_full_date": "Dec 27, 2023 8:51 PM UTC",
@@ -103685,7 +103685,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 552100,
+      "pulls_count": 552300,
       "tags_count": 17,
       "updated_at": "Sep 18, 2024 6:29 PM UTC",
       "updated_full_date": "Sep 18, 2024 6:29 PM UTC",
@@ -103959,7 +103959,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 548800,
+      "pulls_count": 548900,
       "tags_count": 17,
       "updated_at": "Jan 29, 2024 11:52 PM UTC",
       "updated_full_date": "Jan 29, 2024 11:52 PM UTC",
@@ -104234,7 +104234,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 545600,
+      "pulls_count": 545700,
       "tags_count": 17,
       "updated_at": "Jul 18, 2024 4:39 PM UTC",
       "updated_full_date": "Jul 18, 2024 4:39 PM UTC",
@@ -104508,7 +104508,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 544400,
+      "pulls_count": 544500,
       "tags_count": 17,
       "updated_at": "Nov 2, 2023 10:27 PM UTC",
       "updated_full_date": "Nov 2, 2023 10:27 PM UTC",
@@ -104527,7 +104527,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "5393d4f5f262",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104541,7 +104541,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "5393d4f5f262",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104555,7 +104555,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "32164f7b30a5",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104569,7 +104569,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "ebf457323d7d",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104583,7 +104583,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "366ee513d776",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104597,7 +104597,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "bb7562f0532f",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104611,7 +104611,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "5393d4f5f262",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104625,7 +104625,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "00a4a71eee8f",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104639,7 +104639,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "81a8a1744387",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104653,7 +104653,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "d73bbd6b49d1",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104667,7 +104667,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "751a158ec222",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104681,7 +104681,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "e09d24104dd5",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104695,7 +104695,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "6b71023e7195",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104709,7 +104709,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "7a3f8c87136f",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104723,7 +104723,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "c63d67539934",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104737,7 +104737,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "8856fb347897",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         },
         {
@@ -104751,7 +104751,7 @@
           "context_formatted": "32K",
           "input_type": "Text",
           "digest": "a6c59d49e2a9",
-          "updated_at": "2 years ago",
+          "updated_at": "3 years ago",
           "is_cloud": false
         }
       ],
@@ -104782,7 +104782,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 538100,
+      "pulls_count": 538200,
       "tags_count": 17,
       "updated_at": "Oct 28, 2023 7:41 PM UTC",
       "updated_full_date": "Oct 28, 2023 7:41 PM UTC",
@@ -105059,7 +105059,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 530600,
+      "pulls_count": 530900,
       "tags_count": 1,
       "updated_at": "Jun 1, 2026 1:34 AM UTC",
       "updated_full_date": "Jun 1, 2026 1:34 AM UTC",
@@ -105109,7 +105109,7 @@
         "code": true,
         "embedding": false
       },
-      "pulls_count": 530200,
+      "pulls_count": 530300,
       "tags_count": 17,
       "updated_at": "Oct 29, 2023 7:52 AM UTC",
       "updated_full_date": "Oct 29, 2023 7:52 AM UTC",
@@ -105383,7 +105383,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 523000,
+      "pulls_count": 523100,
       "tags_count": 16,
       "updated_at": "Oct 29, 2023 10:48 AM UTC",
       "updated_full_date": "Oct 29, 2023 10:48 AM UTC",
@@ -105644,7 +105644,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 522400,
+      "pulls_count": 522500,
       "tags_count": 5,
       "updated_at": "Dec 9, 2025 7:48 AM UTC",
       "updated_full_date": "Dec 9, 2025 7:48 AM UTC",
@@ -105753,7 +105753,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 502300,
+      "pulls_count": 502400,
       "tags_count": 1,
       "updated_at": "Apr 20, 2026 8:09 PM UTC",
       "updated_full_date": "Apr 20, 2026 8:09 PM UTC",
@@ -106062,7 +106062,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 487500,
+      "pulls_count": 487900,
       "tags_count": 3,
       "updated_at": "Dec 4, 2024 11:57 PM UTC",
       "updated_full_date": "Dec 4, 2024 11:57 PM UTC",
@@ -106142,7 +106142,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 481100,
+      "pulls_count": 481500,
       "tags_count": 2,
       "updated_at": "Aug 13, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 13, 2026 3:00 PM UTC",
@@ -106209,7 +106209,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 480500,
+      "pulls_count": 480600,
       "tags_count": 15,
       "updated_at": "Dec 16, 2025 5:55 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:55 AM UTC",
@@ -106457,7 +106457,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 473500,
+      "pulls_count": 473700,
       "tags_count": 9,
       "updated_at": "Feb 26, 2025 5:48 AM UTC",
       "updated_full_date": "Feb 26, 2025 5:48 AM UTC",
@@ -106621,7 +106621,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 470000,
+      "pulls_count": 470300,
       "tags_count": 9,
       "updated_at": "Apr 16, 2026 12:08 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:08 AM UTC",
@@ -106789,7 +106789,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 445500,
+      "pulls_count": 445900,
       "tags_count": 6,
       "updated_at": "Oct 20, 2026 1:50 PM UTC",
       "updated_full_date": "Oct 20, 2026 1:50 PM UTC",
@@ -106912,7 +106912,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 437000,
+      "pulls_count": 437600,
       "tags_count": 5,
       "updated_at": "May 5, 2026 11:14 PM UTC",
       "updated_full_date": "May 5, 2026 11:14 PM UTC",
@@ -106931,7 +106931,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "0341632adb05",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -106945,7 +106945,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "0341632adb05",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -106959,7 +106959,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "0341632adb05",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -106973,7 +106973,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "4e309f1ff6ce",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         },
         {
@@ -106987,7 +106987,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "03b1ca2260f6",
-          "updated_at": "5 months ago",
+          "updated_at": "6 months ago",
           "is_cloud": false
         }
       ],
@@ -107020,7 +107020,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 436300,
+      "pulls_count": 436500,
       "tags_count": 13,
       "updated_at": "Dec 4, 2024 8:10 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:10 AM UTC",
@@ -107239,7 +107239,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 435800,
+      "pulls_count": 435900,
       "tags_count": 9,
       "updated_at": "Feb 21, 2025 3:28 PM UTC",
       "updated_full_date": "Feb 21, 2025 3:28 PM UTC",
@@ -107402,7 +107402,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 422400,
+      "pulls_count": 422500,
       "tags_count": 9,
       "updated_at": "Dec 21, 2024 3:58 AM UTC",
       "updated_full_date": "Dec 21, 2024 3:58 AM UTC",
@@ -107566,7 +107566,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 412600,
+      "pulls_count": 413000,
       "tags_count": 6,
       "updated_at": "Dec 18, 2024 4:11 AM UTC",
       "updated_full_date": "Dec 18, 2024 4:11 AM UTC",
@@ -107688,7 +107688,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 380100,
+      "pulls_count": 380200,
       "tags_count": 1,
       "updated_at": "Jun 16, 2026 5:39 PM UTC",
       "updated_full_date": "Jun 16, 2026 5:39 PM UTC",
@@ -107738,7 +107738,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 379800,
+      "pulls_count": 380000,
       "tags_count": 7,
       "updated_at": "Apr 16, 2024 4:18 AM UTC",
       "updated_full_date": "Apr 16, 2024 4:18 AM UTC",
@@ -107873,7 +107873,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 373700,
+      "pulls_count": 373900,
       "tags_count": 5,
       "updated_at": "Dec 12, 2025 1:21 AM UTC",
       "updated_full_date": "Dec 12, 2025 1:21 AM UTC",
@@ -107982,7 +107982,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 354500,
+      "pulls_count": 355100,
       "tags_count": 15,
       "updated_at": "Aug 28, 2026 7:09 PM UTC",
       "updated_full_date": "Aug 28, 2026 7:09 PM UTC",
@@ -108229,7 +108229,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 353100,
+      "pulls_count": 353200,
       "tags_count": 10,
       "updated_at": "Nov 19, 2024 11:33 PM UTC",
       "updated_full_date": "Nov 19, 2024 11:33 PM UTC",
@@ -108406,7 +108406,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 348000,
+      "pulls_count": 348100,
       "tags_count": 5,
       "updated_at": "Jan 16, 2025 10:27 PM UTC",
       "updated_full_date": "Jan 16, 2025 10:27 PM UTC",
@@ -108512,7 +108512,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 326100,
+      "pulls_count": 326200,
       "tags_count": 5,
       "updated_at": "May 1, 2025 3:53 AM UTC",
       "updated_full_date": "May 1, 2025 3:53 AM UTC",
@@ -108618,7 +108618,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 323700,
+      "pulls_count": 324100,
       "tags_count": 7,
       "updated_at": "Nov 19, 2023 1:58 PM UTC",
       "updated_full_date": "Nov 19, 2023 1:58 PM UTC",
@@ -108754,7 +108754,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 315700,
+      "pulls_count": 315800,
       "tags_count": 10,
       "updated_at": "Dec 16, 2025 5:56 AM UTC",
       "updated_full_date": "Dec 16, 2025 5:56 AM UTC",
@@ -108930,7 +108930,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 305300,
+      "pulls_count": 305400,
       "tags_count": 7,
       "updated_at": "Sep 11, 2024 7:31 PM UTC",
       "updated_full_date": "Sep 11, 2024 7:31 PM UTC",
@@ -109065,7 +109065,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 300200,
+      "pulls_count": 300400,
       "tags_count": 3,
       "updated_at": "Aug 7, 2024 12:04 AM UTC",
       "updated_full_date": "Aug 7, 2024 12:04 AM UTC",
@@ -109146,7 +109146,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 290800,
+      "pulls_count": 291400,
       "tags_count": 10,
       "updated_at": "Oct 15, 2026 6:20 AM UTC",
       "updated_full_date": "Oct 15, 2026 6:20 AM UTC",
@@ -109324,7 +109324,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 284600,
+      "pulls_count": 285100,
       "tags_count": 11,
       "updated_at": "Oct 16, 2026 10:27 PM UTC",
       "updated_full_date": "Oct 16, 2026 10:27 PM UTC",
@@ -109514,7 +109514,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 271700,
+      "pulls_count": 271900,
       "tags_count": 5,
       "updated_at": "Dec 30, 2024 9:33 PM UTC",
       "updated_full_date": "Dec 30, 2024 9:33 PM UTC",
@@ -109623,7 +109623,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 257400,
+      "pulls_count": 257500,
       "tags_count": 1,
       "updated_at": "Jun 13, 2026 12:26 AM UTC",
       "updated_full_date": "Jun 13, 2026 12:26 AM UTC",
@@ -109675,7 +109675,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 246600,
+      "pulls_count": 247200,
       "tags_count": 49,
       "updated_at": "Aug 27, 2026 9:41 PM UTC",
       "updated_full_date": "Aug 27, 2026 9:41 PM UTC",
@@ -110398,7 +110398,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 242700,
+      "pulls_count": 242900,
       "tags_count": 5,
       "updated_at": "Mar 13, 2025 12:39 PM UTC",
       "updated_full_date": "Mar 13, 2025 12:39 PM UTC",
@@ -110504,7 +110504,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 235300,
+      "pulls_count": 235400,
       "tags_count": 5,
       "updated_at": "Nov 19, 2025 6:22 PM UTC",
       "updated_full_date": "Nov 19, 2025 6:22 PM UTC",
@@ -110612,7 +110612,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 231900,
+      "pulls_count": 232100,
       "tags_count": 6,
       "updated_at": "Sep 5, 2026 5:55 PM UTC",
       "updated_full_date": "Sep 5, 2026 5:55 PM UTC",
@@ -110734,7 +110734,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 223900,
+      "pulls_count": 224000,
       "tags_count": 5,
       "updated_at": "Dec 4, 2024 8:14 AM UTC",
       "updated_full_date": "Dec 4, 2024 8:14 AM UTC",
@@ -110841,7 +110841,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 219700,
+      "pulls_count": 219900,
       "tags_count": 5,
       "updated_at": "Apr 16, 2026 12:04 AM UTC",
       "updated_full_date": "Apr 16, 2026 12:04 AM UTC",
@@ -111055,7 +111055,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 208800,
+      "pulls_count": 209000,
       "tags_count": 4,
       "updated_at": "Dec 18, 2025 7:03 AM UTC",
       "updated_full_date": "Dec 18, 2025 7:03 AM UTC",
@@ -111150,7 +111150,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 201200,
+      "pulls_count": 201500,
       "tags_count": 1,
       "updated_at": "Aug 26, 2026 2:00 PM UTC",
       "updated_full_date": "Aug 26, 2026 2:00 PM UTC",
@@ -111203,7 +111203,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 195100,
+      "pulls_count": 195800,
       "tags_count": 2,
       "updated_at": "Oct 17, 2026 10:00 AM UTC",
       "updated_full_date": "Oct 17, 2026 10:00 AM UTC",
@@ -111265,7 +111265,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 186300,
+      "pulls_count": 186500,
       "tags_count": 8,
       "updated_at": "Aug 28, 2026 6:53 PM UTC",
       "updated_full_date": "Aug 28, 2026 6:53 PM UTC",
@@ -111416,7 +111416,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 175100,
+      "pulls_count": 175300,
       "tags_count": 3,
       "updated_at": "Oct 29, 2025 2:04 AM UTC",
       "updated_full_date": "Oct 29, 2025 2:04 AM UTC",
@@ -111496,7 +111496,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 164200,
+      "pulls_count": 164600,
       "tags_count": 1,
       "updated_at": "Aug 28, 2026 3:00 PM UTC",
       "updated_full_date": "Aug 28, 2026 3:00 PM UTC",
@@ -111548,7 +111548,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 162400,
+      "pulls_count": 162500,
       "tags_count": 9,
       "updated_at": "Oct 19, 2026 2:20 AM UTC",
       "updated_full_date": "Oct 19, 2026 2:20 AM UTC",
@@ -111567,7 +111567,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "54e93b9643c7",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111581,7 +111581,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "54e93b9643c7",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111595,7 +111595,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "54e93b9643c7",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111609,7 +111609,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "2bdd5dcdbf50",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111623,7 +111623,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "9eb1e0d8f8a7",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111637,7 +111637,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "7a05ba2133bd",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111651,7 +111651,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "2bdd5dcdbf50",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         },
         {
@@ -111679,7 +111679,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "2bdd5dcdbf50",
-          "updated_at": "1 week ago",
+          "updated_at": "2 weeks ago",
           "is_cloud": false
         }
       ],
@@ -111712,7 +111712,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 151000,
+      "pulls_count": 151200,
       "tags_count": 1,
       "updated_at": "Dec 2, 2025 11:19 PM UTC",
       "updated_full_date": "Dec 2, 2025 11:19 PM UTC",
@@ -111763,7 +111763,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 147900,
+      "pulls_count": 148100,
       "tags_count": 7,
       "updated_at": "Aug 31, 2026 8:58 PM UTC",
       "updated_full_date": "Aug 31, 2026 8:58 PM UTC",
@@ -111899,7 +111899,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 145100,
+      "pulls_count": 145300,
       "tags_count": 1,
       "updated_at": "Jun 4, 2026 12:00 AM UTC",
       "updated_full_date": "Jun 4, 2026 12:00 AM UTC",
@@ -111953,7 +111953,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 129500,
+      "pulls_count": 129800,
       "tags_count": 13,
       "updated_at": "Oct 14, 2026 2:24 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:24 AM UTC",
@@ -112174,7 +112174,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 118800,
+      "pulls_count": 120100,
       "tags_count": 21,
       "updated_at": "Oct 15, 2026 5:40 AM UTC",
       "updated_full_date": "Oct 15, 2026 5:40 AM UTC",
@@ -112504,7 +112504,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 114000,
+      "pulls_count": 114100,
       "tags_count": 1,
       "updated_at": "Jul 27, 2026 3:53 PM UTC",
       "updated_full_date": "Jul 27, 2026 3:53 PM UTC",
@@ -112560,7 +112560,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 95700,
+      "pulls_count": 96700,
       "tags_count": 9,
       "updated_at": "Oct 16, 2026 2:53 PM UTC",
       "updated_full_date": "Oct 16, 2026 2:53 PM UTC",
@@ -112720,7 +112720,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 84200,
+      "pulls_count": 84400,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 7:54 AM UTC",
       "updated_full_date": "Jun 2, 2026 7:54 AM UTC",
@@ -112939,7 +112939,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 84200,
+      "pulls_count": 84300,
       "tags_count": 7,
       "updated_at": "Jun 18, 2026 1:39 AM UTC",
       "updated_full_date": "Jun 18, 2026 1:39 AM UTC",
@@ -113074,7 +113074,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 68100,
+      "pulls_count": 68200,
       "tags_count": 13,
       "updated_at": "Jun 2, 2026 8:02 AM UTC",
       "updated_full_date": "Jun 2, 2026 8:02 AM UTC",
@@ -113295,7 +113295,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 67100,
+      "pulls_count": 67300,
       "tags_count": 8,
       "updated_at": "Oct 14, 2026 2:23 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
@@ -113442,7 +113442,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 59100,
+      "pulls_count": 59500,
       "tags_count": 1,
       "updated_at": "Oct 16, 2026 1:00 PM UTC",
       "updated_full_date": "Oct 16, 2026 1:00 PM UTC",
@@ -113492,7 +113492,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 58000,
+      "pulls_count": 58500,
       "tags_count": 9,
       "updated_at": "Oct 14, 2026 2:23 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
@@ -113653,7 +113653,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 49100,
+      "pulls_count": 49400,
       "tags_count": 5,
       "updated_at": "Oct 14, 2026 2:23 AM UTC",
       "updated_full_date": "Oct 14, 2026 2:23 AM UTC",
@@ -113759,7 +113759,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 45700,
+      "pulls_count": 45800,
       "tags_count": 1,
       "updated_at": "Oct 19, 2026 4:00 PM UTC",
       "updated_full_date": "Oct 19, 2026 4:00 PM UTC",
@@ -113808,7 +113808,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 45400,
+      "pulls_count": 45500,
       "tags_count": 16,
       "updated_at": "Jun 10, 2026 9:07 PM UTC",
       "updated_full_date": "Jun 10, 2026 9:07 PM UTC",
@@ -114070,7 +114070,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 44400,
+      "pulls_count": 45100,
       "tags_count": 7,
       "updated_at": "Oct 22, 2026 7:36 PM UTC",
       "updated_full_date": "Oct 22, 2026 7:36 PM UTC",
@@ -114205,7 +114205,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 42000,
+      "pulls_count": 42600,
       "tags_count": 10,
       "updated_at": "Oct 23, 2026 9:18 PM UTC",
       "updated_full_date": "Oct 23, 2026 9:18 PM UTC",
@@ -114379,7 +114379,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 41600,
+      "pulls_count": 41700,
       "tags_count": 7,
       "updated_at": "Jul 25, 2026 6:19 PM UTC",
       "updated_full_date": "Jul 25, 2026 6:19 PM UTC",
@@ -114518,7 +114518,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 32700,
+      "pulls_count": 33400,
       "tags_count": 16,
       "updated_at": "Oct 30, 2026 2:09 AM UTC",
       "updated_full_date": "Oct 30, 2026 2:09 AM UTC",
@@ -114537,7 +114537,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "220b8c27d159",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114551,7 +114551,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "8b46c3a121be",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114565,7 +114565,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "220b8c27d159",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114579,7 +114579,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "6bb69bf91674",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114593,7 +114593,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "f8fddf0710b6",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114607,7 +114607,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "e8484be37e44",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114635,7 +114635,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "458c6bd3278f",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114649,7 +114649,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "5d766daa5de9",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114677,7 +114677,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "4f367ef65080",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114691,7 +114691,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "37dee85e0755",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114719,7 +114719,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "08e3cd60a1ef",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114733,7 +114733,7 @@
           "context_formatted": "256K",
           "input_type": "Image",
           "digest": "6375d7e96ce9",
-          "updated_at": "2 days ago",
+          "updated_at": "3 days ago",
           "is_cloud": false
         },
         {
@@ -114777,7 +114777,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 32000,
+      "pulls_count": 33400,
       "tags_count": 9,
       "updated_at": "Oct 29, 2026 1:43 AM UTC",
       "updated_full_date": "Oct 29, 2026 1:43 AM UTC",
@@ -114796,7 +114796,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "df5fd9016d22",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -114810,7 +114810,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "df5fd9016d22",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -114866,7 +114866,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "765f7bd04f18",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -114880,7 +114880,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "b36a103fe2f8",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -114894,7 +114894,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "a329e3b38ec2",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -114908,7 +114908,7 @@
           "context_formatted": "256K",
           "input_type": "Text",
           "digest": "40476494244e",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         }
       ],
@@ -114939,7 +114939,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 30100,
+      "pulls_count": 30500,
       "tags_count": 7,
       "updated_at": "Oct 27, 2026 4:56 PM UTC",
       "updated_full_date": "Oct 27, 2026 4:56 PM UTC",
@@ -115068,7 +115068,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 27100,
+      "pulls_count": 27400,
       "tags_count": 14,
       "updated_at": "Oct 24, 2026 5:45 PM UTC",
       "updated_full_date": "Oct 24, 2026 5:45 PM UTC",
@@ -115277,56 +115277,6 @@
       "status": "active"
     },
     {
-      "id": "mistral-large-4",
-      "name": "mistral-large-4",
-      "source": "ollama_library",
-      "is_official": true,
-      "namespace": "library",
-      "description": "Mistral Large 4 is Mistral's open-weight, general-purpose multimodal model. Its granular Mixture-of-Experts design activates 52B of 1.05T total parameters, with a 1.6B vision encoder handling images.",
-      "category": "Reasoning",
-      "page_url": "https://ollama.com/library/mistral-large-4",
-      "tags_page_url": "https://ollama.com/library/mistral-large-4/tags",
-      "badges": [
-        "vision",
-        "tools",
-        "thinking",
-        "cloud"
-      ],
-      "capabilities": {
-        "think": true,
-        "vision": true,
-        "audio": false,
-        "tools": true,
-        "code": false,
-        "embedding": false
-      },
-      "pulls_count": 22600,
-      "tags_count": 1,
-      "updated_at": "Oct 6, 2026 1:00 PM UTC",
-      "updated_full_date": "Oct 6, 2026 1:00 PM UTC",
-      "updated_date_key": 202610061300,
-      "is_cloud": true,
-      "default_tag": "mistral-large-4:cloud",
-      "variants": [
-        {
-          "tag": "mistral-large-4:cloud",
-          "name": "cloud",
-          "parameter_size": "",
-          "quantization": "Cloud",
-          "size_bytes": 0,
-          "size_formatted": "High Usage",
-          "context_length": 1048576,
-          "context_formatted": "1M",
-          "input_type": "Image",
-          "digest": "66c77f50c28c",
-          "updated_at": "3 weeks ago",
-          "is_cloud": true
-        }
-      ],
-      "is_deprecated": false,
-      "status": "active"
-    },
-    {
       "id": "lfm3-omni",
       "name": "lfm3-omni",
       "source": "ollama_library",
@@ -115350,7 +115300,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 22100,
+      "pulls_count": 23200,
       "tags_count": 8,
       "updated_at": "Oct 29, 2026 1:59 AM UTC",
       "updated_full_date": "Oct 29, 2026 1:59 AM UTC",
@@ -115369,7 +115319,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "b6e3243f2821",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -115383,7 +115333,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "b6e3243f2821",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -115439,7 +115389,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "4c0ee9400634",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -115453,7 +115403,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "9d1124550b95",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -115467,8 +115417,58 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "a70fbe8cf5a4",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
+        }
+      ],
+      "is_deprecated": false,
+      "status": "active"
+    },
+    {
+      "id": "mistral-large-4",
+      "name": "mistral-large-4",
+      "source": "ollama_library",
+      "is_official": true,
+      "namespace": "library",
+      "description": "Mistral Large 4 is Mistral's open-weight, general-purpose multimodal model. Its granular Mixture-of-Experts design activates 52B of 1.05T total parameters, with a 1.6B vision encoder handling images.",
+      "category": "Reasoning",
+      "page_url": "https://ollama.com/library/mistral-large-4",
+      "tags_page_url": "https://ollama.com/library/mistral-large-4/tags",
+      "badges": [
+        "vision",
+        "tools",
+        "thinking",
+        "cloud"
+      ],
+      "capabilities": {
+        "think": true,
+        "vision": true,
+        "audio": false,
+        "tools": true,
+        "code": false,
+        "embedding": false
+      },
+      "pulls_count": 22800,
+      "tags_count": 1,
+      "updated_at": "Oct 6, 2026 1:00 PM UTC",
+      "updated_full_date": "Oct 6, 2026 1:00 PM UTC",
+      "updated_date_key": 202610061300,
+      "is_cloud": true,
+      "default_tag": "mistral-large-4:cloud",
+      "variants": [
+        {
+          "tag": "mistral-large-4:cloud",
+          "name": "cloud",
+          "parameter_size": "",
+          "quantization": "Cloud",
+          "size_bytes": 0,
+          "size_formatted": "High Usage",
+          "context_length": 1048576,
+          "context_formatted": "1M",
+          "input_type": "Image",
+          "digest": "66c77f50c28c",
+          "updated_at": "3 weeks ago",
+          "is_cloud": true
         }
       ],
       "is_deprecated": false,
@@ -115498,7 +115498,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 21700,
+      "pulls_count": 21800,
       "tags_count": 8,
       "updated_at": "Oct 13, 2026 12:39 AM UTC",
       "updated_full_date": "Oct 13, 2026 12:39 AM UTC",
@@ -115646,7 +115646,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 21300,
+      "pulls_count": 21400,
       "tags_count": 9,
       "updated_at": "Oct 15, 2026 5:36 PM UTC",
       "updated_full_date": "Oct 15, 2026 5:36 PM UTC",
@@ -115809,7 +115809,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 19900,
+      "pulls_count": 20300,
       "tags_count": 8,
       "updated_at": "Oct 27, 2026 4:56 PM UTC",
       "updated_full_date": "Oct 27, 2026 4:56 PM UTC",
@@ -115955,7 +115955,7 @@
         "code": false,
         "embedding": true
       },
-      "pulls_count": 19700,
+      "pulls_count": 19800,
       "tags_count": 7,
       "updated_at": "Oct 16, 2026 4:16 PM UTC",
       "updated_full_date": "Oct 16, 2026 4:16 PM UTC",
@@ -116086,7 +116086,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 18600,
+      "pulls_count": 18800,
       "tags_count": 16,
       "updated_at": "Oct 17, 2026 10:28 PM UTC",
       "updated_full_date": "Oct 17, 2026 10:28 PM UTC",
@@ -116346,7 +116346,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 17000,
+      "pulls_count": 17100,
       "tags_count": 1,
       "updated_at": "Oct 15, 2026 9:00 AM UTC",
       "updated_full_date": "Oct 15, 2026 9:00 AM UTC",
@@ -116395,7 +116395,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 16100,
+      "pulls_count": 16200,
       "tags_count": 6,
       "updated_at": "Oct 17, 2026 10:30 PM UTC",
       "updated_full_date": "Oct 17, 2026 10:30 PM UTC",
@@ -116515,7 +116515,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 10100,
+      "pulls_count": 10500,
       "tags_count": 9,
       "updated_at": "Oct 29, 2026 1:50 AM UTC",
       "updated_full_date": "Oct 29, 2026 1:50 AM UTC",
@@ -116534,7 +116534,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "b663c9779257",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116548,7 +116548,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "b663c9779257",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116604,7 +116604,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "eefca5a1a2dc",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116618,7 +116618,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "00ca45bf65a5",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116632,7 +116632,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "e2be50ac28b2",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116646,7 +116646,7 @@
           "context_formatted": "125K",
           "input_type": "Image",
           "digest": "dd69080d181a",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         }
       ],
@@ -116675,7 +116675,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 0,
+      "pulls_count": 10100,
       "tags_count": 5,
       "updated_at": "Oct 13, 2026 2:56 AM UTC",
       "updated_full_date": "Oct 13, 2026 2:56 AM UTC",
@@ -116800,7 +116800,7 @@
           "context_formatted": "125K",
           "input_type": "Text",
           "digest": "3cc080be117a",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116814,7 +116814,7 @@
           "context_formatted": "125K",
           "input_type": "Text",
           "digest": "3cc080be117a",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116870,7 +116870,7 @@
           "context_formatted": "125K",
           "input_type": "Text",
           "digest": "3327c1a06755",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116884,7 +116884,7 @@
           "context_formatted": "125K",
           "input_type": "Text",
           "digest": "d0ae0cb67fb9",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         },
         {
@@ -116898,7 +116898,7 @@
           "context_formatted": "125K",
           "input_type": "Text",
           "digest": "0697269928c0",
-          "updated_at": "3 days ago",
+          "updated_at": "4 days ago",
           "is_cloud": false
         }
       ],
@@ -116929,7 +116929,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 847,
+      "pulls_count": 947,
       "tags_count": 1,
       "updated_at": "Sep 22, 2026 4:00 PM UTC",
       "updated_full_date": "Sep 22, 2026 4:00 PM UTC",
@@ -116979,7 +116979,7 @@
         "code": false,
         "embedding": false
       },
-      "pulls_count": 800,
+      "pulls_count": 877,
       "tags_count": 1,
       "updated_at": "Sep 22, 2026 4:00 PM UTC",
       "updated_full_date": "Sep 22, 2026 4:00 PM UTC",
