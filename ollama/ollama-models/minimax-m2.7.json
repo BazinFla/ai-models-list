@@ -44,9 +44,10 @@
       "is_cloud": true
     }
   ],
-  "is_deprecated": false,
-  "status": "active",
+  "is_deprecated": true,
+  "status": "deprecated",
   "creator": "MiniMax",
   "publisher": "MiniMax",
-  "family": "minimax"
+  "family": "minimax",
+  "deprecated_at": "2026-11-09 15:20:25 UTC"
 }

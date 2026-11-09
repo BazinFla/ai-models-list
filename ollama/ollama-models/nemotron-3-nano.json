@@ -11,7 +11,6 @@
   "badges": [
     "tools",
     "thinking",
-    "cloud",
     "4b",
     "30b"
   ],
@@ -23,12 +22,12 @@
     "code": false,
     "embedding": false
   },
-  "pulls_count": 996100,
-  "tags_count": 20,
+  "pulls_count": 997100,
+  "tags_count": 19,
   "updated_at": "Oct 17, 2026 8:28 PM UTC",
   "updated_full_date": "Oct 17, 2026 8:28 PM UTC",
   "updated_date_key": 202610172028,
-  "is_cloud": true,
+  "is_cloud": false,
   "default_tag": "nemotron-3-nano:latest",
   "variants": [
     {
@@ -282,20 +281,6 @@
       "digest": "69eb03c51301",
       "updated_at": "10 months ago",
       "is_cloud": false
-    },
-    {
-      "tag": "nemotron-3-nano:30b-cloud",
-      "name": "30b-cloud",
-      "parameter_size": "30B",
-      "quantization": "Cloud",
-      "size_bytes": 0,
-      "size_formatted": "Low Usage",
-      "context_length": 1048576,
-      "context_formatted": "1M",
-      "input_type": "Text",
-      "digest": "01d0d069a149",
-      "updated_at": "10 months ago",
-      "is_cloud": true
     },
     {
       "tag": "nemotron-3-nano:30b-mlx",
