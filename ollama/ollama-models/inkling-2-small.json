@@ -1,0 +1,50 @@
+{
+  "id": "inkling-2-small",
+  "name": "inkling-2-small",
+  "source": "ollama_library",
+  "is_official": true,
+  "namespace": "library",
+  "description": "594B Mixture-of-Experts model (17B active) with image input and up to 1M tokens of context, built for agentic coding and knowledge work.",
+  "category": "Reasoning",
+  "page_url": "https://ollama.com/library/inkling-2-small",
+  "tags_page_url": "https://ollama.com/library/inkling-2-small/tags",
+  "badges": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "capabilities": {
+    "think": true,
+    "vision": true,
+    "audio": false,
+    "tools": true,
+    "code": false,
+    "embedding": false
+  },
+  "pulls_count": 139,
+  "tags_count": 1,
+  "updated_at": "Nov 12, 2026 5:00 PM UTC",
+  "updated_full_date": "Nov 12, 2026 5:00 PM UTC",
+  "updated_date_key": 202611121700,
+  "is_cloud": true,
+  "default_tag": "inkling-2-small:cloud",
+  "variants": [
+    {
+      "tag": "inkling-2-small:cloud",
+      "name": "cloud",
+      "parameter_size": "",
+      "quantization": "Cloud",
+      "size_bytes": 0,
+      "size_formatted": "Medium Usage",
+      "context_length": 1048576,
+      "context_formatted": "1M",
+      "input_type": "Image",
+      "digest": "7eaf7c8880a5",
+      "updated_at": "12 hours ago",
+      "is_cloud": true
+    }
+  ],
+  "is_deprecated": false,
+  "status": "active"
+}
